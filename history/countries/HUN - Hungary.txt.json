@@ -1,0 +1,68 @@
+[
+    {
+        "key": "if#|create_country_leader|name",
+        "original": "Miklós Horthy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "if#|else|create_country_leader|name",
+        "original": "Miklós Horthy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "if#|else|create_country_leader#|name",
+        "original": "Miklós Horthy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader|name",
+        "original": "Mátyás Rákosi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Árpád Szakasits",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|if|create_country_leader|name",
+        "original": "Miklós Horthy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Géza Lakatos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Iván Hindy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Károly Beregfy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Lajos Veress",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Ferenc Feketehalmy-Czeydner",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,354 @@
+division_template = {
+  name = "Jalkaväkidivisioona"
+  division_names_group = FIN_INF_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Erillinen Prikaati"
+  division_names_group = FIN_GAR_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+  priority = 0
+}
+division_template = {
+  name = "Ratsuväkiprikaati"
+  division_names_group = FIN_CAV_01
+  regiments = {
+    cavalry = {
+      x = 0
+      y = 0
+    }
+    cavalry = {
+      x = 1
+      y = 0
+    }
+  }
+  support = {
+    recon = {
+      x = 0
+      y = 0
+    }
+  }
+}
+units = {
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 6
+    }
+    location = 3137
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 9
+    }
+    location = 158
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 197
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 7
+    }
+    location = 6210
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 12
+    }
+    location = 9061
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 13
+    }
+    location = 11141
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Räsäsen Ryhmä"
+    division_name = {
+      is_name_ordered = yes
+      name_order = 14
+    }
+    location = 6153
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 9206
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 11105
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 3083
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 11
+    }
+    location = 3061
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 6082
+    division_template = "Ratsuväkiprikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 15
+    }
+    location = 9176
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 17
+    }
+    location = 3061
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 18
+    }
+    location = 9176
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 8
+    }
+    location = 3122
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 10
+    }
+    location = 9056
+    division_template = "Jalkaväkidivisioona"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 9181
+    division_template = "Erillinen Prikaati"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.3
+  }
+  navy = {
+    name = "Rannikkolaivue"
+    base = 11105
+    location = 11105
+    ship = {
+      name = "Ilmarinen"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+    ship = {
+      name = "Väinämöinen"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Sukellusvenelaivue"
+    base = 11105
+    location = 11105
+    ship = {
+      name = "Vetehinen"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+    ship = {
+      name = "Vesihiisi"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+    ship = {
+      name = "Iku-Turso"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+    ship = {
+      name = "Vesikko"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = FIN
+        }
+      }
+    }
+  }
+}
+instant_effect = {
+  add_equipment_production = {
+    equipment = {
+      type = infantry_equipment_1
+      creator = "FIN"
+    }
+    requested_factories = 1
+    progress = 0.66
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = support_equipment_1
+      creator = "FIN"
+    }
+    requested_factories = 1
+    progress = 0.35
+    efficiency = 100
+  }
+}

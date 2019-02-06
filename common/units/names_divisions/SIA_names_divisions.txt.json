@@ -1,0 +1,1442 @@
+[
+    {
+        "key": "SIA_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_INF_01|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_INF_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_CAV_01|fallback_name",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|1#|%dst Royal Thai Cavalry",
+        "original": "%dst Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|2#|%dnd Royal Thai Cavalry",
+        "original": "%dnd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|3#|%drd Royal Thai Cavalry",
+        "original": "%drd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|4#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|5#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|6#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|7#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|8#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|9#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|10#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|11#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|12#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|13#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|14#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|15#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|16#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|17#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|18#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|19#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|20#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|21#|%dst Royal Thai Cavalry",
+        "original": "%dst Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|22#|%dnd Royal Thai Cavalry",
+        "original": "%dnd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|23#|%drd Royal Thai Cavalry",
+        "original": "%drd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|24#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|25#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|26#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|27#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|28#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|29#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|30#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|31#|%dst Royal Thai Cavalry",
+        "original": "%dst Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|32#|%dnd Royal Thai Cavalry",
+        "original": "%dnd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|33#|%drd Royal Thai Cavalry",
+        "original": "%drd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|34#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|35#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|36#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|37#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|38#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|39#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|40#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|41#|%dst Royal Thai Cavalry",
+        "original": "%dst Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|42#|%dnd Royal Thai Cavalry",
+        "original": "%dnd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|43#|%drd Royal Thai Cavalry",
+        "original": "%drd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|44#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|45#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|46#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|47#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|48#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|49#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|50#|%dth Royal Thai Cavalry",
+        "original": "%dth Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|51#|%dst Royal Thai Cavalry",
+        "original": "%dst Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_CAV_01|ordered|52#|%dnd Royal Thai Cavalry",
+        "original": "%dnd Royal Thai Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_ARM_01|fallback_name",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|1#|%dst Royal Thai Tank Division",
+        "original": "%dst Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|2#|%dnd Royal Thai Tank Division",
+        "original": "%dnd Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|3#|%drd Royal Thai Tank Division",
+        "original": "%drd Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|4#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|5#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|6#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|7#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|8#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|9#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|10#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|11#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|12#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|13#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|14#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|15#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|16#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|17#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|18#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|19#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|20#|%dth Royal Thai Tank Division",
+        "original": "%dth Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|21#|%dst Royal Thai Tank Division",
+        "original": "%dst Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|22#|%dnd Royal Thai Tank Division",
+        "original": "%dnd Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_ARM_01|ordered|23#|%drd Royal Thai Tank Division",
+        "original": "%drd Royal Thai Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_GAR_01|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_GAR_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_MTN_01|fallback_name",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|1#|%dst Thai Monpak Division",
+        "original": "%dst Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|2#|%dnd Thai Monpak Division",
+        "original": "%dnd Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|3#|%drd Thai Monpak Division",
+        "original": "%drd Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|4#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|5#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|6#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|7#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|8#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|9#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|10#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|11#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|12#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|13#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|14#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|15#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|16#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|17#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|18#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|19#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|20#|%dth Thai Monpak Division",
+        "original": "%dth Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|21#|%dst Thai Monpak Division",
+        "original": "%dst Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|22#|%dnd Thai Monpak Division",
+        "original": "%dnd Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_MTN_01|ordered|23#|%drd Thai Monpak Division",
+        "original": "%drd Thai Monpak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIA_PAR_01|fallback_name",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|1#|%dst Thai Paracommando Division",
+        "original": "%dst Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|2#|%dnd Thai Paracommando Division",
+        "original": "%dnd Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|3#|%drd Thai Paracommando Division",
+        "original": "%drd Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|4#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|5#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|6#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|7#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|8#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|9#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|10#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|11#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|12#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|13#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|14#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|15#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|16#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|17#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|18#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|19#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|20#|%dth Thai Paracommando Division",
+        "original": "%dth Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|21#|%dst Thai Paracommando Division",
+        "original": "%dst Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|22#|%dnd Thai Paracommando Division",
+        "original": "%dnd Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIA_PAR_01|ordered|23#|%drd Thai Paracommando Division",
+        "original": "%drd Thai Paracommando Division",
+        "translation": "",
+        "stage": 0
+    }
+]

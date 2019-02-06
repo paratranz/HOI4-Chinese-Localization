@@ -1,0 +1,1670 @@
+[
+    {
+        "key": "ISR_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_INF_01|fallback_name",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|1#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|2#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|3#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|4#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|5#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|6#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|7#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|8#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|9#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|10#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|11#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|12#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|13#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|14#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|15#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|16#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|17#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|18#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|19#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|20#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|21#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|22#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|23#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|24#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|25#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|26#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|27#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|28#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|29#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|30#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|31#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|32#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|33#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|34#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|35#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|36#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|37#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|38#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|39#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|40#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|41#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|42#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|43#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|44#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|45#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|46#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|47#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|48#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|49#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|50#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|51#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|52#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_INF_01|ordered|53#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_CAV_01|fallback_name",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|1#|%dst Israeli Cavalry Division",
+        "original": "%dst Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|2#|%dnd Israeli Cavalry Division",
+        "original": "%dnd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|3#|%drd Israeli Cavalry Division",
+        "original": "%drd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|4#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|5#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|6#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|7#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|8#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|9#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|10#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|11#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|12#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|13#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|14#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|15#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|16#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|17#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|18#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|19#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|20#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|21#|%dst Israeli Cavalry Division",
+        "original": "%dst Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|22#|%dnd Israeli Cavalry Division",
+        "original": "%dnd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|23#|%drd Israeli Cavalry Division",
+        "original": "%drd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|24#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|25#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|26#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|27#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|28#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|29#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|30#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|31#|%dst Israeli Cavalry Division",
+        "original": "%dst Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|32#|%dnd Israeli Cavalry Division",
+        "original": "%dnd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|33#|%drd Israeli Cavalry Division",
+        "original": "%drd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|34#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|35#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|36#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|37#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|38#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|39#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|40#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|41#|%dst Israeli Cavalry Division",
+        "original": "%dst Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|42#|%dnd Israeli Cavalry Division",
+        "original": "%dnd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|43#|%drd Israeli Cavalry Division",
+        "original": "%drd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|44#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|45#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|46#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|47#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|48#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|49#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|50#|%dth Israeli Cavalry Division",
+        "original": "%dth Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|51#|%dst Israeli Cavalry Division",
+        "original": "%dst Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|52#|%dnd Israeli Cavalry Division",
+        "original": "%dnd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_CAV_01|ordered|53#|%drd Israeli Cavalry Division",
+        "original": "%drd Israeli Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MOT_01|fallback_name",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|1#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|2#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|3#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|4#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|5#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|6#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|7#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|8#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|9#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|10#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|11#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|12#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|13#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|14#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|15#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|16#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|17#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|18#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|19#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|20#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|21#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|22#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MOT_01|ordered|23#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_ARM_01|fallback_name",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|1#|%dst Israeli Armored Division",
+        "original": "%dst Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|2#|%dnd Israeli Armored Division",
+        "original": "%dnd Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|3#|%drd Israeli Armored Division",
+        "original": "%drd Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|4#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|5#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|6#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|7#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|8#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|9#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|10#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|11#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|12#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|13#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|14#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|15#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|16#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|17#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|18#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|19#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|20#|%dth Israeli Armored Division",
+        "original": "%dth Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|21#|%dst Israeli Armored Division",
+        "original": "%dst Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|22#|%dnd Israeli Armored Division",
+        "original": "%dnd Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|23#|%drd Israeli Armored Division",
+        "original": "%drd Israeli Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|36#|%dth Ga'ash Armored Division",
+        "original": "%dth Ga'ash Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_ARM_01|ordered|162#|%dnd Ha-Plada Armored Division",
+        "original": "%dnd Ha-Plada Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MEC_01|fallback_name",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|1#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|2#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|3#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|4#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|5#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|6#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|7#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|8#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|9#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|10#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|11#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|12#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|13#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|14#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|15#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|16#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|17#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|18#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|19#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|20#|%dth Israeli Infantry Division",
+        "original": "%dth Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|21#|%dst Israeli Infantry Division",
+        "original": "%dst Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|22#|%dnd Israeli Infantry Division",
+        "original": "%dnd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MEC_01|ordered|23#|%drd Israeli Infantry Division",
+        "original": "%drd Israeli Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_GAR_01|fallback_name",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|1#|%dst Israeli Garrison Division",
+        "original": "%dst Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|2#|%dnd Israeli Garrison Division",
+        "original": "%dnd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|3#|%drd Israeli Garrison Division",
+        "original": "%drd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|4#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|5#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|6#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|7#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|8#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|9#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|10#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|11#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|12#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|13#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|14#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|15#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|16#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|17#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|18#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|19#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|20#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|21#|%dst Israeli Garrison Division",
+        "original": "%dst Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|22#|%dnd Israeli Garrison Division",
+        "original": "%dnd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|23#|%drd Israeli Garrison Division",
+        "original": "%drd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|24#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|25#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|26#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|27#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|28#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|29#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|30#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|31#|%dst Israeli Garrison Division",
+        "original": "%dst Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|32#|%dnd Israeli Garrison Division",
+        "original": "%dnd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|33#|%drd Israeli Garrison Division",
+        "original": "%drd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|34#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|35#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|36#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|37#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|38#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|39#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|40#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|41#|%dst Israeli Garrison Division",
+        "original": "%dst Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|42#|%dnd Israeli Garrison Division",
+        "original": "%dnd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|43#|%drd Israeli Garrison Division",
+        "original": "%drd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|44#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|45#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|46#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|47#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|48#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|49#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|50#|%dth Israeli Garrison Division",
+        "original": "%dth Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|51#|%dst Israeli Garrison Division",
+        "original": "%dst Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|52#|%dnd Israeli Garrison Division",
+        "original": "%dnd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_GAR_01|ordered|53#|%drd Israeli Garrison Division",
+        "original": "%drd Israeli Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MAR_01|fallback_name",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|1#|%dst Israeli Marine Division",
+        "original": "%dst Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|2#|%dnd Israeli Marine Division",
+        "original": "%dnd Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|3#|%drd Israeli Marine Division",
+        "original": "%drd Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|4#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|5#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|6#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|7#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|8#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|9#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MAR_01|ordered|10#|%dth Israeli Marine Division",
+        "original": "%dth Israeli Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_MTN_01|fallback_name",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|1#|%dst Israeli Mountain Division",
+        "original": "%dst Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|2#|%dnd Israeli Mountain Division",
+        "original": "%dnd Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|3#|%drd Israeli Mountain Division",
+        "original": "%drd Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|4#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|5#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|6#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|7#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|8#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|9#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_MTN_01|ordered|10#|%dth Israeli Mountain Division",
+        "original": "%dth Israeli Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ISR_PAR_01|fallback_name",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|1#|%dst Israeli Airborne Division",
+        "original": "%dst Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|2#|%dnd Israeli Airborne Division",
+        "original": "%dnd Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|3#|%drd Israeli Airborne Division",
+        "original": "%drd Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|4#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|5#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|6#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|7#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|8#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|9#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ISR_PAR_01|ordered|10#|%dth Israeli Airborne Division",
+        "original": "%dth Israeli Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

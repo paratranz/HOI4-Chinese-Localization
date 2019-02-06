@@ -1,0 +1,452 @@
+[
+    {
+        "key": "GER_Inf_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|909#|Luftwaffen-Feld-Division 1",
+        "original": "Luftwaffen-Feld-Division 1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|910#|Luftwaffen-Feld-Division 2",
+        "original": "Luftwaffen-Feld-Division 2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|911#|Luftwaffen-Feld-Division 3",
+        "original": "Luftwaffen-Feld-Division 3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|912#|Luftwaffen-Feld-Division 4",
+        "original": "Luftwaffen-Feld-Division 4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|914#|Luftwaffen-Feld-Division 6",
+        "original": "Luftwaffen-Feld-Division 6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|913#|Luftwaffen-Feld-Division 5",
+        "original": "Luftwaffen-Feld-Division 5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|915#|Luftwaffen-Feld-Division 7",
+        "original": "Luftwaffen-Feld-Division 7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|917#|Luftwaffen-Feld-Division 9",
+        "original": "Luftwaffen-Feld-Division 9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|919#|Luftwaffen-Feld-Division 11",
+        "original": "Luftwaffen-Feld-Division 11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|920#|Luftwaffen-Feld-Division 12",
+        "original": "Luftwaffen-Feld-Division 12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|923#|Luftwaffen-Feld-Division 15",
+        "original": "Luftwaffen-Feld-Division 15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|916#|Luftwaffen-Feld-Division 8",
+        "original": "Luftwaffen-Feld-Division 8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|921#|Luftwaffen-Feld-Division 13",
+        "original": "Luftwaffen-Feld-Division 13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|922#|Luftwaffen-Feld-Division 14",
+        "original": "Luftwaffen-Feld-Division 14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|918#|Luftwaffen-Feld-Division 10",
+        "original": "Luftwaffen-Feld-Division 10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|924#|Luftwaffen-Feld-Division 16",
+        "original": "Luftwaffen-Feld-Division 16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|925#|Luftwaffen-Feld-Division 17",
+        "original": "Luftwaffen-Feld-Division 17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|926#|Luftwaffen-Feld-Division 18",
+        "original": "Luftwaffen-Feld-Division 18",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|929#|Luftwaffen-Feld-Division 21",
+        "original": "Luftwaffen-Feld-Division 21",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|927#|Luftwaffen-Feld-Division 19",
+        "original": "Luftwaffen-Feld-Division 19",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|928#|Luftwaffen-Feld-Division 20",
+        "original": "Luftwaffen-Feld-Division 20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|303#|Infanterie-Division 'Döberitz'",
+        "original": "Infanterie-Division 'Döberitz'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|309#|Infanterie-Division 'Berlin'",
+        "original": "Infanterie-Division 'Berlin'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|324#|Infanterie-Division 'Hamburg'",
+        "original": "Infanterie-Division 'Hamburg'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|903#|Infanterie-Division 'Potsdam'",
+        "original": "Infanterie-Division 'Potsdam'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|904#|Infanterie-Division 'Scharnhorst'",
+        "original": "Infanterie-Division 'Scharnhorst'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|905#|Infanterie-Division 'Ulrich von Hutten'",
+        "original": "Infanterie-Division 'Ulrich von Hutten'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|901#|Infanterie-Division 'Friedrich Ludwig Jahn'",
+        "original": "Infanterie-Division 'Friedrich Ludwig Jahn'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|907#|Infanterie-Division 'Theodor Körner'",
+        "original": "Infanterie-Division 'Theodor Körner'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|906#|Infanterie-Division 'Schlageter'",
+        "original": "Infanterie-Division 'Schlageter'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|900#|Infanterie-Division 'Ferdinand von Schill'",
+        "original": "Infanterie-Division 'Ferdinand von Schill'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Inf_01|ordered|902#|Infanterie-Division 'Güstrow'",
+        "original": "Infanterie-Division 'Güstrow'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_ALTINF_01|name",
+        "original": "Late/Alternate Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_LTINF_01|name",
+        "original": "Light Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MOT_01|name",
+        "original": "Motorized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MOT_02|name",
+        "original": "Motorized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MOT_02|ordered|1#|SS-Verfügungstruppe",
+        "original": "SS-Verfügungstruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MEC_01|name",
+        "original": "Panzergrenadier Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|932#|Panzer-Grenadier-Division Großdeutschland",
+        "original": "Panzer-Grenadier-Division Großdeutschland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|60#|Panzer-Grenadier-Division Feldherrnhalle",
+        "original": "Panzer-Grenadier-Division Feldherrnhalle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|931#|Panzer-Grenadier-Division Brandenburg",
+        "original": "Panzer-Grenadier-Division Brandenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|933#|Fallschirm-Panzergrenadier-Division 2 Hermann Göring",
+        "original": "Fallschirm-Panzergrenadier-Division 2 Hermann Göring",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|936#|Führer-Begleit-Division",
+        "original": "Führer-Begleit-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|935#|Führer-Grenadier-Division",
+        "original": "Führer-Grenadier-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MEC_01|ordered|934#|Panzer-Grenadier-Division Kurmark",
+        "original": "Panzer-Grenadier-Division Kurmark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_Mnt_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|956#|Freiwilligen Stamm-Division",
+        "original": "Freiwilligen Stamm-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|950#|Festungs-Division Danzig",
+        "original": "Festungs-Division Danzig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|951#|Festungs-Division Frankfurt/Oder",
+        "original": "Festungs-Division Frankfurt/Oder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|952#|Festungs-Division Gotenhafen",
+        "original": "Festungs-Division Gotenhafen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|954#|Festungs-Division Swinemünde",
+        "original": "Festungs-Division Swinemünde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|402#|Ausbildungs-Division 402",
+        "original": "Ausbildungs-Division 402",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|464#|Ausbildungs-Division 464",
+        "original": "Ausbildungs-Division 464",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_GAR_01|ordered|953#|Festungs-Division Stettin",
+        "original": "Festungs-Division Stettin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_Arm_01|name",
+        "original": "Panzer Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|130#|Panzer-Lehr-Division",
+        "original": "Panzer-Lehr-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|60#|Panzer-Division 'Feldherrnhalle 1'",
+        "original": "Panzer-Division 'Feldherrnhalle 1'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|85#|Panzer-Division 'Holstein'",
+        "original": "Panzer-Division 'Holstein'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|88#|Panzer-Division 'Müncheberg'",
+        "original": "Panzer-Division 'Müncheberg'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|61#|Panzer-Division 'Feldherrnhalle 2'",
+        "original": "Panzer-Division 'Feldherrnhalle 2'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Arm_01|ordered|233#|Panzer-Division 'Clausewitz'",
+        "original": "Panzer-Division 'Clausewitz'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_LTARM_01|name",
+        "original": "Light Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_Cav_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_Cav_01|ordered|900#|Kavallerie-Division 'Nord'",
+        "original": "Kavallerie-Division 'Nord'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_SS_01|name",
+        "original": "SS Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MONINF_01|name",
+        "original": "Monarchist Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GER_MONMOB_01|name",
+        "original": "Monarchist Mobile Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MONMOB_01|ordered|901#|Gardes du Corps-Division",
+        "original": "Gardes du Corps-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MONMOB_01|ordered|902#|Garde-Kürassier-Division",
+        "original": "Garde-Kürassier-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MONMOB_01|ordered|904#|Garde-Dragoner-Division 'Kaiserin Alexandra von Rußland'",
+        "original": "Garde-Dragoner-Division 'Kaiserin Alexandra von Rußland'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER_MONMOB_01|ordered|905#|Leib-Garde-Husaren-Division",
+        "original": "Leib-Garde-Husaren-Division",
+        "translation": "",
+        "stage": 0
+    }
+]

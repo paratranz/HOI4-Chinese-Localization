@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Royal Siamese Navy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HTMS Phra Ruang",
+        "translation": "",
+        "stage": 0
+    }
+]

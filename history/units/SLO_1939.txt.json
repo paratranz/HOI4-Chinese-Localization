@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Pesi Divize",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Mobilná Skupina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Pesi Divize",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Pesi Divize",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Pesi Divize",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Rychle Vojská Skupina 'Kalinciak'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Mobilná Skupina",
+        "translation": "",
+        "stage": 0
+    }
+]

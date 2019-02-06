@@ -1,0 +1,1856 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Gebirgs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Fallschirmjäger-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Leichte Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "SS-Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#######|name",
+        "original": "Kavallerie-Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template########|name",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Fallschirmjäger-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|name",
+        "original": "Grenzkommando Aachen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|name",
+        "original": "Grenzkommando Trier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|name",
+        "original": "SS-Standarte 'Der Führer'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "SS-Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Kavallerie-Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|name",
+        "original": "Grenzkommando Danzig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|name",
+        "original": "Panzer-Division Kempf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|name",
+        "original": "Festung Königsberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|name",
+        "original": "Festung Lötzen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################|name",
+        "original": "SS Leibstandarte 'Adolf Hitler'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################|division_template",
+        "original": "SS-Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################|division_template",
+        "original": "Leichte Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################|division_template",
+        "original": "Leichte Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################|division_template",
+        "original": "Leichte Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 30",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################|name",
+        "original": "SS-Standarte 'Germania'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################|division_template",
+        "original": "SS-Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################|name",
+        "original": "Grenzschutz-Abschnitts-Kommando 3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################|division_template",
+        "original": "Sicherungs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################|division_template",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################|division_template",
+        "original": "Leichte Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################|division_template",
+        "original": "Gebirgs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################|division_template",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################|division_template",
+        "original": "Gebirgs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################|division_template",
+        "original": "Gebirgs-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Hochseeflotte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "Scharnhorst",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "Gneisenau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "Admiral Hipper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "Deutschland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Deutschland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "Admiral Graf Spee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|equipment|heavy_cruiser_1|version_name",
+        "original": "Deutschland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "Nürnberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "Leipzig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "Z-5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "Z-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "Z-7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "Z-17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|equipment|destroyer_2|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|name",
+        "original": "Z-18",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|equipment|destroyer_2|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############|name",
+        "original": "Z-19",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############|equipment|destroyer_2|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############|name",
+        "original": "Z-20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############|equipment|destroyer_2|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|name",
+        "original": "Z-21",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|equipment|destroyer_2|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Aufklärungsflotte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "Admiral Scheer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Deutschland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "Königsberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Königsberg Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "Karlsruhe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Königsberg Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "Köln",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Königsberg Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "Emden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "Greif",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "Möwe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "Seeadler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "Albatros",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "Kondor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|name",
+        "original": "Falke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Zerstörerflotte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "Z-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "Z-10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "Z-12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "Z-13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "Jaguar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "Leopard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "Wolf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "Iltis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "Luchs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Ostseeflotte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "Schleswig-Holstein",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "Schlesien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "Z-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "Z-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "Z-14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "Z-15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "Z-16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "Z-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|name",
+        "original": "Z-8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|name",
+        "original": "Z-9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|name",
+        "original": "Z-11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "U-9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "U-13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "U-15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "U-17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "U-19",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "U-21",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|name",
+        "original": "U-23",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "U-25",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "U-26",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "U-27",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "U-28",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "U-29",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "U-30",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "U-31",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|name",
+        "original": "U-32",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|name",
+        "original": "U-33",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|name",
+        "original": "U-34",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##########|name",
+        "original": "U-35",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##########|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###########|name",
+        "original": "U-36",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###########|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "U-12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "U-14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "U-16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "U-18",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship####|name",
+        "original": "U-20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#####|name",
+        "original": "U-22",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship######|name",
+        "original": "U-24",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "U-56",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "U-57",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "U-58",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "U-59",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|name",
+        "original": "U-60",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####|name",
+        "original": "U-61",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "U-37",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "U-38",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "U-39",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "U-40",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "U-41",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "U-42",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "U-43",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "U-44",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "U-45",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "U-46",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "U-47",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|name",
+        "original": "U-48",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|name",
+        "original": "U-49",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|name",
+        "original": "U-51",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|name",
+        "original": "U-52",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#######|name",
+        "original": "U-53",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#######|equipment|submarine_2|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "Ausbildungs-Flottille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "U-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "U-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "U-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "U-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "U-5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "U-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "U-7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "U-8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|name",
+        "original": "U-10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|name",
+        "original": "U-11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|64#|fighter_equipment_1|version_name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|62#|fighter_equipment_1|version_name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|5#|tac_bomber_equipment_0|version_name",
+        "original": "Do 17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|5#|fighter_equipment_1|version_name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|66#|tac_bomber_equipment_0|version_name",
+        "original": "Do 17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|66#|tac_bomber_equipment_0#|version_name",
+        "original": "Do 17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|66#|fighter_equipment_1|version_name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|51#|fighter_equipment_1|version_name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|51#|ace|name",
+        "original": "Erich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|51#|ace|surname",
+        "original": "Hartmann",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|51#|ace|callsign",
+        "original": "Bubi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production########|equipment|version_name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production##########|equipment|version_name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    }
+]

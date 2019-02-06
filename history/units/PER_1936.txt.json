@@ -1,0 +1,50 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Persian Cossack Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "South Persia Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "Imperial Gendarmerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    }
+]

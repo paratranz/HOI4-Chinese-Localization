@@ -1,0 +1,3074 @@
+[
+    {
+        "key": "communism:0",
+        "original": "Communist",
+        "translation": "共产主义",
+        "stage": 1
+    },
+    {
+        "key": "communism_noun:0",
+        "original": "Communism",
+        "translation": "共产主义",
+        "stage": 1
+    },
+    {
+        "key": "democratic:0",
+        "original": "Democratic",
+        "translation": "民主主义",
+        "stage": 1
+    },
+    {
+        "key": "democratic_noun:0",
+        "original": "Democracy",
+        "translation": "民主主义",
+        "stage": 1
+    },
+    {
+        "key": "fascism:0",
+        "original": "Fascist",
+        "translation": "法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "fascism_noun:0",
+        "original": "Fascism",
+        "translation": "法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "fascism_desc:0",
+        "original": "Totalitarian Regime",
+        "translation": "极权政体",
+        "stage": 1
+    },
+    {
+        "key": "communism_desc:0",
+        "original": "Totalitarian Regime",
+        "translation": "极权政体",
+        "stage": 1
+    },
+    {
+        "key": "democratic_desc:0",
+        "original": "Democratic Regime",
+        "translation": "民主政体",
+        "stage": 1
+    },
+    {
+        "key": "conservatism:0",
+        "original": "Conservatism",
+        "translation": "保守主义",
+        "stage": 1
+    },
+    {
+        "key": "conservatism_desc:0",
+        "original": "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values.",
+        "translation": "鉴于社会的快速变革带来的对未来的潜在危害，保守主义者支持传统以及温和的变革，有些时候提倡复古的价值观。",
+        "stage": 1
+    },
+    {
+        "key": "liberalism:0",
+        "original": "Liberalism",
+        "translation": "自由主义",
+        "stage": 1
+    },
+    {
+        "key": "liberalism_desc:0",
+        "original": "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state.",
+        "translation": "拥有尊重个人自由的长期哲学传统，自由主义者认为保护这些权利是国家的主要功能。",
+        "stage": 1
+    },
+    {
+        "key": "socialism:0",
+        "original": "Socialism",
+        "translation": "社会主义",
+        "stage": 1
+    },
+    {
+        "key": "socialism_desc:0",
+        "original": "Striving for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate.",
+        "translation": "通过依靠改革来争取建立一个平等的奉行社会主义的国家，民主社会主义者的目标是废除或者削弱资本主义从民众手中摄取的权力。",
+        "stage": 1
+    },
+    {
+        "key": "marxism:0",
+        "original": "Marxism",
+        "translation": "马克思主义",
+        "stage": 1
+    },
+    {
+        "key": "marxism_desc:0",
+        "original": "Encompassing a broad spectrum of economic and historical views, Marxist politics seek to apply the theories of Karl Marx to political practice. Class struggle and the need for transition to a society based on common ownership of the means of production characterize these ideologies.",
+        "translation": "包含从经济学到历史观的广阔范围。马克思政治学将将卡尔·马克思的理论作为政治实践。阶级斗争以及向生产资料公有化的社会转型的需求是这些意识形态的特点。",
+        "stage": 1
+    },
+    {
+        "key": "leninism:0",
+        "original": "Leninism",
+        "translation": "列宁主义",
+        "stage": 1
+    },
+    {
+        "key": "leninism_desc:0",
+        "original": "A political ideology based in Marxist thought, Leninism seeks to establish a socialist state by a vanguard party leading a revolution overthrowing capitalist society. Once in power, the party rules through a system whereby policies are open for internal debate until a decision has been made.",
+        "translation": "一个基于马克思思想的政治意识形态。列宁力图通过先锋党领导的对资本主义社会的革命建立一个社会主义国家。一旦取得政权，该党通过内部讨论决策的方式执政。",
+        "stage": 1
+    },
+    {
+        "key": "stalinism:0",
+        "original": "Stalinism",
+        "translation": "斯大林主义",
+        "stage": 1
+    },
+    {
+        "key": "stalinism_desc:0",
+        "original": "Identifying as a form of government applying and developing Marxist-Leninist policies, Stalinism emphasizes rapid industrialization and collectivization as well as the need for a strong, authorative socialist state to purge any counter-revolutionary elements.",
+        "translation": "作为一种应用和发展马克思列宁主义政治的政府形态，斯大林主义强调迅速工业化，集体主义以及一个强大有力的社会主义国家对反革命元素清洗的必要性。",
+        "stage": 1
+    },
+    {
+        "key": "anti_revisionism:0",
+        "original": "Anti-Revisionism",
+        "translation": "反修正主义",
+        "stage": 1
+    },
+    {
+        "key": "anti_revisionism_desc:0",
+        "original": "A reaction to the many ideologies claiming to be successors to Marxism, Anti-Revisionism advocates retaining key elements of original revolutionary theory. Mainly opposing incorporation of capitalist economic elements into socialist states, the ideology is defined as much by what it isn't as what it is.",
+        "translation": "一种对许多自称马克思主义继承者的意识形态的反应。反修正主义提倡保持原始革命理论的核心要素。主要反对将资本主义经济元素引入社会主义国家，这种意识形态很大程度上通过不是什么而不是是什么来定义。",
+        "stage": 1
+    },
+    {
+        "key": "anarchist_communism:0",
+        "original": "Anarchist Communism",
+        "translation": "无政府共产主义",
+        "stage": 1
+    },
+    {
+        "key": "anarchist_communism_desc:0",
+        "original": "An ideology embracing the idea of communism as a stateless society, Anarchist Communism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid.",
+        "translation": "一种将共产主义理想看作一个没有国家的社会的意识形态，无政府共产主义试图避免过渡性的社会主义国家而倾向于一个基于志愿组织和互助的社会。",
+        "stage": 1
+    },
+    {
+        "key": "nazism:0",
+        "original": "Nazism",
+        "translation": "纳粹主义",
+        "stage": 1
+    },
+    {
+        "key": "nazism_desc:0",
+        "original": "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer.",
+        "translation": "扎根于极端民族主义，国家社会主义被德国霸权的理念所推动。它提倡侵略性扩张主义和一个集权国家，人民将团结在拥有绝对权力的领袖-元首的领导下。",
+        "stage": 1
+    },
+    {
+        "key": "fascism_ideology:0",
+        "original": "Fascism",
+        "translation": "法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "fascism_ideology_desc:0",
+        "original": "Encompassing a variety of ultra-nationalist movements, fascism typically venerates devotion to the state and uniting the people under a strong leader.",
+        "translation": "包含许多极端民族主义运动。法西斯主义通常崇尚为国家献身以及把人民团结在一个强大的领导人下。",
+        "stage": 1
+    },
+    {
+        "key": "falangism:0",
+        "original": "Falangism",
+        "translation": "长枪党法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "falangism_desc:0",
+        "original": "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and Catholic identity.",
+        "translation": "一种拥有法西斯主义和保守主义特性的威权主义意识形态。长枪党重视民族和天主教身份认同。",
+        "stage": 1
+    },
+    {
+        "key": "rexism:0",
+        "original": "Rexism",
+        "translation": "雷克斯主义",
+        "stage": 1
+    },
+    {
+        "key": "rexism_desc:0",
+        "original": "Strongly opposed to both liberal and communist ideals, Rexism is a staunchly conservative nationalist movement who advocate a corporatist economic policy. Employing increasingly populist and authoritarian rhetoric, their ideals are shifting closer to other fascist movements.",
+        "translation": "强烈地反对自由主义和共产主义，雷克斯主义是一种提倡社团主义经济的坚定的保守民族主义运动。使用越来越多的民粹主义和威权主义的修辞，他们的想法正向其他法西斯运动靠近。",
+        "stage": 1
+    },
+    {
+        "key": "neutrality:0",
+        "original": "Non-Aligned",
+        "translation": "中立",
+        "stage": 1
+    },
+    {
+        "key": "neutrality_desc:0",
+        "original": "Authoritarian Regime",
+        "translation": "威权政体",
+        "stage": 1
+    },
+    {
+        "key": "despotism:0",
+        "original": "Despotic",
+        "translation": "专制",
+        "stage": 1
+    },
+    {
+        "key": "despotism_desc:0",
+        "original": "Despotism is a form of government in which a single person rules with absolute power.",
+        "translation": "专制是一种单人拥有绝对权力的的政府形式。",
+        "stage": 1
+    },
+    {
+        "key": "oligarchism:0",
+        "original": "Oligarchic",
+        "translation": "寡头政治",
+        "stage": 1
+    },
+    {
+        "key": "oligarchism_desc:0",
+        "original": "Oligarchy is a form of government in which a group of people rule with absolute power.",
+        "translation": "寡头政治是一种一小群人拥有绝对权力政府形式。",
+        "stage": 1
+    },
+    {
+        "key": "moderatism:1",
+        "original": "Moderatism",
+        "translation": "温和主义",
+        "stage": 1
+    },
+    {
+        "key": "moderatism_desc:1",
+        "original": "Moderatism is a form of government which avoids the extremes of left and right by taking a moderate position or course of action.",
+        "translation": "温和主义是一种采取温和姿态或手段的行为来避免极左和极右的政府形式。",
+        "stage": 1
+    },
+    {
+        "key": "centrism:1",
+        "original": "Centrism",
+        "translation": "中间路线",
+        "stage": 1
+    },
+    {
+        "key": "centrism_desc:1",
+        "original": "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs.",
+        "translation": "中间路线是一种试图寻求一种最符合常识的解决方案的政府形态，以求在考虑了风险和能力的情况下，妥善解决当前和未来的需求，获取公众信任，考虑维护共同利益。",
+        "stage": 1
+    },
+    {
+        "key": "GER_fascism_party:0",
+        "original": "NSDAP",
+        "translation": "国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "GER_fascism_party_long:0",
+        "original": "Nationalsozialistische Deutsche Arbeiterpartei",
+        "translation": "国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "GER_communism_party:0",
+        "original": "KPD",
+        "translation": "德国共产党",
+        "stage": 1
+    },
+    {
+        "key": "GER_democratic_party:1",
+        "original": "Zentrum",
+        "translation": "中央党",
+        "stage": 1
+    },
+    {
+        "key": "GER_neutrality_party_civil_war:0",
+        "original": "Militärregierung",
+        "translation": "军事政府",
+        "stage": 1
+    },
+    {
+        "key": "GER_neutrality_party_kaiserreich:0",
+        "original": "DNVP",
+        "translation": "德意志国家人民党",
+        "stage": 1
+    },
+    {
+        "key": "GER_neutrality_party_kaiserreich_long:0",
+        "original": "Deutschnationale Volkspartei",
+        "translation": "德意志国家人民党",
+        "stage": 1
+    },
+    {
+        "key": "POL_fascism_party:0",
+        "original": "ONR-Falanga",
+        "translation": "民族激进阵营",
+        "stage": 1
+    },
+    {
+        "key": "POL_fascism_party_long:0",
+        "original": "Oboz Narodowo Radykalny-Falanga",
+        "translation": "民族激进阵营",
+        "stage": 1
+    },
+    {
+        "key": "POL_communism_party:0",
+        "original": "Polish Socialist Party",
+        "translation": "波兰社会党",
+        "stage": 1
+    },
+    {
+        "key": "POL_democratic_party:0",
+        "original": "PSL",
+        "translation": "波兰人民党",
+        "stage": 1
+    },
+    {
+        "key": "POL_democratic_party_long:0",
+        "original": "Polskie Stronnictwo Ludowe",
+        "translation": "波兰人民党",
+        "stage": 1
+    },
+    {
+        "key": "POL_neutrality_party:0",
+        "original": "BBWR",
+        "translation": "政府合作无党集团",
+        "stage": 1
+    },
+    {
+        "key": "ENG_communism_party:0",
+        "original": "CPGB",
+        "translation": "英国共产党",
+        "stage": 1
+    },
+    {
+        "key": "ENG_democratic_party:0",
+        "original": "Conservative Party",
+        "translation": "保守党",
+        "stage": 1
+    },
+    {
+        "key": "ENG_fascism_party:0",
+        "original": "British Union of Fascists",
+        "translation": "英国法西斯联盟",
+        "stage": 1
+    },
+    {
+        "key": "ITA_communism_party:0",
+        "original": "Partito Comunista Italiano",
+        "translation": "意大利共产党",
+        "stage": 1
+    },
+    {
+        "key": "ITA_democratic_party:0",
+        "original": "Partito Popolare Italiano",
+        "translation": "意大利人民党",
+        "stage": 1
+    },
+    {
+        "key": "ITA_fascism_party:0",
+        "original": "Partito Nazionale Fascista",
+        "translation": "国家法西斯党",
+        "stage": 1
+    },
+    {
+        "key": "ITA_neutrality_party:0",
+        "original": "Partito Nazionale Monarchico",
+        "translation": "君权国家党",
+        "stage": 1
+    },
+    {
+        "key": "JAP_communism_party:0",
+        "original": "Nihon Kyosan-to",
+        "translation": "日本共产党",
+        "stage": 1
+    },
+    {
+        "key": "JAP_democratic_party:0",
+        "original": "Rikken Minseito",
+        "translation": "立宪民政党",
+        "stage": 1
+    },
+    {
+        "key": "JAP_fascism_party:0",
+        "original": "Taisei Yokusankai",
+        "translation": "大政翼赞会",
+        "stage": 1
+    },
+    {
+        "key": "USA_communism_party:0",
+        "original": "Communist Party USA",
+        "translation": "美国共产党",
+        "stage": 1
+    },
+    {
+        "key": "USA_democratic_party:0",
+        "original": "Democratic Party",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "USA_republican_party:0",
+        "original": "Republican Party",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "USA_fascism_party:0",
+        "original": "Silver Legion of America",
+        "translation": "银衫军",
+        "stage": 1
+    },
+    {
+        "key": "FRA_communism_party:0",
+        "original": "Parti Communiste Francais",
+        "translation": "法国共产党",
+        "stage": 1
+    },
+    {
+        "key": "FRA_democratic_party:0",
+        "original": "Parti Radical",
+        "translation": "激进党",
+        "stage": 1
+    },
+    {
+        "key": "FRA_fascism_party:0",
+        "original": "Mouvement Franciste",
+        "translation": "自由运动",
+        "stage": 1
+    },
+    {
+        "key": "SOV_communism_party:0",
+        "original": "All-Union Communist Party",
+        "translation": "苏联共产党",
+        "stage": 1
+    },
+    {
+        "key": "SOV_democratic_party:0",
+        "original": "Trudoviks",
+        "translation": "工党",
+        "stage": 1
+    },
+    {
+        "key": "SOV_fascism_party:0",
+        "original": "RFP",
+        "translation": "俄国法西斯党",
+        "stage": 1
+    },
+    {
+        "key": "AUS_communism_party:0",
+        "original": "KPÖ",
+        "translation": "奥地利共产党",
+        "stage": 1
+    },
+    {
+        "key": "AUS_communism_party_long:0",
+        "original": "Kommunistische Partei Österreichs",
+        "translation": "奥地利共产党",
+        "stage": 1
+    },
+    {
+        "key": "AUS_democratic_party:0",
+        "original": "SDAPÖ",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "AUS_democratic_party_long:0",
+        "original": "Sozialdemokratische Partei Österreichs",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "AUS_fascism_party:1",
+        "original": "DNSAP",
+        "translation": "国家社会主义",
+        "stage": 1
+    },
+    {
+        "key": "AUS_neutrality_party:1",
+        "original": "Vaterländische Front",
+        "translation": "祖国阵线",
+        "stage": 1
+    },
+    {
+        "key": "CHI_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "CHI_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "CHI_democratic_party:0",
+        "original": "China Democratic League",
+        "translation": "中国民主联盟",
+        "stage": 1
+    },
+    {
+        "key": "CHI_fascism_party:1",
+        "original": "BSB",
+        "translation": "蓝衣社",
+        "stage": 1
+    },
+    {
+        "key": "CHI_fascism_party_long:1",
+        "original": "Blue Shirt Society",
+        "translation": "蓝衣社",
+        "stage": 1
+    },
+    {
+        "key": "CHI_neutrality_party:0",
+        "original": "Kuomintang",
+        "translation": "中国国民党",
+        "stage": 1
+    },
+    {
+        "key": "XSM_neutrality_party:0",
+        "original": "Ma Clique",
+        "translation": "西北三马",
+        "stage": 1
+    },
+    {
+        "key": "XSM_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "XSM_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_fascism_party:0",
+        "original": "Falange Española",
+        "translation": "西班牙长枪党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_democratic_party:0",
+        "original": "IR",
+        "translation": "左翼共和党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_democratic_party_long:0",
+        "original": "Izquierda Republicana",
+        "translation": "左翼共和党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_communism_party:0",
+        "original": "PCE",
+        "translation": "西班牙共产党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_communism_party_long:0",
+        "original": "Partido Comunista de España",
+        "translation": "西班牙共产党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_neutrality_party:0",
+        "original": "PRR",
+        "translation": "激进共和党",
+        "stage": 1
+    },
+    {
+        "key": "SPR_neutrality_party_long:0",
+        "original": "Partido Republicano Radical",
+        "translation": "激进共和党",
+        "stage": 1
+    },
+    {
+        "key": "POR_neutrality_party:0",
+        "original": "Estado Novo",
+        "translation": "新国家体制",
+        "stage": 1
+    },
+    {
+        "key": "POR_communism_party:0",
+        "original": "PCP",
+        "translation": "葡萄牙共产党",
+        "stage": 1
+    },
+    {
+        "key": "POR_communism_party_long:0",
+        "original": "Partido Comunista Português",
+        "translation": "葡萄牙共产党",
+        "stage": 1
+    },
+    {
+        "key": "POR_democratic_party:0",
+        "original": "PD",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "POR_democratic_party_long:0",
+        "original": "Partido Democrático",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "POR_fascism_party:0",
+        "original": "MNS",
+        "translation": "国家工团主义",
+        "stage": 1
+    },
+    {
+        "key": "POR_fascism_party_long:0",
+        "original": "Movimento Nacional-Sindicalista",
+        "translation": "国家工团主义",
+        "stage": 1
+    },
+    {
+        "key": "GRE_neutrality_party:0",
+        "original": "Metaxá",
+        "translation": "迈塔克萨斯政权",
+        "stage": 1
+    },
+    {
+        "key": "GRE_neutrality_party_long:0",
+        "original": "Kathestós Metaxá",
+        "translation": "梅塔萨克斯政权",
+        "stage": 1
+    },
+    {
+        "key": "GRE_communism_party:0",
+        "original": "KKE",
+        "translation": "希腊共产党",
+        "stage": 1
+    },
+    {
+        "key": "GRE_communism_party_long:0",
+        "original": "Kommounistikó Kómma Elládas",
+        "translation": "希腊共产党",
+        "stage": 1
+    },
+    {
+        "key": "GRE_democratic_party:0",
+        "original": "Laïkòn Kómma",
+        "translation": "人民党",
+        "stage": 1
+    },
+    {
+        "key": "GRE_fascism_party:0",
+        "original": "EEE",
+        "translation": "国家联合党",
+        "stage": 1
+    },
+    {
+        "key": "GRE_fascism_party_long:0",
+        "original": "Ethniki Enosis Ellados",
+        "translation": "国家联合党",
+        "stage": 1
+    },
+    {
+        "key": "LIT_neutrality_party:0",
+        "original": "LTS",
+        "translation": "立陶宛民族联盟",
+        "stage": 1
+    },
+    {
+        "key": "LIT_neutrality_party_long:0",
+        "original": "Lietuviu Tautininku Sajunga",
+        "translation": "立陶宛民族联盟",
+        "stage": 1
+    },
+    {
+        "key": "LIT_fascism_party:0",
+        "original": "Geležinis Vilkas",
+        "translation": "铁狼党",
+        "stage": 1
+    },
+    {
+        "key": "LAT_neutrality_party:0",
+        "original": "Tautas Padome",
+        "translation": "人民议会",
+        "stage": 1
+    },
+    {
+        "key": "LAT_fascism_party:0",
+        "original": "Pērkonkrusts",
+        "translation": "雷霆十字党",
+        "stage": 1
+    },
+    {
+        "key": "LAT_democratic_party:0",
+        "original": "LSDSP",
+        "translation": "拉脱维亚社会民主工人党",
+        "stage": 1
+    },
+    {
+        "key": "LAT_democratic_party_long:0",
+        "original": "Latvijas Socialdemokratiska Stradnieku Partija",
+        "translation": "拉脱维亚社会民主工人党",
+        "stage": 1
+    },
+    {
+        "key": "LAT_communism_party:0",
+        "original": "LKP",
+        "translation": "拉脱维亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "LAT_communism_party_long:0",
+        "original": "Latvijas Komunistiskā partija",
+        "translation": "拉脱维亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "EST_neutrality_party:0",
+        "original": "Isamaaliit",
+        "translation": "祖国联盟",
+        "stage": 1
+    },
+    {
+        "key": "EST_democratic_party:0",
+        "original": "RKE",
+        "translation": "国家中心党",
+        "stage": 1
+    },
+    {
+        "key": "EST_democratic_party_long:0",
+        "original": "Rahvuslik Keskerakond",
+        "translation": "国家中心党",
+        "stage": 1
+    },
+    {
+        "key": "IRQ_neutrality_party:0",
+        "original": "Monarchists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "IRQ_fascism_party:0",
+        "original": "Golden Square",
+        "translation": "金色四人帮",
+        "stage": 1
+    },
+    {
+        "key": "IRQ_communism_party:0",
+        "original": "Al-Hizb al-Shiu'iy",
+        "translation": "伊拉克共产党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_fascism_party:0",
+        "original": "NSAP",
+        "translation": "国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_fascism_party_long:0",
+        "original": "Nationalsocialistiska arbetarepartiet",
+        "translation": "国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_communism_party:0",
+        "original": "SKP",
+        "translation": "瑞典共产党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_communism_party_long:0",
+        "original": "Sveriges kommunistiska parti",
+        "translation": "瑞典共产党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_democratic_party:0",
+        "original": "SAP",
+        "translation": "瑞典社会民主工人党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_democratic_party_long:0",
+        "original": "Sveriges socialdemokratiska arbetareparti",
+        "translation": "瑞典社会民主工人党",
+        "stage": 1
+    },
+    {
+        "key": "SWE_neutrality_party:0",
+        "original": "Bondeförbundet",
+        "translation": "农夫联盟",
+        "stage": 1
+    },
+    {
+        "key": "SWE_neutrality_party_long:0",
+        "original": "Bondeförbundet",
+        "translation": "农夫联盟",
+        "stage": 1
+    },
+    {
+        "key": "FIN_neutrality_party:0",
+        "original": "Kesk",
+        "translation": "农夫联盟",
+        "stage": 1
+    },
+    {
+        "key": "FIN_neutrality_party_long:0",
+        "original": "Suomen Keskusta",
+        "translation": "农夫联盟",
+        "stage": 1
+    },
+    {
+        "key": "FIN_democratic_party:0",
+        "original": "SDP",
+        "translation": "芬兰社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "FIN_democratic_party_long:0",
+        "original": "Suomen Sosialidemokraattinen Puolue",
+        "translation": "芬兰社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "FIN_fascism_party:0",
+        "original": "IKL",
+        "translation": "爱国主义人民运动",
+        "stage": 1
+    },
+    {
+        "key": "FIN_fascism_party_long:0",
+        "original": "Isänmaallinen Kansanliike",
+        "translation": "爱国主义人民运动",
+        "stage": 1
+    },
+    {
+        "key": "FIN_communism_party:0",
+        "original": "SKP",
+        "translation": "芬兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "FIN_communism_party_long:0",
+        "original": "Suomen Kommunistinen Puolue",
+        "translation": "芬兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_democratic_party:0",
+        "original": "Socialdemokratiet",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_democratic_party_long:0",
+        "original": "Socialdemokratiet",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_fascism_party:0",
+        "original": "DNSAP",
+        "translation": "丹麦国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_fascism_party_long:0",
+        "original": "Danmarks Nationalsocialistiske Arbejderparti",
+        "translation": "丹麦国家社会主义工人党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_communism_party:0",
+        "original": "DKP",
+        "translation": "丹麦共产党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_communism_party_long:0",
+        "original": "Danmarks Kommunistiske Parti",
+        "translation": "丹麦共产党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_neutrality_party:0",
+        "original": "Radikale Venstre",
+        "translation": "激进左翼党",
+        "stage": 1
+    },
+    {
+        "key": "DEN_neutrality_party_long:0",
+        "original": "Det Radikale Venstre",
+        "translation": "激进左翼党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_democratic_party:0",
+        "original": "Liberal Party",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_democratic_party_long:0",
+        "original": "Liberal Party of Canada",
+        "translation": "加拿大自由党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_fascism_party:0",
+        "original": "National Unity Party",
+        "translation": "国家统一党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_fascism_party_long:0",
+        "original": "National Unity Party",
+        "translation": "国家统一党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_communism_party:0",
+        "original": "CPC",
+        "translation": "加拿大共产党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_communism_party_long:0",
+        "original": "Communist Party of Canada",
+        "translation": "加拿大共产党",
+        "stage": 1
+    },
+    {
+        "key": "CAN_neutrality_party:0",
+        "original": "CCF",
+        "translation": "协同联邦联盟",
+        "stage": 1
+    },
+    {
+        "key": "CAN_neutrality_party_long:0",
+        "original": "Co-operative Commonwealth Federation",
+        "translation": "协同联邦联盟",
+        "stage": 1
+    },
+    {
+        "key": "AST_neutrality_party:0",
+        "original": "ACP",
+        "translation": "澳大利亚乡村党",
+        "stage": 1
+    },
+    {
+        "key": "AST_neutrality_party_long:0",
+        "original": "Australian Country Party",
+        "translation": "澳大利亚乡村党",
+        "stage": 1
+    },
+    {
+        "key": "AST_democratic_party:0",
+        "original": "Labor",
+        "translation": "澳大利亚工党",
+        "stage": 1
+    },
+    {
+        "key": "AST_democratic_party_long:0",
+        "original": "Australian Labor Party",
+        "translation": "澳大利亚工党",
+        "stage": 1
+    },
+    {
+        "key": "AST_fascism_party:0",
+        "original": "Centre Party",
+        "translation": "中间党",
+        "stage": 1
+    },
+    {
+        "key": "AST_fascism_party_long:0",
+        "original": "Centre Party",
+        "translation": "中间党",
+        "stage": 1
+    },
+    {
+        "key": "AST_communism_party:0",
+        "original": "CPA",
+        "translation": "澳大利亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "AST_communism_party_long:0",
+        "original": "Communist Party of Australia",
+        "translation": "澳大利亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_democratic_party:0",
+        "original": "PAN",
+        "translation": "国家行动党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_democratic_party_long:0",
+        "original": "Partido Acción Nacional",
+        "translation": "国家行动党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_fascism_party:0",
+        "original": "UNS",
+        "translation": "国家共治联盟",
+        "stage": 1
+    },
+    {
+        "key": "MEX_fascism_party_long:0",
+        "original": "Unión Nacional Sinarquista",
+        "translation": "国家共治联盟",
+        "stage": 1
+    },
+    {
+        "key": "MEX_communism_party:0",
+        "original": "PCM",
+        "translation": "墨西哥共产党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_communism_party_long:0",
+        "original": "Partido Comunista Mexicano",
+        "translation": "墨西哥共产党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_neutrality_party:0",
+        "original": "PRM",
+        "translation": "墨西哥革命党",
+        "stage": 1
+    },
+    {
+        "key": "MEX_neutrality_party_long:0",
+        "original": "Partido de la Revolución Mexicana",
+        "translation": "墨西哥革命党",
+        "stage": 1
+    },
+    {
+        "key": "ARG_democratic_party:0",
+        "original": "UCR",
+        "translation": "激进公民联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARG_democratic_party_long:0",
+        "original": "Unión Cívica Radical",
+        "translation": "激进公民联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARG_fascism_party:0",
+        "original": "UNF",
+        "translation": "国家法西斯联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARG_fascism_party_long:0",
+        "original": "Union Nacional Fascista",
+        "translation": "国家法西斯联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARG_communism_party:0",
+        "original": "PC",
+        "translation": "阿根廷共产党",
+        "stage": 1
+    },
+    {
+        "key": "ARG_communism_party_long:0",
+        "original": "Partido Comunista de la Argentina",
+        "translation": "阿根廷共产党",
+        "stage": 1
+    },
+    {
+        "key": "ARG_neutrality_party:0",
+        "original": "Concordancia",
+        "translation": "协议党",
+        "stage": 1
+    },
+    {
+        "key": "ARG_neutrality_party_long:0",
+        "original": "Concordancia",
+        "translation": "协议党",
+        "stage": 1
+    },
+    {
+        "key": "BRA_fascism_party:1",
+        "original": "AIB",
+        "translation": "巴西统合主义运动",
+        "stage": 1
+    },
+    {
+        "key": "BRA_fascism_party_long:1",
+        "original": "Ação Integralista Brasileira",
+        "translation": "巴西统合主义运动",
+        "stage": 1
+    },
+    {
+        "key": "BRA_communism_party:1",
+        "original": "PCB",
+        "translation": "巴共",
+        "stage": 1
+    },
+    {
+        "key": "BRA_communism_party_long:1",
+        "original": "Partido Comunista Brasileiro",
+        "translation": "巴西共产党",
+        "stage": 1
+    },
+    {
+        "key": "BRA_democratic_party:1",
+        "original": "UDB",
+        "translation": "巴西社民党",
+        "stage": 1
+    },
+    {
+        "key": "BRA_democratic_party_long:1",
+        "original": "União Democrática Brasileira",
+        "translation": "巴西社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "BRA_neutrality_party:0",
+        "original": "Estado Novo",
+        "translation": "新国家体制",
+        "stage": 1
+    },
+    {
+        "key": "BRA_neutrality_party_long:0",
+        "original": "Estado Novo",
+        "translation": "新国家体制",
+        "stage": 1
+    },
+    {
+        "key": "TUR_fascism_party:0",
+        "original": "Millet Partisi",
+        "translation": "国家党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_fascism_party_long:0",
+        "original": "Millet Partisi",
+        "translation": "国家党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_communism_party:0",
+        "original": "TKP",
+        "translation": "土耳其共产党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_communism_party_long:0",
+        "original": "Türkiye Komünist Partisi",
+        "translation": "土耳其共产党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_democratic_party:0",
+        "original": "DP",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_democratic_party_long:0",
+        "original": "Demokrat Parti",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_neutrality_party:0",
+        "original": "CHP",
+        "translation": "共和人民党",
+        "stage": 1
+    },
+    {
+        "key": "TUR_neutrality_party_long:0",
+        "original": "Cumhuriyet Halk Partisi",
+        "translation": "共和人民党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_fascism_party:1",
+        "original": "Horthy Government",
+        "translation": "霍尔蒂政权",
+        "stage": 1
+    },
+    {
+        "key": "HUN_arrow_cross_party:0",
+        "original": "NPHM",
+        "translation": "箭十字党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_arrow_cross_party_long:0",
+        "original": "Nyilaskeresztes Párt – Hungarista Mozgalom",
+        "translation": "箭十字党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_communism_party:0",
+        "original": "KMP",
+        "translation": "匈牙利共产党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_communism_party_long:0",
+        "original": "Kommunisták Magyarországi Pártja",
+        "translation": "匈牙利共产党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_democratic_party:0",
+        "original": "SZDP",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_democratic_party_long:0",
+        "original": "Szociáldemokrata Párt",
+        "translation": "社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_neutrality_party:0",
+        "original": "F48P",
+        "translation": "独立与'48党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_neutrality_party_long:0",
+        "original": "Függetlentségi és 48-as Párt",
+        "translation": "独立与'48党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_legitimists_party:0",
+        "original": "Legitimists",
+        "translation": "正统王位党",
+        "stage": 1
+    },
+    {
+        "key": "HUN_legitimists_party_long:0",
+        "original": "Legitimists",
+        "translation": "正统王位党",
+        "stage": 1
+    },
+    {
+        "key": "ROM_neutrality_party:0",
+        "original": "FRN",
+        "translation": "国家复兴阵线",
+        "stage": 1
+    },
+    {
+        "key": "ROM_neutrality_party_long:0",
+        "original": "Frontul Renasterii Nationale",
+        "translation": "国家复兴阵线",
+        "stage": 1
+    },
+    {
+        "key": "ROM_communism_party:0",
+        "original": "PCR",
+        "translation": "罗马尼亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "ROM_communism_party_long:0",
+        "original": "Partidul Comunist Roman",
+        "translation": "罗马尼亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "ROM_democratic_party:0",
+        "original": "PNL",
+        "translation": "国家自由党",
+        "stage": 1
+    },
+    {
+        "key": "ROM_democratic_party_long:0",
+        "original": "Partidul National Liberal",
+        "translation": "国家自由党",
+        "stage": 1
+    },
+    {
+        "key": "ROM_fascism_party:0",
+        "original": "Garda de Fier",
+        "translation": "铁卫团",
+        "stage": 1
+    },
+    {
+        "key": "ROM_fascism_party_long:0",
+        "original": "Garda de Fier",
+        "translation": "铁卫团",
+        "stage": 1
+    },
+    {
+        "key": "YUG_communism_party:0",
+        "original": "KPJ",
+        "translation": "南斯拉夫共产党",
+        "stage": 1
+    },
+    {
+        "key": "YUG_communism_party_long:0",
+        "original": "Komunisticna partija Jugoslavije",
+        "translation": "南斯拉夫共产党",
+        "stage": 1
+    },
+    {
+        "key": "YUG_democratic_party:0",
+        "original": "Demokratska stranka",
+        "translation": "南斯拉夫民主党",
+        "stage": 1
+    },
+    {
+        "key": "YUG_democratic_party_long:0",
+        "original": "Jugoslovanska demokratska stranka",
+        "translation": "南斯拉夫民主党",
+        "stage": 1
+    },
+    {
+        "key": "YUG_neutrality_party:0",
+        "original": "Regency Council",
+        "translation": "摄政议会",
+        "stage": 1
+    },
+    {
+        "key": "YUG_neutrality_party_2:0",
+        "original": "Monarchists",
+        "translation": "君主派",
+        "stage": 1
+    },
+    {
+        "key": "YUG_fascism_party:0",
+        "original": "JRZ",
+        "translation": "南斯拉夫激进联盟",
+        "stage": 1
+    },
+    {
+        "key": "YUG_fascism_party_long:0",
+        "original": "Jugoslovanska radikalna skupnost",
+        "translation": "南斯拉夫激进联盟",
+        "stage": 1
+    },
+    {
+        "key": "SER_communism_party:0",
+        "original": "League of Communists",
+        "translation": "共产联盟",
+        "stage": 1
+    },
+    {
+        "key": "SER_communism_party_long:0",
+        "original": "League of Communists",
+        "translation": "共产联盟",
+        "stage": 1
+    },
+    {
+        "key": "SER_democratic_party:0",
+        "original": "Mihailovic Chetniks",
+        "translation": "米哈易洛维奇祖国军",
+        "stage": 1
+    },
+    {
+        "key": "SER_democratic_party_long:0",
+        "original": "Mihailovic Chetniks",
+        "translation": "米哈易洛维奇祖国军",
+        "stage": 1
+    },
+    {
+        "key": "SER_fascism_party:1",
+        "original": "National Salvation",
+        "translation": "国家救赎党",
+        "stage": 1
+    },
+    {
+        "key": "SER_fascism_party_long:1",
+        "original": "Government of National Salvation",
+        "translation": "国家救赎政府",
+        "stage": 1
+    },
+    {
+        "key": "SER_neutrality_party:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "SER_neutrality_party_long:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_neutrality_party:0",
+        "original": "Tsar Boris loyalists",
+        "translation": "保加利亚勤王党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_communism_party:0",
+        "original": "BCP",
+        "translation": "保加利亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_communism_party_long:0",
+        "original": "Bulgarian Communist Party",
+        "translation": "保加利亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_democratic_party:0",
+        "original": "UPPP",
+        "translation": "联合民进党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_democratic_party_long:0",
+        "original": "United People's Progressive Party",
+        "translation": "联合民进党",
+        "stage": 1
+    },
+    {
+        "key": "BUL_fascism_party:0",
+        "original": "UBNL",
+        "translation": "保加利亚国家军团联盟",
+        "stage": 1
+    },
+    {
+        "key": "BUL_fascism_party_long:0",
+        "original": "The Union of Bulgarian National Legions",
+        "translation": "保加利亚国家军团联盟",
+        "stage": 1
+    },
+    {
+        "key": "SAF_neutrality_party:0",
+        "original": "ANC",
+        "translation": "非洲人国民大会",
+        "stage": 1
+    },
+    {
+        "key": "SAF_neutrality_party_long:0",
+        "original": "African National Congress",
+        "translation": "非洲人国民大会",
+        "stage": 1
+    },
+    {
+        "key": "SAF_communism_party:0",
+        "original": "SACP",
+        "translation": "南非共产党",
+        "stage": 1
+    },
+    {
+        "key": "SAF_communism_party_long:0",
+        "original": "South African Communist Party",
+        "translation": "南非共产党",
+        "stage": 1
+    },
+    {
+        "key": "SAF_democratic_party:0",
+        "original": "United",
+        "translation": "南非人联合国家党",
+        "stage": 1
+    },
+    {
+        "key": "SAF_democratic_party_long:0",
+        "original": "United National South African Party",
+        "translation": "南非人联合国家党",
+        "stage": 1
+    },
+    {
+        "key": "SAF_fascism_party:0",
+        "original": "GNP",
+        "translation": "纯净国民党",
+        "stage": 1
+    },
+    {
+        "key": "SAF_fascism_party_long:0",
+        "original": "Gesuiwerde Nasionale Party",
+        "translation": "纯净国民党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_neutrality_party:0",
+        "original": "National",
+        "translation": "新西兰国家党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_neutrality_party_long:0",
+        "original": "New Zealand National Party",
+        "translation": "新西兰国家党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_democratic_party:0",
+        "original": "Labour",
+        "translation": "新西兰工党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_democratic_party_long:0",
+        "original": "New Zealand Labour Party",
+        "translation": "新西兰工党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_fascism_party:0",
+        "original": "Legion",
+        "translation": "新西兰军团",
+        "stage": 1
+    },
+    {
+        "key": "NZL_fascism_party_long:0",
+        "original": "New Zealand Legion",
+        "translation": "新西兰军团",
+        "stage": 1
+    },
+    {
+        "key": "NZL_communism_party:0",
+        "original": "CPNZ",
+        "translation": "新西兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "NZL_communism_party_long:0",
+        "original": "Communist Party of New Zealand",
+        "translation": "新西兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_neutrality_party:0",
+        "original": "Venstre",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_neutrality_party_long:0",
+        "original": "Venstre",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_communism_party:0",
+        "original": "NKP",
+        "translation": "挪威共产党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_communism_party_long:0",
+        "original": "Norges Kommunistiske Parti",
+        "translation": "挪威共产党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_democratic_party:0",
+        "original": "AP",
+        "translation": "工党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_democratic_party_long:0",
+        "original": "Arbeiderpartiet",
+        "translation": "工党",
+        "stage": 1
+    },
+    {
+        "key": "NOR_fascism_party:0",
+        "original": "NS",
+        "translation": "国民联盟",
+        "stage": 1
+    },
+    {
+        "key": "NOR_fascism_party_long:0",
+        "original": "Nasjonal Samling",
+        "translation": "国民联盟",
+        "stage": 1
+    },
+    {
+        "key": "HOL_neutrality_party:0",
+        "original": "ARP",
+        "translation": "反革命党",
+        "stage": 1
+    },
+    {
+        "key": "HOL_neutrality_party_long:0",
+        "original": "Anti-Revolutionaire Partij",
+        "translation": "反革命党",
+        "stage": 1
+    },
+    {
+        "key": "HOL_communism_party:0",
+        "original": "CPN",
+        "translation": "荷兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "HOL_communism_party_long:0",
+        "original": "Communistische Partij Nederland",
+        "translation": "荷兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "HOL_democratic_party:0",
+        "original": "CHU",
+        "translation": "基督教历史联盟",
+        "stage": 1
+    },
+    {
+        "key": "HOL_democratic_party_long:0",
+        "original": "Christelijk-Historische Unie",
+        "translation": "基督教历史联盟",
+        "stage": 1
+    },
+    {
+        "key": "HOL_fascism_party:0",
+        "original": "NSB",
+        "translation": "荷兰国家社会主义运动",
+        "stage": 1
+    },
+    {
+        "key": "HOL_fascism_party_long:0",
+        "original": "Nationaal-Socialistische Beweging in Nederland",
+        "translation": "荷兰国家社会主义运动",
+        "stage": 1
+    },
+    {
+        "key": "BEL_communism_party:0",
+        "original": "KPB",
+        "translation": "比利时共产党",
+        "stage": 1
+    },
+    {
+        "key": "BEL_communism_party_long:0",
+        "original": "Kommunistische Partij van België",
+        "translation": "比利时共产党",
+        "stage": 1
+    },
+    {
+        "key": "BEL_democratic_party:0",
+        "original": "Catholic Block",
+        "translation": "天主教党",
+        "stage": 1
+    },
+    {
+        "key": "BEL_democratic_party_long:0",
+        "original": "Catholic Block",
+        "translation": "天主教党",
+        "stage": 1
+    },
+    {
+        "key": "BEL_fascism_party:0",
+        "original": "Rex",
+        "translation": "国王党",
+        "stage": 1
+    },
+    {
+        "key": "BEL_fascism_party_long:0",
+        "original": "Parti Rexiste",
+        "translation": "国王党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_communism_party:0",
+        "original": "KPS",
+        "translation": "瑞士共产党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_communism_party_long:0",
+        "original": "Kommunistische Partei der Schweiz",
+        "translation": "瑞士共产党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_democratic_party:0",
+        "original": "Federal Council",
+        "translation": "联邦委员会",
+        "stage": 1
+    },
+    {
+        "key": "SWI_democratic_party_long:0",
+        "original": "Federal Council",
+        "translation": "联邦委员会",
+        "stage": 1
+    },
+    {
+        "key": "SWI_neutrality_party:0",
+        "original": "FDP",
+        "translation": "自由民主党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_neutrality_party_long:0",
+        "original": "Freisinnig-Demokratische Partei",
+        "translation": "自由民主党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_fascism_party:0",
+        "original": "FB",
+        "translation": "前线运动党",
+        "stage": 1
+    },
+    {
+        "key": "SWI_fascism_party_long:0",
+        "original": "Fronten Bewegung",
+        "translation": "前线运动党",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_neutrality_party:0",
+        "original": "INC",
+        "translation": "国大党",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_neutrality_party_long:0",
+        "original": "Indian National Congress",
+        "translation": "国民大会党",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_communism_party:0",
+        "original": "CPI",
+        "translation": "印度共产党",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_communism_party_long:0",
+        "original": "Communist Party of India",
+        "translation": "印度共产党",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_democratic_party:0",
+        "original": "IIM",
+        "translation": "印度独立运动",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_democratic_party_long:0",
+        "original": "Indian Independence Movement",
+        "translation": "印度独立运动",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_fascism_party:0",
+        "original": "AIHA",
+        "translation": "印度教大斋会",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_fascism_party_long:0",
+        "original": "All-India Hindu Assembly",
+        "translation": "印度教大斋会",
+        "stage": 1
+    },
+    {
+        "key": "PER_communism_party:0",
+        "original": "Tudeh Party",
+        "translation": "人民党",
+        "stage": 1
+    },
+    {
+        "key": "PER_communism_party_long:0",
+        "original": "Tudeh Party",
+        "translation": "人民党",
+        "stage": 1
+    },
+    {
+        "key": "PER_neutrality_party:0",
+        "original": "Pahlavi Dynasty",
+        "translation": "巴列维王朝",
+        "stage": 1
+    },
+    {
+        "key": "COL_communism_party:0",
+        "original": "PCC",
+        "translation": "哥伦比亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "COL_communism_party_long:0",
+        "original": "Partido Comunista Colombiano",
+        "translation": "哥伦比亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "COL_democratic_party:0",
+        "original": "PLC",
+        "translation": "哥伦比亚自由党",
+        "stage": 1
+    },
+    {
+        "key": "COL_democratic_party_long:0",
+        "original": "Partido Liberal Colombiano",
+        "translation": "哥伦比亚自由党",
+        "stage": 1
+    },
+    {
+        "key": "COL_neutrality_party:0",
+        "original": "Conservador",
+        "translation": "哥伦比亚保守党",
+        "stage": 1
+    },
+    {
+        "key": "COL_neutrality_party_long:0",
+        "original": "Partido Conservador Colombiano",
+        "translation": "哥伦比亚保守党",
+        "stage": 1
+    },
+    {
+        "key": "CZE_communism_party:0",
+        "original": "KSC",
+        "translation": "捷克斯洛伐克共产党",
+        "stage": 1
+    },
+    {
+        "key": "CZE_communism_party_long:0",
+        "original": "Komunistická strana Ceskoslovenska",
+        "translation": "捷克斯洛伐克共产党",
+        "stage": 1
+    },
+    {
+        "key": "CZE_democratic_party:0",
+        "original": "CSNS",
+        "translation": "捷克国家社会主义党",
+        "stage": 1
+    },
+    {
+        "key": "CZE_democratic_party_long:0",
+        "original": "Ceská strana národne sociální",
+        "translation": "捷克国家社会主义党",
+        "stage": 1
+    },
+    {
+        "key": "CHL_fascism_party:0",
+        "original": "VPS",
+        "translation": "人民社会主义先锋",
+        "stage": 1
+    },
+    {
+        "key": "CHL_fascism_party_long:0",
+        "original": "Vanguardia Popular Socialista",
+        "translation": "人民社会主义先锋",
+        "stage": 1
+    },
+    {
+        "key": "CHL_democratic_party:0",
+        "original": "Partido Liberal",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "CHL_communism_party:0",
+        "original": "PCCh",
+        "translation": "智利共产党",
+        "stage": 1
+    },
+    {
+        "key": "CHL_communism_party_long:0",
+        "original": "Partido Comunista de Chile",
+        "translation": "智利共产党",
+        "stage": 1
+    },
+    {
+        "key": "ETH_neutrality_party:0",
+        "original": "Solomonic Dynasty",
+        "translation": "所罗门王朝",
+        "stage": 1
+    },
+    {
+        "key": "ETH_democratic_party:0",
+        "original": "Woyane rebellion",
+        "translation": "沃延尼起义军",
+        "stage": 1
+    },
+    {
+        "key": "ALB_neutrality_party:0",
+        "original": "House of Zogu",
+        "translation": "索古王朝",
+        "stage": 1
+    },
+    {
+        "key": "ALB_neutrality_party_long:0",
+        "original": "House of Zogu",
+        "translation": "索古王朝",
+        "stage": 1
+    },
+    {
+        "key": "BOL_democratic_party:0",
+        "original": "PL",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "BOL_democratic_party_long:0",
+        "original": "Partido Liberal",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "BOL_fascism_party:0",
+        "original": "FSB",
+        "translation": "玻利维亚社会主义长枪党",
+        "stage": 1
+    },
+    {
+        "key": "BOL_fascism_party_long:0",
+        "original": "Falange Socialista Boliviana",
+        "translation": "玻利维亚社会主义长枪党",
+        "stage": 1
+    },
+    {
+        "key": "BOL_neutrality_party:0",
+        "original": "QG",
+        "translation": "金塔尼利亚政府",
+        "stage": 1
+    },
+    {
+        "key": "BOL_neutrality_party_long:0",
+        "original": "Quintanilla government",
+        "translation": "金塔尼利亚政府",
+        "stage": 1
+    },
+    {
+        "key": "NIC_democratic_party:0",
+        "original": "PLN",
+        "translation": "国民自由党",
+        "stage": 1
+    },
+    {
+        "key": "NIC_democratic_party_long:0",
+        "original": "Partido Liberal Nacionalista",
+        "translation": "国民自由党",
+        "stage": 1
+    },
+    {
+        "key": "COS_democratic_party:0",
+        "original": "PR",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "COS_democratic_party_long:0",
+        "original": "Partido Republicano",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "COS_communism_party:0",
+        "original": "PVP",
+        "translation": "人民先锋党",
+        "stage": 1
+    },
+    {
+        "key": "COS_communism_party_long:0",
+        "original": "Partido Vanguardia Popular",
+        "translation": "人民先锋党",
+        "stage": 1
+    },
+    {
+        "key": "ELS_fascism_party:0",
+        "original": "Pro-Patria",
+        "translation": "‘为了祖国’党",
+        "stage": 1
+    },
+    {
+        "key": "ELS_fascism_party_long:0",
+        "original": "Partido Nacional 'Pro-Patria'",
+        "translation": "国民‘为了祖国’党",
+        "stage": 1
+    },
+    {
+        "key": "GUA_democratic_party:0",
+        "original": "PLP",
+        "translation": "自由进步党",
+        "stage": 1
+    },
+    {
+        "key": "GUA_democratic_party_long:0",
+        "original": "Progressive Liberal Party",
+        "translation": "自由进步党",
+        "stage": 1
+    },
+    {
+        "key": "SIA_neutrality_party:0",
+        "original": "Khana Ratsadon",
+        "translation": "人民党",
+        "stage": 1
+    },
+    {
+        "key": "SIA_neutrality_party_long:0",
+        "original": "Khana Ratsadon",
+        "translation": "人民党",
+        "stage": 1
+    },
+    {
+        "key": "URG_democratic_party:0",
+        "original": "Colorado",
+        "translation": "红党",
+        "stage": 1
+    },
+    {
+        "key": "URG_democratic_party_long:0",
+        "original": "Partido Colorado",
+        "translation": "红党",
+        "stage": 1
+    },
+    {
+        "key": "URG_communism_party:0",
+        "original": "PCU",
+        "translation": "乌拉圭共产党",
+        "stage": 1
+    },
+    {
+        "key": "URG_communism_party_long:0",
+        "original": "Partido Comunista del Uruguay",
+        "translation": "乌拉圭共产党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_fascism_party:0",
+        "original": "Consejo de Ministros",
+        "translation": "部长理事会",
+        "stage": 1
+    },
+    {
+        "key": "VEN_fascism_party_long:0",
+        "original": "Consejo de Ministros",
+        "translation": "部长理事会",
+        "stage": 1
+    },
+    {
+        "key": "VEN_neutrality_party:0",
+        "original": "AD",
+        "translation": "民主行动党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_neutrality_party_long:0",
+        "original": "Acción Democrática",
+        "translation": "民主行动党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_democratic_party:0",
+        "original": "Copei",
+        "translation": "绿党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_democratic_party_long:0",
+        "original": "Copei",
+        "translation": "基督教社会党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_communism_party:0",
+        "original": "PCV",
+        "translation": "委内瑞拉共产党",
+        "stage": 1
+    },
+    {
+        "key": "VEN_communism_party_long:0",
+        "original": "Partido Comunista de Venezuela",
+        "translation": "委内瑞拉共产党",
+        "stage": 1
+    },
+    {
+        "key": "PRU_fascism_party:0",
+        "original": "Constituent Assembly",
+        "translation": "制宪议会",
+        "stage": 1
+    },
+    {
+        "key": "PRU_fascism_party_long:0",
+        "original": "Constituent Assembly",
+        "translation": "制宪议会",
+        "stage": 1
+    },
+    {
+        "key": "PRU_communism_party:0",
+        "original": "PCP",
+        "translation": "共产党",
+        "stage": 1
+    },
+    {
+        "key": "PRU_communism_party_long:0",
+        "original": "Partido Comunista del Perú",
+        "translation": "秘鲁共产党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_democratic_party:0",
+        "original": "Fianna Fáil",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_democratic_party_long:0",
+        "original": "Fianna Fáil, The Republican Party",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_fascism_party:0",
+        "original": "PNC",
+        "translation": "国家社团党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_fascism_party_long:0",
+        "original": "Páirtí Náisiúnta Corparáidíoch",
+        "translation": "国家社团党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_communism_party:0",
+        "original": "CPI",
+        "translation": "爱尔兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_communism_party_long:0",
+        "original": "Páirtí Cumannach na hÉireann",
+        "translation": "爱尔兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_neutrality_party:0",
+        "original": "Lucht Oibre",
+        "translation": "工党",
+        "stage": 1
+    },
+    {
+        "key": "IRE_neutrality_party_long:0",
+        "original": "Páirtí an Lucht Oibre",
+        "translation": "工党",
+        "stage": 1
+    },
+    {
+        "key": "AFG_neutrality_party:0",
+        "original": "Barakzai",
+        "translation": "巴拉克宰王朝",
+        "stage": 1
+    },
+    {
+        "key": "AFG_neutrality_party_long:0",
+        "original": "Barakzai royal family",
+        "translation": "巴拉克宰王朝",
+        "stage": 1
+    },
+    {
+        "key": "LUX_democratic_party:0",
+        "original": "Rietspartei",
+        "translation": "右党",
+        "stage": 1
+    },
+    {
+        "key": "LUX_communism_party:0",
+        "original": "KPL",
+        "translation": "共产党",
+        "stage": 1
+    },
+    {
+        "key": "LUX_communism_party_long:0",
+        "original": "Kommunistesch Partei Lëtzebuerg",
+        "translation": "卢森堡共产党",
+        "stage": 1
+    },
+    {
+        "key": "BHU_neutrality_party:0",
+        "original": "Wangchuk Dynasty",
+        "translation": "旺楚克王朝",
+        "stage": 1
+    },
+    {
+        "key": "SLO_fascism_party:0",
+        "original": "HSLS",
+        "translation": "赫林卡党",
+        "stage": 1
+    },
+    {
+        "key": "SLO_fascism_party_long:0",
+        "original": "Hlinkova Slovenská Ludová Strana",
+        "translation": "斯洛伐克赫林卡人民党",
+        "stage": 1
+    },
+    {
+        "key": "SLO_communism_party:0",
+        "original": "KSS",
+        "translation": "斯洛伐克共产党",
+        "stage": 1
+    },
+    {
+        "key": "SLO_communism_party_long:0",
+        "original": "Komunistická strana Slovenska",
+        "translation": "斯洛伐克共产党",
+        "stage": 1
+    },
+    {
+        "key": "ECU_democratic_party:0",
+        "original": "Ecuador",
+        "translation": "厄瓜多尔",
+        "stage": 1
+    },
+    {
+        "key": "ECU_democratic_party_long:0",
+        "original": "República del Ecuador",
+        "translation": "厄瓜多尔共和国",
+        "stage": 1
+    },
+    {
+        "key": "ECU_communism_party:0",
+        "original": "PCE",
+        "translation": "厄瓜多尔共产党",
+        "stage": 1
+    },
+    {
+        "key": "ECU_communism_party_long:0",
+        "original": "Partido Comunista del Ecuador",
+        "translation": "厄瓜多尔共产党",
+        "stage": 1
+    },
+    {
+        "key": "HON_democratic_party:0",
+        "original": "PLH",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "HON_communism_party:0",
+        "original": "PCH",
+        "translation": "洪都拉斯共产党",
+        "stage": 1
+    },
+    {
+        "key": "HON_communism_party_long:0",
+        "original": "Partido Comunista de Honduras",
+        "translation": "洪都拉斯共产党",
+        "stage": 1
+    },
+    {
+        "key": "NEP_neutrality_party:0",
+        "original": "Rana Dynasty",
+        "translation": "拉纳王朝",
+        "stage": 1
+    },
+    {
+        "key": "PAN_democratic_party:0",
+        "original": "PLD",
+        "translation": "独立自由党",
+        "stage": 1
+    },
+    {
+        "key": "PAN_democratic_party_long:0",
+        "original": "Partido Liberal Doctrinario",
+        "translation": "独立自由党",
+        "stage": 1
+    },
+    {
+        "key": "PAN_communism_party:0",
+        "original": "PPP",
+        "translation": "巴拿马人民党",
+        "stage": 1
+    },
+    {
+        "key": "PAN_communism_party_long:0",
+        "original": "Partido del Pueblo de Panamá",
+        "translation": "巴拿马人民党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_fascism_party:0",
+        "original": "Ganap",
+        "translation": "统一党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_fascism_party_long:0",
+        "original": "Ganap Party",
+        "translation": "统一党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_democratic_party:0",
+        "original": "NP",
+        "translation": "国民党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_democratic_party_long:0",
+        "original": "Partido Nacionalista",
+        "translation": "国民党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_communism_party:0",
+        "original": "PKP",
+        "translation": "共产党",
+        "stage": 1
+    },
+    {
+        "key": "PHI_communism_party_long:0",
+        "original": "Partido Komunista ng Pilipinas",
+        "translation": "菲律宾共产党",
+        "stage": 1
+    },
+    {
+        "key": "SAU_neutrality_party:0",
+        "original": "House of Saud",
+        "translation": "沙特王朝",
+        "stage": 1
+    },
+    {
+        "key": "YEM_neutrality_party:0",
+        "original": "House of Rassid",
+        "translation": "拉希德王朝",
+        "stage": 1
+    },
+    {
+        "key": "OMA_neutrality_party:0",
+        "original": "Al Said Dynasty",
+        "translation": "赛义德王朝",
+        "stage": 1
+    },
+    {
+        "key": "SIK_communism_party:0",
+        "original": "CPSU",
+        "translation": "苏联共产党",
+        "stage": 1
+    },
+    {
+        "key": "SIK_communism_party_long:0",
+        "original": "Communist Party of the Soviet Union",
+        "translation": "苏联共产党",
+        "stage": 1
+    },
+    {
+        "key": "TIB_neutrality_party:0",
+        "original": "Retting Rinpoche",
+        "translation": "热振活佛",
+        "stage": 1
+    },
+    {
+        "key": "YUN_neutrality_party:0",
+        "original": "Kuomintang",
+        "translation": "国民党",
+        "stage": 1
+    },
+    {
+        "key": "MON_communism_party:0",
+        "original": "MAN",
+        "translation": "蒙古人民党",
+        "stage": 1
+    },
+    {
+        "key": "MON_communism_party_long:0",
+        "original": "Mongol Ardiin Nam",
+        "translation": "蒙古人民党",
+        "stage": 1
+    },
+    {
+        "key": "TAN_communism_party:0",
+        "original": "CPSU",
+        "translation": "苏联共产党",
+        "stage": 1
+    },
+    {
+        "key": "TAN_communism_party_long:0",
+        "original": "Communist Party of the Soviet Union",
+        "translation": "苏联共产党",
+        "stage": 1
+    },
+    {
+        "key": "PAR_communism_party:0",
+        "original": "PRF",
+        "translation": "二月革命党",
+        "stage": 1
+    },
+    {
+        "key": "PAR_communism_party_long:0",
+        "original": "Partido Revolucionario Febrerista",
+        "translation": "二月革命党",
+        "stage": 1
+    },
+    {
+        "key": "CUB_democratic_party:0",
+        "original": "Union",
+        "translation": "国家联盟党",
+        "stage": 1
+    },
+    {
+        "key": "CUB_democratic_party_long:0",
+        "original": "National Union",
+        "translation": "国家联盟党",
+        "stage": 1
+    },
+    {
+        "key": "CUB_communism_party:0",
+        "original": "PCC",
+        "translation": "古巴共产党",
+        "stage": 1
+    },
+    {
+        "key": "CUB_communism_party_long:0",
+        "original": "Partido Comunista Cubano",
+        "translation": "古巴共产党",
+        "stage": 1
+    },
+    {
+        "key": "DOM_fascism_party:0",
+        "original": "PD",
+        "translation": "多米尼加党",
+        "stage": 1
+    },
+    {
+        "key": "DOM_fascism_party_long:0",
+        "original": "Partido Dominicano",
+        "translation": "多米尼加党",
+        "stage": 1
+    },
+    {
+        "key": "HAI_democratic_party:0",
+        "original": "Vincent",
+        "translation": "文森特政府",
+        "stage": 1
+    },
+    {
+        "key": "HAI_democratic_party_long:0",
+        "original": "President Sténio Vincent",
+        "translation": "斯蒂尼奥·文森特政府",
+        "stage": 1
+    },
+    {
+        "key": "HAI_communism_party:0",
+        "original": "PKA",
+        "translation": "海地共产党",
+        "stage": 1
+    },
+    {
+        "key": "HAI_communism_party_long:0",
+        "original": "Pati Kominis Ayisyen",
+        "translation": "海地共产党",
+        "stage": 1
+    },
+    {
+        "key": "KOR_communism_party:0",
+        "original": "WPK",
+        "translation": "朝鲜劳动党",
+        "stage": 1
+    },
+    {
+        "key": "KOR_communism_party_long:0",
+        "original": "Worker's Party of Korea",
+        "translation": "朝鲜劳动党",
+        "stage": 1
+    },
+    {
+        "key": "KOR_democratic_party:0",
+        "original": "Liberal Party",
+        "translation": "自由党",
+        "stage": 1
+    },
+    {
+        "key": "KOR_neutrality_party:0",
+        "original": "Yi Dynasty",
+        "translation": "李氏王朝",
+        "stage": 1
+    },
+    {
+        "key": "KOR_fascism_party:0",
+        "original": "NDPC",
+        "translation": "国防政策委员会",
+        "stage": 1
+    },
+    {
+        "key": "KOR_fascism_party_long:0",
+        "original": "National Defense Policy Committee",
+        "translation": "国防政策委员会",
+        "stage": 1
+    },
+    {
+        "key": "ICE_democratic_party:0",
+        "original": "Progress Party",
+        "translation": "进步党",
+        "stage": 1
+    },
+    {
+        "key": "ICE_communism_party:0",
+        "original": "People's Unity Party",
+        "translation": "人民团结党",
+        "stage": 1
+    },
+    {
+        "key": "ICE_fascism_party:0",
+        "original": "Nationalist Party",
+        "translation": "国民党",
+        "stage": 1
+    },
+    {
+        "key": "ICE_neutrality_party:0",
+        "original": "Independence Party",
+        "translation": "独立党",
+        "stage": 1
+    },
+    {
+        "key": "SYR_fascism_party:0",
+        "original": "SSNP",
+        "translation": "社会民族党",
+        "stage": 1
+    },
+    {
+        "key": "SYR_fascism_party_long:0",
+        "original": "Syrian Social Nationalist Party",
+        "translation": "叙利亚社会民族党",
+        "stage": 1
+    },
+    {
+        "key": "SYR_communism_party:0",
+        "original": "Syrian Communist Party",
+        "translation": "叙利亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "SYR_democratic_party:0",
+        "original": "National Bloc",
+        "translation": "国家联盟",
+        "stage": 1
+    },
+    {
+        "key": "SYR_neutrality_party:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "LEB_fascism_party:0",
+        "original": "Kataeb",
+        "translation": "黎巴嫩长枪党",
+        "stage": 1
+    },
+    {
+        "key": "LEB_neutrality_party:0",
+        "original": "Yaradi",
+        "translation": "雅拉德党",
+        "stage": 1
+    },
+    {
+        "key": "LEB_communism_party:0",
+        "original": "League of Communists",
+        "translation": "共产主义联盟",
+        "stage": 1
+    },
+    {
+        "key": "LEB_democratic_party:0",
+        "original": "Constitutional Bloc",
+        "translation": "制宪联盟",
+        "stage": 1
+    },
+    {
+        "key": "JOR_fascism_party:0",
+        "original": "Jordanian Phalange",
+        "translation": "约旦长枪党",
+        "stage": 1
+    },
+    {
+        "key": "JOR_neutrality_party:0",
+        "original": "Hashemite",
+        "translation": "哈希姆王朝",
+        "stage": 1
+    },
+    {
+        "key": "JOR_democratic_party:0",
+        "original": "National Liberal Party",
+        "translation": "国家自由党",
+        "stage": 1
+    },
+    {
+        "key": "JOR_communism_party:0",
+        "original": "Jordanian Workers Society",
+        "translation": "约旦工人协会",
+        "stage": 1
+    },
+    {
+        "key": "EGY_communism_party:0",
+        "original": "Egyptian Communist Party",
+        "translation": "埃及共产党",
+        "stage": 1
+    },
+    {
+        "key": "EGY_fascism_party:0",
+        "original": "Misr El-Fatah",
+        "translation": "埃及青年党",
+        "stage": 1
+    },
+    {
+        "key": "EGY_democratic_party:0",
+        "original": "Liberation Rally",
+        "translation": "解放阵线",
+        "stage": 1
+    },
+    {
+        "key": "EGY_neutrality_party:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "PAL_fascism_party:0",
+        "original": "Al-Muqaddas",
+        "translation": "圣战军",
+        "stage": 1
+    },
+    {
+        "key": "PAL_communism_party:0",
+        "original": "NLL",
+        "translation": "民族解放同盟",
+        "stage": 1
+    },
+    {
+        "key": "PAL_communism_party_long:0",
+        "original": "National Liberation League",
+        "translation": "民族解放同盟",
+        "stage": 1
+    },
+    {
+        "key": "PAL_democratic_party:0",
+        "original": "SMC",
+        "translation": "穆斯林最高理事会",
+        "stage": 1
+    },
+    {
+        "key": "PAL_democratic_party_long:0",
+        "original": "Supreme Muslim Council",
+        "translation": "穆斯林最高理事会",
+        "stage": 1
+    },
+    {
+        "key": "PAL_neutrality_party:0",
+        "original": "Loyalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "ISR_communism_party:0",
+        "original": "Maki",
+        "translation": "以色列共产党",
+        "stage": 1
+    },
+    {
+        "key": "ISR_democratic_party:0",
+        "original": "Mapai",
+        "translation": "以色列地工人党",
+        "stage": 1
+    },
+    {
+        "key": "ISR_fascism_party:0",
+        "original": "Helpam",
+        "translation": "Helpam",
+        "stage": 1
+    },
+    {
+        "key": "ISR_neutrality_party:0",
+        "original": "Central Council",
+        "translation": "中央议会",
+        "stage": 1
+    },
+    {
+        "key": "VIN_fascism_party:0",
+        "original": "Vietnamese Restoration League",
+        "translation": "越南光复会",
+        "stage": 1
+    },
+    {
+        "key": "VIN_democratic_party:0",
+        "original": "Can Lao Party",
+        "translation": "勤劳党",
+        "stage": 1
+    },
+    {
+        "key": "VIN_communism_party:0",
+        "original": "Communist Party of Vietnam",
+        "translation": "越南共产党",
+        "stage": 1
+    },
+    {
+        "key": "VIN_neutrality_party:0",
+        "original": "Viêt Nam Quoc Dân Đang",
+        "translation": "越南国民党",
+        "stage": 1
+    },
+    {
+        "key": "CAM_fascism_party:0",
+        "original": "Khmerite Party",
+        "translation": "高棉党",
+        "stage": 1
+    },
+    {
+        "key": "CAM_democratic_party:0",
+        "original": "Democratic Party",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "CAM_communism_party:0",
+        "original": "Communist Party of Kampuchea",
+        "translation": "柬埔寨共产党",
+        "stage": 1
+    },
+    {
+        "key": "CAM_neutrality_party:0",
+        "original": "Sangkum Reastr Niyum",
+        "translation": "社会主义人民共同体",
+        "stage": 1
+    },
+    {
+        "key": "INS_fascism_party:0",
+        "original": "New Order",
+        "translation": "新秩序",
+        "stage": 1
+    },
+    {
+        "key": "INS_democratic_party:0",
+        "original": "PNI",
+        "translation": "印度尼西亚国家党",
+        "stage": 1
+    },
+    {
+        "key": "INS_communism_party:0",
+        "original": "PKI",
+        "translation": "印度尼西亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "INS_neutrality_party:0",
+        "original": "Democrats",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "MAL_fascism_party:0",
+        "original": "Panoceanic Unionists",
+        "translation": "泛大洋洲联合",
+        "stage": 1
+    },
+    {
+        "key": "MAL_democratic_party:0",
+        "original": "United Malays National Organisation",
+        "translation": "马来民族统一机构",
+        "stage": 1
+    },
+    {
+        "key": "MAL_communism_party:0",
+        "original": "Malayan Communist Party",
+        "translation": "马来亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "MAL_neutrality_party:0",
+        "original": "Kesatuan Melayu Muda",
+        "translation": "马来青年协会",
+        "stage": 1
+    },
+    {
+        "key": "LAO_fascism_party:0",
+        "original": "Tribal Centralization Party",
+        "translation": "部落中央化党",
+        "stage": 1
+    },
+    {
+        "key": "LAO_democratic_party:0",
+        "original": "Democratic Party",
+        "translation": "民主党",
+        "stage": 1
+    },
+    {
+        "key": "LAO_communism_party:0",
+        "original": "Pathet Lao",
+        "translation": "巴特寮",
+        "stage": 1
+    },
+    {
+        "key": "LAO_neutrality_party:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "MNT_fascism_party:0",
+        "original": "Greens",
+        "translation": "绿党",
+        "stage": 1
+    },
+    {
+        "key": "MNT_democratic_party:0",
+        "original": "Democracy League",
+        "translation": "民主联合",
+        "stage": 1
+    },
+    {
+        "key": "MNT_communism_party:0",
+        "original": "Communist Party of Montenegro",
+        "translation": "黑山共产党",
+        "stage": 1
+    },
+    {
+        "key": "MNT_neutrality_party:0",
+        "original": "Federalist Party",
+        "translation": "联邦党",
+        "stage": 1
+    },
+    {
+        "key": "UKR_fascism_party:0",
+        "original": "OUN",
+        "translation": "乌克兰民主主义者组织",
+        "stage": 1
+    },
+    {
+        "key": "UKR_democratic_party:0",
+        "original": "Ukrainian National Democratic Alliance",
+        "translation": "乌克兰国家民主联盟",
+        "stage": 1
+    },
+    {
+        "key": "UKR_communism_party:0",
+        "original": "Communist Party of Ukraine",
+        "translation": "乌克兰共产党",
+        "stage": 1
+    },
+    {
+        "key": "UKR_neutrality_party:0",
+        "original": "Ukrainian Progress Party",
+        "translation": "乌克兰进步党",
+        "stage": 1
+    },
+    {
+        "key": "GEO_fascism_party:0",
+        "original": "Tbilisi Council",
+        "translation": "第比利斯议会",
+        "stage": 1
+    },
+    {
+        "key": "GEO_democratic_party:0",
+        "original": "Social Democratic Party of Georgia",
+        "translation": "格鲁吉亚社会民主党",
+        "stage": 1
+    },
+    {
+        "key": "GEO_communism_party:0",
+        "original": "Communist Party of Georgia",
+        "translation": "格鲁吉亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "GEO_neutrality_party:0",
+        "original": "Gori Convention",
+        "translation": "哥里大会",
+        "stage": 1
+    },
+    {
+        "key": "KAZ_fascism_party:0",
+        "original": "Zhuze Ultşildiq",
+        "translation": "玉兹国家主义党",
+        "stage": 1
+    },
+    {
+        "key": "KAZ_democratic_party:0",
+        "original": "Alash Party",
+        "translation": "阿拉什党",
+        "stage": 1
+    },
+    {
+        "key": "KAZ_communism_party:0",
+        "original": "Communist Party of Kazakhstan",
+        "translation": "哈萨克斯坦共产党",
+        "stage": 1
+    },
+    {
+        "key": "KAZ_neutrality_party:0",
+        "original": "Royalists",
+        "translation": "保皇党",
+        "stage": 1
+    },
+    {
+        "key": "AZR_fascism_party:0",
+        "original": "Fire Horse Clique",
+        "translation": "火马派",
+        "stage": 1
+    },
+    {
+        "key": "AZR_democratic_party:0",
+        "original": "Müsavat",
+        "translation": "平等党",
+        "stage": 1
+    },
+    {
+        "key": "AZR_communism_party:0",
+        "original": "Communist Party of Azerbaijan",
+        "translation": "阿塞拜疆共产党",
+        "stage": 1
+    },
+    {
+        "key": "AZR_neutrality_party:0",
+        "original": "Ittihad",
+        "translation": "伊蒂哈德",
+        "stage": 1
+    },
+    {
+        "key": "ARM_fascism_party:0",
+        "original": "Armenian Legion",
+        "translation": "亚美尼亚军团",
+        "stage": 1
+    },
+    {
+        "key": "ARM_democratic_party:0",
+        "original": "Armenian Revolutionary Federation",
+        "translation": "亚美尼亚革命联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARM_communism_party:0",
+        "original": "Communist Party of Armenia",
+        "translation": "亚美尼亚共产党",
+        "stage": 1
+    },
+    {
+        "key": "ARM_neutrality_party:0",
+        "original": "Central Authority",
+        "translation": "中央权威",
+        "stage": 1
+    },
+    {
+        "key": "BLR_fascism_party:0",
+        "original": "Belarusian Central Council",
+        "translation": "白俄罗斯中央委员会 ",
+        "stage": 1
+    },
+    {
+        "key": "BLR_democratic_party:0",
+        "original": "Belarusian Christian Democracy",
+        "translation": "白俄罗斯基督民主党",
+        "stage": 1
+    },
+    {
+        "key": "BLR_communism_party:0",
+        "original": "Communist Party of Belarus",
+        "translation": "白俄罗斯共产党",
+        "stage": 1
+    },
+    {
+        "key": "BLR_neutrality_party:0",
+        "original": "Belarusian Socialist Assembly",
+        "translation": "白俄罗斯社会会团",
+        "stage": 1
+    },
+    {
+        "key": "PAK_democratic_party:0",
+        "original": "Ganatantri Dal",
+        "translation": "共和党",
+        "stage": 1
+    },
+    {
+        "key": "PAK_communism_party:0",
+        "original": "Pakistan Socialist Party",
+        "translation": "巴基斯坦社会主义党",
+        "stage": 1
+    },
+    {
+        "key": "PAK_neutrality_party:0",
+        "original": "Muslim League",
+        "translation": "穆斯林联盟",
+        "stage": 1
+    },
+    {
+        "key": "PRC_democratic_party:0",
+        "original": "KMT-RC",
+        "translation": "民革",
+        "stage": 1
+    },
+    {
+        "key": "PRC_democratic_party_long:0",
+        "original": "Kuomintang Revolutionary Committee",
+        "translation": "中国国民党革命委员会",
+        "stage": 1
+    },
+    {
+        "key": "PRC_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "PRC_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "SHX_neutrality_party:0",
+        "original": "Kuomintang",
+        "translation": "国民党",
+        "stage": 1
+    },
+    {
+        "key": "SHX_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "SHX_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "GXC_neutrality_party:0",
+        "original": "New Guangxi Clique",
+        "translation": "新桂系",
+        "stage": 1
+    },
+    {
+        "key": "GXC_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "GXC_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "YUN_communism_party:0",
+        "original": "CPC",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "YUN_communism_party_long:0",
+        "original": "Communist Party of China",
+        "translation": "中国共产党",
+        "stage": 1
+    },
+    {
+        "key": "MAN_fascism_party:0",
+        "original": "MX",
+        "translation": "满洲国协和会",
+        "stage": 1
+    },
+    {
+        "key": "MAN_fascism_party_long:0",
+        "original": "Manzhōuguó Xiéhehuì",
+        "translation": "满洲国协和会",
+        "stage": 1
+    }
+]

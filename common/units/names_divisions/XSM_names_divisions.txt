@@ -1,0 +1,651 @@
+XSM_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Ma Juntuán"
+  ordered = {
+    80 = {
+      "%d Juntuán"
+    }
+    81 = {
+      "%d Juntuán"
+    }
+    82 = {
+      "%d Juntuán"
+    }
+    102 = {
+      "Xin 2 Juntuán"
+    }
+    83 = {
+      "%d Juntuán"
+    }
+    85 = {
+      "%d Juntuán"
+    }
+    101 = {
+      "Xin 1 Juntuán"
+    }
+    103 = {
+      "Xin 3 Juntuán"
+    }
+    104 = {
+      "Xin 4 Juntuán"
+    }
+    113 = {
+      "3 Juntuán Linshi"
+    }
+    111 = {
+      "1 Juntuán Linshi"
+    }
+    112 = {
+      "2 Juntuán Linshi"
+    }
+    114 = {
+      "4 Juntuán Linshi"
+    }
+    115 = {
+      "5 Juntuán Linshi"
+    }
+    1 = {
+      "%d Ma Juntuán"
+    }
+    2 = {
+      "%d Ma Juntuán"
+    }
+    3 = {
+      "%d Ma Juntuán"
+    }
+    4 = {
+      "%d Ma Juntuán"
+    }
+    5 = {
+      "%d Ma Juntuán"
+    }
+    6 = {
+      "%d Ma Juntuán"
+    }
+    7 = {
+      "%d Ma Juntuán"
+    }
+    8 = {
+      "%d Ma Juntuán"
+    }
+    9 = {
+      "%d Ma Juntuán"
+    }
+    10 = {
+      "%d Ma Juntuán"
+    }
+    11 = {
+      "%d Ma Juntuán"
+    }
+    12 = {
+      "%d Ma Juntuán"
+    }
+    13 = {
+      "%d Ma Juntuán"
+    }
+    14 = {
+      "%d Ma Juntuán"
+    }
+    15 = {
+      "%d Ma Juntuán"
+    }
+    16 = {
+      "%d Ma Juntuán"
+    }
+    17 = {
+      "%d Ma Juntuán"
+    }
+    18 = {
+      "%d Ma Juntuán"
+    }
+    19 = {
+      "%d Ma Juntuán"
+    }
+    20 = {
+      "%d Ma Juntuán"
+    }
+  }
+}
+XSM_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Ma Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Ma Qibing Jun"
+    }
+    2 = {
+      "%d Ma Qibing Jun"
+    }
+    3 = {
+      "%d Ma Qibing Jun"
+    }
+    4 = {
+      "%d Ma Qibing Jun"
+    }
+    6 = {
+      "%d Ma Qibing Jun"
+    }
+    5 = {
+      "%d Ma Qibing Jun"
+    }
+    7 = {
+      "%d Ma Qibing Jun"
+    }
+    8 = {
+      "%d Ma Qibing Jun"
+    }
+    9 = {
+      "%d Ma Qibing Jun"
+    }
+    10 = {
+      "%d Ma Qibing Jun"
+    }
+    11 = {
+      "%d Ma Qibing Jun"
+    }
+    12 = {
+      "%d Ma Qibing Jun"
+    }
+    13 = {
+      "%d Ma Qibing Jun"
+    }
+    14 = {
+      "%d Ma Qibing Jun"
+    }
+    15 = {
+      "%d Ma Qibing Jun"
+    }
+  }
+}
+XSM_MOT_01 = {
+  name = "Motorized Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    XSM_INF_01
+  }
+  fallback_name = "%d Ma Juntuán"
+  ordered = {
+    80 = {
+      "%d Juntuán"
+    }
+    81 = {
+      "%d Juntuán"
+    }
+    82 = {
+      "%d Juntuán"
+    }
+    102 = {
+      "Xin 2 Juntuán"
+    }
+    83 = {
+      "%d Juntuán"
+    }
+    85 = {
+      "%d Juntuán"
+    }
+    101 = {
+      "Xin 1 Juntuán"
+    }
+    103 = {
+      "Xin 3 Juntuán"
+    }
+    104 = {
+      "Xin 4 Juntuán"
+    }
+    113 = {
+      "3 Juntuán Linshi"
+    }
+    111 = {
+      "1 Juntuán Linshi"
+    }
+    112 = {
+      "2 Juntuán Linshi"
+    }
+    114 = {
+      "4 Juntuán Linshi"
+    }
+    115 = {
+      "5 Juntuán Linshi"
+    }
+    1 = {
+      "%d Ma Juntuán"
+    }
+    2 = {
+      "%d Ma Juntuán"
+    }
+    3 = {
+      "%d Ma Juntuán"
+    }
+    4 = {
+      "%d Ma Juntuán"
+    }
+    5 = {
+      "%d Ma Juntuán"
+    }
+    6 = {
+      "%d Ma Juntuán"
+    }
+    7 = {
+      "%d Ma Juntuán"
+    }
+    8 = {
+      "%d Ma Juntuán"
+    }
+    9 = {
+      "%d Ma Juntuán"
+    }
+    10 = {
+      "%d Ma Juntuán"
+    }
+    11 = {
+      "%d Ma Juntuán"
+    }
+    12 = {
+      "%d Ma Juntuán"
+    }
+    13 = {
+      "%d Ma Juntuán"
+    }
+    14 = {
+      "%d Ma Juntuán"
+    }
+    15 = {
+      "%d Ma Juntuán"
+    }
+    16 = {
+      "%d Ma Juntuán"
+    }
+    17 = {
+      "%d Ma Juntuán"
+    }
+    18 = {
+      "%d Ma Juntuán"
+    }
+    19 = {
+      "%d Ma Juntuán"
+    }
+    20 = {
+      "%d Ma Juntuán"
+    }
+  }
+}
+XSM_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    XSM_INF_01
+  }
+  fallback_name = "%d Ma Juntuán"
+  ordered = {
+    80 = {
+      "%d Juntuán"
+    }
+    81 = {
+      "%d Juntuán"
+    }
+    82 = {
+      "%d Juntuán"
+    }
+    102 = {
+      "Xin 2 Juntuán"
+    }
+    83 = {
+      "%d Juntuán"
+    }
+    85 = {
+      "%d Juntuán"
+    }
+    101 = {
+      "Xin 1 Juntuán"
+    }
+    103 = {
+      "Xin 3 Juntuán"
+    }
+    104 = {
+      "Xin 4 Juntuán"
+    }
+    113 = {
+      "3 Juntuán Linshi"
+    }
+    111 = {
+      "1 Juntuán Linshi"
+    }
+    112 = {
+      "2 Juntuán Linshi"
+    }
+    114 = {
+      "4 Juntuán Linshi"
+    }
+    115 = {
+      "5 Juntuán Linshi"
+    }
+    1 = {
+      "%d Ma Juntuán"
+    }
+    2 = {
+      "%d Ma Juntuán"
+    }
+    3 = {
+      "%d Ma Juntuán"
+    }
+    4 = {
+      "%d Ma Juntuán"
+    }
+    5 = {
+      "%d Ma Juntuán"
+    }
+    6 = {
+      "%d Ma Juntuán"
+    }
+    7 = {
+      "%d Ma Juntuán"
+    }
+    8 = {
+      "%d Ma Juntuán"
+    }
+    9 = {
+      "%d Ma Juntuán"
+    }
+    10 = {
+      "%d Ma Juntuán"
+    }
+    11 = {
+      "%d Ma Juntuán"
+    }
+    12 = {
+      "%d Ma Juntuán"
+    }
+    13 = {
+      "%d Ma Juntuán"
+    }
+    14 = {
+      "%d Ma Juntuán"
+    }
+    15 = {
+      "%d Ma Juntuán"
+    }
+    16 = {
+      "%d Ma Juntuán"
+    }
+    17 = {
+      "%d Ma Juntuán"
+    }
+    18 = {
+      "%d Ma Juntuán"
+    }
+    19 = {
+      "%d Ma Juntuán"
+    }
+    20 = {
+      "%d Ma Juntuán"
+    }
+  }
+}
+XSM_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    XSM_INF_01
+  }
+  fallback_name = "%d Ma Juntuán"
+  ordered = {
+    80 = {
+      "%d Juntuán"
+    }
+    81 = {
+      "%d Juntuán"
+    }
+    82 = {
+      "%d Juntuán"
+    }
+    102 = {
+      "Xin 2 Juntuán"
+    }
+    83 = {
+      "%d Juntuán"
+    }
+    85 = {
+      "%d Juntuán"
+    }
+    101 = {
+      "Xin 1 Juntuán"
+    }
+    103 = {
+      "Xin 3 Juntuán"
+    }
+    104 = {
+      "Xin 4 Juntuán"
+    }
+    113 = {
+      "3 Juntuán Linshi"
+    }
+    111 = {
+      "1 Juntuán Linshi"
+    }
+    112 = {
+      "2 Juntuán Linshi"
+    }
+    114 = {
+      "4 Juntuán Linshi"
+    }
+    115 = {
+      "5 Juntuán Linshi"
+    }
+    1 = {
+      "%d Ma Juntuán"
+    }
+    2 = {
+      "%d Ma Juntuán"
+    }
+    3 = {
+      "%d Ma Juntuán"
+    }
+    4 = {
+      "%d Ma Juntuán"
+    }
+    5 = {
+      "%d Ma Juntuán"
+    }
+    6 = {
+      "%d Ma Juntuán"
+    }
+    7 = {
+      "%d Ma Juntuán"
+    }
+    8 = {
+      "%d Ma Juntuán"
+    }
+    9 = {
+      "%d Ma Juntuán"
+    }
+    10 = {
+      "%d Ma Juntuán"
+    }
+    11 = {
+      "%d Ma Juntuán"
+    }
+    12 = {
+      "%d Ma Juntuán"
+    }
+    13 = {
+      "%d Ma Juntuán"
+    }
+    14 = {
+      "%d Ma Juntuán"
+    }
+    15 = {
+      "%d Ma Juntuán"
+    }
+    16 = {
+      "%d Ma Juntuán"
+    }
+    17 = {
+      "%d Ma Juntuán"
+    }
+    18 = {
+      "%d Ma Juntuán"
+    }
+    19 = {
+      "%d Ma Juntuán"
+    }
+    20 = {
+      "%d Ma Juntuán"
+    }
+  }
+}
+XSM_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    XSM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Ma Jingbei"
+  ordered = {
+    101 = {
+      "1 Golmud Jingbei"
+    }
+    111 = {
+      "1 Ningxia Jingbei"
+    }
+    121 = {
+      "1 Qinghai Jingbei"
+    }
+    102 = {
+      "2 Golmud Jingbei"
+    }
+    103 = {
+      "3 Golmud Jingbei"
+    }
+    112 = {
+      "2 Ningxia Jingbei"
+    }
+    113 = {
+      "3 Ningxia Jingbei"
+    }
+    122 = {
+      "2 Qinghai Jingbei"
+    }
+    104 = {
+      "4 Golmud Jingbei"
+    }
+    105 = {
+      "5 Golmud Jingbei"
+    }
+    123 = {
+      "3 Qinghai Jingbei"
+    }
+    114 = {
+      "1 Qinghai Jingbei"
+    }
+    115 = {
+      "2 Qinghai Jingbei"
+    }
+    131 = {
+      "Ningxia Baoan Ke"
+    }
+    132 = {
+      "1 Tianshui Baoan Ke"
+    }
+    133 = {
+      "1 Golmud Baoan Ke"
+    }
+    134 = {
+      "2 Golmud Baoan Ke"
+    }
+    135 = {
+      "3 Golmud Baoan Ke"
+    }
+    136 = {
+      "2 Tianshui Baoan Ke"
+    }
+    137 = {
+      "3 Tianshui Baoan Ke"
+    }
+    138 = {
+      "Qinghai Baoan Ke"
+    }
+    139 = {
+      "1 Gansu Baoan Ke"
+    }
+    140 = {
+      "2 Gansu Baoan Ke"
+    }
+    1 = {
+      "%d Ma Jingbei"
+    }
+    2 = {
+      "%d Ma Jingbei"
+    }
+    3 = {
+      "%d Ma Jingbei"
+    }
+    4 = {
+      "%d Ma Jingbei"
+    }
+    5 = {
+      "%d Ma Jingbei"
+    }
+    6 = {
+      "%d Ma Jingbei"
+    }
+    7 = {
+      "%d Ma Jingbei"
+    }
+    8 = {
+      "%d Ma Jingbei"
+    }
+    9 = {
+      "%d Ma Jingbei"
+    }
+    10 = {
+      "%d Ma Jingbei"
+    }
+  }
+}

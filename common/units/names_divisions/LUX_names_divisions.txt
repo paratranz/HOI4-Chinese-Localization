@@ -1,0 +1,444 @@
+LUX_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d. Infanterie-Division"
+  ordered = {
+    1 = {
+      "%d. Infanterie-Division"
+    }
+    2 = {
+      "%d. Infanterie-Division"
+    }
+    3 = {
+      "%d. Infanterie-Division"
+    }
+    4 = {
+      "%d. Infanterie-Division"
+    }
+    5 = {
+      "%d. Infanterie-Division"
+    }
+    6 = {
+      "%d. Infanterie-Division"
+    }
+    7 = {
+      "%d. Infanterie-Division"
+    }
+    8 = {
+      "%d. Infanterie-Division"
+    }
+    9 = {
+      "%d. Infanterie-Division"
+    }
+    10 = {
+      "%d. Infanterie-Division"
+    }
+    11 = {
+      "%d. Infanterie-Division"
+    }
+    12 = {
+      "%d. Infanterie-Division"
+    }
+    13 = {
+      "%d. Infanterie-Division"
+    }
+    14 = {
+      "%d. Infanterie-Division"
+    }
+    15 = {
+      "%d. Infanterie-Division"
+    }
+    16 = {
+      "%d. Infanterie-Division"
+    }
+    17 = {
+      "%d. Infanterie-Division"
+    }
+    18 = {
+      "%d. Infanterie-Division"
+    }
+    19 = {
+      "%d. Infanterie-Division"
+    }
+    20 = {
+      "%d. Infanterie-Division"
+    }
+  }
+}
+LUX_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d. Schnelle Division"
+  ordered = {
+    1 = {
+      "%d. Schnelle Division"
+    }
+    2 = {
+      "%d. Schnelle Division"
+    }
+    3 = {
+      "%d. Schnelle Division"
+    }
+    4 = {
+      "%d. Schnelle Division"
+    }
+    5 = {
+      "%d. Schnelle Division"
+    }
+    6 = {
+      "%d. Schnelle Division"
+    }
+    7 = {
+      "%d. Schnelle Division"
+    }
+    8 = {
+      "%d. Schnelle Division"
+    }
+    9 = {
+      "%d. Schnelle Division"
+    }
+    10 = {
+      "%d. Schnelle Division"
+    }
+  }
+}
+LUX_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  fallback_name = "%d. Kraftfahrjäger-Division"
+  ordered = {
+    1 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    2 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    3 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    4 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    5 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    6 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    7 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    8 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    9 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+    10 = {
+      "%d. Kraftfahrjäger-Division"
+    }
+  }
+}
+LUX_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    LUX_CAV_01
+  }
+  fallback_name = "%d. Schnelle Division"
+  ordered = {
+    1 = {
+      "%d. Schnelle Division"
+    }
+    2 = {
+      "%d. Schnelle Division"
+    }
+    3 = {
+      "%d. Schnelle Division"
+    }
+    4 = {
+      "%d. Schnelle Division"
+    }
+    5 = {
+      "%d. Schnelle Division"
+    }
+    6 = {
+      "%d. Schnelle Division"
+    }
+    7 = {
+      "%d. Schnelle Division"
+    }
+    8 = {
+      "%d. Schnelle Division"
+    }
+    9 = {
+      "%d. Schnelle Division"
+    }
+    10 = {
+      "%d. Schnelle Division"
+    }
+  }
+}
+LUX_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%d. Panzerwagen-Division"
+  ordered = {
+    1 = {
+      "%d. Panzerwagen-Division"
+    }
+    2 = {
+      "%d. Panzerwagen-Division"
+    }
+    3 = {
+      "%d. Panzerwagen-Division"
+    }
+    4 = {
+      "%d. Panzerwagen-Division"
+    }
+    5 = {
+      "%d. Panzerwagen-Division"
+    }
+    6 = {
+      "%d. Panzerwagen-Division"
+    }
+    7 = {
+      "%d. Panzerwagen-Division"
+    }
+    8 = {
+      "%d. Panzerwagen-Division"
+    }
+    9 = {
+      "%d. Panzerwagen-Division"
+    }
+    10 = {
+      "%d. Panzerwagen-Division"
+    }
+  }
+}
+LUX_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%d. Fallschirmjäger-Division"
+  ordered = {
+    1 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    2 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    3 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    4 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    5 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    6 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    7 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    8 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    9 = {
+      "%d. Fallschirmjäger-Division"
+    }
+    10 = {
+      "%d. Fallschirmjäger-Division"
+    }
+  }
+}
+LUX_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%d. Marine-Stürmdivision"
+  ordered = {
+    1 = {
+      "%d. Marine-Stürmdivision"
+    }
+    2 = {
+      "%d. Marine-Stürmdivision"
+    }
+    3 = {
+      "%d. Marine-Stürmdivision"
+    }
+    4 = {
+      "%d. Marine-Stürmdivision"
+    }
+    5 = {
+      "%d. Marine-Stürmdivision"
+    }
+    6 = {
+      "%d. Marine-Stürmdivision"
+    }
+    7 = {
+      "%d. Marine-Stürmdivision"
+    }
+    8 = {
+      "%d. Marine-Stürmdivision"
+    }
+    9 = {
+      "%d. Marine-Stürmdivision"
+    }
+    10 = {
+      "%d. Marine-Stürmdivision"
+    }
+  }
+}
+LUX_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    LUX_INF_01
+  }
+  fallback_name = "%d. Alpenjäger-Division"
+  ordered = {
+    1 = {
+      "%d. Alpenjäger-Division"
+    }
+    2 = {
+      "%d. Alpenjäger-Division"
+    }
+    3 = {
+      "%d. Alpenjäger-Division"
+    }
+    4 = {
+      "%d. Alpenjäger-Division"
+    }
+    5 = {
+      "%d. Alpenjäger-Division"
+    }
+    6 = {
+      "%d. Alpenjäger-Division"
+    }
+    7 = {
+      "%d. Alpenjäger-Division"
+    }
+    8 = {
+      "%d. Alpenjäger-Division"
+    }
+    9 = {
+      "%d. Alpenjäger-Division"
+    }
+    10 = {
+      "%d. Alpenjäger-Division"
+    }
+  }
+}
+LUX_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    LUX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d. Landesschützen-Division"
+  ordered = {
+    1 = {
+      "%d. Landesschützen-Division"
+    }
+    2 = {
+      "%d. Landesschützen-Division"
+    }
+    3 = {
+      "%d. Landesschützen-Division"
+    }
+    4 = {
+      "%d. Landesschützen-Division"
+    }
+    5 = {
+      "%d. Landesschützen-Division"
+    }
+    6 = {
+      "%d. Landesschützen-Division"
+    }
+    7 = {
+      "%d. Landesschützen-Division"
+    }
+    8 = {
+      "%d. Landesschützen-Division"
+    }
+    9 = {
+      "%d. Landesschützen-Division"
+    }
+    10 = {
+      "%d. Landesschützen-Division"
+    }
+  }
+}

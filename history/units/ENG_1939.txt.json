@@ -1,0 +1,3218 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Infantry Division (ME)",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Armour Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "25th Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "5th Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "21st Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|name",
+        "original": "23rd Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|name",
+        "original": "6th Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|name",
+        "original": "24th Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Armour Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|name",
+        "original": "20th Light Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "1st Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|name",
+        "original": "1st London Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|name",
+        "original": "2nd London Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|name",
+        "original": "Northern Ireland Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|name",
+        "original": "Gibraltar Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|name",
+        "original": "Malta Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Infantry Division (ME)",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Armour Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|name",
+        "original": "Cairo Area",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|name",
+        "original": "Canal Area",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Infantry Division (ME)",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|name",
+        "original": "Jerusalem & Lydda Area",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|name",
+        "original": "Aden Defense Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|name",
+        "original": "British Troops in Sudan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|name",
+        "original": "East Africa Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|name",
+        "original": "Northern Rhodesia Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|name",
+        "original": "1 West African Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|name",
+        "original": "2 West African Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|name",
+        "original": "Ceylon Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|name",
+        "original": "Singapore Fortress",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|name",
+        "original": "Penang Fortress",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|name",
+        "original": "Hong Kong VDF",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Home Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HMS Ark Royal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HMS Nelson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|battleship_1|version_name",
+        "original": "Nelson Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "HMS Rodney",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|battleship_1|version_name",
+        "original": "Nelson Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "HMS Royal Oak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "HMS Royal Sovereign",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "HMS Ramillies",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "HMS Hood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|equipment|battle_cruiser_1|version_name",
+        "original": "Admiral Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "HMS Repulse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "HMS Renown",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "HMS Norfolk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "HMS Calcutta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|name",
+        "original": "HMS Aurora",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|equipment|light_cruiser_1|version_name",
+        "original": "Amphion Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############|name",
+        "original": "HMS Newcastle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############|name",
+        "original": "HMS Sheffield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|name",
+        "original": "HMS Edinburgh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|equipment|light_cruiser_2|version_name",
+        "original": "Edinburgh Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###############|name",
+        "original": "HMS Belfast",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###############|equipment|light_cruiser_2|version_name",
+        "original": "Edinburgh Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship################|name",
+        "original": "HMS Sabre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#################|name",
+        "original": "HMS Shikari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##################|name",
+        "original": "HMS Ashanti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###################|name",
+        "original": "HMS Mashona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####################|name",
+        "original": "HMS Matabele",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####################|name",
+        "original": "HMS Somali",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######################|name",
+        "original": "HMS Bedouin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######################|name",
+        "original": "HMS Eskimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########################|name",
+        "original": "HMS Punjabi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########################|name",
+        "original": "HMS Tartar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########################|name",
+        "original": "HMS Faulknor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########################|name",
+        "original": "HMS Foxhound",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############################|name",
+        "original": "HMS Fury",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############################|name",
+        "original": "HMS Fearless",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############################|name",
+        "original": "HMS Forester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###############################|name",
+        "original": "HMS Fame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship################################|name",
+        "original": "HMS Firedrake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#################################|name",
+        "original": "HMS Foresight",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##################################|name",
+        "original": "HMS Fortune",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Northern Patrol",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "HMS Caledon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "HMS Calypso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "HMS Diomede",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "HMS Dragon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "HMS Effingham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "HMS Cardiff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "HMS Delhi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "HMS Dunedin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "HMS Emerald",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|equipment|light_cruiser_1|version_name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "HMS Enterprise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|equipment|light_cruiser_1|version_name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Rosyth Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "HMS Furious",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "HMS Broke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "HMS Wanderer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "HMS Whitehall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "HMS Witch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "HMS Verity",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "HMS Volunteer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "HMS Witherington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "HMS Wolverine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "HMS Wallace",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|name",
+        "original": "HMS Valorous",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|name",
+        "original": "HMS Whitley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Humber Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "HMS Southampton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "HMS Glasgow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "HMS Kelly",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "HMS Javelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "HMS Jersey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "HMS Jervis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "HMS Jupiter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "HMS Jackal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|name",
+        "original": "HMS Janus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|name",
+        "original": "HMS Juno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|name",
+        "original": "HMS Echo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "Nore Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "HMS London",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "HMS Curacoa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "HMS Campbell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "HMS Vivien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "HMS Worcester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "HMS Woolston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|name",
+        "original": "HMS Wolfhound",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|name",
+        "original": "HMS Codrington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship########|name",
+        "original": "HMS Basilisk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#########|name",
+        "original": "HMS Beagle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##########|name",
+        "original": "HMS Boreas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###########|name",
+        "original": "HMS Keith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship############|name",
+        "original": "HMS Blanche",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#############|name",
+        "original": "HMS Boadicea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##############|name",
+        "original": "HMS Brazen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###############|name",
+        "original": "HMS Brilliant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "Portsmouth Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "HMS Skate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "HMS Saladin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "HMS Scimitar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "HMS Sardonyx",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "HMS Vimiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "HMS Winchester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "HMS Ambuscade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|name",
+        "original": "HMS Esk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|name",
+        "original": "HMS Express",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|name",
+        "original": "HMS Malcolm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##########|name",
+        "original": "HMS Veteran",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###########|name",
+        "original": "HMS Wren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship############|name",
+        "original": "HMS Vansittart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#############|name",
+        "original": "HMS Venomous",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##############|name",
+        "original": "HMS Wivern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###############|name",
+        "original": "HMS Achates",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship################|name",
+        "original": "HMS Anthony",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship################|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#################|name",
+        "original": "HMS Arrow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#################|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##################|name",
+        "original": "HMS Amazon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##################|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "Channel Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "HMS Courageous",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "HMS Resolution",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "HMS Revenge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "HMS Ceres",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship####|name",
+        "original": "HMS Caradoc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#####|name",
+        "original": "HMS Cairo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship######|name",
+        "original": "HMS Acasta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#######|name",
+        "original": "HMS Antelope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship########|name",
+        "original": "HMS Ardent",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#########|name",
+        "original": "HMS Acheron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "Western Approaches Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "HMS Sturdy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "HMS Valentine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "HMS Vega",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "HMS Westminster",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|name",
+        "original": "Plymouth Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "HMS Mackay",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "HMS Vanquisher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "HMS Vanoc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "HMS Walker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "HMS Walpole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "HMS Winchelsea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "HMS Versatile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "HMS Vimy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|name",
+        "original": "HMS Whirlwind",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|name",
+        "original": "HMS Warwick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|name",
+        "original": "HMS Montrose",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###########|name",
+        "original": "HMS Venetia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship############|name",
+        "original": "HMS Vanessa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#############|name",
+        "original": "HMS Viscount",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##############|name",
+        "original": "HMS Wessex",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###############|name",
+        "original": "HMS Vesper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship################|name",
+        "original": "HMS Vivacious",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#################|name",
+        "original": "HMS Wakeful",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##################|name",
+        "original": "HMS Windsor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|name",
+        "original": "Portland Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "HMS Exmouth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "HMS Electra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "HMS Eclipse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|name",
+        "original": "HMS Encounter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|name",
+        "original": "HMS Escapade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|name",
+        "original": "HMS Escort",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "Reserve Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "HMS Queen Elizabeth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|equipment|battleship_1|version_name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "HMS Valiant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|equipment|battleship_1|version_name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "HMS Suffolk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "HMS Frobisher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "HMS Hawkins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "HMS Carlisle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "HMS Curlew",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "HMS Whitshed",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|name",
+        "original": "HMS Wild Swan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|name",
+        "original": "HMS Viceroy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|name",
+        "original": "HMS Verdun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###########|name",
+        "original": "HMS Vanity",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|name",
+        "original": "2nd Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|name",
+        "original": "HMS Oxley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|name",
+        "original": "HMS Seahorse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|name",
+        "original": "HMS Starfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|name",
+        "original": "HMS Seawolf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|name",
+        "original": "HMS Spearfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|name",
+        "original": "HMS Starfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|name",
+        "original": "HMS Swordfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|name",
+        "original": "HMS Sturgeon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|name",
+        "original": "HMS Sunfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|name",
+        "original": "HMS Sterlet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##########|name",
+        "original": "HMS Trident",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###########|name",
+        "original": "HMS Triumph",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship############|name",
+        "original": "HMS Triton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#############|name",
+        "original": "HMS Thistle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|name",
+        "original": "5th Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|name",
+        "original": "HMS Oberon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|name",
+        "original": "HMS Thames",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|name",
+        "original": "HMS L23",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###|name",
+        "original": "HMS H28",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship####|name",
+        "original": "HMS H31",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#####|name",
+        "original": "HMS H33",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship######|name",
+        "original": "HMS H34",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#######|name",
+        "original": "HMS H43",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship########|name",
+        "original": "HMS H44",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#########|name",
+        "original": "HMS H49",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##########|name",
+        "original": "HMS H50",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|name",
+        "original": "6th Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship|name",
+        "original": "HMS Undine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#|name",
+        "original": "HMS Unity",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##|name",
+        "original": "HMS Ursula",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###|name",
+        "original": "HMS H32",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship####|name",
+        "original": "HMS L26",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#####|name",
+        "original": "HMS L27",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|name",
+        "original": "North Atlantic Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship|name",
+        "original": "HMS Colombo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#|name",
+        "original": "HMS Capetown",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##|name",
+        "original": "HMS Wryneck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship###|name",
+        "original": "HMS Keppel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship####|name",
+        "original": "HMS Vidette",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#####|name",
+        "original": "HMS Vortigern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship######|name",
+        "original": "HMS Velox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#######|name",
+        "original": "HMS Watchman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship########|name",
+        "original": "HMS Douglas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#########|name",
+        "original": "HMS Active",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##########|name",
+        "original": "HMS Wishart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship###########|name",
+        "original": "HMS Wrestler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|name",
+        "original": "Mediterranean Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship|name",
+        "original": "HMS Glorious",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#|name",
+        "original": "HMS Warspite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#|equipment|battleship_1|version_name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##|name",
+        "original": "HMS Barham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##|equipment|battleship_1|version_name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###|name",
+        "original": "HMS Malaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###|equipment|battleship_1|version_name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####|name",
+        "original": "HMS Devonshire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####|name",
+        "original": "HMS Shropshire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######|name",
+        "original": "HMS Sussex",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######|name",
+        "original": "HMS Arethusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######|equipment|light_cruiser_1|version_name",
+        "original": "Amphion Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########|name",
+        "original": "HMS Penelope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########|equipment|light_cruiser_1|version_name",
+        "original": "Amphion Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########|name",
+        "original": "HMS Galatea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########|equipment|light_cruiser_1|version_name",
+        "original": "Amphion Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##########|name",
+        "original": "HMS Coventry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########|name",
+        "original": "HMS Bulldog",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship############|name",
+        "original": "HMS Wolsey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#############|name",
+        "original": "HMS Stronghold",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##############|name",
+        "original": "HMS Grenville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###############|name",
+        "original": "HMS Gallant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship################|name",
+        "original": "HMS Glowworm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#################|name",
+        "original": "HMS Grafton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##################|name",
+        "original": "HMS Greyhound",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###################|name",
+        "original": "HMS Garland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####################|name",
+        "original": "HMS Gipsy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####################|name",
+        "original": "HMS Grenade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######################|name",
+        "original": "HMS Griffin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######################|name",
+        "original": "HMS Hardy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########################|name",
+        "original": "HMS Hasty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########################|name",
+        "original": "HMS Hereward",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##########################|name",
+        "original": "HMS Hero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########################|name",
+        "original": "HMS Hostile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship############################|name",
+        "original": "HMS Inglefield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#############################|name",
+        "original": "HMS Ilex",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##############################|name",
+        "original": "HMS Isis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###############################|name",
+        "original": "HMS Imogen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship################################|name",
+        "original": "HMS Imperial",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#################################|name",
+        "original": "HMS Icarus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##################################|name",
+        "original": "HMS Impulsive",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###################################|name",
+        "original": "HMS Intrepid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####################################|name",
+        "original": "HMS Ivanhoe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####################################|name",
+        "original": "HMS Afridi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######################################|name",
+        "original": "HMS Gurkha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######################################|name",
+        "original": "HMS Mohawk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########################################|name",
+        "original": "HMS Sikh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########################################|name",
+        "original": "HMS Cossack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##########################################|name",
+        "original": "HMS Maori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##########################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########################################|name",
+        "original": "HMS Nubian",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship############################################|name",
+        "original": "HMS Zulu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship############################################|equipment|destroyer_2|version_name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|name",
+        "original": "1st Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship|name",
+        "original": "HMS Cachalot ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#|name",
+        "original": "HMS Narwhal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##|name",
+        "original": "HMS Seal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship###|name",
+        "original": "HMS Sealion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship###|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship####|name",
+        "original": "HMS Shark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship####|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#####|name",
+        "original": "HMS Snapper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#####|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship######|name",
+        "original": "HMS Salmon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship######|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#######|name",
+        "original": "HMS Porpoise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#######|equipment|submarine_1|version_name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship########|name",
+        "original": "HMS Otway",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship########|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#########|name",
+        "original": "HMS Osiris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#########|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##########|name",
+        "original": "HMS Oswald",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##########|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|name",
+        "original": "West Indies Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship|name",
+        "original": "HMS Berwick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#|name",
+        "original": "HMS York",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship##|name",
+        "original": "HMS Orion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|name",
+        "original": "South Atlantic Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship|name",
+        "original": "HMS Neptune",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship|equipment|light_cruiser_1|version_name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#|name",
+        "original": "HMS Dauntless",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship##|name",
+        "original": "HMS Danae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship###|name",
+        "original": "HMS Durban",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship####|name",
+        "original": "HMS Despatch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#####|name",
+        "original": "HMS Hunter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship######|name",
+        "original": "HMS Hyperion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|name",
+        "original": "South America Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship|name",
+        "original": "HMS Exeter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#|name",
+        "original": "HMS Cumberland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##|name",
+        "original": "HMS Ajax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###|name",
+        "original": "HMS Havock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship####|name",
+        "original": "HMS Hotspur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|name",
+        "original": "7th Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship|name",
+        "original": "HMS Severn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#|name",
+        "original": "HMS Clyde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|name",
+        "original": "East Indies Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship|name",
+        "original": "HMS Gloucester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#|name",
+        "original": "HMS Manchester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship##|name",
+        "original": "HMS Liverpool",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|name",
+        "original": "Hong Kong Destroyer Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship|name",
+        "original": "HMS Scout",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#|name",
+        "original": "HMS Tenedos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship##|name",
+        "original": "HMS Thanet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship###|name",
+        "original": "HMS Thracian",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|name",
+        "original": "Singapore Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship|name",
+        "original": "HMS Eagle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#|name",
+        "original": "HMS Kent",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##|name",
+        "original": "HMS Cornwall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###|name",
+        "original": "HMS Dorsetshire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship####|name",
+        "original": "HMS Birmingham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#####|name",
+        "original": "HMS Duncan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#####|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship######|name",
+        "original": "HMS Decoy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#######|name",
+        "original": "HMS Defender",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#######|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|name",
+        "original": "HMS Duchess",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|name",
+        "original": "HMS Delight",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##########|name",
+        "original": "HMS Dainty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###########|name",
+        "original": "HMS Daring",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###########|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship############|name",
+        "original": "HMS Diamond",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#############|name",
+        "original": "HMS Diana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#############|equipment|destroyer_1|version_name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|name",
+        "original": "4th Submarine Flotilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship|name",
+        "original": "HMS Westcott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#|name",
+        "original": "HMS Grampus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship##|name",
+        "original": "HMS Rorqual",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###|name",
+        "original": "HMS Olympus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship####|name",
+        "original": "HMS Parthian",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship####|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#####|name",
+        "original": "HMS Proteus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#####|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship######|name",
+        "original": "HMS Regent",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship######|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#######|name",
+        "original": "HMS Rover",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#######|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship########|name",
+        "original": "HMS Odin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship########|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#########|name",
+        "original": "HMS Otus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#########|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|name",
+        "original": "Submarine Division 43",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship|name",
+        "original": "HMS Orpheus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#|name",
+        "original": "HMS Pandora",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship##|name",
+        "original": "HMS Perseus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship##|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship###|name",
+        "original": "HMS Phoenix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship###|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship####|name",
+        "original": "HMS Rainbow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship####|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#####|name",
+        "original": "HMS Regulus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#####|equipment|submarine_1|version_name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production#########|equipment|version_name",
+        "original": "Edinburgh Class",
+        "translation": "",
+        "stage": 0
+    }
+]

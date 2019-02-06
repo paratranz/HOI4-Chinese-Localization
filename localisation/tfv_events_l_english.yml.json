@@ -1,0 +1,2234 @@
+[
+    {
+        "key": "tfv_australia.1.t:0",
+        "original": "[From.GetAdjective] Proposal about the Singapore Strategy",
+        "translation": "[From.GetAdjective] 新加坡战略提案",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.1.d:0",
+        "original": "The Singapore Strategy has been the cornerstone of our deterrence policy against [JAP.GetNameDef] since the end of the Great War. However, the redeployment of the Main Fleet to Singapore in case of attack is reliant on support from our allies in [From.GetNameDef]. With the potential threat against British holdings in the Far East increasing by the day, the [From.GetAdjective] high command has presented a potential new stratagem, that would see Australia in far greater control of the defense of the region.\\n\\nIt's a sound plan, and the only question is whether we believe they can provide the security we require.",
+        "translation": "自从那次大战结束以来，新加坡战略一直是我们对[JAP.GetNameDef]的威慑政策的基石。但是，我们将主舰队重新部署在新加坡，并命令舰队待命准备攻击的举动严重依赖于我们在[From.GetNameDef]的盟友的支持。随着英国对远东地区的控制的潜在威胁日益增加，来自[From.GetAdjective]的命令向我们展现了一个可能的新策略，这个新策略将会给澳大利亚对该地区更大的控制权。\\n\\n现在，唯一的问题是我们是否应该相信他们，相信他们能够给予我们所需要的安全。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.1.a:1",
+        "original": "Australia should provide the first line of defense in Southeast Asia.",
+        "translation": "澳大利亚应该组织起在东南亚的第一道防线。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.1.b:0",
+        "original": "The Singapore Strategy will remain as it always has.",
+        "translation": "新加坡战略将会被保留，就像以前一样。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.2.t:0",
+        "original": "[From.GetNameDefCap] Transfers Colonial Holdings",
+        "translation": "从[From.GetNameDefCap]接管殖民地",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.2.d:0",
+        "original": "The [From.GetAdjective] has passed the law that will transfer control of all [From.GetAdjective] colonial possessions near Singapore and the Borneo to [Root.GetNameDef].\\n\\nOur national safety is finally in our own hands.",
+        "translation": "[From.GetAdjective]已经通过了法案，将新加坡和婆罗洲附近所有[From.GetAdjective]殖民地财产移交到了[Root.GetNameDef]手上。\\n\\n我们国家的安全终于被我们掌握在自己手中了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.2.a:0",
+        "original": "We will not disappoint.",
+        "translation": "我们不会失望。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.3.t:0",
+        "original": "[From.GetNameDefCap] Rejects Strategic Adjustments",
+        "translation": "[From.GetNameDefCap]拒绝战略调整",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.3.d:0",
+        "original": "Despite our valid concerns about the viability of the Singapore Strategy, our suggestions to change it have been rejected in the [From.GetAdjective] parliament. \\nThis seems a result of the military conservatism dominating the [From.GetAdjective] High Command, but the fact is that if our fears come to pass, we may have to face enemy forces on our shores.",
+        "translation": "尽管我们对新加坡战略可行性的担忧合情合理，我们对其修改的提案依然被[From.GetAdjective]议会否决。\\n这似乎是[From.GetAdjective]最高指挥部中军事保守主义占有统治地位的结果，但事实是，如果我们所惧怕的成为了事实，我们可能要在海岸上与敌人短兵相接。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.3.a:0",
+        "original": "With or without [From.GetAdjective] support, [Root.GetNameDef] will stand tall!",
+        "translation": "来自[From.GetAdjective]的支持？谁在乎？[Root.GetNameDef]将会一直矗立在那里，昂首挺胸，气宇轩扬！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.10.t:0",
+        "original": "[From.GetNameDefCap] Offers Protection for Our Colonies",
+        "translation": "[From.GetNameDefCap]为我们的殖民地提供保护",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.10.d:0",
+        "original": "[From.GetNameDefCap] has initiated negotiations with [Root.GetAdjective] diplomats for the potential transfer of responsibility over the protection of [Root.GetAdjective] territory in Southeast Asia.\\n\\nConsidering the challenges inherent in defending said territory, a partnership may not be such a bad idea. It would mean that for the foreseeable future said territory would only be nominally [Root.GetAdjective], but nominal ownership is surely better than completely losing them.",
+        "translation": "[From.GetNameDefCap]已经和[Root.GetAdjective]的外交官就保护东南亚地区[Root.GetAdjective]的责任移交展开谈判。\\n\\n考虑到捍卫所述领土固有的挑战，合作不会是一个坏主意。这意味着在将来的一段时间内，这些领土只会名义上属于[Root.GetAdjective]，但名义上拥有总是比彻底失去哪里要好些。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.10.a:0",
+        "original": "[From.GetNameDefCap] will be the executor of [Root.GetAdjective] interests in the region.",
+        "translation": "[From.GetNameDefCap]将会为[Root.GetAdjective]在该地区的利益而行动。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.10.b:0",
+        "original": "[Root.GetAdjective] territory will remain in [Root.GetAdjective] hands!",
+        "translation": "[Root.GetAdjective]的领地将会保留在[Root.GetAdjective]手中。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.11.t:0",
+        "original": "[From.GetNameDefCap] Cedes Protectorates",
+        "translation": "[From.GetNameDefCap]放弃受保护国",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.11.d:0",
+        "original": "[Root.GetAdjective] troops stood ready to assume responsibilities for the protection of all [From.GetAdjective] territory in Southeast Asia as soon as [From.GetLeader] approved the agreement.\\n\\nWhile some local resistance was met in the transfer, fear of foreign aggression ensures that most recognize the need for [Root.GetAdjective] defense.",
+        "translation": "[Root.GetAdjective]的军队已经准备好去保护[From.GetAdjective]在东南亚所有的领土，只要[From.GetLeader]同意协议。\\n\\n虽然在移交过程中遇到一些地方抵抗，但对外国侵略的恐惧使得大多数人承认需要[Root.GetAdjective]的保护。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.11.a:0",
+        "original": "[Root.GetNameDefCap] will do what she must.",
+        "translation": "[Root.GetNameDefCap]将会做她该做的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.12.t:0",
+        "original": "[From.GetAdjective] Block Regional Safety Measures",
+        "translation": "[From.GetAdjective]阻止区域安全措施的施行",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.12.d:0",
+        "original": "Believing themselves to be sufficiently capable of protecting [From.GetAdjective] territory in Southeast Asia, [From.GetNameDef] has refused our proposal of a shared defense strategy.\\n\\nUndoubtedly motivated by worries of colonial control, their actions are understandable. However, if they are incapable of protecting their territory - as we fear - we may see it used as the launch platform for an attack on the Australian continent.",
+        "translation": "随着对自己能够防守东南亚领地的信心，[From.GetAdjective]拒绝了我们提出的共同防守战略的提案。\\n\\n毫无疑问，由于对自己殖民地的担忧，[From.GetNameDef]的行动是可以理解的，但是，如同我们所担心的，这些东南亚领地将会成为敌人进攻澳大利亚本土的跳板。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.12.a:0",
+        "original": "We can only hope they will be able to resist.",
+        "translation": "我们只能希望他们能够抵抗",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.20.t:0",
+        "original": "[From.GetNameDefCap] Demands Our Annexation!",
+        "translation": "[From.GetNameDefCap]要求合并！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.20.d:0",
+        "original": "We have long worryingly followed the growth of nationalistic fervor in [From.GetNameDef], and it seems as though the day has finally come when it has spilled out past their own borders.\\nCiting a common heritage as \"pioneer nations,\" suggestions have been floated of a united state of Oceania. Rhetoric has turned increasingly aggressive in the face of [Root.GetAdjective] resistance, however.\\n\\nNow political speculation has turned to open hostility, and [From.GetLeader] publicly demands the annexation of all [Root.GetAdjective] territory to the state of [From.GetNameDef].\\nIf we refuse, a forceful invasion seems entirely possible.",
+        "translation": "我们长久以来一直充满担忧的见证着[From.GetNameDef]民族主义热情的不断增长，如同我们所想的那样，当民族主义热情沸腾着越过理智的界线时，这一天终于到来了。\\n作为“先驱国家”的共同遗产，国家内部已经有声音在呼吁一个统一的大洋洲国家的建立。同时，舆论在面对[Root.GetAdjective]抵抗时已经变得越来越激进，\\n\\n而且现在的政治局面已经显现出了公开的敌意。并且[From.GetLeader]公开要求将[Root.GetAdjective]的所有领土合并到[From.GetNameDef]中。\\n如果我们拒绝，一场强有力的入侵是有可能发生的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.20.a:0",
+        "original": "We have no choice but to accept our new status as a province of [From.GetNameDef].",
+        "translation": "我们没有选择，只能接受作为[From.GetNameDef]的一个省份继续存在。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.20.b:0",
+        "original": "If they want our islands they can come fight for them!",
+        "translation": "如果他们想要我们的岛屿，他们可以过来并用血的代价获得它们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.21.t:0",
+        "original": "[From.GetNameDefCap] Accepts Annexation",
+        "translation": "[From.GetNameDefCap]接受吞并",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.21.d:0",
+        "original": "The [From.GetAdjective] has folded to our ultimatum, and accepts their new status as a province of [Root.GetNameDef]. While [From.GetAdjective] PM [From.GetLeader] mourns the loss of [From.GetAdjective] \"independence,\" this moment marks the beginning of a new era for Oceania.\\n\\n[From.GetNameDef], like us, are now done being the lapdogs of an Empire that does not have our interests at heart.",
+        "translation": "[From.GetAdjective]已经收到了我们的最后通牒，并接受成为[Root.GetNameDef]的一个省。当[From.GetAdjective]的首相[From.GetLeader]在为[From.GetAdjective]“独立”的丧失而默哀时，大洋洲的一个新时代已经降临。\\n\\n[From.GetNameDef]和我们一样，已经再也不会去做那些完全不在乎我们利益的帝国主义掠夺者们的走狗。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.21.a:0",
+        "original": "[Root.GetNameDefCap] and New Zealand, together towards a stronger future!",
+        "translation": "[Root.GetNameDefCap]携手新西兰，一起走向更光明的未来。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.22.t:0",
+        "original": "[From.GetNameDefCap] Refuses Our Offer of Unity",
+        "translation": "[From.GetNameDefCap]拒绝了我们联合的提议。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.22.d:0",
+        "original": "Failing to acknowledge their precarious position in the geopolitical landscape of the Pacific, the [From.GetAdjective] government has refused our offer to make New Zealand one of the foremost provinces of [Root.GetNameDef].\\nNot realizing they are merely Britain's lapdog, [From.GetAdjective] Premier [From.GetLeader] cited principles of [From.GetAdjective] \"freedom and independence.\"\\n\\nIt seems we have to remind [From.GetNameDef] exactly what we mean by describing their position as \"geopolitically precarious.",
+        "translation": "没有意识到自身在太平洋地缘政治中的危险处境，[From.GetAdjective]政府拒绝了我们提出的将新西兰变为[Root.GetNameDef]最重要的一个省的提议。\\n没有意识到他们只是英国的走狗，[From.GetAdjective]的总理[From.GetLeader]引用了[From.GetAdjective]的“自由与独立”原则。\\n\\n似乎是时候提醒[From.GetNameDef]一下我们所描述的“地缘政治危险”的含义了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.22.a:0",
+        "original": "To arms, [Root.GetAdjective]s!",
+        "translation": "武装起来，[Root.GetAdjective]人！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.31.t:0",
+        "original": "[Root.GetNameDefCap] as a Global Leader",
+        "translation": "[Root.GetNameDefCap]将成为全球领袖",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.31.d:0",
+        "original": "Following our recent policy of distancing ourselves from the Empire, it only makes sense for a country as dominant as we are in our own sphere to assume the position of a leader, rather than a follower.\\nWe will gather other regional powers to our cause, and ensure that our mutual interests are defended on the global stage.\\n\\nNo longer in servitude to the colonial powers of Europe, we will ensure a new, more just balance of power.",
+        "translation": "根据我们最近的政策，我们疏远英国，这种行动只在一个国家在自身周边地区具有统治地位时才能起到作用，正如我们这样，我们在我们的领域中是支配者，而不是追随者。\\n我们将聚集其他地区的力量参与到我们的事业中，并确保我们的共同利益在全球舞台上得到保护。\\n\\n不再被欧洲的殖民强权所奴役，我们将建立一个更加公正的崭新的权力平衡。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.31.a:0",
+        "original": "[Root.GetNameDefCap] leads the way to the future!",
+        "translation": "[Root.GetNameDefCap]引领未来！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.32.t:0",
+        "original": "[From.GetNameDefCap] Requests Political Cooperation",
+        "translation": "[From.GetNameDefCap]要求政治合作",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.32.d:0",
+        "original": "Following the formal departure of [From.GetNameDef] from the Commonwealth, the [From.GetAdjective] government is now looking for new allies. With Europe seemingly on the brink of a new, costly conflict, and the strategic value of [From.GetNameDef] to any potential conflict in the Pacific, a partnership may be in our best interest.\\n\\nIt would certainly emphasize Southeast Asia, the Far East and the Pacific as parts of our sphere of influence, and ensure that no matter what happens in Europe, [Root.GetAdjective] interests will not be intruded upon.",
+        "translation": "自从[From.GetNameDef]离开英联邦以来，[From.GetAdjective]一直在寻找新的盟友。由于欧洲正处在另一个冲突爆发的边缘，以及[From.GetNameDef]在太平洋地区的战略价值，合作伙伴关系可能符合我们的最大利益。\\n\\n这将会加强我们对太平洋，东南亚以及远东的影响，并保证在欧洲爆发的冲突不会影响到[Root.GetAdjective]的利益。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.32.a:1",
+        "original": "We would be happy to call them our ally!",
+        "translation": "我们会很高兴地称呼他们为盟友！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.32.b:0",
+        "original": "We can protect our interests better on our own.",
+        "translation": "我们自己可以更好地保护我们的利益。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.33.t:0",
+        "original": "[From.GetNameDefCap] Agrees to Pacific Cooperation",
+        "translation": "[From.GetNameDefCap]同意展开太平洋合作",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.33.d:0",
+        "original": "Seeing the obvious benefits of transpacific partnership, [From.GetNameDef] has agreed to our proposal of a regional alliance.",
+        "translation": "看出了合作所能带来的明显利益，[From.GetNameDef]同意了我们的提议并和我们结成了地区盟友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.33.a:0",
+        "original": "The old masters are dead. We are all equals now.",
+        "translation": "旧主人已经死了。我们现在都是平等的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.34.t:0",
+        "original": "[From.GetNameDefCap] Declines Cooperation Project",
+        "translation": "[From.GetNameDefCap]拒绝合作",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.34.d:0",
+        "original": "Whether it is failure to acknowledge our shared history, or simply a matter of political opportunism, [From.GetNameDef] has declined our offer of a transpacific partnership.\\n\\nWhile their participation would have been a great asset, we should move forwards with our own agenda, towards our own goals.",
+        "translation": "无论承认我们的共同历史是一场失败，或仅是一场政治机会主义的闹剧，[From.GetNameDef]拒绝了我们提出的建立一个跨太平洋合作伙伴的建议。\\n\\n他们的参与本可以成为一笔巨大的财富，我们应该独自向前，为了我们的目标而努力。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.34.a:0",
+        "original": "We will still do what we can for our corner of the world.",
+        "translation": "我们依然会做我们能做的以保护我们的世界角落。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.34.b:0",
+        "original": "We have failed.",
+        "translation": "我们失败了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.41.t:0",
+        "original": "In Pursuit of [INS.GetAdjective] Freedom",
+        "translation": "[INS.GetAdjective]追求自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.41.d:0",
+        "original": "With turmoil rampant in the former [HOL.GetAdjective] colonies, it is apparent that [INS.GetNameDef], our trusted neighbor, requires a helping hand to maintain their hard-won authority. For as long as they need our support, [Root.GetNameDef] is there to support the [INS.GetAdjective] government.\\n\\nOne day [INS.GetNameDef] will be able to stand up to European colonial forces as our Pacific brother. Until then, we will ensure they stand strong along with us.",
+        "translation": "随着之前[HOL.GetAdjective]殖民地的混乱，我们值得信任的邻居[INS.GetNameDef]显然需要一个帮手来维护他们来之不易的权威。只要他们需要我们的支持，[Root.GetNameDef]将随时为[INS.GetAdjective]政府提供必要的帮助。\\n\\n终有一天[INS.GetNameDef]将会作为我们的太平洋伙伴对抗欧洲殖民强权。在此之前，我们应该确保他们坚强地站在我们这边。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.41.a:0",
+        "original": "Together in arms, against the world if we must!",
+        "translation": "一起武装起来，对抗全世界！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.50.t:0",
+        "original": "[From.GetNameDefCap] Requests Membership in the [Root.GetFactionName]",
+        "translation": "[From.GetNameDefCap]请求成为[Root.GetFactionName]的成员",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.50.d:0",
+        "original": "Identifying as a nation of workers, free of the old European bourgeoisie, [From.GetNameDef] has gradually moved into the [Root.GetAdjective] sphere of politics. The [From.GetAdjective] government has officially requested national membership in the [Root.GetFactionName].\\n\\nWith the World Revolution in sight, [From.GetLeader] presents a vision of [Root.GetNameDef] and [From.GetNameDef] as two of the key poles in a new, Socialist world order, building on [From.GetNameDef]'s dominance in Oceania, and [Root.GetNameDef]'s in Eurasia.",
+        "translation": "作为一个从欧洲旧资产阶级得到自由的工人国家，[From.GetNameDef]逐渐进入了[Root.GetAdjective]的政治圈。[From.GetAdjective]政府已经正式提出了成为[Root.GetFactionName]会员国的请求。\\n\\n随着世界革命的到来，[From.GetLeader]提出了将[Root.GetNameDef]和[From.GetNameDef]作为社会主义新世界的两极，以[From.GetNameDef]统治大洋洲而[Root.GetNameDef]统治欧亚大陆。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.50.a:0",
+        "original": "Any revolutionary nation is welcomed with open arms!",
+        "translation": "任何拥有武装的革命国家都将受到我们的欢迎。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.50.b:0",
+        "original": "We cannot afford the conflicts the [From.GetAdjective]s will surely drag us into.",
+        "translation": "我们不能承担冲突，[From.GetAdjective]人将会将我们拖入战争的深渊。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.51.t:0",
+        "original": "Brothers of the Revolution",
+        "translation": "革命兄弟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.51.d:0",
+        "original": "[From.GetNameDefCap] has considered our request for membership in the [From.GetFactionName], and declared us a valued ally of the cause!",
+        "translation": "[From.GetNameDefCap]考虑了我们成为[From.GetFactionName]的成员的提案，并且宣布我们是有价值的盟友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.51.a:0",
+        "original": "The World Revolution awaits!",
+        "translation": "期盼世界革命",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.52.t:0",
+        "original": "Going It Alone",
+        "translation": "独自前进",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.52.d:0",
+        "original": "Following weeks of stalled negotiations and bureaucratic trappings, it has become apparent that [From.GetNameDef] are not interested in giving us a definitive answer on our accession to the [From.GetFactionName].\\nAs we were hoping for quick and conclusive negotiations, [Root.GetNameDef] must prepare to bring true freedom to the workers of the world on her own.",
+        "translation": "经过了几个星期的谈判，[From.GetNameDef]很明显的不想就我们加入[From.GetFactionName]的议题给出一个明确的回复。\\n如同我们期待快速的，有决断性的谈判那样，[Root.GetNameDef]应该准备好给世界上所有的工人带去真正的自由。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.52.a:0",
+        "original": "We fight for the oppressed in all corners of the world!",
+        "translation": "我们为世界所有角落的被压迫者而战！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.60.t:0",
+        "original": "[From.GetNameDefCap] Imposes Overlordship",
+        "translation": "[From.GetNameDefCap]强加霸权",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.60.d:0",
+        "original": "Citing the rights of all workers to freedom and self-determination, the [From.GetAdjective] government is demanding that the [Root.GetAdjective] state gives in to the wave of \"Oceanic Socialism\" washing over our region.\\n\\nRegardless of the actual interest of the people of [Root.GetNameDef], the threat from [From.GetNameDef] is real, and there is little doubt that they are likely to press their demands with all means available to them...",
+        "translation": "援引工人自由与自决的权利，[From.GetAdjective]政府要求[Root.GetAdjective]投入到正在席卷这片地区的“海洋社会主义”运动中。\\n\\n无论[Root.GetNameDef]人民的民意如何，来自[From.GetNameDef]的威胁都是真实的。毫无疑问的，他们将会使用一切可用的手段以达到他们的目的……",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.60.a:0",
+        "original": "We don't really have a choice. For the revolution, mates.",
+        "translation": "关于革命伙伴，我们真的没有选择。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.60.b:0",
+        "original": "[Root.GetNameDefCap] will never submit!",
+        "translation": "[Root.GetNameDefCap]永不屈服！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.61.t:0",
+        "original": "[From.GetNameDefCap] Joins the Revolutionary Struggle!",
+        "translation": "[From.GetNameDefCap]加入革命斗争！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.61.d:0",
+        "original": "Acknowledging the truth and righteousness of the Communist cause, [From.GetNameDef] has agreed with the need of uniting our efforts under a common Oceanic banner.",
+        "translation": "承认共产主义的正义与真理，[From.GetNameDef]同意与我们团结在同一海洋旗帜下，并肩战斗。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.61.a:0",
+        "original": "From below the red tide will rise to consume the world!",
+        "translation": "试看将来环球，必是赤潮的天下！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.62.t:0",
+        "original": "[From.GetNameDefCap] Attempts to Disrupt the Revolution",
+        "translation": "[From.GetNameDefCap]试图打断革命进程",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.62.d:0",
+        "original": "Having kept the [From.GetAdjective] people oppressed under their bourgeois thumbs, the fat cats in control of the government of [From.GetNameDef] have now announced that they under absolutely no conditions will cooperate with the [Root.GetAdjective] state.\\nPity for them that we do not seek their cooperation, but rather that of those slaving under the weight of their opulent obesity!",
+        "translation": "由于[From.GetAdjective]的人民一直被资本主义所压迫，在肥猫控制下的[From.GetNameDef]政府现在宣布了他们没有条件与[Root.GetAdjective]合作。\\n可怜啊，我们并没有寻求与他们的合作，我们的合作对象是那些被压迫的人民！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.62.a:0",
+        "original": "We will bring true freedom to [From.GetNameDef]!",
+        "translation": "我们将会带给[From.GetNameDef]真正的自由！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.70.t:0",
+        "original": "[From.GetNameDefCap] Demands Right to Control Protectorates",
+        "translation": "[From.GetNameDefCap]要求控制受保护国",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.70.d:0",
+        "original": "Claiming that a failure on the part of [Root.GetNameDef] to defend its colonial holdings in Southeast Asia would have catastrophic implications for [From.GetNameDef] national defense, [From.GetLeader] has requested that the [From.GetAdjective] government be given full, independent responsibility for the defense of the region.\\nWhile not an outright demand, the growth of [From.GetAdjective] strategic and military influence in the region has the argument make some sense. The counterbalance being the recent political distancing from us that [From.GetNameDef] has embraced.\\nThis would be an agreement with a potential partner, not a subject, and would leave the colonies de facto out of our hands, should [From.GetNameDef] choose to make it so.",
+        "translation": "宣布[Root.GetNameDef]对其在东南亚的殖民地的防御部分失败，将会对[From.GetNameDef]的国防造成灾难性的影响，[From.GetLeader]已经对[From.GetAdjective]提出要求，要求他们对该地区的防御担任起全面而独立的责任。\\n虽然这并不是一个彻底的需求，但[From.GetAdjective]在该地区的战略与军事影响使得这个要求具有一定意义。我们最近的政治目标是相互平衡，这点[From.GetNameDef]已经接受。\\n并且这将给我们带来一个潜在盟友，而不仅仅是一条协议，这将使得殖民地脱离我们的实际掌控，[From.GetNameDef]应该选择这样做。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.70.a:0",
+        "original": "Yes, the stability of Southeast Asia is a priority.",
+        "translation": "对，东南亚的稳定高于一切。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.70.b:0",
+        "original": "No, we will be the sole controller of our own colonial possessions!",
+        "translation": "不，我们将会独自占有我们所有的殖民地财产！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.71.t:0",
+        "original": "Defensive Commission",
+        "translation": "防御委员会",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.71.d:0",
+        "original": "Following overtures from the [Root.GetAdjective] military command, [From.GetNameDef] has decided to give us \"intermediate control\" of all [From.GetAdjective] colonial holdings in Southeast Asia.\\n\\nWith the old forces of the Pacific none the wiser, our attempts to ensure [Root.GetNameDef] dominance over the region continues.",
+        "translation": "根据[Root.GetAdjective]军事指挥部的陈述，[From.GetNameDef]决定给予我们对[From.GetAdjective]所有的东南亚所有殖民地的“中间控制权”。\\n\\n随着太平洋的旧势力变得迟钝，我们将努力确定[Root.GetNameDef]在该地区的统治地位延续下去。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.71.a:0",
+        "original": "We'll make the old country proud.",
+        "translation": "我们将让这个古老的国家感到自豪。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.72.t:0",
+        "original": "[From.GetNameDefCap] Declines \"Defense Project",
+        "translation": "[From.GetNameDefCap]拒绝“防御计划”",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.72.d:0",
+        "original": "Despite overtures from the [Root.GetAdjective] High Command, [From.GetNameDef] has rejected our request for control of their colonies in the Southeast Asian region.\\n\\nOur ambitions are untempered, however. We will continue to seek ways of securing [Root.GetAdjective] prominence in the Pacific.",
+        "translation": "经管来自[Root.GetAdjective]的高级命令显示[From.GetNameDef]已经拒绝了我们接管他们东南亚殖民地的请求。\\n\\n我们将会继续寻找方法以确保[Root.GetAdjective]在太平洋中的重要性。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.72.a:0",
+        "original": "[Root.GetNameDefCap] stands strong, despite this setback.",
+        "translation": "[Root.GetNameDefCap]永不言弃。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.80.t:0",
+        "original": "An Offer From Beyond the Sea",
+        "translation": "大洋彼岸的提议",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.80.d:0",
+        "original": "[From.GetNameDefCap] has over time become more sympathetic to the imperial ambitions of [Root.GetNameDef]. As the only other major military force based in the region, the [From.GetAdjective]s have decided it is better to stand as our proud ally than as our humbled servants.\\n\\nTo raise our interest, the proposal for a West Pacific alliance clearly outlines the [Root.GetAdjective] sphere to also include several territories currently controlled by the enemies of [From.GetNameDef].",
+        "translation": "[From.GetNameDefCap]变得更加同情[Root.GetNameDef]的帝国野心。作为本地区唯一的其他主要军事力量，[From.GetAdjective]人决定成为我们的盟友而不是卑微的仆人。\\n\\n为了增加我们的兴趣，一个西太平洋联盟的提案概述了[Root.GetAdjective]的势力范围，甚至还包括了几块被我们的敌人[From.GetNameDef]所控制的领地。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.80.a:0",
+        "original": "Together we will completely dominate the eastern hemisphere!",
+        "translation": "并肩战斗，我们将成为东半球的霸主！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.80.b:0",
+        "original": "Our ambitions have no room for those backwater farmers!",
+        "translation": "燕雀安知鸿鹄之志？我们的野心没有那些思想守旧的农夫的立足之处！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.81.t:0",
+        "original": "[From.GetNameDefCap] Approves Alliance",
+        "translation": "[From.GetNameDefCap]同意结盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.81.d:1",
+        "original": "Our delegation to Japan has returned triumphant. We have signed an official alliance with [JAP.GetName]. The document clearly defines speheres of interest for each of our countries, in which the other can not interfere.",
+        "translation": "我们前往日本的外交团凯旋而归。我们已经正式与[JAP.GetName]签署了结盟文件。这些文件清楚地规定了我们这些国家的利益关系，另一国不可干预。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.81.a:0",
+        "original": "[Root.GetAdjective]s and [From.GetAdjective] across the West Pacific will benefit from this.",
+        "translation": "在大洋两岸的[Root.GetAdjective]人和[From.GetAdjective]都将获利于此。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.82.t:0",
+        "original": "The [From.GetAdjective] Government Resists Partnership!",
+        "translation": "[From.GetAdjective]政府拒绝伙伴关系！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.82.d:0",
+        "original": "Despite our accession to the forefront of the global stage, [From.GetNameDef] has refused to acknowledge our importance in the West Pacific region. \\nNot only did the [From.GetAdjective] refuse us outright, they expressed in no uncertain terms that their doctrine of Nanshin-ron might very well bring them beyond Indonesia, towards the Australian continent itself.",
+        "translation": "尽管我们已经站在了世界舞台的最前沿，但[From.GetNameDef]依然拒绝承认我们在西太平洋的重要性。\\n不仅仅是[From.GetAdjective]彻底拒绝承认我们，他们毫不含糊的承认我们的南进论可能会被带到印度尼西亚，从澳大利亚本土。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.82.a:0",
+        "original": "If they will not stand with us, we will make them kneel for us.",
+        "translation": "如果他们不与我们站在同一条战线上，我们将让他们屈膝臣服。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.90.t:0",
+        "original": "The Coronation Visit",
+        "translation": "加冕仪式",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.90.desc:0",
+        "original": "[AST.GetLeader] has travelled to Britain to take part in the coronation ceremony for King George VI and Queen Elizabeth. Following several weeks of lunches, dinners, garden parties, receptions, and more dinners, he has finally succeeded in securing a private audience with the new King. After an exchange of pleasantries and small talk, the topic turns to politics, and the King asks what he can do to help [AST.GetNameDef].",
+        "translation": "[AST.GetLeader]前往英国参加国王乔治六世和女王伊丽莎白的加冕仪式。在进行了几周的聚餐，花园派对，接待和更多的聚餐后，他成功争取到了一次与国王进行私下会谈的机会。在寒暄过后，谈话的主题转移到了政治方面，国王表示他希望帮助[AST.GetNameDef]。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.90.a:0",
+        "original": "Ask the King to make a visit to Australia to boost morale.",
+        "translation": "请求国王对澳大利亚进行访问以提升士气。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.90.b:0",
+        "original": "Ask the King to support a recruitment campaign.",
+        "translation": "请求国王支持扩军征兵。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.90.c:0",
+        "original": "Ask the King to publically support the government.",
+        "translation": "请求国王公开地支持政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.95.t:0",
+        "original": "Nationalists on the rise in Indonesia",
+        "translation": "国家主义在印度尼西亚抬头",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.95.desc:0",
+        "original": "There has been a marked increase in Nationalist agitation all across Indonesia in the recent weeks. Intelligence estimates of the number of Nationalist sympathizers have grown to alarming size. Of particular concern are reports that some Nationalist leaders are openly discussing an armed insurrection. Just yesterday, a naval vessel intercepted a suspicious fishing boat south of Java. Found on board were weapons and ammunition without official markings. Interrogation of the crew has yielded no results so far, but it appears that someone is trying to stir up trouble.",
+        "translation": "在最近几周，印度尼西亚境内的国家主义运动剧烈增长。可靠的统计显示国家主义支持者的数量已经上升到了惊人的程度。特别令人关切的是，有报道称发现了武装起义的迹象。就在昨天，一艘军舰在爪哇南部拦截到了一艘可疑渔船，渔船上满载着没有官方标记的武器与弹药。到目前为止，对船员的询问没有得到任何有价值的线索，但似乎有人在试图阻止麻烦发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.95.a:0",
+        "original": "Deeply unsettling.",
+        "translation": "极度不安",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.96.t:0",
+        "original": "Civil War!",
+        "translation": "内战！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.96.desc:0",
+        "original": "Armed Nationalists take to the streets all over Indonesia. Military and police actions against the uprising have proven unsuccessful thus far. This armed insurrection has come in the wake of a sudden rise in Nationalist sentiment, which now means we are in an all out civil war.",
+        "translation": "武装的民族主义者走上了印度尼西亚的大街小巷，警察和军队的应对措施毫无效果。最近高涨的民族主义情绪引发了这场武装冲突，我们现在已经被卷入了一场全面的内战中。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.96.a:0",
+        "original": "Resist the nationalist scum!",
+        "translation": "抵抗这些民族主义垃圾！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_australia.96.b:0",
+        "original": "Join the uprising!",
+        "translation": "参加革命！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.1.t:0",
+        "original": "[From.GetNameDefCap] Requests North American Alliance",
+        "translation": "[From.GetNameDefCap]寻求北美同盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.1.d:0",
+        "original": "With diplomatic interests across the North American continent aligning, and Europe in greater turmoil by the day, [From.GetNameDef] has proposed a radical political move.\\nBy entering a mutual defense pact, we can ensure the safety and integrity of the Americas, while significantly expanding our political and military options in any given situation. [From.GetLeader] stated it was an \"obvious choice,\" to ensure the prosperity of [Root.GetNameDef] as well as [From.GetNameDef], and [Root.GetLeader] seems to agree that it is difficult to argue otherwise.",
+        "translation": "随着北美洲大陆的外交利益趋于一致，随着欧洲濒临混乱的边缘，[From.GetNameDef]提出了一项激进的政治举动。\\n借助签署一项互相保护协定，我们将可以保证北美的完整和安全，并且让我们在任何特殊情况下大大扩大我们的政治与军事选择。[From.GetLeader]表示这是一个“显而易见”的选择，以确保[Root.GetNameDef]和[From.GetNameDef]的繁荣，并且[Root.GetLeader]似乎同意，否则这事难以成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.1.a:0",
+        "original": "This is a sound strategy. We will join with [From.GetNameDef]!",
+        "translation": "这是一项健全的策略，我们选择和[From.GetNameDef]一起加入！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.1.b:0",
+        "original": "We will not accept any chance of being dragged into issues beyond our own borders.",
+        "translation": "我们不会接受任何将我们拖入自己边境线外的问题的机会。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.2.t:0",
+        "original": "North American Alliance Established",
+        "translation": "北美联盟的建立",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.2.d:0",
+        "original": "Today marks the signing of a new treaty, celebrating the friendship and support shared between [Root.GetNameDef] and [From.GetNameDef]. Our two countries promise to aid each other in matters of foreign policy, including the defense of our continent.\\n\\nWith our nations working together, the foreign aggressors of the world do not stand a chance against us.",
+        "translation": "今天标志这一项新条约的签订，让我们庆祝吧，欢呼着迎来[Root.GetNameDef]和[From.GetNameDef]之间的友谊。我们两国承诺当我们面临外国政策的威胁时互相帮助，包括共同守卫我们的大陆。\\n\\n我们两个国家团结在一起，没有外国侵略者有对抗我们的机会。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.2.a:0",
+        "original": "From Sea to Sea!",
+        "translation": "从海到海！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.3.t:0",
+        "original": "[From.GetNameDefCap] Rejects the North American Alliance",
+        "translation": "[From.GetNameDefCap]拒绝北美联盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.3.d:0",
+        "original": "Despite the benefit of a formalized measure of military cooperation between our two countries, as exemplified by the Joint Defense Board, the [From.GetAdjective] has rejected our negotiations for a permanent alliance.\\nThe pact would have ensured the integrity of the North American continent, but now it seems we will have to find other means of defending the homeland.",
+        "translation": "尽管两国之间的正式军事合作能够带来巨大的好处，正如联合防务委员会所展示的那样，[From.GetAdjective]依然拒绝了关于组建永久联盟的谈判请求。\\n该条约将确保北美大陆的完整性，但从现在来看，我们不得不寻找其他方法以捍卫我们的家园。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.3.a:0",
+        "original": "We have other options.",
+        "translation": "我们还有其他选择。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.10.t:0",
+        "original": "[From.GetNameDefCap] Seeks Membership in the [Root.GetFactionName]",
+        "translation": "[From.GetNameDefCap]寻求成为[Root.GetFactionName]的一员",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.10.d:0",
+        "original": "Following its abandonment of the Commonwealth, [From.GetNameDef] is negotiating for a position as one of our allies in the [Root.GetFactionName]. Their Communist convictions are strong, and it's undeniable that an ally on the American continent would be of great benefit to the cause of the world revolution...\\nWhile their concept of Patriotic Socialism, independent nature, and [From.GetLeader]'s attempted Industrialization Miracle may all cause issues in the future, this seems too good of an opportunity to pass up.",
+        "translation": "在抛弃联邦之后，[From.GetNameDef]正在为了一个[Root.GetFactionName]内的位置而与我们谈判。他们的共产主义信仰是坚定的，而且毫无疑问的是，在美洲大陆上的共产主义盟友将会对世界革命的事业带来巨大的好处。\\n他们的爱国社会主义，独立自主的本性以及[From.GetLeader]尝试工业化的奇迹都有可能在未来造成问题，但错过这个机会就太可惜了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.10.a:0",
+        "original": "We welcome all true revolutionaries with open arms!",
+        "translation": "我们欢迎所有武装的革命者！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.10.b:0",
+        "original": "It is too great a risk right now.",
+        "translation": "这太冒险了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.11.t:0",
+        "original": "A True American Revolution",
+        "translation": "一场真正的美国式革命",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.11.d:0",
+        "original": "Having cast off the remnants of a bourgeoisie propped up by centuries of colonial violence, we have at last made our entrance onto the world stage. We stand side by side with [From.GetNameDef] in the [From.GetFactionName] as we seek to spread the world revolution to every part of the globe!",
+        "translation": "抛弃了存在了几个世纪的由殖民暴力支撑的资本主义残余，我们终于进入了世界舞台。但我们试图向全球传播世界革命时，我们与[From.GetFactionName]中的[From.GetNameDef]并排而立。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.11.a:0",
+        "original": "We'll show this continent what a revolution actually means!",
+        "translation": "我们将会告诉这片大陆什么是革命！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.12.t:0",
+        "original": "[From.GetNameDefCap] Refuses Membership in the [From.GetFactionName]",
+        "translation": "[From.GetNameDefCap]拒绝成为[From.GetFactionName]的一员",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.12.d:0",
+        "original": "Fearing for the effect it will have on \"global stability,\" [From.GetLeader] publicly rejected our request for membership in the [From.GetFactionName].\\nSeeing as [From.GetNameDef] is not above the petty politicking of the old world, our revolutionary efforts would have been wasted on them either way.\\n\\nEven if [Root.GetNameDef] stands alone in a world of fascism, we will not give up until true socialism has been brought to every worker in all the lands of our globe!",
+        "translation": "担心其对“全局稳定性”的影响，[From.GetLeader]公开拒绝了我们对[From.GetFactionName]的会员资格的请求。\\n[From.GetNameDef]的旧世界政治活动告诉我们，我们的革命努力会被他们浪费。\\n\\n哪怕[Root.GetNameDef]存在于一个法西斯世界中，在把社会主义带给全世界每一名工人之前，我们都不会放弃。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.12.a:0",
+        "original": "For fairness, understanding and the Canadian way!",
+        "translation": "为了公平，理解加拿大的方式。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.20.t:0",
+        "original": "[From.GetNameDefCap] Seeks Alliance",
+        "translation": "[From.GetNameDefCap]寻求同盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.20.d:0",
+        "original": "Following the rise of conservative nationalism in [From.GetAdjective] politics, [From.GetNameDef] has been seeking new allies that actually have the capacity to aid their cause, as opposed to the weak \"democracies\" of the Commonwealth.\\n\\nPartnering with [From.GetNameDef] would not only be ideologically natural, but it would ensure the presence of a strong state that could... pursue our interests on the North American continent.",
+        "translation": "随着[From.GetAdjective]政坛中保守国家主义的崛起，[From.GetNameDef]正在寻找能够为他们的事业添砖加瓦的盟友，而不是英联邦中的那些“民主国家”。\\n\\n与[From.GetNameDef]结盟不仅在意识形态上是自然的，还可以保证一个强大的国家，一个可以为我们在北美大陆卖力的国家。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.20.a:0",
+        "original": "It is only natural for [From.GetAdjective]s and [Root.GetAdjective]s to work together!",
+        "translation": "[From.GetAdjective]人和[Root.GetAdjective]人合作是理所应当的！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.20.b:0",
+        "original": "Our interests are in Europe, [From.GetNameDef] must stake its own ground.",
+        "translation": "我们的兴趣在欧洲，[From.GetNameDef]必须自己拼搏。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.21.t:0",
+        "original": "An Alliance of Power",
+        "translation": "强有力的联盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.21.d:0",
+        "original": "[From.GetNameDefCap] has accepted our offer of alliance, seeing clear benefit in a relationship with a strong American state.\\nWith this diplomatic move will be far more capable of projecting our power in North America, and it is no coincidence that the Berlin-Ottawa Axis runs sharp through London.",
+        "translation": "[From.GetNameDefCap]接受了我们联盟的建议，因为他们看到了与一个强大的北美国家拥有良好关系的好处。\\n这次外交行动将会更有力的在北美洲投射我们的力量，同时，柏林-渥太华轴心正好穿过伦敦不是巧合。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.21.a:0",
+        "original": "We stand as a global force.",
+        "translation": "我们成为了全球性力量",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.22.t:0",
+        "original": "The Rot of Europe",
+        "translation": "腐烂的欧洲",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.22.d:0",
+        "original": "Unable to even glance beyond their own minuscule borders, [From.GetLeader]'s [From.GetName] has declined our offer of an alliance.\\nOf course, with the likely collapse of the [From.GetAdjective] state and all of Europe under the weight of its own peoples, we might be better off without them.",
+        "translation": "连审视自己边境之外的能力都没有的[From.GetLeader]的[From.GetName]拒绝了我们提出的联盟。\\n当然，考虑到[From.GetAdjective]与整个欧洲的濒临崩溃的状态，没有他们加入对我们可能是件好事。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.22.a:0",
+        "original": "We will show them what greatness truly means.",
+        "translation": "我们将会向他们诠释伟大的真正含义。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.30.t:0",
+        "original": "A Synarchist Revolution",
+        "translation": "共治主义革命",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.30.d:0",
+        "original": "As the Synarchists are growing in influence, their demands are growing in strength. It seems as though our government may no longer be able to keep their right-wing politics at bay, as clashes between Synarchists and government supporters have been reported across [Root.GetNameDef]. This includes the employment of lethal weapons on both sides.\\nWhile it is unclear when and how the militarization of the Synarchist party occurred, they pose a real and immediate threat to the current government.\\n\\nCivil war is at hand.",
+        "translation": "共治主义论者的影响力正在逐渐扩大，随之增长的是他们对力量的渴望。似乎我们的政府已经无法再忍受他们的右派政治，在[Root.GetNameDef]各地都出现了共治主义者与政府支持者之间爆发的冲突，冲突中双方均使用了致命武器。\\n虽然共治主义政党的军事化不知在何时以何种方法出现，但他们已经对政府构成了真正而直接的威胁。\\n\\n内战一触即发",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.30.a:0",
+        "original": "Support the Nationalists.",
+        "translation": "支持国家主义者。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.30.b:0",
+        "original": "Support the Republicans.",
+        "translation": "支持共和主义者。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.30.c:0",
+        "original": "Concede rule to the Nationalists.",
+        "translation": "承认国家主义者的统治权力。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.40.t:0",
+        "original": "A Plan for Dominance",
+        "translation": "走向民主",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.40.d:0",
+        "original": "While the strength of the recently reformed [Root.GetAdjective] state is undeniable, so are the realities of regional politics. Our old enemy, [USA.GetNameDef], dominates the continent, and have proven unable to keep themselves out of matters beyond their borders.\\nThat makes the offer of cooperation with [From.GetNameDef] ever more valuable. Either of our countries might lack the force to prevent [USA.GetAdjective] intervention on our own, but against both north and south, [USA.GetLeader] will have to think twice before taking action.\\n\\nAnd perhaps they will be more amenable to the return of rightfully [Root.GetAdjective] territory...",
+        "translation": "虽然最近改革的[Root.GetAdjective]的力量是不可否定的，而且区域政治的现实也正是如此。我们的敌人，[USA.GetNameDef]，掌握着大陆，而且已经证明了自己没有能力守住一切在国界线之外的东西。\\n这使得与[From.GetNameDef]合作的提议变得很有价值。我们任何一个国家都缺少阻止[USA.GetAdjective]干预的力量，但同时对抗南北两线，[USA.GetLeader]必须三思而后行。\\n\\n也许这会让他们更加服从的归还[Root.GetAdjective]的合法领土。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.40.a:0",
+        "original": "We will squeeze the life out of our rotten state of a neighbor!",
+        "translation": "我们将会一点点绞死我们腐烂的邻居。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.40.b:0",
+        "original": "We cannot take the chance of being seen as aggressors.",
+        "translation": "我们不能冒险成为侵略者。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.41.t:0",
+        "original": "Mexico Agrees",
+        "translation": "墨西哥同意",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.41.d:0",
+        "original": "The [MEX.GetAdjective] government is in full accord regarding the threat posed to our countries by the aggressive policies of our southern neighbors. The only way we can survive is to break the stranglehold they have on the continent. We must strike soon, before they can finish rearming. Certain territorial concessions will have to be made to our new friends, of course, but together, we will bring an end to the American hegemony!",
+        "translation": "[MEX.GetAdjective]政府完全同意我们南面邻居的侵略政策对我们各国的影响，我们唯一的生机就是打破他们在大陆上的束缚。我们必须抓紧时间，在敌人完成重新武装之前做好准备。当然，我们将会对我们的新朋友做出某些领土特许权。在一起，我们将会终结美国的霸权。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.41.a:0",
+        "original": "The White House will burn again!",
+        "translation": "让大火再次吞噬白宫！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.42.t:0",
+        "original": "Mexico Refuses",
+        "translation": "墨西哥拒绝",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.42.desc:0",
+        "original": "The [MEX.GetAdjective] government has declined our offer to work together against our common enemy. They seem to believe that they can simply ignore the rattlesnake poised to strike them, hoping that it will leave them alone so long as they don't make any threatening moves. It appears that we must look to our defenses alone.",
+        "translation": "[MEX.GetAdjective]拒绝了我们提出的共同对抗我们共同的敌人的提案。他们似乎认为可以忽略那条已经做出攻击姿势的剧毒响尾蛇，而它将会放过他们，只要他们不激怒它。看来我们必须独自防守了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.42.a:0",
+        "original": "Fools! Cowards! TRAITORS!",
+        "translation": "蠢货！懦夫！叛徒！！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.50.t:0",
+        "original": "The Enemy Within",
+        "translation": "内部的敌人",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.50.d:0",
+        "original": "An explosion rocked one of our factories today, and while it initially seemed to be an industrial accident, investigation has revealed that explosives were intentionally placed along the production lines.\\nWhile we mourn the loss of life, an attack on the war effort cannot be ignored.\\n\\nWhoever was behind this attack poses a threat to all of [Root.GetNameDef]!",
+        "translation": "今天的一场爆炸毁掉了我们的一座工厂，最初这被认定为是一场工业事故，但调查显示爆炸物是沿着生产线摆放的。\\n当我们为逝去的生命哀悼时，这场暴行不会被忽略。\\n\\n无论是谁策划这场爆炸，他都对所有的[Root.GetNameDef]构成了威胁。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.50.a:0",
+        "original": "We will not let the enemy bring us down!",
+        "translation": "我们不会被敌人打败",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.51.t:0",
+        "original": "Another Attack",
+        "translation": "另一场攻击",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.51.d:0",
+        "original": "Another attack has occurred on [Root.GetAdjective] soil, this time directly targeting one of our military factories!\\nProduction has been stopped as reparations begin, but the culprits are still at large.\\n\\nAt least it has become clear that this is the work a group, rather than a single individual.",
+        "translation": "另一场攻击已经发生在了[Root.GetAdjective]的土地上，这次攻击直接针对我们的军工厂！\\n因为修理的原因，工厂已经停产，而罪魁祸首依然在逃。\\n\\n现在我们至少知道这不是个人而是一个团伙在作案。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.51.a:0",
+        "original": "The larger their circle, the easier they will be to track down.",
+        "translation": "他们的战线拉得越长，他们的弱点就越容易暴露。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.52.t:0",
+        "original": "The Quebec Circle",
+        "translation": "魁北克圈",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.52.d:0",
+        "original": "Law enforcement has been working with military police to make great strides in the case of continued factory sabotage. With the targeting of yet another factory, it has become apparent that the sabotage is not done by foreign spies, but rather by a group protesting the forced conscription introduced in Quebec!\\n\\nRegardless of their political concerns, our country is at war, and they are traitors of the highest degree.",
+        "translation": "执法机关一直与军事警察合作并在工厂被持续破坏的情况下获得了进展。他们发现这些破坏并不是由外国间谍所为，而是由一个抗议魁北克省强制征兵法案的集团所为。\\n\\n不管他们处于何种政治考虑，我们的国家正处于战争，而他们，是最高级别的叛徒。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.52.a:0",
+        "original": "They must be stopped!",
+        "translation": "他们必须被停止！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.53.t:0",
+        "original": "The End of the Line",
+        "translation": "生产线的尽头",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.53.d:0",
+        "original": "A trap had been laid for the Quebec Circle in the factory considered to be their most likely next target for sabotage. In the dead of night, law enforcement awaited the infiltrators.\\nAs the saboteurs arrived, they turned out to be a much larger group than expected, and more heavily armed, with stolen army equipment. A firefight broke out, damaging as many production lines as the Quebec Circle's plans would have.\\nHowever, after the fierce fighting, not a single saboteur was left alive. The Quebec Circle has come to an end.",
+        "translation": "魁北克圈中的一个工厂被布置成了陷阱，这个工厂被认定为最有可能的下一个被攻击目标。在死寂的夜晚，执法人员等待着渗透者的到来。\\n随着这些破坏者的到来，执法人员发现他们的人数多于预期并且装备了先前失窃的军队装备。枪战打响了，破坏了相当多的生产线，几乎等于魁北克圈预计新部署的生产线数量。\\n在枪战之后，所有的破坏者都死亡了，魁北克圈结束了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.53.a:0",
+        "original": "A victory, not a loss for [Root.GetNameDef]!",
+        "translation": "一场胜利，而不是[Root.GetNameDef]的损失！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.60.t:0",
+        "original": "[From.GetNameDefCap] Demands Labrador and Newfoundland",
+        "translation": "[From.GetNameDefCap]要求获得拉布拉多和纽芬兰",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.60.d:0",
+        "original": "Having long expressed a desire to \"repatriate\" the colonial territories of Labrador and Newfoundland as part of their country, [From.GetNameDef] has now gone to the steps of demanding them.\\n[From.GetLeader] has made it clear that [From.GetNameDef] considers it [From.GetAdjective] soil, and that they will \"take those steps necessary to attain it.",
+        "translation": "[From.GetNameDef]长期表示希望“收复”的殖民地拉布拉多和纽芬兰作为他们国家的一部分，现在他们走到了正式提出要求的这一步。\\n[From.GetLeader]已经讲明[From.GetNameDef]将会视其为[From.GetAdjective]的土地，并会采取一切必要的措施取回这些土地。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.60.a:0",
+        "original": "Give them what they want, [Root.GetNameDef] can't quarrel over this right now.",
+        "translation": "给他们想要的，现在不是和[Root.GetNameDef]撕破脸的时候。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.60.b:0",
+        "original": "We do not give an inch of [ENG.GetAdjective] land!",
+        "translation": "[ENG.GetAdjective]的土地，一寸也不放弃！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.61.t:0",
+        "original": "A Destiny Fulfilled",
+        "translation": "成真的命运",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.61.d:0",
+        "original": "With [From.GetNameDef]'s ceding of Labrador and Newfoundland, [Root.GetNameDef] is finally whole. Truly from Sea to Sea, every true [Root.GetAdjective] is now within our borders, where they belong.\\nOur next step must be to ensure the safety and security of the [Root.GetAdjective] state!",
+        "translation": "随着[From.GetNameDef]放弃拉布拉多和纽芬兰。[Root.GetNameDef]的国土终于完整了。从太平洋到大西洋，每一个真正的[Root.GetAdjective]都在国境线内，生活在他们的故乡。\\n我们的下一步就是保证[Root.GetAdjective]这个国家的安全！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.61.a:0",
+        "original": "A shoreline is the only secure border!",
+        "translation": "海岸线是唯一安全的边境线！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.62.t:0",
+        "original": "Imperial Hubris",
+        "translation": "帝国的傲慢",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.62.d:0",
+        "original": "Invoking their crumbling \"imperial right,\" and calling upon Labrador and Newfoundland's statuses as colonial possessions to be protected [From.GetNameDef] has refused to cede land that is rightfully ours! These people are [Root.GetAdjective]s, and Newfoundland and Labrador hold [Root.GetAdjective] resources, but they must answer to [From.GetAdjective] masters.\\nThis is an unacceptable state of affairs, but it is clear that [From.GetNameDef] cannot be convinced of a diplomatic solution...",
+        "translation": "援引他们近乎粉碎的“帝国权利”，[From.GetNameDef]称拉布拉多和纽芬兰是受帝国保护的殖民地财产，并拒绝放弃这些理应属于我们的土地！这些本来是[Root.GetAdjective]人的民众，以及本来属于[Root.GetAdjective]的资源，却要听从[From.GetAdjective]的命令。\\n这个状态无法令人接受，但是看样子[From.GetNameDef]无法通过外交手段被说服……",
+        "stage": 1
+    },
+    {
+        "key": "tfv_canada.62.a:0",
+        "original": "[From.GetNameDefCap] will be one!",
+        "translation": "[From.GetNameDefCap]将迎来统一。",
+        "stage": 1
+    },
+    {
+        "key": "mex_nationalists_chosen:0",
+        "original": "Side with the Nationalists.",
+        "translation": "支持国民军。",
+        "stage": 1
+    },
+    {
+        "key": "mex_republicans_chosen:0",
+        "original": "Side with the Republicans.",
+        "translation": "支持共和军",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.1.t:0",
+        "original": "[From.GetNameDefCap] Requests African Mandate",
+        "translation": "[From.GetNameDefCap]请求对非洲的委任",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.1.d:0",
+        "original": "As we struggle with military coverage of the entire Empire, [From.GetNameDef] has approached us about an administrative agreement. Our colonies in Southern and Central Africa should be handed over to them, with full rights and responsibilities towards their defense.",
+        "translation": "当我们在和整个帝国进行军事斗争的时候，[From.GetNameDef]联系了我们并提出了一个行政协议。希望我们把非洲南部和中部的殖民地移交给他们，他们有充分的权利和责任去保卫他们自己的国家。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.1.a:0",
+        "original": "We need to focus our energies on Europe.",
+        "translation": "我们需要把精力集中在欧洲。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.1.b:0",
+        "original": "We can hold these colonies just fine.",
+        "translation": "我们能够掌控这些殖民地就已经可以了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.1.c:0",
+        "original": "The colonies should defend themselves.",
+        "translation": "殖民地应该自己保卫自己的国家。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.2.t:0",
+        "original": "[From.GetNameDefCap] Approves",
+        "translation": "[From.GetNameDefCap]批准请求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.2.d:0",
+        "original": "With growing commitments closer to home, [From.GetNameDef] has agreed that her African colonies should be administered by us for the time being.",
+        "translation": "随着我们的影响力越来越强，[From.GetNameDef]已经同意她的非洲殖民地应该交由我们暂时管理。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.2.a:0",
+        "original": "We will be benevolent overlords.",
+        "translation": "我们将会成为仁慈的统治者。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.3.t:0",
+        "original": "[From.GetNameDefCap] Refuses",
+        "translation": "[From.GetNameDefCap]拒绝请求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.3.d:0",
+        "original": "Citing a lack of direct threat to her colonies in Africa, [From.GetNameDef] has made it very clear that they do not intend to hand over the administration of her holdings to us.",
+        "translation": "以非洲殖民地并没有受到直接威胁为由，[From.GetNameDef]已经明确表示，他们不打算把殖民地交由我们来管理。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.3.a:0",
+        "original": "Don't they trust us?",
+        "translation": "他们不相信我们吗？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.4.t:0",
+        "original": "The African Compromise",
+        "translation": "非洲的妥协方案",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.4.d:0",
+        "original": "After long deliberation, the British government has come up with a compromise regarding the defense of the African colonies. Under this new scheme, the colonies will be responsible for their own defense but will enjoy greater freedom of managing their own affairs.",
+        "translation": "经过长时间的考虑，英国政府已经就非洲殖民地的防御达成了妥协。根据这项新计划，殖民地将自己负责保卫家园，但同时他们将会拥有更多的管理自己政务的自由。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.4.a:0",
+        "original": "A good compromise - no one is happy with it.",
+        "translation": "一个理想的折中方案——但没人会对此满意的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.10.t:0",
+        "original": "Foreign aid for our struggle",
+        "translation": "为我们的斗争争取外国援助",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.10.desc:0",
+        "original": "The great war for the future of our country has finally arrived. Now we must secure every shred of support we can get to ensure we will prevail in this struggle. The survival of the [From.GetAdjective] culture and our way of life are at stake!",
+        "translation": "决定我们国家未来的伟大战争终于到来了。我们现在不能放过每一小点别国的支持，以确保我们在这场斗争中获胜。 [From.GetAdjective] 文化的存活和我们的生活方式岌岌可危！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.10.a:0",
+        "original": "We should approach the Germans.",
+        "translation": "我们应该亲近德国。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.10.b:0",
+        "original": "The Dutch will aid us.",
+        "translation": "荷兰将会帮助我们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.t:0",
+        "original": "[From.GetNameDefCap] calls for aid!",
+        "translation": "[From.GetNameDefCap]呼叫援助！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.desc:0",
+        "original": "A violent struggle has broken out in [From.GetName]. As they fight for the very survival of their way of life, they are desperate for any kind of support we can spare. This would also be an opportunity to test some of our new weapons and secure a valuable ally in South Africa.",
+        "translation": "激烈的斗争已经在[From.GetName]爆发了。当他们为自己的生存方式而奋斗时，他们急切的盼望能得到我们的任何一点援助。这也是一个好机会，可以测试我们的一些新武器装备，同时在南非获得一位宝贵的盟友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.a:0",
+        "original": "Send them fighter planes.",
+        "translation": "送他们战斗机。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.b:0",
+        "original": "Send them tanks.",
+        "translation": "送他们坦克。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.c:0",
+        "original": "Send them rifles and artillery.",
+        "translation": "送他们步枪和大炮。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.11.e:0",
+        "original": "They will have to fight on their own.",
+        "translation": "他们必须得自己战斗了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.t:0",
+        "original": "[From.GetNameDefCap] pleads for our help",
+        "translation": "[From.GetNameDefCap]请求我们的帮助",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.desc:0",
+        "original": "Heavy fighting has broken out in South Africa between Nationalists and Unionists. Badly outnumbered and outgunned, the Nationalists have turned to us, the home of their ancestors, for support.",
+        "translation": "南非的民族主义者和工会成员间爆发了激烈的战斗。参与的人员数量十分庞大，民族主义者们已经把目光转向了我们——他们祖先的家园，希望得到支持。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.a:0",
+        "original": "Send them fighter planes.",
+        "translation": "送他们战斗机。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.b:0",
+        "original": "Send them tanks.",
+        "translation": "送他们坦克。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.c:0",
+        "original": "Send them rifles and artillery.",
+        "translation": "送他们步枪和大炮。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.12.e:0",
+        "original": "They will have to fight on their own.",
+        "translation": "他们必须得自己战斗了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.13.t:0",
+        "original": "The German Response",
+        "translation": "德国的回复",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.13.desc.a:0",
+        "original": "Our delegation to [GER.GetNameDef] has returned empty-handed. Despite warm words from the [GER.GetAdjective] government, they were unable to secure any firm commitments of support. It appears that we can no longer count on the German government to help us in our struggle.",
+        "translation": "我们的代表团从[GER.GetNameDef]空手而归。尽管[GER.GetAdjective]政府的措辞饱含热情，但他们仍然无法保证给我们任何坚定的支援。看来我们再也不能指望德国政府在我们的斗争中提供帮助了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.13.desc.b:0",
+        "original": "Citing a lack of available material, the [GER.GetAdjective] government has decided that it is no longer in their interest to send us further support. All efforts are instead focused on building their own military. This leaves us in a difficult position.",
+        "translation": "以缺乏可用的原料为由，[GER.GetAdjective]政府决定不再向我们提供进一步的支持。他们所有的精力都集中在建设自己的军队上。这使得我们陷入一个困难的境地。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.13.a:0",
+        "original": "Reach out to our Dutch friends.",
+        "translation": "联系我们的荷兰朋友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.13.b:0",
+        "original": "We will succeed on our own, or perish in the attempt.",
+        "translation": "我们会依靠自己的力量成功的，或就此灭亡。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.14.t:0",
+        "original": "The [HOL.GetAdjective] Response",
+        "translation": "[HOL.GetAdjective]的回复",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.14.desc.a:0",
+        "original": "Our delegation to [HOL.GetNameDef] has been frustrated by endless obstructions and delays. Meetings with [HOL.GetAdjective] officials and industry managers are cancelled at the last minute, calls are not returned, telegrams not answered. It appears that the [HOL.GetAdjective] government is not actually interested in helping us with our efforts.",
+        "translation": "我们的代表团在[HOL.GetNameDef]经受了无尽的阻碍和拖延。同[HOL.GetAdjective]政府官员与产业管理人员的会议在最后一刻被取消了，无论是电话还是电报都没有回应。看来[HOL.GetAdjective]政府丝毫没有帮助我们的兴趣。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.14.desc.b:0",
+        "original": "Despite initial support, the latest round of negotiations with the [HOL.GetAdjective] government for new equipment has broken down. It appears the [HOL.GetAdjective] are no longer willing to accept payment in diamonds, citing issues with turning them into convertible currency.",
+        "translation": "尽管最初持支持态度，但是与[HOL.GetAdjective]政府的最新一轮谈判已经破裂。[HOL.GetAdjective]以无法转换为可流通货币为由，拒绝接受钻石作为支付手段。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.14.a:0",
+        "original": "Reach out to our German friends.",
+        "translation": "联系我们的德国朋友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.14.b:0",
+        "original": "We will succeed on our own, or perish in the attempt.",
+        "translation": "我们会依靠自己的力量成功的，或就此灭亡。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.t:0",
+        "original": "[From.GetNameDefCap] sends equipment",
+        "translation": "[From.GetNameDefCap]装备支援",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.desc.a:0",
+        "original": "A shipment of planes has arrived from Germany. Our pilots are most eager to get their hands on them, and a fierce competition has started for the postings to the new squadron.",
+        "translation": "一批飞机从德国运来。我们的飞行员对这些装备垂涎欲滴，他们为了进入新的飞行中队而进行激烈的竞争。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.desc.b:0",
+        "original": "After long discussions with our [GER.GetAdjective] friends, they have agreed to send us a batch of light tanks. Although few in number, they might well be what tips the balance decisively in our favor.",
+        "translation": "经过与我们的[GER.GetAdjective]朋友长时间的讨论之后，他们同意给我们送来一些轻型坦克。虽然数量不多，但它们很可能会成为让天枰倒向我们这边的秘诀。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.desc.c:1",
+        "original": "A ship from [GER.GetNameDef] has reached us. In its hold it carried tons of rifles and several heavy guns for the volunteers from Germany that have made their way to us via other means.",
+        "translation": "一艘来自[GER.GetNameDef]的货船已经抵达我国，船上装载了为志愿军而准备的大量的步枪和数门重炮，而德国的志愿者们将会通过其他方式到达我国。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.a:0",
+        "original": "These will be most useful.",
+        "translation": "这将是最有用的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.b:0",
+        "original": "They will form the backbone of our army.",
+        "translation": "他们将会成为我军的骨干。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.15.c:0",
+        "original": "Their support is most welcome.",
+        "translation": "他们的支持是最受欢迎的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.t:0",
+        "original": "[From.GetNameDefCap] sends equipment",
+        "translation": "[From.GetNameDefCap]装备支援",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.desc.a:0",
+        "original": "A shipment of planes has arrived from [HOL.GetNameDef], courtesy of a generous donation by several leading figures in the [HOL.GetAdjective] aviation industry. Our pilots are most eager to get their hands on them, and a fierce competition has started for the postings to the new squadron.",
+        "translation": "得益于[HOL.GetNameDef]航空业界的几个主要人物的慷慨捐赠，一批飞机从[HOL.GetAdjective]运来。我们的飞行员对这些装备垂涎欲滴，他们为了进入新的飞行中队而进行激烈的竞争。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.desc.b:0",
+        "original": "After long discussions with our [HOL.GetAdjective] friends, they have agreed to send us a batch of experimental light tanks. Although few in number, they might well be what tips the balance decisively in our favor.",
+        "translation": "经过与我们的[HOL.GetAdjective]朋友长时间的讨论之后，他们同意给我们送来一些轻型坦克。虽然数量不多，但它们很可能会成为让天枰倒向我们这边的秘诀。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.desc.c:1",
+        "original": "A ship from [HOL.GetNameDef] has reached us. In its hold it carried tons of rifles and several heavy guns for the volunteers from [HOL.GetNameDef] that have made their way to us via other means.",
+        "translation": "一艘来自[HOL.GetNameDef]的货船已经抵达我国。船上装载了为志愿军而准备的大量的步枪和数门重炮，而[HOL.GetNameDef]志愿者们将会通过其他方式到达我国。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.a:0",
+        "original": "These will be most useful.",
+        "translation": "这将是最有用的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.b:0",
+        "original": "They will form the backbone of our army.",
+        "translation": "他们将会成为我军的骨干。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.16.c:0",
+        "original": "Their support is most welcome.",
+        "translation": "他们的支持是最受欢迎的。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.20.t:0",
+        "original": "[From.GetNameDefCap] Requests Membership in the Comintern",
+        "translation": "[From.GetNameDefCap]要求成为共产国际的会员",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.20.d:0",
+        "original": "The revolution has succeeded in [From.GetNameDef]! A new communist government has taken charge in the country and seeks membership in the Comintern.",
+        "translation": "革命已经在[From.GetNameDef]成功了！一个新的共产主义政府已经接管了国家并试图成为共产国际的会员。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.20.a:0",
+        "original": "We welcome our new comrades in the struggle against imperialism!",
+        "translation": "我们欢迎加入反帝国主义斗争的新同志！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.20.b:0",
+        "original": "Accepting their membership at this time would only open us up to possible conflict in a distant area.",
+        "translation": "在这个时候接受他们可能只会让我们在遥远的地区发生冲突。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.21.t:0",
+        "original": "Comintern Membership approved",
+        "translation": "共产国际批准申请",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.21.d:0",
+        "original": "After careful consideration, the Central Committee of the Comintern has approved our request for membership.",
+        "translation": "经过仔细考虑后，共产国际中央委员会已经批准了我们的会员申请。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.21.a:0",
+        "original": "Side by side, [ROOT.GetNameDef] and [From.GetFactionName] will march towards the future!",
+        "translation": "让我们肩并着肩，[ROOT.GetNameDef]和[From.GetFactionName]将一起走向未来！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.22.t:0",
+        "original": "Comintern Membership denied",
+        "translation": "共产国际拒绝申请",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.22.d:0",
+        "original": "Citing unsolvable differences between our particular view of Marx's teachings and the orthodox interpretations, the Comintern has refused our application. While not going so far as to label us social fascists or worse, they nevertheless make it clear that we can not expect any help from them.",
+        "translation": "以我们对马克思主义的解释和正统理论有着无法解决的分歧为由，共产国际拒绝了我们的申请。虽然我们之中并没有社会法西斯主义者或是其他更糟的思想的拥护者，但他们却明确表示，不会对我们提供任何帮助。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.22.a:0",
+        "original": "Perhaps they are the ones mistaken?",
+        "translation": "或许是他们弄错了？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.30.t:0",
+        "original": "[From.GetNameDefCap] Demands Madagascar",
+        "translation": "[From.GetNameDefCap]索要马达加斯加",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.30.d:0",
+        "original": "Following our defeat in Europe, the [From.GetNameDef] government has openly questioned whether we are still able to defend our colonies and protect the population living there. [From.GetLeader] specifically mentioned Madagascar as particularly threatened. Now, [From.GetNameDef] has demanded that we turn over the island to them.",
+        "translation": "随着我们在欧洲的失败，[From.GetNameDef]政府公开质疑我们是否仍然能够保卫我们的殖民地和那里的人民。[From.GetLeader]特别提到马达加斯加受到的威胁最为突出。现在，[From.GetNameDef]要求我们把岛屿转交给他们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.30.a:0",
+        "original": "We have no choice. Retaking the homeland must be the first priority.",
+        "translation": "我们别无选择，夺回祖国是我们的首要任务。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.30.b:0",
+        "original": "Every square meter of French soil is sacred. We will not yield!",
+        "translation": "法兰西每一平米的国土都是神圣的。我们决不屈服！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.31.t:0",
+        "original": "France Yields",
+        "translation": "法国同意要求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.31.d:0",
+        "original": "The [FRA.GetAdjective] government has wisely decided to permit our peaceful occupation of Madagascar.",
+        "translation": "[FRA.GetAdjective]政府明智的答应了我们和平占领马达加斯加的请求。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.31.a:0",
+        "original": "One more step to dismantle the imperialist system of colonialism!",
+        "translation": "帝国主义殖民体系的崩溃更进一步！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.32.t:0",
+        "original": "France Refuses",
+        "translation": "法国拒绝要求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.32.d:0",
+        "original": "The [FRA.GetAdjective] government stubbornly refuses to even discuss the issue of turning over Madagascar to us. According to the French representative, they consider themselves more than able, willing and ready to defend the island.",
+        "translation": "[FRA.GetAdjective]政府顽固的拒绝了将马达加斯加转让给我们的提议。法国代表表示，他们有足够的实力，并愿意准备保卫这座岛屿。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.32.a:0",
+        "original": "Then we must resort to force.",
+        "translation": "那我们必须诉诸武力。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.32.b:0",
+        "original": "Let them keep that worthless patch of dirt.",
+        "translation": "就让他们保留那坨毫无价值的垃圾吧。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.40.t:0",
+        "original": "Research treaty with [From.GetNameDef]",
+        "translation": "同[From.GetNameDef]达成研究协议",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.40.d:0",
+        "original": "Following a successful military mission to [From.GetNameDef], their government has suggested a formal research agreement between our two nations.",
+        "translation": "随着对[From.GetNameDef]军事代表团大获成功，他们的政府建议我们两国签署正式的研究协议。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.40.a:0",
+        "original": "We will be glad to offer what help we can.",
+        "translation": "我们很乐意提供我们的帮助。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.40.b:0",
+        "original": "Offering our secrets to them would compromisse our national security.",
+        "translation": "向他们提供我们的秘密将会威胁我们的国家安全。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.41.t:0",
+        "original": "[SOV.GetNameDefCap] Agrees",
+        "translation": "[SOV.GetNameDefCap]同意请求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.41.d:0",
+        "original": "The Soviets have agreed to let us study their ways and methods. A number of [SOV.GetAdjective] scientists have arrived to teach at our schools and universities.",
+        "translation": "苏联同意让我们学习他们的道路和方法。一批[SOV.GetAdjective]科学家来到我们的学校和大学任教。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.41.a:0",
+        "original": "To learn from [SOV.GetNameDef] means to learn from the victors of history!",
+        "translation": "向[SOV.GetNameDef]学习意味着向历史的胜利者学习！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.42.t:0",
+        "original": "[SOV.GetNameDefCap] Refuses",
+        "translation": "[SOV.GetNameDefCap]拒绝请求",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.42.d:0",
+        "original": "After several rounds of negotiations, the delegation from [SOV.GetNameDef] has walked out, citing doubts about our ability to keep their research secret. It appears we will not be allowed to share technologies with our allies.",
+        "translation": "经过几轮谈判，[SOV.GetNameDef]已经起身离开，他们对我们的对研究机密的保密能力存疑。看来我们将不被允许与我们的盟友分享技术。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.42.a:0",
+        "original": "Very unfortunate.",
+        "translation": "很不幸。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.50.t:0",
+        "original": "Support for Spain",
+        "translation": "支援西班牙",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.50.d:0",
+        "original": "A fight has broken out in Spain between the Nationalist government and the legitimate Republican government. There is considerable debate amongst the people about where our government stands.",
+        "translation": "西班牙国民政府和共和政府之间爆发了一场内战。对于我们政府会站在哪边，人民之间议论纷纷。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.50.a:0",
+        "original": "Perhaps a few of our soldiers might be interested in a vacation in Spain?",
+        "translation": "也许咱们的士兵想去西班牙度个假？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.50.b:0",
+        "original": "If people wish to join the struggle, we will not stop them.",
+        "translation": "如果人民想要参加战争，我们不会阻止他们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.50.c:0",
+        "original": "Why should we fight in a war half a world away?",
+        "translation": "为什么我们要去参加一场千里之外的战争？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.51.t:0",
+        "original": "Volunteers from South Africa arrive",
+        "translation": "来自南非的志愿军",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.51.d:0",
+        "original": "While the [SAF.GetAdjective] government remains officially uncommitted, it has allowed a large number of its citizens to join our cause as volunteers.",
+        "translation": "虽然[SAF.GetAdjective]政府仍未正式表态，但它允许大量的公民作为志愿军参加我们的事业。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.51.a:0",
+        "original": "Most welcome.",
+        "translation": "热烈欢迎。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.52.t:0",
+        "original": "Volunteers from the Spanish Civil War return",
+        "translation": "西班牙内战志愿军归国",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.52.d:0",
+        "original": "With the fighting in Spain over, the surviving volunteers of the war have made their way home. They bring with them valuable experiences about modern warfare.",
+        "translation": "随着西班牙内战的结束，战争中幸存的志愿军已经回到祖国，他们带来了现代战争的宝贵经验。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.52.a:0",
+        "original": "They will help us in the next war.",
+        "translation": "他们将在下一场战争中帮助我们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.60.t:0",
+        "original": "Freedom for Angola",
+        "translation": "安哥拉的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.60.d:0",
+        "original": "Having been liberated from the hold of their colonial oppressors, the people of [ANG.GetName] stand ready to take charge of their own destiny. They have formed a provisional government and drafted a constitution. The only thing left is to transfer authority from our military governors to the new [ANG.GetAdjective] government.",
+        "translation": "随着从殖民压迫的魔爪中解放，[ANG.GetName]的人民已经准备好掌握自己的命运。他们组建了临时政府并起草了宪法。唯一剩下的事情就是把我们军事长官的权力转交给[ANG.GetAdjective]新政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.60.a:0",
+        "original": "Any new nation must be carefully guided, or the counter-revolution succeeds!",
+        "translation": "对任何新生的国家必须要进行小心的引导，否则反革命运动就会成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.60.b:0",
+        "original": "We welcome them with open arms!",
+        "translation": "我们张开双臂欢迎他们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.60.c:0",
+        "original": "The situation does not allow it just yet.",
+        "translation": "我们目前还不能允许这种情况发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.61.t:0",
+        "original": "Freedom for Mozambique",
+        "translation": "莫桑比克的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.61.d:0",
+        "original": "Having been liberated from the hold of their colonial oppressors, the people of [MZB.GetName] stand ready to take charge of their own destiny. They have formed a provisional government and drafted a constitution. The only thing left is to transfer authority from our military governors to the new [MZB.GetAdjective] government.",
+        "translation": "随着从殖民压迫的魔爪中解放，[MZB.GetName]的人民已经准备好掌握自己的命运。他们组建了临时政府并起草了宪法。唯一剩下的事情就是把我们军事长官的权力转交给[MZB.GetAdjective]新政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.61.a:0",
+        "original": "Any new nation must be carefully guided, or the counter-revolution succeeds!",
+        "translation": "对任何新生的国家必须要进行小心的引导，否则反革命运动就会成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.61.b:0",
+        "original": "We welcome them with open arms!",
+        "translation": "我们张开双臂欢迎他们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.61.c:0",
+        "original": "The situation does not allow it just yet.",
+        "translation": "我们目前还不能允许这种情况发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.62.t:0",
+        "original": "Freedom for the Congo",
+        "translation": "刚果的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.62.d:0",
+        "original": "Having been liberated from the hold of their colonial oppressors, the people of [COG.GetName] stand ready to take charge of their own destiny. They have formed a provisional government and drafted a constitution. The only thing left is to transfer authority from our military governors to the new [COG.GetAdjective] government.",
+        "translation": "随着从殖民压迫的魔爪中解放，[COG.GetName]的人民已经准备好掌握自己的命运。他们组建了临时政府并起草了宪法。唯一剩下的事情就是把我们军事长官的权力转交给[COG.GetAdjective]新政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.62.a:0",
+        "original": "Any new nation must be carefully guided, or the counter-revolution succeeds!",
+        "translation": "对任何新生的国家必须要进行小心的引导，否则反革命运动就会成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.62.b:0",
+        "original": "We welcome them with open arms!",
+        "translation": "我们张开双臂欢迎他们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.62.c:0",
+        "original": "The situation does not allow it just yet.",
+        "translation": "我们目前还不能允许这种情况发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.63.t:0",
+        "original": "Freedom for Zimbabwe",
+        "translation": "津巴布韦的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.63.d:0",
+        "original": "Having been liberated from the hold of their colonial oppressors, the people of [ZIM.GetName] stand ready to take charge of their own destiny. They have formed a provisional government and drafted a constitution. The only thing left is to transfer authority from our military governors to the new [ZIM.GetAdjective] government.",
+        "translation": "随着从殖民压迫的魔爪中解放，[ZIM.GetName]的人民已经准备好掌握自己的命运。他们组建了临时政府并起草了宪法。唯一剩下的事情就是把我们军事长官的权力转交给[ZIM.GetAdjective]新政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.63.a:0",
+        "original": "Any new nation must be carefully guided, or the counter-revolution succeeds!",
+        "translation": "对任何新生的国家必须要进行小心的引导，否则反革命运动就会成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.63.b:0",
+        "original": "We welcome them with open arms!",
+        "translation": "我们张开双臂欢迎他们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.63.c:0",
+        "original": "The situation does not allow it just yet.",
+        "translation": "我们目前还不能允许这种情况发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.64.t:0",
+        "original": "Freedom for Kenya",
+        "translation": "肯尼亚的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.64.d:0",
+        "original": "Having been liberated from the hold of their colonial oppressors, the people of [KEN.GetName] stand ready to take charge of their own destiny. They have formed a provisional government and drafted a constitution. The only thing left is to transfer authority from our military governors to the new [KEN.GetAdjective] government.",
+        "translation": "随着从殖民压迫的魔爪中解放，[KEN.GetName]的人民已经准备好掌握自己的命运。他们组建了临时政府并起草了宪法。唯一剩下的事情就是把我们军事长官的权力转交给[KEN.GetAdjective]新政府。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.64.a:0",
+        "original": "Any new nation must be carefully guided, or the counter-revolution succeeds!",
+        "translation": "对任何新生的国家必须要进行小心的引导，否则反革命运动就会成功。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.64.b:0",
+        "original": "We welcome them with open arms!",
+        "translation": "我们张开双臂欢迎他们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_south_africa.64.c:0",
+        "original": "The situation does not allow it just yet.",
+        "translation": "我们目前还不能允许这种情况发生。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.1.t:0",
+        "original": "[From.GetNameDefCap] Requests Membership in the Comintern",
+        "translation": "[From.GetNameDefCap]要求成为共产国际的会员",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.1.desc:0",
+        "original": "The revolution has succeeded in [From.GetNameDef]! A new communist government has taken charge in the country and seeks membership in the Comintern.",
+        "translation": "革命已经在[From.GetNameDef]成功了！一个新的共产主义政府已经接管了国家并试图成为共产国际的会员。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.1.a:0",
+        "original": "Everyone is welcome to join the struggle.",
+        "translation": "我们欢迎任何人加入到我们的斗争当中。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.1.b:1",
+        "original": "Accepting them would only open us up to possible conflict in a distant area.",
+        "translation": "接受他们可能只会让我们在遥远的地区发生冲突。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.2.t:0",
+        "original": "Comintern Membership approved",
+        "translation": "共产国际批准申请",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.2.desc:0",
+        "original": "After careful consideration, the Central Committee of the Comintern has approved our request for membership.",
+        "translation": "经过仔细考虑后，共产国际中央委员会已经批准了我们的会员申请。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.2.a:2",
+        "original": "[ROOT.GetNameDefCap] and [From.GetFactionName] will march side by side!",
+        "translation": "[ROOT.GetNameDefCap]和[From.GetFactionName]将会并肩作战！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.3.t:0",
+        "original": "Comintern Membership denied",
+        "translation": "共产国际拒绝申请",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.3.desc:0",
+        "original": "Our delegation had to endure a long lecture by the Chairman of the Comintern, explaining that a coutry as small as ours can not possibly be the kind of developed industrial nation that could produce a communist revolution. We are, apparently, something else. In any event, we can not be part of the Comintern.",
+        "translation": "我们的代表团不得不忍受共产国际主席的长篇大论，他们指出我们这么小的国家是不可能像发达工业国家那样产生共产主义革命的。我们……显然……被排除在外了。在任何情况下，我们都不会成为共产国际的一部分。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.3.a:0",
+        "original": "Perhaps they are the ones mistaken?",
+        "translation": "或许是他们弄错了？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.4.t:0",
+        "original": "[From.GetNameDefCap] wants to join our cause",
+        "translation": "[From.GetNameDefCap]想加入我们的事业",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.4.desc:0",
+        "original": "Seeing the might of our invincible armies, the government of [NZL.GetName] has decided that they would rather be on our side of the conflict. The question is whether we should allow them.",
+        "translation": "看到了我们不可战胜的军队之后，[NZL.GetName]政府决定在冲突之中站到我们这边来。现在的问题是我们是否应该答应他们。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.4.a:0",
+        "original": "As long as they know their place.",
+        "translation": "只要他们能摆明白自己的位置。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.4.b:0",
+        "original": "Why take by diplomacy what you can take by war?",
+        "translation": "能够通过战争解决的问题何必使用外交手段？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.5.t:0",
+        "original": "Japan approves",
+        "translation": "日本同意联盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.5.desc:0",
+        "original": "Our request for an alliance with Japan has been approved.",
+        "translation": "我们同日本结盟的请求已获得批准。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.5.a:0",
+        "original": "This will keep us safe.",
+        "translation": "这将保障我们的安全。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.6.t:0",
+        "original": "Japan refuses alliance",
+        "translation": "日本拒绝联盟",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.6.desc:0",
+        "original": "The [JAP.GetAdjective] government has not even bothered to give us an official response to our request. Rumor has it that it is actually considered a source of great hilarity in [JAP.GetAdjective] government circles.",
+        "translation": "[JAP.GetAdjective]政府甚至懒得向我们提出正式的回复。有传言称，在[JAP.GetAdjective]政府里，人们把我们当成一个笑话。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_new_zealand.6.a:0",
+        "original": "Rude.",
+        "translation": "无礼。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.1.t:0",
+        "original": "Fighter Funds",
+        "translation": "战斗机基金会",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.1.desc:0",
+        "original": "All over the Empire, \"Fighter Funds\" have been set up in local communities to collect money for new fighters for the Royal Air Force. Rich individuals have also chipped in to purchase planes for the military. The Nizam of Hyperabad has donated enough money to finance the purchase of 2 full squadrons. The question is where they should be stationed.",
+        "translation": "在整个帝国，“战斗机基金会”已经在各地设立，为制造皇家空军的新战斗机筹集资金。富人们也纷纷为军队购买飞机。海德拉巴的尼扎姆捐赠了足以购买两个飞行中队的资金。现在的问题是他们应该驻扎在哪里。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.1.a:0",
+        "original": "They should go to the United Kingdom.",
+        "translation": "他们应该去英国。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.1.b:0",
+        "original": "We need these for homeland defense!",
+        "translation": "我们需要他们来保卫家园！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.2.t:0",
+        "original": "Indian Prince donates fighters",
+        "translation": "印度土邦王公捐赠的战斗机",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.2.desc:0",
+        "original": "The Nizam of Hyperabad, an Indian Prince, has generously donated the money to purchase two full squadrons of our most modern fighters for the Royal Air Force. The government has expressed their thanks and declared that the first plane will be named \"Spirit of Hyperabad\".",
+        "translation": "海德拉巴的尼扎姆，一位印度的土邦王公，慷慨的捐赠了大量的钱财用以建设两个我国最先进的飞行中队。政府已经表达了感谢，并宣布第一架飞机将被命名为“海德拉巴之魂”。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.2.a:0",
+        "original": "They will prove very useful.",
+        "translation": "他们将会证明自己。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.21.t:0",
+        "original": "The Bengal Famine",
+        "translation": "孟加拉饥荒",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.21.desc:0",
+        "original": "Bengal has suffered famines before, but this time events have conspired to make things so much worse than usual. The staggeringly incompetent colonial administration has shown itself utterly unable - or perhaps even unwilling - to adequately react to a cyclone wiping out much of the rice harvest in Bengal. With refugees pouring in from the war stricken regions of the country, demand for food is growing every day while supply is falling short. \\n\\nFood prices have risen dramatically, leading to people staying away from work that no longer pays enough to feed their families. Recruitment numbers for the army have also dropped considerably as more and more people refuse to leave their homes to fight for a government that does nothing to help them.",
+        "translation": "孟加拉遭受了饥荒，这次的灾情比以前的更为严重。无能到令人震惊的殖民政府已经证明自己完全不能——甚至是不愿意——对台风席卷稻田做出任何反应。随着难民从战乱地区涌入，对食物的需求与日俱增，而供应量却在减少。\\n\\n食物价格大幅上升，人民已经抛弃了工作，因为那不足以养活自己的家庭。同时越来越多的人拒绝离开家园去为一个对他们毫无帮助的政府战斗，军队的招募人数也大幅下降。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.21.a:0",
+        "original": "This is a disaster!",
+        "translation": "这是一场灾难！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.30.t:0",
+        "original": "Indian Communists ask for support",
+        "translation": "印度共产党寻求支持",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.30.desc:0",
+        "original": "Subhas Chandra Bose, leader of the All India Forward Bloc, has come to Moscow to ask for our help in the struggle for Indian freedom. Invoking the traditional conflicts between Russia and Britain in India, going back to the days of the Great Game, he believes that we are a natural choice to help the Indians achieve their independence from Britain.",
+        "translation": "苏巴斯·钱德拉·鲍斯，这位全印前进同盟的领导人，已经抵达莫斯科并要求我们在解放印度的斗争中给予帮助。他援引俄罗斯和英国在印度地区一直以来存在的争端，并认为是时候重回大博弈的时代，他相信我们是帮助印度从英国人手中实现独立的最佳选择。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.30.a:0",
+        "original": "Let us end the British Empire, once and for all.",
+        "translation": "让我们一劳永逸的解决掉大英帝国。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.30.b:0",
+        "original": "What an absurd notion.",
+        "translation": "多么荒谬的想法。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.31.t:0",
+        "original": "[SOV.GetNameDefCap] supports Indian Independence",
+        "translation": "[SOV.GetNameDefCap]支持印度独立",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.31.desc:0",
+        "original": "The [SOV.GetAdjective] ambassador today visited the Foreign Office to discuss the issue of Indian Independence. During the meeting, he made it very clear that [SOV.GetNameDef] considers our continued rule over India to be utterly unacceptable. It appears that Bose's words have found the ear of [SOV.GetLeader], and have swayed the Russians to his cause. \\n\\nFor now, the [SOV.GetAdjective]s seem to limit themselves to training Indian volunteers in their country, but they may well intervene in any conflict that springs up on the subcontinent.",
+        "translation": "[SOV.GetAdjective]大使今日访问了外交部并对印度问题进行讨论。在会议期间，大使说得很明白，[SOV.GetNameDef]认为我们对印度的持续统治是不可接受的。看来，鲍斯的言论完全被[SOV.GetLeader]所接纳，并使俄罗斯支持他的事业。\\n\\n现在，[SOV.GetAdjective]目前的行动看来仅限于在他们自己的领土内培训印度志愿者，但他们很可能会在冲突兴起后介入这片次大陆。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.31.a:0",
+        "original": "They leave us no choice, then. We have to let them go.",
+        "translation": "他们没有给我们留下选择的余地，只能随他们去了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.31.b:0",
+        "original": "If they want to play the Great Game again, then let's play.",
+        "translation": "如果他们想再来一次大博弈，那就来吧。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.32.t:0",
+        "original": "[SOV.GetNameDefCap] takes up our cause",
+        "translation": "[SOV.GetNameDefCap]开始支持我们的事业",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.32.desc_SOV_helps:0",
+        "original": "Our negotiations in Moscow have been a stunning success. Today, the headline of the Pravda reads \"The struggle of the Indian people for freedom is our struggle!\" Comrade [SOV.GetLeader] himself has met with Chandra Bose and promised his full support.",
+        "translation": "我们在莫斯科的谈判取得了惊人的成功。今天出版的《真理报》的标题为《印度人民争取自由的斗争就是我们的斗争！》。[SOV.GetLeader]同志亲自会见了钱德拉·鲍斯，并承诺将会全力支持他的事业。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.32.desc_SOV_helps_ENG_reject:0",
+        "original": "Our hopes for an easy way to independence have been cruely ended by the British colonial office. When the [SOV.GetAdjective] Ambassador approached them with the request that we should be allowed to determine our own fate, he was quickly told that there was nothing to discuss. The [ENG.GetAdjective] government claims that the question of our independence is an internal matter in which no foreign power may intervene.",
+        "translation": "我们所希望的简单独立之路已经被英国殖民政府凶残的扼杀，[SOV.GetAdjective]大使联系他们并提出应当让我们自己决定自己的命运，但他很快被告知这事没有商量的余地。[ENG.GetAdjective]政府声称我们的独立问题是国家内政，任何外国势力都不得干涉。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.32.a:0",
+        "original": "The fight goes on.",
+        "translation": "战斗将会继续。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.33.t:0",
+        "original": "[SOV.GetAdjective]s refuse to help",
+        "translation": "[SOV.GetAdjective]拒绝提供帮助",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.33.desc:0",
+        "original": "Subhas Chandra Bose has tried to get the [SOV.GetAdjective] government to help our struggle, but his efforts have not been met with success. After waiting several days to speak to [SOV.GetLeader], he was granted the chance for a meeting that lasted barely ten minutes. \\n\\nWhile [SOV.GetLeader] expressed great admiration for the revolutionary struggle of our people, he also made it clear that he does not believe our country is ready for the next step on the way to full communism.",
+        "translation": "苏巴斯·钱德拉·鲍斯试图说服[SOV.GetAdjective]政府为我们的斗争提供帮助，但是他的努力并没有得到成功。在等待[SOV.GetLeader]的回复几天之后，他仅仅得到了一场只有十多分钟的会议。\\n\\n虽然[SOV.GetLeader]对我国人民的革命斗争表示极大的钦佩，但他也明确表示，他不相信我们的国家已经准备好走向全面共产主义之路。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.33.a:0",
+        "original": "Perhaps we should ask the Germans?",
+        "translation": "也许我们应该去问问德国人？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.34.t:0",
+        "original": "Freedom For India",
+        "translation": "印度的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.34.desc:0",
+        "original": "Today marks the begin of a new era in Indian history. After centuries under foreign rule, we have finally achieved full independence. The local [ENG.GetAdjective] civil servants have been ordered to assist in the transition to [RAJ.GetAdjective] home rule and will be sent home within the next few months. \\n\\nWith the aid of our new [SOV.GetAdjective] comrades, we can now focus on the task ahead of us - building a nation for our people.",
+        "translation": "今天标志着印度历史走进了一个新的纪元。在外国殖民统治持续了数个世纪之后，我们终于实现了完全独立。[ENG.GetAdjective]的政府官员被命令协助[RAJ.GetAdjective]进行地方自治的过渡，并在接下来的几个月里会被送回他们的祖国。\\n\\n有了我们新的[SOV.GetAdjective]同志的帮助，现在我们可以专注于我们眼前的任务——建立一个属于我们人民的国家。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.34.a:0",
+        "original": "Triumph!",
+        "translation": "胜利！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.40.t:0",
+        "original": "Indian Nationalists ask for support",
+        "translation": "印度民族主义者寻求支持",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.40.desc:0",
+        "original": "Subhas Chandra Bose, leader of the All India Forward Bloc, has come to Berlin to ask for our help in the struggle for Indian freedom. In a letter to [GER.GetLeader], he expressed his admiration and suggested that an independent India would be a valuable ally in our effort to restore [GER.GetNameDef] to its rightful place in the world.",
+        "translation": "苏巴斯·钱德拉·鲍斯，全印前进集团的领导人，已经到达柏林并请求我们对印度的自由斗争予以帮助。在一封[GER.GetLeader]的回信中，他表示出钦佩之情，并提出一个独立的印度将会是我们努力恢复[GER.GetNameDef]在世界应有地位的宝贵盟友。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.40.a:0",
+        "original": "The British took our colonies. Now we take theirs.",
+        "translation": "英国占领过我们的殖民地，现在轮到我们占领他们的了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.40.b:0",
+        "original": "What an absurd notion.",
+        "translation": "多么荒谬的想法。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.41.t:0",
+        "original": "[GER.GetNameDefCap] supports Indian Independence",
+        "translation": "[GER.GetNameDefCap]支持印度独立",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.41.desc:0",
+        "original": "The [GER.GetAdjective] ambassador today visited the Foreign Office to discuss the issue of Indian Independence. During the meeting, he made it very clear that [GER.GetLeader] considers our continued rule over India to be utterly unacceptable. It appears that Bose has promised that an independent India will support [GER.GetAdjective] interests in the region. \\n\\nThe ambassador refused to make clear what his government was willing to do if we refused, but we must assume that they may even resort to war.",
+        "translation": "[GER.GetAdjective]大使今日访问了外交部并对印度问题进行讨论。在会议期间，大使说得很明白，[GER.GetLeader]认为我们对印度的持续统治是不可接受的。看来，鲍斯承诺，一个独立的印度将会支持[GER.GetAdjective]在该地区的礼仪。 \\n\\n大使拒绝透露他们的政府会在我们拒绝要求后会如何行动，但我们必须假设他们会诉诸战争。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.41.a:0",
+        "original": "They leave us no choice, then. We have to let them go.",
+        "translation": "他们没有给我们留下选择的余地，只能随他们去了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.41.b:0",
+        "original": "We have played the Great Game in India before. Let us see how well the Germans play it.",
+        "translation": "我们曾经在印度搞过一次大博弈，让我们看看德国人的本事。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.42.t:0",
+        "original": "[GER.GetNameDefCap] takes up our cause",
+        "translation": "[GER.GetNameDefCap]开始支持我们的事业",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.42.desc_GER_helps:0",
+        "original": "After meeting the [GER.GetAdjective] foreign minister and arguing his cause, Subhas Chandra Bose has managed to convince the [GER.GetAdjective]s to support us. Bose also met with German leader [GER.GetLeader] and discussed matters of shared interest for several hours, including raising a unit of Indian volunteers from British Prisoners of War.",
+        "translation": "在会见[GER.GetAdjective]外交部长并就自己的事业进行辩论之后，苏巴斯·钱德拉·鲍斯成功说服了[GER.GetAdjective]支持我们。鲍斯还会见了德国领导人[GER.GetLeader]，并与他就共同利益问题进行了数小时的会谈，包括用英国人在战争中抓获的印度战俘来组建志愿军。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.42.desc_GER_helps_ENG_reject:0",
+        "original": "Our hopes for an easy way to independence have been cruely ended by the British colonial office. When the [GER.GetAdjective] Ambassador approached them with the request that we should be allowed to determine our own fate, he was quickly told that there was nothing to discuss. The [ENG.GetAdjective] government claims that the question of our independence is an internal matter in which no foreign power may intervene.",
+        "translation": "我们所希望的简单独立之路已经被英国殖民政府凶残的扼杀，[GER.GetAdjective]大使联系他们并提出应当让我们自己决定自己的命运，但他很快被告知这事没有商量的余地。[ENG.GetAdjective]政府声称我们的独立问题是国家内政，任何外国势力都不得干涉。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.42.a:0",
+        "original": "The fight goes on.",
+        "translation": "战斗将会继续。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.43.t:0",
+        "original": "[GER.GetAdjective]s refuse to help",
+        "translation": "[GER.GetAdjective]拒绝提供帮助",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.43.desc:0",
+        "original": "Subhas Chandra Bose has tried to get the [GER.GetAdjective] government to help our struggle, but his efforts have not been met with success. After waiting several days to speak to [GER.GetLeader], he was granted the chance for a meeting that lasted barely ten minutes. \\n\\nWhile [GER.GetLeader] expressed great admiration for our situation and fanatical spirit of resistance, he also made it clear that he does not believe our country is worth expending resources on.",
+        "translation": "苏巴斯·钱德拉·鲍斯试图说服[GER.GetAdjective]政府为我们的斗争提供帮助，但是他的努力并没有得到成功。在等待[GER.GetLeader]的回复几天之后，他仅仅得到了一场只有十多分钟的会议。\\n\\n虽然[GER.GetLeader]对我国人民的狂热的反抗精神表示极大的钦佩，但他也明确表示，他不相信我们的国家值得他们耗费资源。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.43.a:0",
+        "original": "Damnation.",
+        "translation": "该死。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.44.t:0",
+        "original": "Freedom For India",
+        "translation": "印度的自由",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.44.desc:0",
+        "original": "Today marks the begin of a new era in Indian history. After centuries under foreign rule, we have finally achieved full independence. The local [ENG.GetAdjective] civil servants have been ordered to assist in the transition to [RAJ.GetAdjective] home rule and will be sent home within the next few months. \\n\\nWith the aid of our new [GER.GetAdjective] friends, we can now focus on the task ahead of us - building a nation for our people.",
+        "translation": "今天标志着印度历史走进了一个新的纪元。在外国殖民统治持续了数个世纪之后，我们终于实现了完全独立。[ENG.GetAdjective]的政府官员被命令协助[RAJ.GetAdjective]进行地方自治的过渡，并在接下来的几个月里会被送回他们的祖国。\\n\\n有了我们新的[GER.GetAdjective]朋友的帮助，现在我们可以专注于我们眼前的任务——建立一个属于我们人民的国家。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.44.a:0",
+        "original": "Triumph!",
+        "translation": "胜利！",
+        "stage": 1
+    },
+    {
+        "key": "AST_CREATE_FACTION:0",
+        "original": "We will establish our own faction.",
+        "translation": "我们将建立自己的阵营。",
+        "stage": 1
+    },
+    {
+        "key": "SAF_colonies_tt:0",
+        "original": "Release §YKenya§! and §YZimbabwe§! as puppets.",
+        "translation": "释放§Y肯尼亚§! 和 §Y津巴布韦§! 为傀儡。",
+        "stage": 1
+    },
+    {
+        "key": "SAF_soviet_research_tt:0",
+        "original": "Enter into a research agreement with South Africa.",
+        "translation": "与南非签订研究协议。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj_focus_paratrooper_tt:0",
+        "original": "Battaglione Azad Hindoustan paratroopers will be deployed in Italy.",
+        "translation": "印度自由军的伞兵部队将部署于意大利。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.201.t:0",
+        "original": "The Battaglione Azad Hindoustan",
+        "translation": "印度自由军",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.201.desc:0",
+        "original": "Recruited from Prisoners of War, the soldiers of the Battaglione Azad Hindoustan have sworn to give their life in pursuit of Indian freedom. Trained in sabotage and infiltration, these elite soldiers are also capable of being dropped by parachute to wreak havoc behind enemy lines.",
+        "translation": "从战俘中招募并组建的印度自由军士兵宣誓，他们愿意为印度的自由献出自己的生命。在进行渗透和破坏训练之后，这些精英战士也能够用使用降落伞空投到敌军后方进行破坏。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.201.a:0",
+        "original": "Strike from the skies, brothers!",
+        "translation": "打击从天而降，兄弟们！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.210.t:0",
+        "original": "Sabotage?",
+        "translation": "破坏活动？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.210.desc:0",
+        "original": "The local workers had just broken for lunch when a violent explosion rocked one of our factories. Significant damage was done to the building itself, and several workers were injured by flying glass. Thankfully, the machine tools seem to have remained mostly intact. Police and army units have constructed a perimeter while investigators pick through the rubble in a search for clues to the cause of the explosion.\\n\\nRumors abound that it was the work of a resitance cell from the Quit India movement, turning their protest to violence in their struggle for freedom.",
+        "translation": "当地工人刚吃完午饭，一场猛烈的爆炸震动了我们的一家工厂，对建筑本身造成了巨大的破坏，几名工人被飞散的玻璃碎片划伤。值得庆幸的是，大多数机床仍然完好无损。警察和军队已经把周边封锁了起来，并派遣调查人员在废墟中寻找爆炸原因的线索。\\n\\n有传言称，这是退出印度运动的抵抗组织所做的，他们以暴力抵抗来争取自由。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.210.a:0",
+        "original": "Disturbing.",
+        "translation": "令人不安。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.211.t:0",
+        "original": "Sabotage!",
+        "translation": "破坏活动！",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.211.desc:0",
+        "original": "Just weeks after the first explosion, a second factory was suddenly destroyed, again just after the workers had left the main building for lunch. There can be little doubt that this is the work of an organized resistance group conducting a well-planned campaign of sabotage and terrorism. The brazen attacks in broad daylight show that the attackers appear to be very sure of themselves. ",
+        "translation": "就在几周前的第一起爆炸事件之后，今天又有一家工厂在工人们去吃午饭时发生了爆炸。毫无疑问，这是一个有组织的抵抗组织进行的有计划的破坏和恐怖主义活动。他们厚颜无耻的在光天化日之下发动进攻，表明他们的攻击者似乎很有自信。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.211.a:0",
+        "original": "Will no one stop them?",
+        "translation": "没人能阻止他们吗？",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.212.t:0",
+        "original": "The Enemy Within",
+        "translation": "内部敌人",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.212.desc:0",
+        "original": "A third explosion has devastated a factory in on of our states. This time, it appears the attacks got the timing wrong, as the bomb exploded halfway through the shift. Dozens of workers were killed and dozens more are still missing. Investigators are pursuing several leads, and a number of houses have already been searched. The results are deeply disturbing, ranging from Quit India propaganda to tools that could be used to create crude explosives. \\n\\nNone of those arrested seem to be the ringleaders, however, and they have so far refused to talk.",
+        "translation": "今天在我国发生了第三起工厂爆炸案。看起来这一次，炸弹爆炸的时间出错了，炸弹在工人轮班的时候发生了爆炸。导致数十名工人死亡，另有超过数十人失踪。调查人员正在追查几条线索，一些房屋也已被搜查。结果令人深感不安，搜查出的物品包括退出印度运动的宣传物品到可以用于制造粗糙炸药的工具。\\n\\n被捕的人之中似乎没有一个是主谋，不管怎样，他们仍然拒绝说话。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj.212.a:0",
+        "original": "This is getting out of hand.",
+        "translation": "形势有点失控了。",
+        "stage": 1
+    },
+    {
+        "key": "tfv_raj_quit_india_unrest_tt:0",
+        "original": "The movement's supporters are expected to demand change.",
+        "translation": "该运动的支持者要求改变现状。",
+        "stage": 1
+    }
+]

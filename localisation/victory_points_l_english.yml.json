@@ -1,0 +1,3452 @@
+[
+    {
+        "key": "VICTORY_POINTS_TOOLTIP:0",
+        "original": "§G$NAME$§! victory points = §Y$POINTS$§!",
+        "translation": "§G$NAME$§! 胜利点 = §Y$POINTS$§!",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6521:0",
+        "original": "Berlin",
+        "translation": "柏林",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_692:0",
+        "original": "Munich",
+        "translation": "慕尼黑",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6469:0",
+        "original": "Essen",
+        "translation": "埃森",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9347:0",
+        "original": "Hamburg",
+        "translation": "汉堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9570:0",
+        "original": "Breslau",
+        "translation": "布雷斯劳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_241:0",
+        "original": "Wilhelmshaven",
+        "translation": "威廉港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_321:0",
+        "original": "Rostock",
+        "translation": "罗斯托克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_514:0",
+        "original": "Dresden",
+        "translation": "德累斯顿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_587:0",
+        "original": "Köln",
+        "translation": "科隆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3326:0",
+        "original": "Bremen",
+        "translation": "不莱梅",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3522:0",
+        "original": "Magdeburg",
+        "translation": "马格德堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3535:0",
+        "original": "Leipzig",
+        "translation": "莱比锡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6282:0",
+        "original": "Stettin",
+        "translation": "斯德丁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6332:0",
+        "original": "Königsberg",
+        "translation": "柯尼斯堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6377:0",
+        "original": "Hannover",
+        "translation": "汉诺威",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6389:0",
+        "original": "Kiel",
+        "translation": "基尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6488:0",
+        "original": "Frankfurt",
+        "translation": "法兰克福",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9517:0",
+        "original": "Stuttgart",
+        "translation": "斯图加特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11544:0",
+        "original": "Nuremberg",
+        "translation": "纽伦堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6287:0",
+        "original": "Copenhagen",
+        "translation": "哥本哈根",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3325:0",
+        "original": "Odense",
+        "translation": "欧登塞",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6364:0",
+        "original": "Aarhus",
+        "translation": "奥胡斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3544:0",
+        "original": "Warsaw",
+        "translation": "华沙",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9427:0",
+        "original": "Krakow",
+        "translation": "克拉科夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_362:0",
+        "original": "Danzig",
+        "translation": "但泽",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3320:0",
+        "original": "Wilno",
+        "translation": "维尔诺",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3392:0",
+        "original": "Brzesc Litewski",
+        "translation": "布列斯特-立陶夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3393:0",
+        "original": "Grodno",
+        "translation": "格罗德诺",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6558:0",
+        "original": "Poznan",
+        "translation": "波兹南",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9508:0",
+        "original": "Lodz",
+        "translation": "罗兹",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11479:0",
+        "original": "Lwow",
+        "translation": "利沃夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11666:0",
+        "original": "Vienna",
+        "translation": "维也纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_673:0",
+        "original": "Innsbruck",
+        "translation": "因斯布鲁克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_688:0",
+        "original": "Salzburg",
+        "translation": "萨尔茨堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9648:0",
+        "original": "Graz",
+        "translation": "格拉茨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11542:0",
+        "original": "Prague",
+        "translation": "布拉格",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3569:0",
+        "original": "Brno",
+        "translation": "布尔诺",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6418:0",
+        "original": "Plzen",
+        "translation": "比尔森",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6573:0",
+        "original": "Kosice",
+        "translation": "科希策",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9692:0",
+        "original": "Bratislava",
+        "translation": "布拉迪斯拉发",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9660:0",
+        "original": "Budapest",
+        "translation": "布达佩斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11610:0",
+        "original": "Pecs",
+        "translation": "佩奇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11659:0",
+        "original": "Debrecen",
+        "translation": "德布勒森",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_391:0",
+        "original": "Amsterdam",
+        "translation": "阿姆斯特丹",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3211:0",
+        "original": "The Hague",
+        "translation": "海牙",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9498:0",
+        "original": "Rotterdam",
+        "translation": "鹿特丹",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6496:0",
+        "original": "Eindhoven",
+        "translation": "埃因霍温",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_516:0",
+        "original": "Brussels",
+        "translation": "布鲁塞尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3516:0",
+        "original": "Namur",
+        "translation": "那慕尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6560:0",
+        "original": "Gent",
+        "translation": "根特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6598:0",
+        "original": "Antwerpen",
+        "translation": "安特卫普",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11519:0",
+        "original": "Liége",
+        "translation": "列日",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6583:0",
+        "original": "Luxemburg",
+        "translation": "卢森堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11506:0",
+        "original": "Paris",
+        "translation": "巴黎",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6613:0",
+        "original": "Lyon",
+        "translation": "里昂",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9737:0",
+        "original": "Bordeaux",
+        "translation": "波尔多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11834:0",
+        "original": "Marseille",
+        "translation": "马赛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_575:0",
+        "original": "Dunkerque",
+        "translation": "敦刻尔克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_620:0",
+        "original": "Limoges",
+        "translation": "利摩日",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_678:0",
+        "original": "Mulhouse",
+        "translation": "米卢斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_512:0",
+        "original": "Orleans",
+        "translation": "奥尔良",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3552:0",
+        "original": "Brest",
+        "translation": "布雷斯特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3594:0",
+        "original": "Vichy",
+        "translation": "维希",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3652:0",
+        "original": "Dijon",
+        "translation": "第戎",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3671:0",
+        "original": "Tours",
+        "translation": "图尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3768:0",
+        "original": "Grenoble",
+        "translation": "格勒诺布尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6449:0",
+        "original": "Cherbourg",
+        "translation": "瑟堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6536:0",
+        "original": "Lorient",
+        "translation": "洛里昂",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6657:0",
+        "original": "La Rochelle",
+        "translation": "拉罗歇尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6766:0",
+        "original": "Toulouse",
+        "translation": "图卢兹",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9434:0",
+        "original": "Le Havre",
+        "translation": "勒阿弗尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9490:0",
+        "original": "Troyes",
+        "translation": "特鲁瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9495:0",
+        "original": "Rennes",
+        "translation": "雷恩",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9503:0",
+        "original": "Strasbourg",
+        "translation": "斯特拉斯堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9559:0",
+        "original": "Metz",
+        "translation": "梅斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9642:0",
+        "original": "Besancon",
+        "translation": "贝桑松",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9898:0",
+        "original": "Montpellier",
+        "translation": "蒙彼利埃",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9909:0",
+        "original": "Nice",
+        "translation": "尼斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11465:0",
+        "original": "Nantes",
+        "translation": "南特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11483:0",
+        "original": "Lille",
+        "translation": "里尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11516:0",
+        "original": "Nancy",
+        "translation": "南锡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11548:0",
+        "original": "Calais",
+        "translation": "加莱",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11563:0",
+        "original": "Rouen",
+        "translation": "鲁昂",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13011:0",
+        "original": "Reims",
+        "translation": "兰斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9620:0",
+        "original": "Berne",
+        "translation": "伯尔尼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_663:0",
+        "original": "Zürich",
+        "translation": "苏黎世",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11586:0",
+        "original": "Belgrade",
+        "translation": "贝尔格莱德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3882:0",
+        "original": "Skopje",
+        "translation": "斯科普里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3924:0",
+        "original": "Split",
+        "translation": "斯普利特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9627:0",
+        "original": "Ljubljana",
+        "translation": "卢布尔雅那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11581:0",
+        "original": "Zagreb",
+        "translation": "萨格勒布",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11899:0",
+        "original": "Sarajevo",
+        "translation": "萨拉热窝",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_949:0",
+        "original": "Sofia",
+        "translation": "索菲亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6923:0",
+        "original": "Plovdiv",
+        "translation": "普罗夫迪夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9783:0",
+        "original": "Varna",
+        "translation": "瓦尔纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9617:0",
+        "original": "Bucharest",
+        "translation": "布加勒斯特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_690:0",
+        "original": "Brasov",
+        "translation": "布拉索夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3663:0",
+        "original": "Ploiesti",
+        "translation": "普洛耶什蒂",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6682:0",
+        "original": "Arad",
+        "translation": "阿拉德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6711:0",
+        "original": "Cluj",
+        "translation": "克卢日",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9716:0",
+        "original": "Iasi",
+        "translation": "雅西",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9914:0",
+        "original": "Tirana",
+        "translation": "地拉那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4109:0",
+        "original": "Athens",
+        "translation": "雅典",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9940:0",
+        "original": "Heraklion",
+        "translation": "伊拉克利翁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11818:0",
+        "original": "Thessaloniki",
+        "translation": "塞萨洛尼基",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11747:0",
+        "original": "Ankara",
+        "translation": "安卡拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9833:0",
+        "original": "Istanbul",
+        "translation": "伊斯坦布尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_940:0",
+        "original": "Konya",
+        "translation": "科尼亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_947:0",
+        "original": "Bursa",
+        "translation": "布尔萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4112:0",
+        "original": "Izmir",
+        "translation": "伊兹密尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9893:0",
+        "original": "Gaziantep",
+        "translation": "加济安泰普",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9932:0",
+        "original": "Trabzon",
+        "translation": "特拉布宗",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3938:0",
+        "original": "Madrid",
+        "translation": "马德里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9764:0",
+        "original": "Barcelona",
+        "translation": "巴塞罗那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_740:0",
+        "original": "Bilbao",
+        "translation": "毕尔巴鄂",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_758:0",
+        "original": "Coruna",
+        "translation": "拉科鲁尼亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_875:0",
+        "original": "Cordoba",
+        "translation": "科尔多瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_885:0",
+        "original": "Burgos",
+        "translation": "布尔戈斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3816:0",
+        "original": "Zaragoza",
+        "translation": "萨拉戈萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6906:0",
+        "original": "Valencia",
+        "translation": "巴伦西亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7183:0",
+        "original": "Sevilla",
+        "translation": "塞维利亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9979:0",
+        "original": "Malaga",
+        "translation": "马拉加",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10024:0",
+        "original": "Murcia",
+        "translation": "穆尔西亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11707:0",
+        "original": "Oviedo",
+        "translation": "奥维耶多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11825:0",
+        "original": "Valladolid",
+        "translation": "巴利亚多利德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4135:0",
+        "original": "Gibraltar",
+        "translation": "直布罗陀",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11805:0",
+        "original": "Lisbon",
+        "translation": "里斯本",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9817:0",
+        "original": "Porto",
+        "translation": "波尔图",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9904:0",
+        "original": "Rome",
+        "translation": "罗马",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3780:0",
+        "original": "Milan",
+        "translation": "米兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_819:0",
+        "original": "Naples",
+        "translation": "那不勒斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6626:0",
+        "original": "Trieste",
+        "translation": "的里雅斯特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6780:0",
+        "original": "Turin",
+        "translation": "都灵",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6788:0",
+        "original": "Genoa",
+        "translation": "热那亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6606:0",
+        "original": "Bologna",
+        "translation": "博洛尼亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10074:0",
+        "original": "Palermo",
+        "translation": "巴勒莫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11584:0",
+        "original": "Venice",
+        "translation": "威尼斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11837:0",
+        "original": "Taranto",
+        "translation": "塔兰托",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6050:0",
+        "original": "Stockholm",
+        "translation": "斯德哥尔摩",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_156:0",
+        "original": "Falun",
+        "translation": "法伦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_383:0",
+        "original": "Göteborg",
+        "translation": "哥德堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9279:0",
+        "original": "Malmö",
+        "translation": "马尔默",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11114:0",
+        "original": "Karlstad",
+        "translation": "卡尔斯塔德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11380:0",
+        "original": "Norrköping",
+        "translation": "北雪平",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11215:0",
+        "original": "Karlskrona",
+        "translation": "卡尔斯克鲁纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6115:0",
+        "original": "Oslo",
+        "translation": "奥斯陆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_192:0",
+        "original": "Narvik",
+        "translation": "纳尔维克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3022:0",
+        "original": "Trondheim",
+        "translation": "特隆赫姆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_122:0",
+        "original": "Bergen",
+        "translation": "卑尔根",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11105:0",
+        "original": "Helsinki",
+        "translation": "赫尔辛基",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3083:0",
+        "original": "Turku",
+        "translation": "图尔库",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3122:0",
+        "original": "Vaasa",
+        "translation": "瓦萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3137:0",
+        "original": "Tampere",
+        "translation": "坦佩雷",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9206:0",
+        "original": "Viipuri",
+        "translation": "维堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3152:0",
+        "original": "Tallinn",
+        "translation": "塔林",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9221:0",
+        "original": "Tartu",
+        "translation": "塔尔图",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9340:0",
+        "original": "Riga",
+        "translation": "里加",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_310:0",
+        "original": "Daugavpils",
+        "translation": "陶格夫匹尔斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6296:0",
+        "original": "Kaunas",
+        "translation": "考那斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9483:1",
+        "original": "Siauliai",
+        "translation": "希奥利艾",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6103:0",
+        "original": "London",
+        "translation": "伦敦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3273:0",
+        "original": "Glasgow",
+        "translation": "格拉斯哥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9297:0",
+        "original": "Birmingham",
+        "translation": "伯明翰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_351:0",
+        "original": "Newcastle",
+        "translation": "纽卡斯尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3369:0",
+        "original": "Bristol",
+        "translation": "布里斯托尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3379:0",
+        "original": "Belfast",
+        "translation": "贝尔法斯特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6384:0",
+        "original": "Liverpool",
+        "translation": "利物浦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9379:0",
+        "original": "Leeds",
+        "translation": "利兹",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9392:0",
+        "original": "Edinburgh",
+        "translation": "爱丁堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11293:0",
+        "original": "Dublin",
+        "translation": "都柏林",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7394:0",
+        "original": "Cork",
+        "translation": "科克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6380:0",
+        "original": "Moscow",
+        "translation": "莫斯科",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_525:0",
+        "original": "Kiev",
+        "translation": "基辅",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3529:0",
+        "original": "Stalingrad",
+        "translation": "斯大林格勒",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3151:0",
+        "original": "Leningrad",
+        "translation": "列宁格勒",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6474:0",
+        "original": "Stalino",
+        "translation": "斯大林诺",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9417:0",
+        "original": "Rostov",
+        "translation": "罗斯托夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11375:0",
+        "original": "Gorki",
+        "translation": "高尔基",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_117:0",
+        "original": "Novgorod",
+        "translation": "诺夫哥罗德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_121:0",
+        "original": "Yaroslavl",
+        "translation": "雅罗斯拉夫尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_306:0",
+        "original": "Smolensk",
+        "translation": "斯摩棱斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_413:0",
+        "original": "Voronezh",
+        "translation": "沃罗涅日",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_418:0",
+        "original": "Kharkov",
+        "translation": "哈尔科夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_957:0",
+        "original": "Vladivostok",
+        "translation": "符拉迪沃斯托克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1278:0",
+        "original": "Ufa",
+        "translation": "乌法",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1459:0",
+        "original": "Tashkent",
+        "translation": "塔什干",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1591:0",
+        "original": "Alma-Ata",
+        "translation": "阿拉木图",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1599:0",
+        "original": "Tbilisi",
+        "translation": "第比利斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1821:0",
+        "original": "Sverdlovsk",
+        "translation": "斯维尔德洛夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3134:0",
+        "original": "Murmansk",
+        "translation": "摩尔曼斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3140:0",
+        "original": "Tikhvin",
+        "translation": "季赫温",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3335:0",
+        "original": "Bryansk",
+        "translation": "布良斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3338:0",
+        "original": "Archangelsk",
+        "translation": "阿尔汉格尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3578:0",
+        "original": "Saratov",
+        "translation": "萨拉托夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3580:0",
+        "original": "Kursk",
+        "translation": "库尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3653:0",
+        "original": "Batumi",
+        "translation": "巴统",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3672:0",
+        "original": "Grozny",
+        "translation": "格罗兹尼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3686:0",
+        "original": "Sevastopol",
+        "translation": "塞瓦斯托波尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3720:0",
+        "original": "Maikop",
+        "translation": "迈科普",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4724:0",
+        "original": "Krasnoyarsk",
+        "translation": "克拉斯诺亚尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4797:0",
+        "original": "Irkutsk",
+        "translation": "伊尔库茨克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6245:0",
+        "original": "Kalinin",
+        "translation": "加里宁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6262:0",
+        "original": "Tula",
+        "translation": "图拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6338:0",
+        "original": "Kazan",
+        "translation": "喀山",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7274:0",
+        "original": "Novosibirsk",
+        "translation": "新西伯利亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7375:0",
+        "original": "Perm",
+        "translation": "彼尔姆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7661:0",
+        "original": "Baku",
+        "translation": "巴库",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9288:0",
+        "original": "Gomel",
+        "translation": "戈梅利",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9355:0",
+        "original": "Orel",
+        "translation": "奥廖尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9753:0",
+        "original": "Astrakhan",
+        "translation": "阿斯特拉罕",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10641:0",
+        "original": "Yakutsk",
+        "translation": "雅库茨克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10696:0",
+        "original": "Omsk",
+        "translation": "鄂木斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11159:1",
+        "original": "Petrozavodsk",
+        "translation": "彼得罗扎沃茨克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11202:0",
+        "original": "Pskov",
+        "translation": "普斯科夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11241:0",
+        "original": "Vitebsk",
+        "translation": "维捷布斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11225:0",
+        "original": "Kuibyshev",
+        "translation": "古比雪夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11370:0",
+        "original": "Minsk",
+        "translation": "明斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11437:0",
+        "original": "Dnipropetrovsk",
+        "translation": "第聂伯罗彼得罗夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11670:0",
+        "original": "Odessa",
+        "translation": "敖德萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12189:0",
+        "original": "Khabarovsk",
+        "translation": "哈巴罗夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12320:0",
+        "original": "Yerevan",
+        "translation": "埃里温",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10627:0",
+        "original": "Kyzyl",
+        "translation": "克孜勒",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4801:0",
+        "original": "Ulaanbaatar",
+        "translation": "乌兰巴托",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7799:0",
+        "original": "Uliastay",
+        "translation": "乌里雅苏台",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7069:0",
+        "original": "Casablanca",
+        "translation": "卡萨布兰卡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1145:0",
+        "original": "Algiers",
+        "translation": "阿尔及尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11969:0",
+        "original": "Tunis",
+        "translation": "突尼斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1149:0",
+        "original": "Tripoli",
+        "translation": "的黎波里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11954:0",
+        "original": "Benghazi",
+        "translation": "班加西",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1130:0",
+        "original": "Tobruk",
+        "translation": "托布鲁克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4076:0",
+        "original": "Alexandria",
+        "translation": "亚历山大港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1071:0",
+        "original": "El-Alamein",
+        "translation": "阿拉曼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7011:0",
+        "original": "Cairo",
+        "translation": "开罗",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4709:0",
+        "original": "Urumqi",
+        "translation": "乌鲁木齐",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5033:0",
+        "original": "Lhasa",
+        "translation": "拉萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11913:0",
+        "original": "Nanjing",
+        "translation": "南京",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6999:0",
+        "original": "Chongqing",
+        "translation": "重庆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7014:0",
+        "original": "Shanghai",
+        "translation": "上海",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9843:0",
+        "original": "Beijing",
+        "translation": "北京",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1047:0",
+        "original": "Guangzhou",
+        "translation": "广州",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1069:0",
+        "original": "Jinan",
+        "translation": "济南",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3992:0",
+        "original": "Nanchang",
+        "translation": "南昌",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4196:0",
+        "original": "Fuzhou",
+        "translation": "福州",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4504:0",
+        "original": "Guiyang",
+        "translation": "贵阳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4619:0",
+        "original": "Wuhan",
+        "translation": "武汉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4925:0",
+        "original": "Chengdu",
+        "translation": "成都",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7071:0",
+        "original": "Xiamen",
+        "translation": "厦门",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7097:0",
+        "original": "Changsha",
+        "translation": "长沙",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7101:0",
+        "original": "Changde",
+        "translation": "常德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7137:0",
+        "original": "Nanning",
+        "translation": "南宁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7191:0",
+        "original": "Hangzhou",
+        "translation": "杭州",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7222:0",
+        "original": "Hefei",
+        "translation": "合肥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9958:0",
+        "original": "Zhengzhou",
+        "translation": "郑州",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10000:0",
+        "original": "Qingdao",
+        "translation": "青岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10068:0",
+        "original": "Tianjin",
+        "translation": "天津",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10404:0",
+        "original": "Guilin",
+        "translation": "桂林",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12299:0",
+        "original": "Singapore",
+        "translation": "新加坡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1330:0",
+        "original": "Rangoon",
+        "translation": "仰光",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1492:0",
+        "original": "Mandalay",
+        "translation": "曼德勒",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4425:0",
+        "original": "Myitkyina",
+        "translation": "密支那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7329:0",
+        "original": "Kota Bharu",
+        "translation": "哥打巴鲁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10062:0",
+        "original": "Hong Kong",
+        "translation": "香港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10297:0",
+        "original": "Kuala Lumpur",
+        "translation": "吉隆坡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7408:0",
+        "original": "Bangkok",
+        "translation": "曼谷",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1488:0",
+        "original": "Chiang Mai",
+        "translation": "清迈",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7236:0",
+        "original": "Hat Yai",
+        "translation": "合艾",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10438:0",
+        "original": "Nakhon Ratchasima",
+        "translation": "呵叻（那空叻差是玛）",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4075:0",
+        "original": "Hanoi",
+        "translation": "河内",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4401:0",
+        "original": "Saigon",
+        "translation": "西贡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1182:0",
+        "original": "Tokyo",
+        "translation": "东京",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7072:0",
+        "original": "Osaka",
+        "translation": "大阪",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1025:0",
+        "original": "Kokura",
+        "translation": "小仓",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1092:0",
+        "original": "Hiroshima",
+        "translation": "广岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1117:0",
+        "original": "Niigata",
+        "translation": "新舄",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4102:0",
+        "original": "Kagoshima",
+        "translation": "鹿儿岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6994:0",
+        "original": "Aomori",
+        "translation": "青森",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7087:0",
+        "original": "Shizuoka",
+        "translation": "静冈",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7169:0",
+        "original": "Sendai",
+        "translation": "仙台",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7197:0",
+        "original": "Kochi",
+        "translation": "高知",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9950:0",
+        "original": "Nagasaki",
+        "translation": "长崎",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10032:0",
+        "original": "Kanazawa",
+        "translation": "金泽",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10125:0",
+        "original": "Nagoya",
+        "translation": "名古屋",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10444:0",
+        "original": "Sapporo",
+        "translation": "札幌",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12421:0",
+        "original": "Asahigawa",
+        "translation": "旭川",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12446:0",
+        "original": "Toyohara",
+        "translation": "丰原",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11932:0",
+        "original": "Naha",
+        "translation": "那霸",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1150:0",
+        "original": "Dalian",
+        "translation": "大连",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4572:0",
+        "original": "Hsinking",
+        "translation": "新京",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4052:0",
+        "original": "Pyongyang",
+        "translation": "平壤",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4056:0",
+        "original": "Pusan",
+        "translation": "釜山",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7125:0",
+        "original": "Seoul",
+        "translation": "汉城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7186:0",
+        "original": "Taipei",
+        "translation": "台北",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10433:0",
+        "original": "Harbin",
+        "translation": "哈尔滨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11771:0",
+        "original": "Mukden",
+        "translation": "沈阳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10265:0",
+        "original": "Manila",
+        "translation": "马尼拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1221:0",
+        "original": "Batangas",
+        "translation": "八打雁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1415:0",
+        "original": "Dagupan",
+        "translation": "达古潘",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4241:0",
+        "original": "Davao",
+        "translation": "达沃",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4288:0",
+        "original": "Calapan",
+        "translation": "卡拉潘",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12118:0",
+        "original": "Cebu",
+        "translation": "宿雾",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12213:0",
+        "original": "Aparri",
+        "translation": "阿帕里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7381:0",
+        "original": "Batavia",
+        "translation": "巴达维亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4608:0",
+        "original": "Soerabaja",
+        "translation": "泗水",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4652:0",
+        "original": "Medan",
+        "translation": "棉兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10237:0",
+        "original": "Balikpapan",
+        "translation": "巴厘巴板",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10263:0",
+        "original": "Makassar",
+        "translation": "望加锡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12268:0",
+        "original": "Palembang",
+        "translation": "巨港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12371:0",
+        "original": "Hollandia",
+        "translation": "荷兰迪亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7859:0",
+        "original": "Canberra",
+        "translation": "堪培拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7798:0",
+        "original": "Melbourne",
+        "translation": "墨尔本",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12406:0",
+        "original": "Sydney",
+        "translation": "悉尼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1652:0",
+        "original": "Perth",
+        "translation": "珀斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7520:0",
+        "original": "Newcastle",
+        "translation": "纽卡斯尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7564:0",
+        "original": "Brisbane",
+        "translation": "布里斯班",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7566:0",
+        "original": "Townsville",
+        "translation": "汤斯维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7669:0",
+        "original": "Darwin",
+        "translation": "达尔文",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12910:0",
+        "original": "Adelaide",
+        "translation": "阿德莱德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1814:0",
+        "original": "Wellington",
+        "translation": "惠灵顿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2197:0",
+        "original": "Christchurch",
+        "translation": "克莱斯特彻奇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2211:0",
+        "original": "Dunedin",
+        "translation": "达尼丁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4543:0",
+        "original": "Auckland",
+        "translation": "奥克兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1349:0",
+        "original": "Bombay",
+        "translation": "孟买",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2086:0",
+        "original": "Delhi",
+        "translation": "德里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4245:0",
+        "original": "Calcutta",
+        "translation": "加尔各答",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10278:0",
+        "original": "Madras",
+        "translation": "马德拉斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4987:0",
+        "original": "Kathmandu",
+        "translation": "加德满都",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8010:0",
+        "original": "Punakha",
+        "translation": "普那卡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2097:0",
+        "original": "Baghdad",
+        "translation": "巴格达",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2089:0",
+        "original": "Basrah",
+        "translation": "巴士拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10106:0",
+        "original": "Mosul",
+        "translation": "摩苏尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10760:0",
+        "original": "Muscat",
+        "translation": "马斯喀特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10840:0",
+        "original": "Sana'a",
+        "translation": "萨那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12727:0",
+        "original": "Riyadh",
+        "translation": "利雅得",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_792:0",
+        "original": "Beirut",
+        "translation": "贝鲁特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4111:0",
+        "original": "Damascus",
+        "translation": "大马士革",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12473:0",
+        "original": "Aleppo",
+        "translation": "阿勒颇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1086:0",
+        "original": "Jerusalem",
+        "translation": "耶路撒冷",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7151:0",
+        "original": "Amman",
+        "translation": "安曼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10837:0",
+        "original": "Tehran",
+        "translation": "德黑兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1896:0",
+        "original": "Tabriz",
+        "translation": "大不里士",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2026:0",
+        "original": "Isfahan",
+        "translation": "伊斯法罕",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5029:0",
+        "original": "Mashhad",
+        "translation": "马什哈德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7953:0",
+        "original": "Ahvaz",
+        "translation": "阿瓦士",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8117:0",
+        "original": "Shiraz",
+        "translation": "设拉子",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10913:0",
+        "original": "Kerman",
+        "translation": "克尔曼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10737:0",
+        "original": "Kabul",
+        "translation": "喀布尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4893:0",
+        "original": "Herat",
+        "translation": "赫拉特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3957:0",
+        "original": "Washington",
+        "translation": "华盛顿 D.C",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3878:0",
+        "original": "New York",
+        "translation": "纽约",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9450:0",
+        "original": "Chicago",
+        "translation": "芝加哥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9814:0",
+        "original": "Los Angeles",
+        "translation": "洛杉矶",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10337:0",
+        "original": "Houston",
+        "translation": "休斯敦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_788:0",
+        "original": "Norfolk",
+        "translation": "诺福克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_853:0",
+        "original": "Phoenix",
+        "translation": "凤凰城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1562:0",
+        "original": "San Diego",
+        "translation": "圣迭戈",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1595:0",
+        "original": "Indianapolis",
+        "translation": "印第安纳波利斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1690:0",
+        "original": "Spokane",
+        "translation": "斯波坎",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1747:0",
+        "original": "Rapid City",
+        "translation": "急流城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1770:0",
+        "original": "Des Moines",
+        "translation": "德梅因",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1806:0",
+        "original": "Tulsa",
+        "translation": "塔尔萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1827:0",
+        "original": "Denver",
+        "translation": "丹佛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1836:0",
+        "original": "Bismarck",
+        "translation": "俾斯麦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1843:0",
+        "original": "Miami",
+        "translation": "迈阿密",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1866:0",
+        "original": "Minneapolis",
+        "translation": "明尼阿波利斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3960:0",
+        "original": "Dallas",
+        "translation": "达拉斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4569:0",
+        "original": "Saint Louis",
+        "translation": "圣路易斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4860:0",
+        "original": "Great Falls",
+        "translation": "大瀑布城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4865:0",
+        "original": "Salt Lake City",
+        "translation": "盐湖城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6696:0",
+        "original": "Louisville",
+        "translation": "路易斯维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6710:0",
+        "original": "Detroit",
+        "translation": "底特律",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6732:0",
+        "original": "Boston",
+        "translation": "波士顿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6845:0",
+        "original": "Philadelphia",
+        "translation": "费城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6855:0",
+        "original": "Columbus",
+        "translation": "哥伦布",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6890:0",
+        "original": "Cleveland",
+        "translation": "克里夫兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7138:0",
+        "original": "Charlotte",
+        "translation": "夏洛特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7202:0",
+        "original": "Charleston",
+        "translation": "查尔斯顿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7315:0",
+        "original": "Seattle",
+        "translation": "西雅图",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7480:0",
+        "original": "Mobile",
+        "translation": "莫比尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7552:0",
+        "original": "New Orleans",
+        "translation": "新奥尔良",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9671:0",
+        "original": "San Francisco",
+        "translation": "旧金山",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9713:0",
+        "original": "Sacramento",
+        "translation": "萨克拉门托",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10370:0",
+        "original": "Springfield",
+        "translation": "斯普林菲尔德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10717:0",
+        "original": "Kansas City",
+        "translation": "堪萨斯城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11654:0",
+        "original": "Buffalo",
+        "translation": "水牛城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11800:0",
+        "original": "Pittsburgh",
+        "translation": "匹兹堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3513:0",
+        "original": "Portland",
+        "translation": "波特兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12357:0",
+        "original": "Milwaukee",
+        "translation": "密尔沃基",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12384:0",
+        "original": "Atlanta",
+        "translation": "亚特兰大",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12459:0",
+        "original": "Bangor",
+        "translation": "班戈",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12489:0",
+        "original": "Little Rock",
+        "translation": "小石城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12501:0",
+        "original": "Nashville",
+        "translation": "纳什维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12586:0",
+        "original": "Omaha",
+        "translation": "奥马哈",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12735:0",
+        "original": "Birmingham",
+        "translation": "伯明翰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12782:0",
+        "original": "San Antonio",
+        "translation": "圣安东尼奥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13090:0",
+        "original": "Unalaska",
+        "translation": "乌纳拉斯卡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13091:0",
+        "original": "Anchorage",
+        "translation": "安克雷奇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3778:0",
+        "original": "Ottawa",
+        "translation": "渥太华",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3775:0",
+        "original": "Toronto",
+        "translation": "多伦多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1408:0",
+        "original": "Vancouver",
+        "translation": "温哥华",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3010:0",
+        "original": "Edmonton",
+        "translation": "埃德蒙顿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4345:0",
+        "original": "Montréal",
+        "translation": "蒙特利尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4872:0",
+        "original": "Winnipeg",
+        "translation": "温尼伯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7361:0",
+        "original": "Halifax",
+        "translation": "哈利法克斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12149:0",
+        "original": "Québec",
+        "translation": "魁北克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1965:0",
+        "original": "Mexico City",
+        "translation": "墨西哥城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4956:0",
+        "original": "San Luis Potosi",
+        "translation": "圣路易斯波托西",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12810:0",
+        "original": "Veracruz",
+        "translation": "韦拉克鲁斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12835:0",
+        "original": "Monterrey",
+        "translation": "蒙特雷",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13089:0",
+        "original": "Guadalajara",
+        "translation": "瓜达拉哈拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10886:0",
+        "original": "Guatemala",
+        "translation": "危地马拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12823:0",
+        "original": "San Salvador",
+        "translation": "圣萨尔瓦多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12865:0",
+        "original": "Tegucigalpa",
+        "translation": "特古西加尔巴",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12738:0",
+        "original": "Managua",
+        "translation": "马那瓜",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13087:0",
+        "original": "San Jose",
+        "translation": "圣何塞",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7630:0",
+        "original": "Panamá",
+        "translation": "巴拿马城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7622:0",
+        "original": "Havana",
+        "translation": "哈瓦那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7590:0",
+        "original": "Guantánamo",
+        "translation": "关塔那摩",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4641:0",
+        "original": "Port-au-Prince",
+        "translation": "太子港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7660:0",
+        "original": "Santo Domingo",
+        "translation": "圣多明各",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4598:0",
+        "original": "Santiago de los Caballeros",
+        "translation": "圣地亚哥骑士城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12885:0",
+        "original": "Cayenne",
+        "translation": "卡宴",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10747:0",
+        "original": "Bogota",
+        "translation": "波哥大",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2023:0",
+        "original": "Medellin",
+        "translation": "麦德林",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12790:0",
+        "original": "Cartagena",
+        "translation": "卡塔赫纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8113:0",
+        "original": "Caracas",
+        "translation": "加拉加斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1944:0",
+        "original": "Maracaibo",
+        "translation": "马拉开波",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12798:0",
+        "original": "Quito",
+        "translation": "基多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12997:0",
+        "original": "Lima",
+        "translation": "利马",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2210:0",
+        "original": "Arequipa",
+        "translation": "阿雷基帕",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5230:0",
+        "original": "La Paz",
+        "translation": "拉巴斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2152:0",
+        "original": "Asunción",
+        "translation": "亚松森",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10980:0",
+        "original": "Rio de Janeiro",
+        "translation": "里约热内卢",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5107:0",
+        "original": "Fortaleza",
+        "translation": "福塔雷萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5168:0",
+        "original": "Récife",
+        "translation": "累西腓",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10447:0",
+        "original": "Porto Alegre",
+        "translation": "阿雷格里港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10513:0",
+        "original": "Sao Paulo",
+        "translation": "圣保罗",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10946:0",
+        "original": "São Salvador",
+        "translation": "圣萨尔瓦多",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12853:0",
+        "original": "Belém",
+        "translation": "贝伦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10362:0",
+        "original": "Montevideo",
+        "translation": "蒙得维的亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12364:0",
+        "original": "Buenos Aires",
+        "translation": "布宜诺斯艾利斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7500:0",
+        "original": "Rosario",
+        "translation": "罗萨里奥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7621:0",
+        "original": "Mar del Plata",
+        "translation": "马德普拉塔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8216:0",
+        "original": "Tucumán",
+        "translation": "图库曼",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12942:0",
+        "original": "Córdoba",
+        "translation": "科尔多瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_650:0",
+        "original": "Santiago",
+        "translation": "圣地亚哥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10400:0",
+        "original": "Pretoria",
+        "translation": "比勒陀利亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1468:0",
+        "original": "Durban",
+        "translation": "德班",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4696:0",
+        "original": "Port Elizabeth",
+        "translation": "伊丽莎白港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12589:0",
+        "original": "Cape Town",
+        "translation": "开普敦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8245:0",
+        "original": "Lourenco Marques",
+        "translation": "洛伦索-马贵斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8248:0",
+        "original": "Luanda",
+        "translation": "罗安达",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10966:0",
+        "original": "Nova Lisboa",
+        "translation": "新里斯本",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10929:0",
+        "original": "Salisbury",
+        "translation": "索尔兹伯里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_191:0",
+        "original": "Elisabethville",
+        "translation": "伊丽莎白维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5117:0",
+        "original": "Léopoldville",
+        "translation": "利奥波德维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5139:0",
+        "original": "Libreville",
+        "translation": "利伯维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8193:0",
+        "original": "Brazzaville",
+        "translation": "布拉柴维尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5210:0",
+        "original": "Mombasa",
+        "translation": "蒙巴萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2050:0",
+        "original": "Lagos",
+        "translation": "拉各斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7959:0",
+        "original": "Monrovia",
+        "translation": "门罗维亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4948:0",
+        "original": "Dakar",
+        "translation": "达喀尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12766:0",
+        "original": "Asmara",
+        "translation": "阿斯马拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12806:0",
+        "original": "Khartoum",
+        "translation": "喀土穆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1269:0",
+        "original": "Guadalcanal",
+        "translation": "瓜达康纳尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3995:0",
+        "original": "Saipan",
+        "translation": "塞班岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4180:0",
+        "original": "Honolulu",
+        "translation": "檀香山",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4226:0",
+        "original": "Buin",
+        "translation": "布因",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4268:0",
+        "original": "Noumea",
+        "translation": "努美阿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4329:0",
+        "original": "Port Moresby",
+        "translation": "莫尔兹比港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2489:0",
+        "original": "Truk",
+        "translation": "特鲁克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4357:0",
+        "original": "North Palau",
+        "translation": "北帕劳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7251:0",
+        "original": "Rabaul",
+        "translation": "拉包尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7302:0",
+        "original": "Suva",
+        "translation": "苏瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12140:0",
+        "original": "Guam",
+        "translation": "关岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12237:0",
+        "original": "Lae",
+        "translation": "莱城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13021:0",
+        "original": "Tarawa",
+        "translation": "塔拉瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13025:0",
+        "original": "Iwo Jima",
+        "translation": "硫磺岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13028:0",
+        "original": "Yap",
+        "translation": "雅浦岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13038:0",
+        "original": "Nauru",
+        "translation": "瑙鲁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13041:0",
+        "original": "Kwajalein",
+        "translation": "夸贾林环礁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13046:0",
+        "original": "Eniwetok",
+        "translation": "埃尼威托克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13047:0",
+        "original": "Wake",
+        "translation": "威克岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_13052:0",
+        "original": "Midway",
+        "translation": "中途岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4286:0",
+        "original": "Suva",
+        "translation": "苏瓦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5010:0",
+        "original": "Addis Ababa",
+        "translation": "亚的斯亚贝巴",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1984:0",
+        "original": "Gondar",
+        "translation": "贡德尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7980:0",
+        "original": "Harar",
+        "translation": "哈勒尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1319:0",
+        "original": "Kunming",
+        "translation": "昆明",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8049:0",
+        "original": "Yan'an",
+        "translation": "延安",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1519:0",
+        "original": "Taiyuan",
+        "translation": "太原",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_377:0",
+        "original": "Cardiff",
+        "translation": "加的夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_495:0",
+        "original": "Dortmund",
+        "translation": "多特蒙德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_540:0",
+        "original": "Plymouth",
+        "translation": "普利茅斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_657:0",
+        "original": "Constanta",
+        "translation": "康斯坦察",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_778:0",
+        "original": "Annecy",
+        "translation": "阿讷西",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_890:0",
+        "original": "Düzce",
+        "translation": "迪兹杰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_911:0",
+        "original": "Toulon",
+        "translation": "土伦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_925:0",
+        "original": "Ancona",
+        "translation": "安科纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1005:0",
+        "original": "Antalya",
+        "translation": "安塔利亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1048:0",
+        "original": "Cádiz",
+        "translation": "加的斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1070:0",
+        "original": "Haikou",
+        "translation": "海口",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1273:0",
+        "original": "Goa",
+        "translation": "果阿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1440:0",
+        "original": "San Juan",
+        "translation": "圣胡安",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_1751:0",
+        "original": "Azores",
+        "translation": "亚速尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2038:0",
+        "original": "Freetown",
+        "translation": "弗里敦",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2045:0",
+        "original": "Tianshui",
+        "translation": "天水",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2189:0",
+        "original": "Hobart",
+        "translation": "霍巴特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_2196:0",
+        "original": "Dar es Salaam",
+        "translation": "达累斯萨拉姆",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3456:0",
+        "original": "Karachi",
+        "translation": "卡拉奇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3501:0",
+        "original": "Dover",
+        "translation": "多佛尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3838:0",
+        "original": "Ajáccio",
+        "translation": "阿雅克肖",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4159:0",
+        "original": "Messina",
+        "translation": "墨西拿",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4189:0",
+        "original": "Macau",
+        "translation": "澳门",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4206:0",
+        "original": "Tel Aviv",
+        "translation": "特拉维夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4464:0",
+        "original": "Biloxi",
+        "translation": "比洛克西",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_5074:0",
+        "original": "Aden",
+        "translation": "亚丁",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6300:0",
+        "original": "Rosyth",
+        "translation": "罗塞斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6524:0",
+        "original": "Erfurt",
+        "translation": "埃尔福特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6882:0",
+        "original": "Newark",
+        "translation": "纽瓦克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6973:0",
+        "original": "La Spezia",
+        "translation": "拉斯佩齐亚",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6984:0",
+        "original": "Baltimore",
+        "translation": "巴尔的摩",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7132:0",
+        "original": "Oran",
+        "translation": "奥兰",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7371:0",
+        "original": "Kuching",
+        "translation": "古晋",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7617:0",
+        "original": "Colón",
+        "translation": "科隆（巴拿马）",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7940:0",
+        "original": "Golmud",
+        "translation": "格尔木",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7960:0",
+        "original": "Abu Dhabi",
+        "translation": "阿布扎比",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7965:0",
+        "original": "Dali",
+        "translation": "大理",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7982:0",
+        "original": "Bandar e'Abbas",
+        "translation": "阿巴斯港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8085:0",
+        "original": "Kuwait City",
+        "translation": "科威特城",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8252:0",
+        "original": "Guayaquil",
+        "translation": "瓜亚基尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9108:0",
+        "original": "Luleå",
+        "translation": "吕勒奥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9458:0",
+        "original": "Portsmouth",
+        "translation": "朴茨茅斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9832:0",
+        "original": "Providence",
+        "translation": "普罗维登斯",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9907:0",
+        "original": "Florence",
+        "translation": "佛罗伦萨",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9945:1",
+        "original": "Ceuta",
+        "translation": "休达",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9974:0",
+        "original": "Ningbo",
+        "translation": "宁波",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9975:0",
+        "original": "Ahmadabad",
+        "translation": "艾哈迈达巴德",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9994:0",
+        "original": "Bizerte",
+        "translation": "比塞大",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10007:0",
+        "original": "Rhodes",
+        "translation": "罗德岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10201:0",
+        "original": "Trincomalee",
+        "translation": "亭可马里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10367:0",
+        "original": "Attu Island",
+        "translation": "阿图岛",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_10862:0",
+        "original": "Accra",
+        "translation": "阿克拉",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11064:0",
+        "original": "Scapa Flow",
+        "translation": "斯卡帕湾",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11253:0",
+        "original": "Norwich",
+        "translation": "诺维奇",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11297:0",
+        "original": "Hull",
+        "translation": "赫尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11435:0",
+        "original": "Bitburg",
+        "translation": "比特堡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12674:0",
+        "original": "Reykjavik",
+        "translation": "雷克雅未克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11746:0",
+        "original": "Adana",
+        "translation": "阿达纳",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11773:0",
+        "original": "Cagliari",
+        "translation": "卡利亚里",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11833:0",
+        "original": "Livorno",
+        "translation": "里窝那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11846:0",
+        "original": "Anzio",
+        "translation": "安齐奥",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12003:0",
+        "original": "Malta",
+        "translation": "马耳他",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12068:0",
+        "original": "Gaoxiong",
+        "translation": "高雄",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12725:0",
+        "original": "Port Sudan",
+        "translation": "苏丹港",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12732:0",
+        "original": "Lanzhou",
+        "translation": "兰州",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12758:0",
+        "original": "Medina",
+        "translation": "麦地那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12883:0",
+        "original": "Jeddah",
+        "translation": "吉达",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12991:0",
+        "original": "Mogadishu",
+        "translation": "摩加迪沙",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_6318:0",
+        "original": "Manchester",
+        "translation": "曼彻斯特",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11405:0",
+        "original": "Zaporozhe",
+        "translation": "扎波罗热",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11561:0",
+        "original": "Krivoi Rih",
+        "translation": "克里沃罗格",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9461:0",
+        "original": "Voroshilovgrad",
+        "translation": "伏罗希洛夫格勒",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_3734:0",
+        "original": "Krasnodar",
+        "translation": "克拉斯诺达尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11349:0",
+        "original": "Rzhev",
+        "translation": "勒热夫",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8011:0",
+        "original": "Bangalore",
+        "translation": "班加罗尔",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_8087:0",
+        "original": "Hyderabad",
+        "translation": "海德拉巴",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11929:0",
+        "original": "Dacca",
+        "translation": "达卡",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4516:0",
+        "original": "Patna",
+        "translation": "巴特那",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_12137:0",
+        "original": "Lucknow",
+        "translation": "勒克瑙",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_9292:0",
+        "original": "Chelyabinsk",
+        "translation": "车里雅宾斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4333:0",
+        "original": "Akmolinsk",
+        "translation": "阿克莫林斯克",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_11752:0",
+        "original": "Zhangbei",
+        "translation": "张北",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_7418:0",
+        "original": "Xi'an",
+        "translation": "西安",
+        "stage": 1
+    },
+    {
+        "key": "VICTORY_POINTS_4879:0",
+        "original": "Windhoek",
+        "translation": "温得和克",
+        "stage": 1
+    }
+]

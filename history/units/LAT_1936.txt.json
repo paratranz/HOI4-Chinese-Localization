@@ -1,0 +1,50 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Kajnieku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Kajnieku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Kajnieku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Kajnieku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Kajnieku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Latvijas Juras Speki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "Ronis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "Spidola",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Eesti Sojalaevastikl",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "EML Kalev",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "EML Lembit",
+        "translation": "",
+        "stage": 0
+    }
+]

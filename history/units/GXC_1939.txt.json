@@ -1,0 +1,26 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Binary Infantry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Triangular Infantry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Binary Infantry",
+        "translation": "",
+        "stage": 0
+    }
+]

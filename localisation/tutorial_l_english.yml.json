@@ -1,0 +1,896 @@
+[
+    {
+        "key": "TUTORIAL_1:0",
+        "original": "TUTORIAL (1/15)",
+        "translation": "教程(1/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_2:0",
+        "original": "TUTORIAL (2/15)",
+        "translation": "教程(2/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_3:0",
+        "original": "TUTORIAL (3/15)",
+        "translation": "教程(3/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_4:0",
+        "original": "TUTORIAL (4/15)",
+        "translation": "教程(4/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_5:0",
+        "original": "TUTORIAL (5/15)",
+        "translation": "教程(5/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_6:0",
+        "original": "TUTORIAL (6/15)",
+        "translation": "教程(6/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_7:0",
+        "original": "TUTORIAL (7/15)",
+        "translation": "教程(7/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_8:0",
+        "original": "TUTORIAL (8/15)",
+        "translation": "教程(8/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_9:0",
+        "original": "TUTORIAL (9/15)",
+        "translation": "教程(9/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_10:0",
+        "original": "TUTORIAL (10/15)",
+        "translation": "教程(10/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_11:0",
+        "original": "TUTORIAL (11/15)",
+        "translation": "教程(11/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_12:0",
+        "original": "TUTORIAL (12/15)",
+        "translation": "教程(12/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_13:0",
+        "original": "TUTORIAL (13/15)",
+        "translation": "教程(13/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_14:0",
+        "original": "TUTORIAL (14/15)",
+        "translation": "教程(14/15)",
+        "stage": 1
+    },
+    {
+        "key": "TUTORIAL_15:0",
+        "original": "TUTORIAL (15/15)",
+        "translation": "教程(15/15)",
+        "stage": 1
+    },
+    {
+        "key": "MINIMIZE:0",
+        "original": "Minimize",
+        "translation": "最小化",
+        "stage": 1
+    },
+    {
+        "key": "DONT_SHOW_AGAIN:0",
+        "original": "Don't show again",
+        "translation": "不再显示",
+        "stage": 1
+    },
+    {
+        "key": "NEXT_PAGE:0",
+        "original": "Next Page",
+        "translation": "下一页",
+        "stage": 1
+    },
+    {
+        "key": "EXIT_TO_MENU:0",
+        "original": "Exit to Menu",
+        "translation": "退出到主菜单",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_text_1:0",
+        "original": "Welcome to the §YHearts of Iron IV§! tutorial!\\n\\nYou will be taking charge of Italy @ITA during the period leading up to the war. Reading the tooltips will help you to understand things as you play, so it is recommended that you make good use of them.",
+        "translation": "欢迎来到§Y钢铁雄心IV§!教程!\\n\\n你将指挥战争时期的意大利@ITA。阅读提示框可以帮助你更好地理解这个游戏，所以请好好地使用它们。",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_text_alert:0",
+        "original": "Start by §Ydealing with the alerts§! at the top of the screen.",
+        "translation": "从解决屏幕上方的§Y警报§!开始吧。",
+        "stage": 1
+    },
+    {
+        "key": "tut_2_text_1:0",
+        "original": "Good! Now that the alerts are sorted out you can start diving into the details of waging war. Italy starts at war with Ethiopia and you should not have much difficulty in winning that war once you learn how to do it.\\n\\nMove your camera in a south-eastwards direction until you find Eritrea in Africa. Once your camera location has changed, §Yselect the Divisions§! in the $STATE|Y$ state.",
+        "translation": "很好！既然你已经解决了警报，是时候投入战争之中了。意大利开局便与埃塞俄比亚处于战争状态，只要你耐心学习，他们完全构不成任何问题。\\n\\n将镜头向东南方向移动，直到你找到非洲的埃塞俄比亚为止。当你的镜头在正确的地方后，§Y选择§!$STATE|Y$地区的军队。",
+        "stage": 1
+    },
+    {
+        "key": "tut_3_text_1:1",
+        "original": "Great! Now you will learn how to start planning an offensive.\\n\\nDivisions can join together in §YArmies§!. An Army is used to draw Battle Plans and they can be assigned a §YCommander§! to lead them.\\n\\nClick the §YNew Army§! button at the bottom of the screen.",
+        "translation": "干得漂亮！现在你将要学习怎么计划一次进攻。\\n\\n复数个师可以组成一个§Y集团军§!。集团军则可以绘制作战计划，你可以可派遣一位§Y指挥官§!来带领他们。\\n\\n点击屏幕下方的§Y新集团军§!按钮。",
+        "stage": 1
+    },
+    {
+        "key": "tut_4_text_1:1",
+        "original": "Good! Creating an Army was the first step.\\n\\nAn §YArmy§! can be given orders by drawing §YBattle Plans§!.\\n\\nClick the §YFront Line§! button and then click the border to Ethiopia.",
+        "translation": "不错！建立一支集团军只是第一步。\\n\\n你可以绘制§Y作战计划§!来给§Y集团军§!下达指令。\\n\\n点击§Y前线§!按钮，接下来再次点击埃塞俄比亚的边界线。",
+        "stage": 1
+    },
+    {
+        "key": "tut_5_text_1:0",
+        "original": "Good! A §YFront Line§! now exists towards Ethiopia. In order for you to get your troops to attack with §YBattle Plans§! you must first also draw an §YOffensive Order§!.\\n\\nClick the §YOffensive line§! button and then right-click and drag between the two highlighted provinces.",
+        "translation": "很好！埃塞俄比亚现在有一条§Y前线§!了。但想要让你的士兵通过§Y战争计划§!进行进攻的话，你还需要绘制一个§Y进攻指令§!。\\n\\n点击§Y进攻线§!按钮然后点击右键，并在两个高亮省份拖移。",
+        "stage": 1
+    },
+    {
+        "key": "tut_6_text_1:0",
+        "original": "You have now created an Offensive Order to attack the Ethiopian capital. Before you go ahead and give the order to execute the plan, it may be wise to make the correct preparations.\\n\\nIf you allow your units to prepare for $DAYS_OF_PLANNING|0Y$ days they will receive a combat bonus for up to §G+$PLANNING_MAX|0%$§!. Certain £tech_mod  §YLand Doctrines§! can modify for how long you can §YPrepare§! while others might modify how fast you can reach your maximum level of Preparation.\\n\\nIt is also advisable that you prepare your Air Force as well. Click the §YAir Base§! in §YEritrea§!.",
+        "translation": "你现在创建了一个针对埃塞俄比亚的进攻指令。但在你执行指令前，或许应该让部队进行一定程度的准备。\\n\\n如果你允许你的部队准备$DAYS_OF_PLANNING|0Y$天的话，他们能够获得最多§G+$PLANNING_MAX|0%$§!的战斗加成。特定的£tech_mod §Y陆军学说§!可以更改§Y准备§!时间的长短，有些则可以更改你需要多久来达到最大准备程度。\\n\\n另外，建议你同样对空军进行准备。点击§Y厄立特里亚§!的§Y空军基地§!。",
+        "stage": 1
+    },
+    {
+        "key": "tut_7_text_1:0",
+        "original": "Good! In order for your troops to have a higher guarantee of success in battle, it is also important to give them the proper §YAir Support§! they may require.\\n\\n§YAir Wings§! assigned to an §YAir Region§! can be sent on missions. §YSupport§! Air Wings can be sent on the §YClose Air Support§! mission, which will enable them to join land combat engagements.\\n\\nAssign the §YAir Wings§! based in the §YEritrea Air Base§! by right-clicking the §YEast-Africa Air Region§! and give them orders once they are assigned.",
+        "translation": "很好！如果想要确保你的士兵能够最终获得胜利，给予他们需要的§Y空军支援§!也十分重要。\\n\\n部署在§Y空域§!的§Y飞行支队§!可以被派去执行特定的任务。§Y支援§!飞机可以被派去执行§Y近空支援§!任务，这让他们能够加入陆地战斗中。\\n\\n右键点击§Y东非空域§!；来部署§Y厄立特里亚空军基地§!的§Y飞行部队§!，完成部署后请给他们下达指令。",
+        "stage": 1
+    },
+    {
+        "key": "tut_8_text_1:0",
+        "original": "Good! You now have §YAir Wings§! assigned to the East Africa §YAir Region§!. Before they start doing anything, however, you must first give your Air Wings §Ymissions§!. If an Air Wing does not have an active mission it will stay in the Air Base.\\n\\nThere are a number of different §YAir Missions§! and the Air Missions an Air Wing can be sent on depends on the type of the Air Wing. §YSupport Air Wings§! can be sent on the §YClose Air Support§! mission, which enables them to join land combat engagements and attack your enemies.\\n\\nTo send an Air Wing on a mission, click the mission icon in the Air Interface.",
+        "translation": "很好！东非§Y空域§!现在有你的§Y空中部队§!了。但在他们做任何事请前，你必须要给你的空军下达§Y任务§!。如果空军部队没有任务的话他们只会呆在空军基地里。\\n\\n根据空军部队的不同，§Y空军任务§!也多种多样。§Y支援空军§!可以被派往执行§Y近空支援§!任务，这让他们得以加入地面战斗并直接攻击你的敌人。\\n\\n点击空军界面里的任务按钮来给空军派遣任务。",
+        "stage": 1
+    },
+    {
+        "key": "tut_9_text_1:1",
+        "original": "Good! Now with almost everything set up, it is time to look at executing the §YBattle Plan§! and conquer Ethiopia for Italy.\\n\\nClick the §YDefault Mapmode§! button in the bottom right and then select your Army by clicking the portrait at the bottom of the screen.",
+        "translation": "干得好！现在已经万事俱备，是时候执行§Y作战计划§!，并以意大利的名义征服埃塞俄比亚了。\\n\\n点击右下角的§Y默认地图模式§!按钮，并点击频幕正下方的图标来选择你的军队。",
+        "stage": 1
+    },
+    {
+        "key": "tut_10_text_1:1",
+        "original": "Good! Before we begin the assault on Ethiopia you should assign a Commander to your Army if you have not already done it. Click the §Yempty leader portrait§! to the top-left of the screen and select a Commander from the list.\\n\\nClick the §YExecute Plan§! button at the bottom of the screen to order your troops to begin the invasion.",
+        "translation": "非常好！但在我们开始进攻埃塞俄比亚前，你应该先给你的集团军指定一位指挥官。点击左上角§Y空白的指挥官头像§!并从列表中挑选一位指挥官。\\n\\n点击频幕下方的§Y执行计划§!按钮来命令你的军队开始进攻。",
+        "stage": 1
+    },
+    {
+        "key": "tut_10_text_2:0",
+        "original": "Execute Plan button",
+        "translation": "执行计划按钮",
+        "stage": 1
+    },
+    {
+        "key": "tut_11_text_1:0",
+        "original": "Your forces will now begin the offensive on Addis Ababa, Ethiopia's capital. When you have occupied enough of your enemies' territory, they will surrender.\\n\\n§YUnpause§! the game by pressing £SPACE . You can adjust the game speed by pressing the £KP_PLUS  or £KP_MINUS  keys. It is normal that players often adjust the game speed according to their needs as opposed to play on the same speed all the time.\\n\\nHint: If you feel you could control your units better, select a division and right-click provinces to manually override the orders units get from Battle Plans.",
+        "translation": "你的军队将会向埃塞俄比亚的首都，亚的斯亚贝巴进军。当你占领足够的领土后，他们就会投降。\\n\\n按下£SPACE 来§Y继续§!游戏。你可以按£KP_PLUS 键或者£KP_MINUS 键来调整游戏速度。比起一直使用一个速度，玩家大多数时候回根据情况的不同调整游戏速度。\\n\\n提示：如果你更喜欢手控制单位，选择一个师然后右键点击省份来覆盖作战计划的指令。",
+        "stage": 1
+    },
+    {
+        "key": "tut_12_text_1:1",
+        "original": "Ethiopia has surrendered! You have won!\\nYou can now make demands during the §YPeace Conference§!. We recommend that you choose to §YTake All States§!.\\n\\nEach demand you make will increase £world_tension_icon  §YWorld Tension§! by a certain amount. The higher the §YWorld Tension§! is, the closer you are to a World War.\\n\\nSome countries have certain §YDiplomatic Actions§! locked until World Tension is high enough. Read more in the hint below.",
+        "translation": "埃塞俄比亚投降了！你赢了！\\n你可以通过§Y和平谈判§!来下达要求。我们建议你选择§Y夺取所有地区§!。\\n\\n每个要求将会或多或少的增加£world_tension_icon §Y全球紧张度§!。§Y全球紧张度§!越高，你离一场世界大战就越近。\\n\\n一些国家的特定§Y外交选项§!会被锁定，直到全球紧张度增长到一定数值。越多下方的提示来了解更多。",
+        "stage": 1
+    },
+    {
+        "key": "tut_13_text_1:0",
+        "original": "You are victorious! The war is over and Ethiopia has been defeated.\\n\\nDuring peace time you may want to §Ytransport troops§! across the ocean to redeploy them to different locations, or perhaps to prepare for war. \\n\\nNow that Ethiopia has been defeated you do not need to have so many Divisions there.\\n\\nSelect at least §Y4 Divisions§! and move them to the §Yhighlighted port§! by right-clicking the province.",
+        "translation": "你获得了胜利！战争结束了，埃塞尔比亚是最终的失败者。\\n\\n在和平时期你或许想要§Y转移士兵§!带海洋的另一边来将他们部署到不同的地方，或者为新的战争做准备。 \\n\\n既然埃塞尔比亚已经被击败，这里再不需要这么多部队了。\\n\\n选择至少§Y4个师§!并右键点击将他们移动到高亮的港口§Y高亮的港口§!省份。",
+        "stage": 1
+    },
+    {
+        "key": "tut_14_text_1:0",
+        "original": "To transfer troops between two friendly territories your troops must first be standing in a port.\\n\\nSelect the units §Ystanding in the port§! and right-click another §Yport in Italy§!.",
+        "translation": "想要将部队在友方领土之间转移的话，你的士兵必须先在一个港口中。\\n\\n选择部署在§Y港口的士兵§!并右键点击§Y意大利的任意港口§!。",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_left_mouse:0",
+        "original": "Select units\\nSelect provinces",
+        "translation": "选择单位\\n选择省份",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_right_mouse:0",
+        "original": "Move units",
+        "translation": "移动单位",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_zoom:0",
+        "original": "Zoom in\\nZoom out",
+        "translation": "放大\\n所小",
+        "stage": 1
+    },
+    {
+        "key": "tut_1_pan:0",
+        "original": "Hold to pan \\ncamera",
+        "translation": "按住移动\\n镜头",
+        "stage": 1
+    },
+    {
+        "key": "TUT_MIL_FAC:0",
+        "original": "$NUMBERS$ Military Factories are in use",
+        "translation": "$NUMBERS$座军用工厂投入生产",
+        "stage": 1
+    },
+    {
+        "key": "TUT_CIV_FAC:0",
+        "original": "$NUMBERS$ Civilian Factories are in use",
+        "translation": "$NUMBERS$座民用工厂投入生产",
+        "stage": 1
+    },
+    {
+        "key": "TUT_NAV_DOCK:0",
+        "original": "$NUMBERS$ Naval Dockyards are in use",
+        "translation": "$NUMBERS$个海军船坞投入生产",
+        "stage": 1
+    },
+    {
+        "key": "TUT_NAT_FOC:0",
+        "original": "National Focus is set",
+        "translation": "设定国策",
+        "stage": 1
+    },
+    {
+        "key": "TUT_QUEUE_DIV:0",
+        "original": "A Division is queued for deployment",
+        "translation": "一支军队在队列中等待部署",
+        "stage": 1
+    },
+    {
+        "key": "TUT_RESEARCH:0",
+        "original": "$NUMBERS$ Technologies researching",
+        "translation": "研究$NUMBERS$个科技",
+        "stage": 1
+    },
+    {
+        "key": "TUT_MOVE_CAMERA:0",
+        "original": "Changed camera location to $STATE$",
+        "translation": "将镜头转到$STATE$",
+        "stage": 1
+    },
+    {
+        "key": "TUT_SELECTED_DIVS:0",
+        "original": "$NUMBERS$ Divisions in $STATE$ are selected",
+        "translation": "选中部署在$STATE$的$NUMBERS$个师",
+        "stage": 1
+    },
+    {
+        "key": "TUT_COMMAND_GROUP:1",
+        "original": "Army exists",
+        "translation": "拥有一个集团军",
+        "stage": 1
+    },
+    {
+        "key": "TUT_FRONTLINE:0",
+        "original": "A Front Line exists between $STATE$ and Ethiopia",
+        "translation": "$STATE$和埃塞俄比亚之间有一条战线",
+        "stage": 1
+    },
+    {
+        "key": "TUT_OFFENSIVE_ORDER:0",
+        "original": "An Offensive Order to capture $ENEMY_CAPITAL$ exists",
+        "translation": "存在一条占领$ENEMY_CAPITAL$的进攻指令",
+        "stage": 1
+    },
+    {
+        "key": "TUT_AIRBASE:0",
+        "original": "Viewing Air Base in $STATE$",
+        "translation": "观察$STATE$的空军基地",
+        "stage": 1
+    },
+    {
+        "key": "TUT_AIRWINGS_ASSIGNED:0",
+        "original": "$NUMBERS$ Air Wings in $STATE$ Air Base are assigned to $REGION$ Air Region",
+        "translation": "$STATE$空军基地的$NUMBERS$支飞行编队被部署到$REGION$地区",
+        "stage": 1
+    },
+    {
+        "key": "TUT_AIRWINGS_MISSIONS:0",
+        "original": "$NUMBERS$ Air Wings in $REGION$ have missions",
+        "translation": "$REGION$内有$NUMBERS$支空军正在执行任务",
+        "stage": 1
+    },
+    {
+        "key": "TUT_DEFAULT_MAPMODE:0",
+        "original": "Default Mapmode is active",
+        "translation": "已开启默认地图模式",
+        "stage": 1
+    },
+    {
+        "key": "TUT_COMMAND_GROUP_SELECTED:1",
+        "original": "Army in $STATE$ is selected",
+        "translation": "$STATE$的集团军被选中",
+        "stage": 1
+    },
+    {
+        "key": "TUT_COMMANDER:1",
+        "original": "Army in $STATE$ has a commander",
+        "translation": "$STATE$的集团军拥有一位指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TUT_BATTLEPLAN_EXECUTED:0",
+        "original": "Battle Plan has been executed",
+        "translation": "作战计划已被执行",
+        "stage": 1
+    },
+    {
+        "key": "TUT_UNPAUSED:0",
+        "original": "Game is unpaused",
+        "translation": "继续游戏",
+        "stage": 1
+    },
+    {
+        "key": "TUT_SURRENDER:0",
+        "original": "$COUNTRY$ has surrendered",
+        "translation": "$COUNTRY$已投降",
+        "stage": 1
+    },
+    {
+        "key": "TUT_ANNEX:0",
+        "original": "Annex $ENEMY$ or sign any peace deal of your choice",
+        "translation": "将$ENEMY$吞并，或签订任意和平条约",
+        "stage": 1
+    },
+    {
+        "key": "TUT_TROOPS_IN_PORT:0",
+        "original": "$NUMBERS$ Divisions are standing at the port in $STATE$",
+        "translation": "$NUMBERS$个集团军正在$STATE$的港口等待",
+        "stage": 1
+    },
+    {
+        "key": "TUT_TROOPS_IN_TRANSIT:0",
+        "original": "$NUMBERS$ Divisions are in transit heading towards a port in $COUNTRY$",
+        "translation": "$NUMBERS$个集团军正北运往$COUNTRY$的港口",
+        "stage": 1
+    },
+    {
+        "key": "tut_last_text_1:0",
+        "original": "You have now completed the guided part of the tutorial!\\n\\nYou can continue playing as Italy if you wish. Read the FAQ or the Italy playthrough if you find yourself having difficulties.\\n\\nThe help button in the top-right will allow you to access the FAQ at any time.",
+        "translation": "你已经完成了教程！\\n\\n你可以继续扮演意大利进行游戏，如果遇到难题的话可以阅读FAQ或意大利攻略。\\n\\n你可以在任何时候使用右上角的帮转按钮打开FAQ。",
+        "stage": 1
+    },
+    {
+        "key": "TUT_OBJECTIVES:0",
+        "original": "Objectives",
+        "translation": "目标",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_FAQ:0",
+        "original": "Read the §HFAQ§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读§HFAQ§!！",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_BEGINNER:0",
+        "original": "Read the §HBeginner's Guide§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读§H新手指南§!!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_THEATER:0",
+        "original": "Read about §HTheaters§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H战区§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_WAR:0",
+        "original": "Read about §HWar§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H战争§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_COMMANDER:0",
+        "original": "Read about §HCommanders§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H指挥官§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_COMMAND_GROUP:1",
+        "original": "Read about §HArmies§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H集团军§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_BATTLE_PLANS:0",
+        "original": "Read about §HBattle Plans§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H作战计划§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_DOCTRINE:0",
+        "original": "Read about §HLand Doctrines§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H陆军学说§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_AIR_WING:0",
+        "original": "Read about §HAir Wings§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H空军§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_AIR_MISSION:0",
+        "original": "Read about §HAir Missions§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H空军任务§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_SURRENDER:0",
+        "original": "Read about §HSurrendering§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H投降§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_PEACE:0",
+        "original": "Read about §HPeace Conference§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H和平谈判§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_WORLD_TENSION:0",
+        "original": "Read about §HWorld Tension§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H全球紧张度§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_TRANSPORT:0",
+        "original": "Read about §Htransporting troops§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H运输部队§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_ITALY:0",
+        "original": "Read the §HItaly playthrough§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读§H意大利攻略§!!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_AIR_WINGS_FAQ:0",
+        "original": "Read about §HAir Wings§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H空军§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_AIR_SUPERIORITY_FAQ:0",
+        "original": "Read about §HAir Superiority§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H空中优势§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_CONSTRUCTIONS_FAQ:0",
+        "original": "Read about §HConstructions§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H建筑§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_ARMY_PLANNER:0",
+        "original": "Read about §HRecruit & Deploy§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H募兵和部署§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_DIPLOMATIC_ACTIONS:0",
+        "original": "Read about §HDiplomatic Actions§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H外交活动§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_DIPLOMACY:0",
+        "original": "Read about §HDiplomacy§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H外交§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_DIVISION_TEMPLATES:0",
+        "original": "Read about §HDivision Templates§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H部队编制§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_ARMY_EXPERIENCE:0",
+        "original": "Read about §HArmy Experience§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H军队经验§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_EXPERIENCE:0",
+        "original": "Read about §HExperience§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H经验§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_NAVAL_MISSIONS:0",
+        "original": "Read about §HNaval Missions§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H海军任务§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_ITALY_PLAYTRHOUGH:0",
+        "original": "Read the §HItaly Playthrough§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读§H意大利攻略§!!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_LOGISTICS:0",
+        "original": "Read about §HLogistics§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H后勤§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_EQUIPMENT:0",
+        "original": "Read about §HEquipment§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H装备§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_NATIONAL_FOCUS:0",
+        "original": "Read about §HNational Focus§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H国策§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_PEACE_CONFERENCE:0",
+        "original": "Read about §HPeace Conference§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H和平谈判§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_POLITICS_SCREEN:0",
+        "original": "Read about §HPolitics Screen§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H政治界面§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_IDEAS:0",
+        "original": "Read about §HIdeas§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H理念§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_POLITICAL_POWER:0",
+        "original": "Read about §HPolitical Power§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H政治权利§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_RESEARCH:0",
+        "original": "Read about §HResearch§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H研究§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_TRADE:0",
+        "original": "Read about §HTrade§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H贸易§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_WIKI_PRODUCTION_LINES:0",
+        "original": "Read about §HProduction Lines§! on HOI4 Wiki!",
+        "translation": "在HOI4维基上阅读关于§H生产线§!的条目!",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_HINT_AIR_BASE:0",
+        "original": "Read the hint on §HAir Bases§!",
+        "translation": "阅读§H空军基地§!上的提示",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_HINT_WORLD_TENSION:0",
+        "original": "Read the hint on §HWorld Tension§!",
+        "translation": "阅读§H全球紧张度§!上的提示",
+        "stage": 1
+    },
+    {
+        "key": "HINT_AIR_BASE:0",
+        "original": "Hint: Air Base",
+        "translation": "提示：空军基地",
+        "stage": 1
+    },
+    {
+        "key": "HINT_AIR_BASE_TEXT:0",
+        "original": "The world is divided up into pre-defined §YAir Regions§!. An §YAir Wing§! is a group of aircraft of the same type (e.g. Fighters or Bombers) and they can be assigned to a region.\\n\\nWhen you click an §YAir Base§! (either on the map or in the list in the Air screen) it will open a pop-up for that Air Base and automatically select all Air Wings in that base.\\n\\nTo assign a selected Air Wing to a region or to rebase it to another Air Base, right-click the Air Region or Air-Base.",
+        "translation": "世界被划分为事先定好的§Y空域§!。一支§Y空中联队§!是一组同一种类的飞机 (例如：战斗机或轰炸机)，他们能被分配到一个区域。\\n\\n当你点击了一个§Y空军基地§! (在地图上或在空军界面里)，会弹出一个该空军基地的窗口并自动选择该基地的所有空中联队。\\n\\n右键点击空域或空军基地可以把空中联队分配给该空域或让其转场到新的基地。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_CONSTRUCTIONS:0",
+        "original": "Hint: Constructions",
+        "translation": "提示：建设",
+        "stage": 1
+    },
+    {
+        "key": "HINT_CONSTRUCTIONS_TEXT:0",
+        "original": "This is the §YConstructions§! screen and it is used to improve your States and Provinces by constructing buildings. In the beginning of the game, it is suggested that you build §YCivilian Factories§! for a couple of years before starting to build §YMilitary Factories§! or more specialized structures. By building Civilian Factories you will be able to construct more buildings in the long-term.\\n\\nAll free Civilian Factories will be constructing new buildings according to their order in the Construction queue.\\n\\nCivilian Factories have been highlighted for your convenience. §YClick it to activate Build Mode§!. When Build Mode is active, click on the map to queue the construction of a building. §YHold shift and click to queue the maximum amount.",
+        "translation": "这是§Y建设§!界面，你可以在这里建设你的地区和省份。在游戏开始时，建议花几年建设§Y民用工厂§!，随后再开始建设§Y军用工厂§!或其他更特殊的建筑。修建民用工厂可以在长远上让你修建更多的工厂。\\n\\n所有空闲的民用工厂都会被用来建设建造队列里的新建筑。\\n\\n为了方便你查看，民用工厂都被高亮显示。§Y点击进入建造模式§!。当处于建造模式时，点击地图来添加建设任务到队列里。§Y按住 shift 点击将添加最大数量。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_ARMY_PLANNER:0",
+        "original": "Hint: Recruit & Deploy",
+        "translation": "提示：招募与部署",
+        "stage": 1
+    },
+    {
+        "key": "HINT_ARMY_PLANNER_TEXT_1:1",
+        "original": "This is the §YRecruit & Deploy§! screen and this is where you queue new divisions for training and later on deployment. We recommend that you add a §YDivisione di Fanteria§! Division to the queue.\\n\\nDivisions in training will first attempt to gather the §YEquipment§! they require. Once they have Equipment, they will begin their training. Training progress can never exceed equipment progress.\\n\\nClick the §YTrain§! button to add a Division for training.\\n\\n\\nOnce Divisions have completed their training, they can be §YDeployed§! to a §Ylocation of your choice§!. You may only deploy Divisions in your core territory.",
+        "translation": "这是§Y招募与部署§!界面，在这里你可以建造训练新的陆军单位并在随后部署他们。我们推荐你添加一个§YDivisione di Fanteria§!师到队列里。\\n\\n训练中的师会先准备需要的§Y装备§!。当他们有足够的装备后，就会开始训练。训练进度永远不会超过装备准备的进度。\\n\\n点击§Y训练§!按钮训练一个新的师。\\n\\n\\n当部队完成了训练，他们可以被§Y部署§!到§Y你选择的位置§!。你只能在自己的核心区域部署部队。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_ARMY_PLANNER_TEXT_2:1",
+        "original": "Divisions can be produced serially and/or in parallel.\\n\\nDivisions that are trained in parallel will gain §YEquipment§! at the same rate, so they will all be finished at roughly the same time. When a Division has all the equipment they need and are fully trained they will be deployed to the location you have chosen.\\n\\nClick §YAdd Unit§! to add another Division for parallell training.\\n\\nIf the tides of war have turned against you, it may be viable to Deploy your Divisions §Ybefore they have all their equipment and training§!. This should be avoided when you can.\\n\\nYou can read more about what units to recruit on the HOI4 Wiki!",
+        "translation": "部队可以被顺序或并列建造。\\n\\n被并列训练的部队会以同样的速率获得§Y装备§!。所以他们都会在大致相同的时间完成。当一支部队获得了所有需要的装备并完成了全部训练，他们就会被部署到你选择的位置。\\n\\n点击§Y添加单位§!来增加并列训练的部队。\\n\\n当战况不利于你的时候，也许在部队§Y获得所有装备和训练前§!就部署更为有利。当然如果可以，这应当被避免。\\n\\n你可以在钢铁雄心4维基读到更多关于应该招募什么部队的信息。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_DIPLOMACY_SCREEN:0",
+        "original": "Hint: Diplomacy",
+        "translation": "提示：外交",
+        "stage": 1
+    },
+    {
+        "key": "HINT_DIPLOMACY_TEXT:0",
+        "original": "This is the §YDiplomacy§! screen and through it you will be able to engage in Diplomacy with other countries.",
+        "translation": "这是§Y外交§!界面，在这里你能和别的国家进行外交。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_DIVISION_DESIGNER:0",
+        "original": "Hint: Division Designer",
+        "translation": "提示：单位编成界面",
+        "stage": 1
+    },
+    {
+        "key": "HINT_DIVISION_DESIGNER_NOXP_TEXT:0",
+        "original": "This is the §YDivision Designer§! and it is used to create new or edit §YDivisions Templates§!. Editing or creating a new Division Template will cost you £army_experience  §YArmy Experience§!.\\n\\nYou will need more £army_experience Army Experience before you can create or edit a Division Template.",
+        "translation": "这是§Y单位编成界面§!，在这里你可以新建或编辑§Y单位编制§!。编辑或创建新的编制需要消耗 £army_experience  §Y陆军经验§!。\\n\\n在你能创建或编辑编制前你需要更多的 £army_experience 陆军经验。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_DIVISION_DESIGNER_XP_TEXT:0",
+        "original": "This is the §YDivision Designer§! and it is used to create new or edit §YDivisions Templates§!. Editing or creating a new Division Template will cost you £army_experience  §YArmy Experience§!. Army Experience is gained when your units are engaged in combat or are on training exercises. Green recruits do not generate £army_experience  Army Experience.\\n\\nClick the empty slot under the Support column to add £unit_artillery_icon_small §YSupport Artillery§! to you division. Once you have added it, click §YSave§!. Your divisions that use this template will now start asking for Artillery §YEquipment§!.",
+        "translation": "这是§Y单位编成界面§!，在这里你可以新建或编辑§Y单位编制§!。编辑或创建新的编制需要消耗 £army_experience  §Y陆军经验§!。陆军经验可以通过战斗或演习来获取。新兵不会产生 £army_experience  陆军经验。\\n\\n点击支援列的空格向你的师添加 £unit_artillery_icon_small §Y火炮支援连§!。完成添加后，点击§Y保存§!。你所有使用该编制的部队从现在起会需要火炮§Y装备§!。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_EDIT_TEMPLATE_TEXT:0",
+        "original": "You are producing equipment that is not used by any §YDivision Template§!. But you also have £army_experience §YArmy Experience§! to do something about it.\\n\\nClick §YEdit§! next to the §YDivisione di Fanteria§! or any other Division of your choice.",
+        "translation": "你正在生产并没有被任何§Y师编制§!用到的装备。而你也拥有足够的£army_experience §Y陆军经验§!来做点什么。\\n\\n点击§YDivisione di Fanteria§!或其他单位边上的§Y编辑§!。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_EXECUTE_ORDER_TEXT:1",
+        "original": "Below the portrait, there is a small progress bar (3) indicating relative strength between your Army and possible hostile forces.\\n\\n If you have not assigned a Commander to the Army already, you should probably do so now. Click the empty portrait in the top left.\\n\\nIf everything is looking good in your favor the estimated plan light (2) should be green. It it is, click the Execute Plan button (1).",
+        "translation": "在肖像的笑面，有一个小的进度条 (3) 显示你和敌人的相对力量。\\n\\n如果你还没给这个集团军分配指挥官，你现在应该分配一位。点击左上方的空白肖像。\\n\\n如果所有事情看上去都对你有利，计划预期指示灯 (2) 应该是绿色的。如果是这样，点击执行计划按钮 (1)。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NAVAL_MISSIONS:0",
+        "original": "Hint: Naval Missions",
+        "translation": "提示：海军任务",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NAVAL_MISSIONS_TEXT:0",
+        "original": "This is the §YFleet§! interface and this is where you can view and give orders to a selected fleet. You can make your fleets perform certain jobs by sending them on §YNaval Missions§!.\\n\\nA fleet can typically not be active in more than three sea regions at a time. When a fleet is on a Naval Mission it will typically spread out to cover a larger area. When the fleet is spread out it will take some time for it to merge again.\\n\\nTo send a fleet on a §YNaval Mission§!, click one of the highlighted mission buttons and then right-click on a §YSea Region§!. Ordering your fleet(s) to §YPatrol§! a region might be a good idea.",
+        "translation": "这是§Y舰队§!界面，在这里你可以给选择的舰队下指示。你可以通过让你的舰队执行§Y海军任务§!来完成一些工作。\\n\\n一支舰队通常不会同时在超过三个海域活动。当一支舰队在执行海军任务时，它通常会分散开来以覆盖更大的区域。当舰队分散后，重新聚集需要花费一些时间。\\n\\n为了让舰队执行§Y海军任务§!，点击高亮的任务按钮然后右键点击一个§Y海域§!。命令你的舰队去一个区域§Y巡逻§!似乎是个好主意。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_LOGISTICS:0",
+        "original": "Hint: Logistics",
+        "translation": "提示：后勤",
+        "stage": 1
+    },
+    {
+        "key": "HINT_LOGISTICS_TEXT:0",
+        "original": "This is the §YLogistics§! screen and its purpose is to help you see if you are producing equipment faster or slower than you are spending it.\\n\\nIf you are producing more of a type of §YEquipment§! than you think you need, it might be a good idea to reduce the amount of factories working on the §YProduction Line§! that is producing that type of Equipment.",
+        "translation": "这是§Y后勤§!界面。这个界面的目的是帮助你查看生产速度是否跟得上消耗。\\n\\n如果你认为生产了超过需求的某型§Y装备§!，也许减少该型号装备§Y生产线§!上的工厂数量会是一个好主意。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NATIONAL_FOCUS:0",
+        "original": "Hint: National Focus",
+        "translation": "提示：国策",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NATIONAL_FOCUS_TEXT:0",
+        "original": "This is the §YNational Focus§! screen and it allows your country to select its political goals which will result in effects or bonuses that helps the game progress.\\n\\nWe have highlighted a couple of National Focuses for your convenience that we recommend that you start with. The reason this path is recommended is because it allows you to gain another §YResearch Slot§! as quickly as possible, which will allow you to research one more £tech_mod  §YTechnology§! simultaneously.",
+        "translation": "这是§Y国策§!界面。这里允许你的国家选择一些政治目标，这些政治目标或是带来一些加成，或是产生一些能推进游戏进行的效果。\\n\\n为了方便你选择，我们已经高亮了一些我们推荐的初始国策。推荐这条路线的理由是它允许你尽快获得另一个§Y科研位§!，允许你同时多研究一项 £tech_mod  §Y科技§!。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NO_TEMPLATE:0",
+        "original": "Hint: No Template",
+        "translation": "提示：没有编制",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NO_TEMPLATE_NO_XP_TEXT:0",
+        "original": "You have clicked the §YNo Template alert§!. Do not worry! It is very good that you keep looking at the alerts for answers, they are there to help you.\\n\\nMost likely, you created a Production Line that was producing Artillery equipment. At this moment, none of your §YDivisions§! are using that equipment in any of their §YDivision Templates§!.\\n\\nOnce you gain more £army_experience  §YArmy Experience§!, you may edit your Division Templates to include Artillery. £army_experience  Army Experience is gained when your Divisions engage in combat or when they are on training exercises.\\n\\nYou can ignore this alert for now, as this tutorial will help you once you gain more £army_experience  Army Experience.",
+        "translation": "你点击了§Y没有编制警告§!。别紧张，点击警告寻找答案是一件很好的事，他们在这里就是为了帮你。 \\n\\n最可能的情况是，你创建了一条火炮生产线，然而当前，你没有一个§Y单位§!的§Y单位编制§!会使用这个装备。\\n\\n当你获得更多的 £army_experience  §Y陆军经验§!后，你可以修改你单位的编制来增加火炮。 £army_experience  陆军经验可以通过战斗或演习来获取。\\n\\n现在你可以忽略这个警告，教程会在你获得更多的 £army_experience  陆军经验后帮助你。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_NO_TEMPLATE_HAVE_XP_TEXT:0",
+        "original": "You have clicked the §YNo Template alert§! which shows you that you are producing Equipment that you are currently not using.\\n\\nTo allow your Divisions to start using new types of equipment, you need to edit their §YDivision Template§!. Editing a Division Template costs £army_experience  §YArmy Experience§!.\\n\\nGo to the §YRecruit & Deploy§! screen and choose a Division Template to §YEdit§!.\\n\\nBy tooltiping this alert you can see what type of Equipment that you are producing, but that you are currently not using.",
+        "translation": "你点击了§Y没有编制警告§!，这个警告告诉你，你正在生产没被使用的装备。\\n\\n为了让你的单位使用新型装备，你需要修改他们的§Y单位编制§!。编辑单位编制消耗 £army_experience  §Y陆军经验§!。\\n\\n前往§Y招募与部署§!界面选择单位编制来§Y编辑§!。\\n\\n在这个警告上悬浮鼠标弹出说明框，你可以看到你正在生产哪些没被用到的装备。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_POLITICS_SCREEN:0",
+        "original": "Hint: Political",
+        "translation": "提示：政治",
+        "stage": 1
+    },
+    {
+        "key": "HINT_POLITICS_SCREEN_TEXT:0",
+        "original": "This is the §YPolitics Screen§! and this is where you can access things like your country's §YNational Focuses§!, £pol_idea §YIdeas§!, §YLaws§! and more.\\n\\n£pol_power §YPolitical Power§! represents you country's ability to reach its political goals.\\nHiring advisors, justifying claims or guaranteeing independence are all examples of actions that require £pol_power Political Power.\\n\\n£pol_idea Ideas provide your country with bonuses in different areas, but they also cost £pol_power Political Power to activate.",
+        "translation": "这是§Y政治界面§!，在这里你可以查看国家的§Y国策§!，£pol_idea §Y法律§!，§Y雇员§!等。\\n\\n£pol_power §Y政治点数§!代表了你国家实现政治目标的能力。\\n雇佣顾问，正当化宣称或是保障独立都需要 £pol_power 政治点数。\\n\\n£pol_idea 理念给你的国家在各个领域带来加成，不过他们也需要用 £pol_power 政治点数来实施。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_PRODUCTION_LINES:0",
+        "original": "Hint: Production Lines",
+        "translation": "提示：生产线",
+        "stage": 1
+    },
+    {
+        "key": "HINT_PRODUCTION_LINES_TEXT:0",
+        "original": "This is the §YProduction Lines§! screen. Production Lines produce the equipment needed for your war effort. It is recommended that you produce both the equipment you need now and that you might need in the future.\\n\\nThere are two types of Production Lines: Military and Naval. The first uses £factory_item  §YMilitary Factories§! and the latter uses £naval_factory_icon  §YNaval Dockyards§!. The more factories are assigned to a Productions Line, the faster it will produce the equipment you need.\\n\\nA Production Line can be created by clicking one of the four highlighted buttons to the left. Once you select an equipment type from one of those four categories, a Production Line will be created for that equipment type.\\n\\nRead the §Ynext page§! of this hint to §Ysee recommendations§! on what to produce and how many factories to assign to each Production Line.",
+        "translation": "这是§Y生产线§!界面。生产线为你的战争生产装备。推荐你同时生产当前需要和将来可能需要的装备。\\n\\n有两种生产线：军事和海军。前一种使用 £factory_item  §Y军用工厂§!后一种使用£naval_factory_icon  §Y海军船坞§!。分配给生产线的工厂越多，装备生产就越快。\\n\\n点击四个高亮的按钮中的一个来建立生产线。从四个分类中的一个选择了一种装备，就可以创建一条该装备的生产线。\\n\\n阅读该提示的§Y下一页§!来§Y查看建议§!，我们会推荐一些生产项目以及建议分配多少工厂到各个生产线。",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_HINT_PAGE_1:0",
+        "original": "1",
+        "translation": "1",
+        "stage": 1
+    },
+    {
+        "key": "BUTTON_HINT_PAGE_2:0",
+        "original": "2",
+        "translation": "2",
+        "stage": 1
+    },
+    {
+        "key": "HINT_PRODUCTION_LINES_2_1:0",
+        "original": "In the image below you can see an example of a Production Line with §Y10§! £factory_item  §YMilitary Factories§! assigned to it.",
+        "translation": "在下面的图片里，你可以看到一条分配了§Y10§! £factory_item  §Y军用工厂§!的生产线。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_PRODUCTION_LINES_2_2:0",
+        "original": "We recommend that you also create Production Lines for:",
+        "translation": "我们推荐你同时新建以下生产线：",
+        "stage": 1
+    },
+    {
+        "key": "HINT_RESEARCH_TREE:0",
+        "original": "Hint: Research Tree",
+        "translation": "提示：科研树",
+        "stage": 1
+    },
+    {
+        "key": "HINT_RESEARCH_TREE_TEXT:0",
+        "original": "This is the §YResearch Tree§!. Although it might seem overwhelming at first, it is actually not too complicated. We have highlighted some technologies that are recommended to research in the beginning of the game.\\n\\nIt is a good idea to research technologies that boost your country's industrial base as well as more general military improvements. As the game progresses it might be valid to research more specialized Technologies such as Doctrines or Aircraft. It all depends on what you are trying to achieve.\\n\\nTechnologies take longer to research if you are trying to research something ahead of time. There are §YNational Focuses§! that can reduce the ahead-of-time penalty for certain Technologies.",
+        "translation": "这是§Y科研树§!。 尽管一眼看上去铺天盖地，但实际上它并没有那么复杂。 我们为你高亮了一些游戏开局的推荐科技。\\n\\n提升国家的工业基础和一些通用的军事项目总是一个好主意，随着游戏的进展，也许应该开始研究一些更特别的科技，例如军事学说或是飞机。这都取决于你打算做什么。\\n\\n当你提前研究科技的时候，将会花费更多的时间。有一些§Y国策§!能够降低某些科技的超前惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_RESEARCH_SCREEN:0",
+        "original": "Hint: Research",
+        "translation": "提示：科研",
+        "stage": 1
+    },
+    {
+        "key": "HINT_RESEARCH_SCREEN_TEXT:0",
+        "original": "This is the §YResearch§! screen. You have a number of research slots that each can research a £tech_mod  §YTechnology§!. Click the empty §YResearch Slot§! to select something to Research.\\n\\nCountries have a different amount of Research Slots, with Major Powers usually having more. It is possible to unlock an additional slot through §YNational Focuses§!. National Focuses will be covered by another alert and another hint.",
+        "translation": "这是科研§YResearch§!界面。你拥有一些科研槽，每个都可以研究一个£tech_mod  §Y科技§!。 点击空闲的§Y科研槽§!选择一项研究。\\n\\n不同国家有不同的科研槽数量，主要国家通常会多一些。通过某些§Y国策§!可以解锁额外的科研位。国策会在另一个警告和提示中介绍。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_SELECT_UNIT_TEXT:0",
+        "original": "It is time to wage war on §YEthiopia§!. You should start by giving your units orders by creating a Battleplan with an Offensive Order.\\n\\n§YSelect the highlighted Divisions§! in the §YEritrea§! state.",
+        "translation": "是时候向§Y埃塞俄比亚§!宣战了。第一步，你应该通过创建一个战斗计划并设置进攻命令来给你的部队提出指令。\\n\\n在§Y厄立特里亚§!地区§Y选择高亮部队§!",
+        "stage": 1
+    },
+    {
+        "key": "HINT_TRADE_SCREEN:0",
+        "original": "Hint: Trade",
+        "translation": "提示：贸易",
+        "stage": 1
+    },
+    {
+        "key": "HINT_TRADE_SCREEN_TEXT:2",
+        "original": "This is the §YTrade§! screen and it allows you to trade your Civilian Factories for resources.\\n\\nThe §YInsufficient Resources alert§! will show whenever one of your production lines does not have the required resources. Production lines will continue to produce equipment, but at a reduced speed. Trade is a valid option to solve that problem.\\n\\nDo note that when you trade away your Civilian Factories for resources, they cannot be used to construct buildings.",
+        "translation": "这是§Y贸易§!界面，在这里你可以用你民用工厂的产出来交换资源。\\n\\n§Y资源不足警告§!在你有生产线缺乏资源时就会显示。缺乏资源的生产线会以较低的速率继续生产。贸易是一个可行的解决方案。\\n\\n记住当你把民用工厂用来交易，他们就无法同时用来建造建筑了。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_WAR_SCREEN:0",
+        "original": "Hint: War",
+        "translation": "提示：战争",
+        "stage": 1
+    },
+    {
+        "key": "HINT_WAR_SCREEN_TEXT:0",
+        "original": "This is the §YWar§! screen and it will show you how a war is progressing.\\n\\nItaly starts at war with Ethiopia, but you do not have to worry about that right now. Proceed by looking at the other alerts.",
+        "translation": "这是§Y战争§!界面，在这里会显示战争的进程。\\n\\n意大利正和埃塞俄比亚交战，不过现在不用担心。然我们看看其他的提示。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_WORLD_TENSION:0",
+        "original": "Hint: World Tension",
+        "translation": "提示：全球紧张度",
+        "stage": 1
+    },
+    {
+        "key": "HINT_WORLD_TENSION_TEXT:0",
+        "original": "This is the £world_tension_icon  §YWorld Tension§! screen. All events that affect the World Tension somehow, will be shown in the list here.\\n\\nWorld Tension is a measurement of how heated the game has become. Certain countries may have certain §YDiplomatic Actions§! locked until World Tension is high enough.\\n\\nGenerally speaking, Axis powers want the World Tension to stay low to prevent Democratic countries from intervening, while Democratic countries want World Tension to be high so that they can intervene.\\n\\nDeclaring War, justifying claims, annexing territory, completing certain §YNational Focuses§! are all examples of action that might increase World Tension.\\n\\nThe higher the World Tension is, the closer you are to a World War.",
+        "translation": "这是£world_tension_icon  §Y全球紧张度§!界面。所有引起全球紧张度变化的事件都会在这里列出。\\n\\n全球紧张度是一个用来描述这场游戏热度的度量。一些国家的§Y外交行动§!在全球紧张度没有到达一定程度前无法执行。\\n\\n一般而言，轴心国家希望全球紧张度保持低点来阻止民主国家干涉，而民主国家则希望世界紧张度升高以便于干涉。\\n\\n宣战，正当化宣称，吞并领土，完成某些§Y国策§!都能升高全球紧张度。\\n\\n全球紧张度越高，你离一场世界大战就越近。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_WORLD_TENSION_TEXT_2:0",
+        "original": "£world_tension_icon  §YWorld Tension§! is a measurement of how heated the game has become. Certain countries may have certain §YDiplomatic Actions§! locked until World Tension is high enough.\\n\\nGenerally speaking, Axis powers want the World Tension to stay low to prevent Democratic countries from intervening, while Democratic countries want World Tension to be high so that they can intervene.\\n\\nDeclaring War, justifying claims, annexing territory, completing certain §YNational Focuses§! are all examples of action that might increase World Tension.\\n\\nThe higher the World Tension is, the closer you are to a World War.",
+        "translation": "£world_tension_icon  §Y全球紧张度§!是一个用来描述这场游戏热度的度量。 一些国家的§Y外交行动§!在全球紧张度没有到达一定程度前无法执行。\\n\\n一般而言，轴心国家希望全球紧张度保持低点来阻止民主国家干涉，而民主国家则希望世界紧张度升高以便于干涉。\\n\\n宣战，正当化宣称，吞并领土，完成某些§Y国策§!都能升高全球紧张度。\\n\\n全球紧张度越高，你离一场世界大战就越近。",
+        "stage": 1
+    },
+    {
+        "key": "HINT_4_FAC:0",
+        "original": "£factory_item  £factory_item  £factory_item  £factory_item",
+        "translation": "£factory_item  £factory_item  £factory_item  £factory_item",
+        "stage": 1
+    },
+    {
+        "key": "HINT_3_FAC:0",
+        "original": "£factory_item  £factory_item  £factory_item",
+        "translation": "£factory_item  £factory_item  £factory_item",
+        "stage": 1
+    },
+    {
+        "key": "HINT_2_FAC:0",
+        "original": "£factory_item  £factory_item",
+        "translation": "£factory_item  £factory_item",
+        "stage": 1
+    },
+    {
+        "key": "HINT_11_FAC:0",
+        "original": "£naval_factory_icon   §Yx11§!",
+        "translation": "£naval_factory_icon   §Yx11§!",
+        "stage": 1
+    }
+]

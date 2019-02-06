@@ -1,0 +1,536 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Dywizja Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Brygada Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Brygada Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Grupa Pancerna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Nadbrzezne Grupa Obrony",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|name",
+        "original": "10 Brygada Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Brygada Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Dywizja Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|name",
+        "original": "1 Brygada Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Brygada Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|name",
+        "original": "2 Brygada Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Brygada Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "3 Brygada Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Brygada Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|name",
+        "original": "Grupa Pancerna Prusy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Grupa Pancerna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|name",
+        "original": "Brygada Motorowej Warszawska",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Brygada Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Dywizja Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Ochrony Pogranicza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Polska Flota Niszczycieli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "ORP Grom",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "ORP Blyskawica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "ORP Burza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "ORP Wicher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Dywizjon Okretów Podwodnych",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "ORP Orzel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "ORP Sep",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "ORP Rys",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "ORP Wilk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "ORP Zbik",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Joseph Stalin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Konstantin Rodzaevsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Alexander Fyodorovich Kerensky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Georgy Zhukov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Konstantin Rokossovsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Aleksandr Vasilevsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Boris Shaposhnikov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Nikolai Vatutin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "Ivan Konev",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######|name",
+        "original": "Semyon Timoshenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Kliment Voroshilov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Mikhail Tukhachevsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Semyon Budyonny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######|name",
+        "original": "Ivan Chernyakhovsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########|name",
+        "original": "Issa Pliyev",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########|name",
+        "original": "Leonid Govorov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal###|name",
+        "original": "Grigory Kulik",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########|name",
+        "original": "Kirill Meretskov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########|name",
+        "original": "Filipp Golikov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############|name",
+        "original": "Andrey Yeryomenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############|name",
+        "original": "Georgiy Zakharov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##############|name",
+        "original": "Yakov Cherevichenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###############|name",
+        "original": "Max Reyter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander################|name",
+        "original": "Nikandr Chibisov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#################|name",
+        "original": "Vasily Kuznetsov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##################|name",
+        "original": "Andrey Vlasov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###################|name",
+        "original": "Ivan Fedyuninsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####################|name",
+        "original": "Maksim Purkayev",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####################|name",
+        "original": "Kuzma Galitsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######################|name",
+        "original": "Markian Popov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######################|name",
+        "original": "Nikolai Berzarin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########################|name",
+        "original": "Alexander Gorbatov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########################|name",
+        "original": "Kirill Moskalenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########################|name",
+        "original": "Dmitry Lelyushenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########################|name",
+        "original": "Andrei Grechko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############################|name",
+        "original": "Rodion Malinovsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############################|name",
+        "original": "Vasily Chuikov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Filipp Oktyabrskiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Sergey Gorshkov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Gordey Levchenko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Arseniy Golovko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "Vladimir Kasatonov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Series I Debakrist",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Leningrad & Minsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant#|name",
+        "original": "Maxim Gorky Class",
+        "translation": "",
+        "stage": 0
+    }
+]

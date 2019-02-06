@@ -1,0 +1,2858 @@
+[
+    {
+        "key": "ITA|submarine|prefix",
+        "original": "RSmg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|generic|Sommergibile",
+        "original": "Sommergibile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Glauco",
+        "original": "Glauco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Otaria",
+        "original": "Otaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Pietro Calvi",
+        "original": "Pietro Calvi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Giuseppe Finzi",
+        "original": "Giuseppe Finzi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Enrico Tazzoli",
+        "original": "Enrico Tazzoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Argo",
+        "original": "Argo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Velella",
+        "original": "Velella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ambra",
+        "original": "Ambra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Berillo",
+        "original": "Berillo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Corallo",
+        "original": "Corallo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Diaspro",
+        "original": "Diaspro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Gemma",
+        "original": "Gemma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Iride",
+        "original": "Iride",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Malachite",
+        "original": "Malachite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Onice",
+        "original": "Onice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Perla",
+        "original": "Perla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Turchese",
+        "original": "Turchese",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Adua",
+        "original": "Adua",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Alagi",
+        "original": "Alagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Aradam",
+        "original": "Aradam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ascianghi",
+        "original": "Ascianghi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Axum",
+        "original": "Axum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Beilul",
+        "original": "Beilul",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Dagabur",
+        "original": "Dagabur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Dessiè",
+        "original": "Dessiè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Durbo",
+        "original": "Durbo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Gondar",
+        "original": "Gondar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Lafolè",
+        "original": "Lafolè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Macallè",
+        "original": "Macallè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Neghelli",
+        "original": "Neghelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Scirè",
+        "original": "Scirè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Tembien",
+        "original": "Tembien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Uarsciek",
+        "original": "Uarsciek",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Uebi Scebeli",
+        "original": "Uebi Scebeli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Marcello",
+        "original": "Marcello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Dandolo",
+        "original": "Dandolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Veniero",
+        "original": "Veniero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Provana",
+        "original": "Provana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Mocenigo",
+        "original": "Mocenigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Nani",
+        "original": "Nani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Barbarigo",
+        "original": "Barbarigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Emo",
+        "original": "Emo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Morosini",
+        "original": "Morosini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Comandante Cappellini",
+        "original": "Comandante Cappellini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Comandante Faà di Bruno",
+        "original": "Comandante Faà di Bruno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Brin",
+        "original": "Brin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Galvani",
+        "original": "Galvani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Guglielmotti",
+        "original": "Guglielmotti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Archimede",
+        "original": "Archimede",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Torricelli",
+        "original": "Torricelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Console Generale Liuzzi",
+        "original": "Console Generale Liuzzi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Alpino Bagnolini",
+        "original": "Alpino Bagnolini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Reginaldo Giuliani",
+        "original": "Reginaldo Giuliani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Capitano Tarantini",
+        "original": "Capitano Tarantini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Guglielmo Marconi",
+        "original": "Guglielmo Marconi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Leonardo da Vinci",
+        "original": "Leonardo da Vinci",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Michele Bianchi",
+        "original": "Michele Bianchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Luigi Torelli",
+        "original": "Luigi Torelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Alessandro Malaspina",
+        "original": "Alessandro Malaspina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Maggiore Baracca",
+        "original": "Maggiore Baracca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ammiraglio Saint Bon",
+        "original": "Ammiraglio Saint Bon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ammiraglio Cagni",
+        "original": "Ammiraglio Cagni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ammiraglio Millo",
+        "original": "Ammiraglio Millo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ammiraglio Caracciolo",
+        "original": "Ammiraglio Caracciolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Acciaio",
+        "original": "Acciaio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Alabastro",
+        "original": "Alabastro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Argento",
+        "original": "Argento",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Asteria",
+        "original": "Asteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Avorio",
+        "original": "Avorio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Bronzo",
+        "original": "Bronzo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Cobalto",
+        "original": "Cobalto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Giada",
+        "original": "Giada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Granito",
+        "original": "Granito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Nichelio",
+        "original": "Nichelio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Platino",
+        "original": "Platino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Porfido",
+        "original": "Porfido",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Volframio",
+        "original": "Volframio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Tritone",
+        "original": "Tritone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Gorgo",
+        "original": "Gorgo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Flutto",
+        "original": "Flutto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Marea",
+        "original": "Marea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Vortice",
+        "original": "Vortice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Nautilo",
+        "original": "Nautilo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Bario",
+        "original": "Bario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Litio",
+        "original": "Litio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Sodio",
+        "original": "Sodio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Potassio",
+        "original": "Potassio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Rame",
+        "original": "Rame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ferro",
+        "original": "Ferro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Zinco",
+        "original": "Zinco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Piombo",
+        "original": "Piombo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Murena",
+        "original": "Murena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Grongo",
+        "original": "Grongo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Sparide",
+        "original": "Sparide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Spigola",
+        "original": "Spigola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Cernia",
+        "original": "Cernia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Dentice",
+        "original": "Dentice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Cromo",
+        "original": "Cromo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ottone",
+        "original": "Ottone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Cadmio",
+        "original": "Cadmio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Vanadio",
+        "original": "Vanadio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Iridio",
+        "original": "Iridio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ruthenio",
+        "original": "Ruthenio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Oro",
+        "original": "Oro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Alluminio",
+        "original": "Alluminio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Antimonio",
+        "original": "Antimonio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Fosforo",
+        "original": "Fosforo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Manganese",
+        "original": "Manganese",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Zolfo",
+        "original": "Zolfo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Silicio",
+        "original": "Silicio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Magnesio",
+        "original": "Magnesio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Mercurio",
+        "original": "Mercurio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Amianto",
+        "original": "Amianto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Marcantonio Bragadin",
+        "original": "Marcantonio Bragadin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Filippo Corridoni",
+        "original": "Filippo Corridoni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Pietro Micca",
+        "original": "Pietro Micca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Foca",
+        "original": "Foca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Atropo",
+        "original": "Atropo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Zoea",
+        "original": "Zoea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Antonio Bajamonti",
+        "original": "Antonio Bajamonti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Francesco Rismondo",
+        "original": "Francesco Rismondo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Balilla",
+        "original": "Balilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Domenico Millelire",
+        "original": "Domenico Millelire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Enrico Toti",
+        "original": "Enrico Toti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Antonio Sciesa",
+        "original": "Antonio Sciesa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Goffredo Mameli",
+        "original": "Goffredo Mameli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Pier Capponi",
+        "original": "Pier Capponi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Giovanni da Procida",
+        "original": "Giovanni da Procida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Tito Speri",
+        "original": "Tito Speri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Vettor Pisani",
+        "original": "Vettor Pisani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Marcantonio Colonna",
+        "original": "Marcantonio Colonna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Giovanni Bausan",
+        "original": "Giovanni Bausan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Des Geneys",
+        "original": "Des Geneys",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ettore Fieramosca",
+        "original": "Ettore Fieramosca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Fratelli Bandiera",
+        "original": "Fratelli Bandiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Luciano Manara",
+        "original": "Luciano Manara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Santorre Santarosa",
+        "original": "Santorre Santarosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ciro Menotti",
+        "original": "Ciro Menotti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Squalo",
+        "original": "Squalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Narvalo",
+        "original": "Narvalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Delfino",
+        "original": "Delfino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Tricheco",
+        "original": "Tricheco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Argonauta",
+        "original": "Argonauta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Fisalia",
+        "original": "Fisalia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Jalea",
+        "original": "Jalea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Jantina",
+        "original": "Jantina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Medusa",
+        "original": "Medusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Salpa",
+        "original": "Salpa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Serpente",
+        "original": "Serpente",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Luigi Settembrini",
+        "original": "Luigi Settembrini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ruggiero Settimo",
+        "original": "Ruggiero Settimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Galileo Galilei",
+        "original": "Galileo Galilei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Evangelista Torricelli",
+        "original": "Evangelista Torricelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Galileo Ferraris",
+        "original": "Galileo Ferraris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ametista",
+        "original": "Ametista",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Anfitrite",
+        "original": "Anfitrite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Diamante",
+        "original": "Diamante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Galatea",
+        "original": "Galatea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Naiade",
+        "original": "Naiade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Nereide",
+        "original": "Nereide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ondina",
+        "original": "Ondina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Rubino",
+        "original": "Rubino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Sirena",
+        "original": "Sirena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Smeraldo",
+        "original": "Smeraldo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Topazio",
+        "original": "Topazio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Zaffiro",
+        "original": "Zaffiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Attinio",
+        "original": "Attinio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Azoto",
+        "original": "Azoto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Bromo",
+        "original": "Bromo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Carbonio",
+        "original": "Carbonio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Elio",
+        "original": "Elio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Molibdeno",
+        "original": "Molibdeno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Osmio",
+        "original": "Osmio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Ossigeno",
+        "original": "Ossigeno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Selenio",
+        "original": "Selenio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|submarine|unique|Tungsteno",
+        "original": "Tungsteno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|generic|Cacciatorpedindiere",
+        "original": "Cacciatorpedindiere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Camicia Nera",
+        "original": "Camicia Nera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Alpino",
+        "original": "Alpino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Artigliere",
+        "original": "Artigliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ascari",
+        "original": "Ascari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Aviere",
+        "original": "Aviere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Bersagliere",
+        "original": "Bersagliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Carabiniere",
+        "original": "Carabiniere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Corazziere",
+        "original": "Corazziere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Fuciliere",
+        "original": "Fuciliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Geniere",
+        "original": "Geniere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Granatiere",
+        "original": "Granatiere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lanciere",
+        "original": "Lanciere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Bombardiere",
+        "original": "Bombardiere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Corsaro",
+        "original": "Corsaro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Legionario",
+        "original": "Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Mitragliere",
+        "original": "Mitragliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Velite",
+        "original": "Velite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Spica",
+        "original": "Spica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Astore",
+        "original": "Astore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Climene",
+        "original": "Climene",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Centauro",
+        "original": "Centauro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Castore",
+        "original": "Castore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Cigno",
+        "original": "Cigno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Canopo",
+        "original": "Canopo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Cassiopea",
+        "original": "Cassiopea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Perseo",
+        "original": "Perseo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Sirio",
+        "original": "Sirio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Sagittario",
+        "original": "Sagittario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Vega",
+        "original": "Vega",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Aldebaran",
+        "original": "Aldebaran",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Andromeda",
+        "original": "Andromeda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Altair",
+        "original": "Altair",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Antares",
+        "original": "Antares",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Airone",
+        "original": "Airone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Alcione",
+        "original": "Alcione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Aretusa",
+        "original": "Aretusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ariel",
+        "original": "Ariel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pleiadi",
+        "original": "Pleiadi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Polluce",
+        "original": "Polluce",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pallade",
+        "original": "Pallade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Partenope",
+        "original": "Partenope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lira",
+        "original": "Lira",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Libra",
+        "original": "Libra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lupo",
+        "original": "Lupo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lince",
+        "original": "Lince",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Clio",
+        "original": "Clio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Circe",
+        "original": "Circe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Calliope",
+        "original": "Calliope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Calipso",
+        "original": "Calipso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ariete",
+        "original": "Ariete",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Arturo",
+        "original": "Arturo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Auriga",
+        "original": "Auriga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Rigel",
+        "original": "Rigel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Eridano",
+        "original": "Eridano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Dragone",
+        "original": "Dragone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Gladio",
+        "original": "Gladio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Spada",
+        "original": "Spada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Daga",
+        "original": "Daga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pugnale",
+        "original": "Pugnale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lancia",
+        "original": "Lancia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Alabarda",
+        "original": "Alabarda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Stella Polare",
+        "original": "Stella Polare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Orsa",
+        "original": "Orsa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pegaso",
+        "original": "Pegaso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Orione",
+        "original": "Orione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Procione",
+        "original": "Procione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Aliseo",
+        "original": "Aliseo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Animoso",
+        "original": "Animoso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ardente",
+        "original": "Ardente",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ardimentoso",
+        "original": "Ardimentoso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ardito",
+        "original": "Ardito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ciclone",
+        "original": "Ciclone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Fortunale",
+        "original": "Fortunale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ghibli",
+        "original": "Ghibli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Groppo",
+        "original": "Groppo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Impavido",
+        "original": "Impavido",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Impetouso",
+        "original": "Impetouso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Indomito",
+        "original": "Indomito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Intrepido",
+        "original": "Intrepido",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Monsone",
+        "original": "Monsone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Tifone",
+        "original": "Tifone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Uragano",
+        "original": "Uragano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Leopardo",
+        "original": "Leopardo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Carrista",
+        "original": "Carrista",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Squadrista",
+        "original": "Squadrista",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Premuda",
+        "original": "Premuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Sebenico",
+        "original": "Sebenico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lubiana",
+        "original": "Lubiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Margottini",
+        "original": "Comandante Margottini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Baroni",
+        "original": "Comandante Baroni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Borsini",
+        "original": "Comandante Borsini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Botti",
+        "original": "Comandante Botti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Casana",
+        "original": "Comandante Casana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Corsi",
+        "original": "Comandante Corsi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante De Cristofaro",
+        "original": "Comandante De Cristofaro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Dell'Anno",
+        "original": "Comandante Dell'Anno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Esposito",
+        "original": "Comandante Esposito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Fiorelli",
+        "original": "Comandante Fiorelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Fontana",
+        "original": "Comandante Fontana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Giannattasio",
+        "original": "Comandante Giannattasio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Giobbe",
+        "original": "Comandante Giobbe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Giorgis",
+        "original": "Comandante Giorgis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Milano",
+        "original": "Comandante Milano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Moccagatta",
+        "original": "Comandante Moccagatta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Novaro",
+        "original": "Comandante Novaro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Rodocanacchi",
+        "original": "Comandante Rodocanacchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Ruta",
+        "original": "Comandante Ruta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Comandante Toscano",
+        "original": "Comandante Toscano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Fionda",
+        "original": "Fionda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Balestra",
+        "original": "Balestra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Carlo Mirabello",
+        "original": "Carlo Mirabello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Augusto Riboty",
+        "original": "Augusto Riboty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Leone",
+        "original": "Leone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pantera",
+        "original": "Pantera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Tigre",
+        "original": "Tigre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Rosolino Pilo",
+        "original": "Rosolino Pilo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe Cesare Abba",
+        "original": "Giuseppe Cesare Abba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe Dezza",
+        "original": "Giuseppe Dezza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe Missori",
+        "original": "Giuseppe Missori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Antonio Mosto",
+        "original": "Antonio Mosto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ippolito Nievo",
+        "original": "Ippolito Nievo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Fratelli Cairoli",
+        "original": "Fratelli Cairoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Simone Schiaffino",
+        "original": "Simone Schiaffino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Audace",
+        "original": "Audace",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe Sirtori",
+        "original": "Giuseppe Sirtori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giovanni Acerbi",
+        "original": "Giovanni Acerbi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Vincenzo Giordano Orsini",
+        "original": "Vincenzo Giordano Orsini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Francesco Stocco",
+        "original": "Francesco Stocco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe La Masa",
+        "original": "Giuseppe La Masa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Angelo Bassini",
+        "original": "Angelo Bassini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Enrico Cosenz",
+        "original": "Enrico Cosenz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giacinto Carini",
+        "original": "Giacinto Carini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Nicola Fabrizi",
+        "original": "Nicola Fabrizi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giuseppe La Farina",
+        "original": "Giuseppe La Farina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giacomo Medici",
+        "original": "Giacomo Medici",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Palestro",
+        "original": "Palestro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Confienza",
+        "original": "Confienza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|San Martino",
+        "original": "San Martino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Solferino",
+        "original": "Solferino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Antonio Cantore",
+        "original": "Generale Antonio Cantore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Antonino Cascino",
+        "original": "Generale Antonino Cascino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Antonio Chinotto",
+        "original": "Generale Antonio Chinotto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Carlo Montanari",
+        "original": "Generale Carlo Montanari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Achille Papa",
+        "original": "Generale Achille Papa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Generale Marcello Prestinari",
+        "original": "Generale Marcello Prestinari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Curtatone",
+        "original": "Curtatone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Calatafimi",
+        "original": "Calatafimi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Castelfidardo",
+        "original": "Castelfidardo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Monzambano",
+        "original": "Monzambano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Quintino Sella",
+        "original": "Quintino Sella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Francesco Crispi",
+        "original": "Francesco Crispi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giovanni Nicotera",
+        "original": "Giovanni Nicotera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Bettino Ricasoli",
+        "original": "Bettino Ricasoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Nazario Sauro",
+        "original": "Nazario Sauro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Cesare Battisti",
+        "original": "Cesare Battisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Daniele Manin",
+        "original": "Daniele Manin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Francesco Nullo",
+        "original": "Francesco Nullo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Alvise Da Mosto",
+        "original": "Alvise Da Mosto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Antonio Da Noli",
+        "original": "Antonio Da Noli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Nicoloso Da Recco",
+        "original": "Nicoloso Da Recco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giovanni da Verrazzano",
+        "original": "Giovanni da Verrazzano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lanzerotto Malocello",
+        "original": "Lanzerotto Malocello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Leone Pancaldo",
+        "original": "Leone Pancaldo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Emanuele Pessagno",
+        "original": "Emanuele Pessagno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Antonio Pigafetta",
+        "original": "Antonio Pigafetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Luca Tarigo",
+        "original": "Luca Tarigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Antoniotto Usodimare",
+        "original": "Antoniotto Usodimare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ugolino Vivaldi",
+        "original": "Ugolino Vivaldi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Nicolò Zeno",
+        "original": "Nicolò Zeno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Turbine",
+        "original": "Turbine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Aquilone",
+        "original": "Aquilone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Borea",
+        "original": "Borea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Espero",
+        "original": "Espero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Euro",
+        "original": "Euro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Nembo",
+        "original": "Nembo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Ostro",
+        "original": "Ostro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Zeffiro",
+        "original": "Zeffiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Dardo",
+        "original": "Dardo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Freccia",
+        "original": "Freccia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Saetta",
+        "original": "Saetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Strale",
+        "original": "Strale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Baleno",
+        "original": "Baleno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Folgore",
+        "original": "Folgore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Fulmine",
+        "original": "Fulmine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Lampo",
+        "original": "Lampo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Maestrale",
+        "original": "Maestrale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Grecale",
+        "original": "Grecale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Libeccio",
+        "original": "Libeccio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Scirocco",
+        "original": "Scirocco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Alfredo Oriani",
+        "original": "Alfredo Oriani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Vittorio Alfieri",
+        "original": "Vittorio Alfieri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Giosuè Carducci",
+        "original": "Giosuè Carducci",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Vincenzo Gioberti",
+        "original": "Vincenzo Gioberti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Carlo Alberto Racchia",
+        "original": "Carlo Alberto Racchia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Insidioso",
+        "original": "Insidioso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Irrequieto",
+        "original": "Irrequieto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Pilade Bronzetti",
+        "original": "Pilade Bronzetti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Agostino Bertani",
+        "original": "Agostino Bertani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|destroyer|unique|Benedetto Cairoli",
+        "original": "Benedetto Cairoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|generic|Incrociatore Leggero",
+        "original": "Incrociatore Leggero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Emanuele Filiberto Duca d'Aosta",
+        "original": "Emanuele Filiberto Duca d'Aosta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Eugenio di Savoia",
+        "original": "Eugenio di Savoia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Duca degli Abruzzi",
+        "original": "Duca degli Abruzzi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Giuseppe Garibaldi",
+        "original": "Giuseppe Garibaldi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Attilio Regolo",
+        "original": "Attilio Regolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Scipione Africano",
+        "original": "Scipione Africano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Giulio Germanico",
+        "original": "Giulio Germanico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Pompeo Magno",
+        "original": "Pompeo Magno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Lucio Cornelio Silla",
+        "original": "Lucio Cornelio Silla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Caio Mario",
+        "original": "Caio Mario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Ottaviano Augusto",
+        "original": "Ottaviano Augusto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Ulpio Traiano",
+        "original": "Ulpio Traiano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Claudio Druso",
+        "original": "Claudio Druso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Claudio Tiberio",
+        "original": "Claudio Tiberio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Vipsanio Agrippa",
+        "original": "Vipsanio Agrippa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Paolo Emilio",
+        "original": "Paolo Emilio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|San Giorgio",
+        "original": "San Giorgio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|San Marco",
+        "original": "San Marco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Etna",
+        "original": "Etna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Vesuvio",
+        "original": "Vesuvio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Costanzo Ciano",
+        "original": "Costanzo Ciano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Venezia",
+        "original": "Venezia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Bari",
+        "original": "Bari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Taranto",
+        "original": "Taranto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Alberto da Giussano",
+        "original": "Alberto da Giussano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Alberico da Barbiano",
+        "original": "Alberico da Barbiano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Bartolomeo Colleoni",
+        "original": "Bartolomeo Colleoni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Giovanni dalle Bande Nere",
+        "original": "Giovanni dalle Bande Nere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Luigi Cadorna",
+        "original": "Luigi Cadorna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Armando Diaz",
+        "original": "Armando Diaz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Raimondo Montecuccoli",
+        "original": "Raimondo Montecuccoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Muzio Attendolo",
+        "original": "Muzio Attendolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Basilicata",
+        "original": "Basilicata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Campania",
+        "original": "Campania",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Lombardia",
+        "original": "Lombardia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Calabria",
+        "original": "Calabria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Elba",
+        "original": "Elba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Etruria",
+        "original": "Etruria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Liguria",
+        "original": "Liguria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Puglia",
+        "original": "Puglia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Umbria",
+        "original": "Umbria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Quarto",
+        "original": "Quarto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Nino Bixio",
+        "original": "Nino Bixio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Marsala",
+        "original": "Marsala",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Libia",
+        "original": "Libia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Ancona",
+        "original": "Ancona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_cruiser|unique|Brindisi",
+        "original": "Brindisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|generic|Incrociatore Pesante",
+        "original": "Incrociatore Pesante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Trento",
+        "original": "Trento",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Trieste",
+        "original": "Trieste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Zara",
+        "original": "Zara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Fiume",
+        "original": "Fiume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Gorizia",
+        "original": "Gorizia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Pola",
+        "original": "Pola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Bolzano",
+        "original": "Bolzano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|San Giorgio",
+        "original": "San Giorgio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Vettor Pisani",
+        "original": "Vettor Pisani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Carlo Alberto",
+        "original": "Carlo Alberto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Marco Polo",
+        "original": "Marco Polo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Giuseppe Garibaldi",
+        "original": "Giuseppe Garibaldi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Varese",
+        "original": "Varese",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Francesco Ferruccio",
+        "original": "Francesco Ferruccio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Pisa",
+        "original": "Pisa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|Amalfi",
+        "original": "Amalfi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|heavy_cruiser|unique|San Marco",
+        "original": "San Marco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|generic|Incrociatore da Battaglia",
+        "original": "Incrociatore da Battaglia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Francesco Caracciolo",
+        "original": "Francesco Caracciolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Cristoforo Colombo",
+        "original": "Cristoforo Colombo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Marcantonio Colonna",
+        "original": "Marcantonio Colonna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Francesco Morosini",
+        "original": "Francesco Morosini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Principe Amedeo",
+        "original": "Principe Amedeo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battle_cruiser|unique|Palestra",
+        "original": "Palestra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|generic|Corazzata",
+        "original": "Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Conte Di Cavour",
+        "original": "Conte Di Cavour",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Giulio Cesare",
+        "original": "Giulio Cesare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Caio Duilio",
+        "original": "Caio Duilio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Andrea Doria",
+        "original": "Andrea Doria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Littorio",
+        "original": "Littorio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Vittorio Veneto",
+        "original": "Vittorio Veneto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Roma",
+        "original": "Roma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Impero",
+        "original": "Impero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Italia",
+        "original": "Italia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Leonardo Da Vinci",
+        "original": "Leonardo Da Vinci",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|battleship|unique|Dante Alighieri",
+        "original": "Dante Alighieri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|generic|Portaerei",
+        "original": "Portaerei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|unique|Aquila",
+        "original": "Aquila",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|unique|Sparviero",
+        "original": "Sparviero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|unique|Falco",
+        "original": "Falco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|unique|Europa",
+        "original": "Europa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|carrier|unique|Giuseppe Miraglia",
+        "original": "Giuseppe Miraglia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|infantry|generic|Divisione di Fanteria",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|marine|generic|Divisione Anfibia",
+        "original": "Divisione Anfibia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|mountaineers|generic|Divisione Alpina",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|cavalry|generic|Divisione Celere",
+        "original": "Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|motorized|generic|Divisione Motorizzata",
+        "original": "Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|light_armor|generic|Divisione Corazzata",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA|medium_armor|generic|Divisione Corazzata",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    }
+]

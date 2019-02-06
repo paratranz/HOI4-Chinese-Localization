@@ -1,0 +1,92 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Armored-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "Presidency & Assam District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "District Garrison",
+        "translation": "",
+        "stage": 0
+    }
+]

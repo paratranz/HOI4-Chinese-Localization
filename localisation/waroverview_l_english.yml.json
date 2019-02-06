@@ -1,0 +1,338 @@
+[
+    {
+        "key": "PARTICIPANTS:0",
+        "original": "Participants",
+        "translation": "参战国",
+        "stage": 1
+    },
+    {
+        "key": "WARGOAL:0",
+        "original": "Wargoal",
+        "translation": "战争目标",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_TITLE:0",
+        "original": "§HWar Participation§!\\nA measure for how much of the war effort a nation has shouldered on the way to bringing the enemy to surrender. A high percentage lets you dictate more terms in the peace conference once the war ends.",
+        "translation": "§H战争贡献度§!\\n用来衡量一个国家在战胜敌人的过程中付出了多少努力。比例越高，在战争结束后的和谈中便能争取更多权益。",
+        "stage": 1
+    },
+    {
+        "key": "LOSSES:0",
+        "original": "Losses",
+        "translation": "损失",
+        "stage": 1
+    },
+    {
+        "key": "CALL:0",
+        "original": "Call",
+        "translation": "召唤",
+        "stage": 1
+    },
+    {
+        "key": "CALL_ALL:1",
+        "original": "Call All",
+        "translation": "全体召唤",
+        "stage": 1
+    },
+    {
+        "key": "DIVISIONS:0",
+        "original": "Divisions",
+        "translation": "师",
+        "stage": 1
+    },
+    {
+        "key": "DIVISIONS_COUNTRY:0",
+        "original": "§T$COUNTRY|H$ has $VAL|H$ Divisions§!",
+        "translation": "§T$COUNTRY|H$ 拥有$VAL|H$个师§!",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY:0",
+        "original": "Industry",
+        "translation": "工业",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY_COUNTRY:0",
+        "original": "§T$COUNTRY|H$ has $VAL|H$ total factories§!",
+        "translation": "§T$COUNTRY|H$拥有$VAL|H$个工厂§!",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTY:0",
+        "original": "Casualties",
+        "translation": "伤亡",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTY_COUNTRY:0",
+        "original": "§T$COUNTRY|H$ has $VAL|H2*$ in Casualties§!",
+        "translation": "§T$COUNTRY|H$ 损失了$VAL|H2*$人§!",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_START:0",
+        "original": "$COUNTRY|H$ Casualties:\\n",
+        "translation": "$COUNTRY|H$ 伤亡：\\n",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_ENTRY:0",
+        "original": "$COUNTRY|H$: $NUM|*1Y$\\n",
+        "translation": "$COUNTRY|H$：$NUM|*1Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_OTHER:0",
+        "original": "Other: $NUM|1*Y$\\n",
+        "translation": "其他：$NUM|1*Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_UNKNOWN:0",
+        "original": "Unknown: $NUM|1*Y$\\n",
+        "translation": "不明：$NUM|1*Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_PROGRESSBAR:0",
+        "original": "§TWar is going $VAL|H0%$ in favor of $SIDE$§!",
+        "translation": "§T战争目前倾向 $SIDE$ $VAL|H0%$§!",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_PROGRESSBAR_STATUS_QUO:0",
+        "original": "§TWar is in a status quo§!",
+        "translation": "§T战争目前处于胶着状态§!",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_COUNTRY:0",
+        "original": "$COUNTRY|H$: $VAL|H0%$",
+        "translation": "$COUNTRY|H$：$VAL|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_STATE_INSTANT:0",
+        "original": "§TTotal War Participation:§!",
+        "translation": "§T战争贡献度总计：§!",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_STATE_NO_VICTORY_POINTS:0",
+        "original": "§T$COUNTRY|H$ does not control any enemy Victory Points§!",
+        "translation": "§T$COUNTRY|H$没有掌控任何地方胜利点§!",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_STATE:0",
+        "original": "$STATE$: $VAL|H0%$",
+        "translation": "$STATE$：$VAL|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "FIELDER_MANPOWER:0",
+        "original": "Fielded Manpower: $MAN|Y*$",
+        "translation": "服役人力：$MAN|Y*$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_LOSSES:0",
+        "original": "Losses: $LOSS|Y*$",
+        "translation": "损失：$LOSS|Y*$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_LOSSES_GOOD:0",
+        "original": "Losses: $LOSS|G*$",
+        "translation": "损失：$LOSS|G*$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_LOSSES_BAD:0",
+        "original": "Losses: $LOSS|R*$",
+        "translation": "损失：$LOSS|R*$",
+        "stage": 1
+    },
+    {
+        "key": "AGGRESSORS:0",
+        "original": "§TAggressors§!",
+        "translation": "§T进攻方§!",
+        "stage": 1
+    },
+    {
+        "key": "DEFENDERS:0",
+        "original": "§TDefenders§!",
+        "translation": "§T防御方§!",
+        "stage": 1
+    },
+    {
+        "key": "MAJOR_AGGRESSORS:0",
+        "original": "§TMajor Aggressors§!",
+        "translation": "§T主要进攻者§!",
+        "stage": 1
+    },
+    {
+        "key": "MAJOR_DEFENDERS:0",
+        "original": "§TMajor Defenders§!",
+        "translation": "§T主要防御者§!",
+        "stage": 1
+    },
+    {
+        "key": "PARTICIPANT:0",
+        "original": "$COUNTRY|H$",
+        "translation": "$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "SURRENDER:2",
+        "original": "§T$COUNTRY|H$ is $SURRENDER|H0%$ towards capitulation.\\nIt controls $CONTROL|0%H$ of §HVictory Points§! and will capitulate when it has $VAL|0%H$ or less§!",
+        "translation": "§T$COUNTRY|H$的投降倾向是$SURRENDER|H0%$。\\n它控制的§H胜利点§!有$CONTROL|0%H$点，若少于$VAL|0%H$点便会停止抵抗§!",
+        "stage": 1
+    },
+    {
+        "key": "CAN_SURRENDER_FACTION_MEMBERS:1",
+        "original": "They are currently fighting with their faction and will only surrender when all major factions members in this war has capitulated.\\nMajor Faction members left to surrender:\\n$MEMBER_LIST|Y$",
+        "translation": "他们目前正和他们所属的阵营并肩战斗，只有当这场战争中的主要阵营成员全部停止抵抗时他们才会投降。\\n这场战争中尚未投降的主要阵营成员：\\n$MEMBER_LIST|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CAN_SURRENDER:0",
+        "original": "They are currently fighting alone and will surrender as soon as they have capitulated",
+        "translation": "他们目前正在孤军奋战，并会在停止抵抗的同时投降。",
+        "stage": 1
+    },
+    {
+        "key": "CANNOT_SURRENDER_NOT_ENOUGH_DAYS:0",
+        "original": "They have only been at war for $DAYS|Y$ days, they need to have been at war for atleast $MIN_DAYS|Y$ days before surrendering",
+        "translation": "他们参战仅有$DAYS|Y$日，投降需要参战时间超过$MIN_DAYS|Y$日",
+        "stage": 1
+    },
+    {
+        "key": "ALLY_CALLED:0",
+        "original": "§RYou've already called this ally§!",
+        "translation": "§R你已经召唤过这位盟友了§!",
+        "stage": 1
+    },
+    {
+        "key": "NO_ALLIES_TO_CALL:0",
+        "original": "§RYou can't call any allies§!",
+        "translation": "§R你无法召唤盟友§!",
+        "stage": 1
+    },
+    {
+        "key": "ALLIES_NOT_IN_WAR:0",
+        "original": "Allies not in war",
+        "translation": "没有参战的盟友",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_PARTICIPATION:0",
+        "original": "Has contributed about §Y$VALUE$%§! of the war effort.",
+        "translation": "在战争中贡献了约§Y$VALUE$%§!。",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_BREAKDOWN_NOCASUALTIES:0",
+        "original": "Breakdown:\\nOccupation: $OCCUPATION|Y0$\\nBombing: $BOMBING|Y0$ / $BOMBING_MAX|Y0$",
+        "translation": "明细：\\n占领：$OCCUPATION|Y0$\\n轰炸：$BOMBING|Y0$ / $BOMBING_MAX|Y0$",
+        "stage": 1
+    },
+    {
+        "key": "WARSCORE_BREAKDOWN:0",
+        "original": "Breakdown:\\nOccupation: $OCCUPATION|Y0$\\nBombing: $BOMBING|Y0$ / $BOMBING_MAX|Y0$\\nCasualties: $CASUALTIES|Y0$",
+        "translation": "明细：\\n占领：$OCCUPATION|Y0$\\n轰炸：$BOMBING|Y0$ / $BOMBING_MAX|Y0$\\n伤亡：$CASUALTIES|Y0$",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_CAPITULATE_STATUS:0",
+        "original": "They have capitulated and can no longer stop this side of the war from surrendering. To remove their capitulation status they must reclaim their capital and be at most $LEVEL|%Y0$ towards capitulation. They are currently at $CURRENT|%Y0$.",
+        "translation": "他们已经停止抵抗并无法阻止阵营投降。如果想移除停止抵抗状态，他们需要夺回首都并且使投降倾向不高于$LEVEL|%Y0$。他们当前的投降倾向是$CURRENT|%Y0$。",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_AGGREGATE_VIEW_HEADER:0",
+        "original": "War Summary",
+        "translation": "战争总览",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_CAPITULATION_PROGRESS:0",
+        "original": "Capitulation Progress",
+        "translation": "投降倾向",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_MINORS:0",
+        "original": "Minors",
+        "translation": "非主要",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_CAPITULATED:0",
+        "original": "Capitulated",
+        "translation": "已投降",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_CALLABLE:0",
+        "original": "Callable",
+        "translation": "可召唤",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_MINORS_DESC:0",
+        "original": "Toggle showing minor countries",
+        "translation": "切换显示次要国家",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_CAPITULATED_DESC:0",
+        "original": "Toggle showing capitulated countries",
+        "translation": "切换显示已经停止抵抗的国家",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_FILTER_CALLABLE_DESC:0",
+        "original": "Toggle showing countries that can be called into the war",
+        "translation": "切换显示可以被召唤的国家",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_WAR_BUTTON_ALL:0",
+        "original": "Show a summary of all wars",
+        "translation": "显示所有战争的总览",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_AGGREGATE_PROGRESS:0",
+        "original": "Summary screen does not show progress, click on a specific war for more information",
+        "translation": "总览界面不显示战争倾向，点击特定战争可以得到更多信息",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_CALL_ALL_FACTION:0",
+        "original": "Call all members of the faction",
+        "translation": "召唤阵营内所有国家",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_CALL_COUNTRY_LIST:0",
+        "original": "This will send a message to the following countries: $COUNTRIES$",
+        "translation": "这样会向以下国家发送信息：$COUNTRIES$",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_CALL_ALL_FACTION_DISABLED:0",
+        "original": "§RNo nations to call to war available in the faction§!",
+        "translation": "§R阵营内没有可以召唤加入战争的国家§!",
+        "stage": 1
+    },
+    {
+        "key": "WAR_OVERVIEW_ALLY_ALREADY_CALLED:0",
+        "original": "§RThis ally has already been called and we are awaiting his response§!",
+        "translation": "§R我们已经召唤了这个盟友，正在等待他的回复§!",
+        "stage": 1
+    }
+]

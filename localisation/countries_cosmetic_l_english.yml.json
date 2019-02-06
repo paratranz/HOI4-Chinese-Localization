@@ -1,0 +1,3428 @@
+[
+    {
+        "key": "INS_HOL_democratic:0",
+        "original": "Dutch East Indies",
+        "translation": "荷属东印度",
+        "stage": 1
+    },
+    {
+        "key": "INS_HOL_democratic_DEF:0",
+        "original": "the Dutch East Indies",
+        "translation": "荷属东印度",
+        "stage": 1
+    },
+    {
+        "key": "INS_subject:0",
+        "original": "$OVERLORDADJ$ East Indies",
+        "translation": "$OVERLORDADJ$属东印度",
+        "stage": 1
+    },
+    {
+        "key": "INS_subject_DEF:0",
+        "original": "the $OVERLORDADJ$ East Indies",
+        "translation": "$OVERLORDADJ$属东印度",
+        "stage": 1
+    },
+    {
+        "key": "COG_subject:0",
+        "original": "$OVERLORDADJ$ Congo",
+        "translation": "$OVERLORDADJ$属刚果",
+        "stage": 1
+    },
+    {
+        "key": "MAL_subject:0",
+        "original": "$OVERLORDADJ$ Malaya",
+        "translation": "$OVERLORDADJ$属马来亚",
+        "stage": 1
+    },
+    {
+        "key": "LBA_subject:0",
+        "original": "$OVERLORDADJ$ North Africa",
+        "translation": "$OVERLORDADJ$属北非",
+        "stage": 1
+    },
+    {
+        "key": "MAL_UK_democratic:0",
+        "original": "British Malaya",
+        "translation": "英属马来亚",
+        "stage": 1
+    },
+    {
+        "key": "MAL_UK_democratic_DEF:0",
+        "original": "the British Malaya",
+        "translation": "英属马来亚",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_democratic:0",
+        "original": "British Raj",
+        "translation": "英属印度帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_democratic_DEF:0",
+        "original": "the British Raj",
+        "translation": "英属印度帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_neutrality:0",
+        "original": "British Raj",
+        "translation": "英属印度帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_neutrality_DEF:0",
+        "original": "the British Raj",
+        "translation": "英属印度帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_subject:0",
+        "original": "$OVERLORDADJ$ Raj",
+        "translation": "$OVERLORDADJ$属印度帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_autonomy_dominion:0",
+        "original": "Dominion of India",
+        "translation": "印度自治领",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_UK_autonomy_dominion_DEF:0",
+        "original": "the Dominion of India",
+        "translation": "印度自治领",
+        "stage": 1
+    },
+    {
+        "key": "SAF_COM_communist:0",
+        "original": "Cape Commune",
+        "translation": "好望角公社",
+        "stage": 1
+    },
+    {
+        "key": "SAF_COM_communist_DEF:0",
+        "original": "the Cape Commune",
+        "translation": "好望角公社",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_dominion:0",
+        "original": "Dominion of Canada",
+        "translation": "加拿大自治领",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_colony:0",
+        "original": "Canadian Confederation",
+        "translation": "加拿大邦联",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_puppet:0",
+        "original": "Province of Canada",
+        "translation": "加拿大省",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_integrated_puppet:0",
+        "original": "British North America",
+        "translation": "英属北美",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_dominion_DEF:0",
+        "original": "the Dominion of Canada",
+        "translation": "加拿大自治领",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_colony_DEF:0",
+        "original": "the Canadian Confederation",
+        "translation": "加拿大邦联",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_puppet_DEF:0",
+        "original": "the Province of Canada",
+        "translation": "加拿大省",
+        "stage": 1
+    },
+    {
+        "key": "CAN_UK_autonomy_integrated_puppet_DEF:0",
+        "original": "British North America",
+        "translation": "英属北美",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_dominion:0",
+        "original": "Dominion of North America",
+        "translation": "北美自治领",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_colony:0",
+        "original": "48 Colonies",
+        "translation": "北美四十八州",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_puppet:0",
+        "original": "British North American Territories",
+        "translation": "英属北美领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_integrated_puppet:0",
+        "original": "King George's Land",
+        "translation": "乔治国王领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_dominion_DEF:0",
+        "original": "the Dominion of North America",
+        "translation": "北美自治领",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_colony_DEF:0",
+        "original": "the 48 Colonies",
+        "translation": "北美四十八州",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_puppet_DEF:0",
+        "original": "the British North American Territories",
+        "translation": "英属北美领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_UK_autonomy_integrated_puppet_DEF:0",
+        "original": "King George's Land",
+        "translation": "乔治国王领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_dominion:0",
+        "original": "Dominion of North America",
+        "translation": "北美自治领",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_colony:0",
+        "original": "48 Colonies",
+        "translation": "北美四十八州",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_puppet:0",
+        "original": "African North American Territories",
+        "translation": "非属北美领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_integrated_puppet:0",
+        "original": "Queen Wallis's Land",
+        "translation": "沃丽丝王后领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_dominion_DEF:0",
+        "original": "the Dominion of North America",
+        "translation": "北美自治领",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_colony_DEF:0",
+        "original": "the 48 Colonies",
+        "translation": "北美四十八州",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_puppet_DEF:0",
+        "original": "the African North American Territories",
+        "translation": "非属北美领地",
+        "stage": 1
+    },
+    {
+        "key": "USA_SAF_EDW_autonomy_integrated_puppet_DEF:0",
+        "original": "Queen Wallis's Land",
+        "translation": "沃丽丝王后领地",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_satellite:0",
+        "original": "Reichsland Ukraine",
+        "translation": "帝国属乌克兰",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Ukraine",
+        "translation": "帝国乌克兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Ukraine",
+        "translation": "帝国乌克兰总督区",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_satellite_DEF:0",
+        "original": "the Reichsland Ukraine",
+        "translation": "帝国属乌克兰",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Ukraine",
+        "translation": "帝国乌克兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Ukraine",
+        "translation": "帝国乌克兰总督区",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_dominion:0",
+        "original": "Greater Ukrainian Reich",
+        "translation": "大乌克兰帝国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_colony:0",
+        "original": "Reichsland Ukraine",
+        "translation": "乌克兰帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_puppet:0",
+        "original": "Reichsprotektorat Ukraine",
+        "translation": "乌克兰帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Ukraine",
+        "translation": "乌克兰总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_dominion_DEF:0",
+        "original": "the Greater Ukrainian Reich",
+        "translation": "大乌克兰帝国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_colony_DEF:0",
+        "original": "the Reichsland Ukraine",
+        "translation": "乌克兰帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Ukraine",
+        "translation": "乌克兰帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "UKR_GER_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Ukraine",
+        "translation": "乌克兰总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_dominion:0",
+        "original": "Ukrainian People's Republic",
+        "translation": "乌克兰人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_colony:0",
+        "original": "Ukrainian Socialist Republic",
+        "translation": "乌克兰社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_puppet:1",
+        "original": "Ukrainian Independent SSR",
+        "translation": "乌克兰苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Ukrainian SSR",
+        "translation": "乌克兰苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Ukrainian People's Republic",
+        "translation": "乌克兰人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Ukrainian Socialist Republic",
+        "translation": "乌克兰社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_puppet_DEF:1",
+        "original": "The Ukrainian Independent SSR",
+        "translation": "乌克兰苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "UKR_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Ukrainian SSR",
+        "translation": "乌克兰苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_satellite:0",
+        "original": "Ostland",
+        "translation": "帝国属东方",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Ostland",
+        "translation": "帝国东方保护领",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Ostland",
+        "translation": "帝国东方总督区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_satellite_DEF:0",
+        "original": "Ostland",
+        "translation": "帝国属东方",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Ostland",
+        "translation": "帝国东方保护领",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Ostland",
+        "translation": "帝国东方总督区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_dominion:0",
+        "original": "Weißreußen",
+        "translation": "白罗斯",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_colony:0",
+        "original": "Ostland",
+        "translation": "东方区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_puppet:0",
+        "original": "Reichsprotektorat Ostland",
+        "translation": "东方保护领",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Ostland",
+        "translation": "东方总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_dominion_DEF:0",
+        "original": "Weißreußen",
+        "translation": "白罗斯",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_colony_DEF:0",
+        "original": "Ostland",
+        "translation": "东方区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Ostland",
+        "translation": "东方保护领",
+        "stage": 1
+    },
+    {
+        "key": "BLR_GER_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Ostland",
+        "translation": "东方总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_dominion:0",
+        "original": "Belarussian People's Republic",
+        "translation": "白俄罗斯人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_colony:0",
+        "original": "Socialist Republic of Byelorussia",
+        "translation": "白俄罗斯社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_puppet:1",
+        "original": "Byelorussian Independent SSR",
+        "translation": "白俄罗斯苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Byelorussian SSR",
+        "translation": "白俄罗斯苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Belarussian People's Republic",
+        "translation": "白俄罗斯人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Socialist Republic of Byelorussia",
+        "translation": "白俄罗斯社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_puppet_DEF:1",
+        "original": "The Byelorussian Independent SSR",
+        "translation": "白俄罗斯苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "BLR_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Byelorussian SSR",
+        "translation": "白俄罗斯苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_dominion:0",
+        "original": "Estonian People's Republic",
+        "translation": "爱沙尼亚人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_colony:0",
+        "original": "Socialist Republic of Estonia",
+        "translation": "爱沙尼亚社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_puppet:0",
+        "original": "Estonian Independent SSR",
+        "translation": "爱沙尼亚苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Estonian SSR",
+        "translation": "爱沙尼亚苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_dominion:0",
+        "original": "Lithuanian People's Republic",
+        "translation": "立陶宛人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_colony:0",
+        "original": "Socialist Republic of Lithuania",
+        "translation": "立陶宛社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_puppet:1",
+        "original": "Lithuanian Independent SSR",
+        "translation": "立陶宛苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Lithuanian SSR",
+        "translation": "立陶宛苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_dominion:0",
+        "original": "Latvian People's Republic",
+        "translation": "拉脱维亚人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_colony:0",
+        "original": "Socialist Republic of Latvia",
+        "translation": "拉脱维亚社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_puppet:1",
+        "original": "Latvian Independent SSR",
+        "translation": "拉脱维亚苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Latvian SSR",
+        "translation": "拉脱维亚苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Estonian People's Republic",
+        "translation": "爱沙尼亚人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Socialist Republic of Estonia",
+        "translation": "爱沙尼亚社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_puppet_DEF:0",
+        "original": "the Estonian Independent SSR",
+        "translation": "爱沙尼亚苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "EST_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Estonian SSR",
+        "translation": "爱沙尼亚苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Lithuanian People's Republic",
+        "translation": "立陶宛人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Socialist Republic of Lithuania",
+        "translation": "立陶宛社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_puppet_DEF:1",
+        "original": "The Lithuanian Independent SSR",
+        "translation": "立陶宛苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "LIT_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Lithuanian SSR",
+        "translation": "立陶宛苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Latvian People's Republic",
+        "translation": "拉脱维亚人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Socialist Republic of Latvia",
+        "translation": "拉脱维亚社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_puppet_DEF:1",
+        "original": "The Latvian Independent SSR",
+        "translation": "拉脱维亚苏维埃社会主义独立共和国",
+        "stage": 1
+    },
+    {
+        "key": "LAT_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Latvian SSR",
+        "translation": "拉脱维亚苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_dominion:0",
+        "original": "Finnish People's Republic",
+        "translation": "芬兰人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_colony:0",
+        "original": "Socialist Republic of Finnland",
+        "translation": "芬兰社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_puppet:0",
+        "original": "Finnish Democratic Republic",
+        "translation": "芬兰民主共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_integrated_puppet:0",
+        "original": "Finnish SSR",
+        "translation": "芬兰苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_dominion_DEF:0",
+        "original": "the Finnish People's Republic",
+        "translation": "芬兰人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_colony_DEF:0",
+        "original": "the Socialist Republic of Finnland",
+        "translation": "芬兰社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_puppet_DEF:0",
+        "original": "the Finnish Democratic Republic",
+        "translation": "芬兰民主共和国",
+        "stage": 1
+    },
+    {
+        "key": "FIN_SOV_communism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Finnish SSR",
+        "translation": "芬兰苏维埃社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_dominion:0",
+        "original": "Ostafrika",
+        "translation": "东非洲",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_colony:0",
+        "original": "Reichsland Ostafrika",
+        "translation": "东非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_puppet:0",
+        "original": "Reichsprotektorat Ostafrika",
+        "translation": "东非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_integrated_puppet:0",
+        "original": "Deutsch-Ostafrika",
+        "translation": "德属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_dominion:0",
+        "original": "Mittelafrika",
+        "translation": "中非洲",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_colony:0",
+        "original": "Reichsland Mittelafrika",
+        "translation": "中非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_puppet:0",
+        "original": "Reichsprotektorat Mittelafrika",
+        "translation": "中非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_integrated_puppet:0",
+        "original": "Deutsch-Mittelafrika",
+        "translation": "德属中非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_dominion:0",
+        "original": "Nordafrika",
+        "translation": "北非洲",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_colony:0",
+        "original": "Reichsland Nordafrika",
+        "translation": "北非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_puppet:0",
+        "original": "Reichsprotektorat Nordafrika",
+        "translation": "北非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_integrated_puppet:0",
+        "original": "Deutsch-Nordafrika",
+        "translation": "德属北非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_dominion_DEF:0",
+        "original": "Ostafrika",
+        "translation": "东非洲",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_colony_DEF:0",
+        "original": "the Reichsland Ostafrika",
+        "translation": "东非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Ostafrika",
+        "translation": "东非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_integrated_puppet_DEF:0",
+        "original": "Deutsch-Ostafrika",
+        "translation": "德属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_dominion_DEF:0",
+        "original": "Mittelafrika",
+        "translation": "中非洲",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_colony_DEF:0",
+        "original": "the Reichsland Mittelafrika",
+        "translation": "中非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Mittelafrika",
+        "translation": "中非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_integrated_puppet_DEF:0",
+        "original": "Deutsch-Mittelafrika",
+        "translation": "德属中非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_dominion_DEF:0",
+        "original": "Nordafrika",
+        "translation": "北非洲",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_colony_DEF:0",
+        "original": "the Reichsland Nordafrika",
+        "translation": "北非洲帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Nordafrika",
+        "translation": "北非洲帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_integrated_puppet_DEF:0",
+        "original": "Deutsch-Nordafrika",
+        "translation": "德属北非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_satellite:0",
+        "original": "Ostafrika",
+        "translation": "东非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_protectorate:0",
+        "original": "Reichsprotektorat Ostafrika",
+        "translation": "帝国东非保护领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_reichskommissariat:0",
+        "original": "Deutsch-Ostafrika",
+        "translation": "德属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_satellite:0",
+        "original": "Mittelafrika",
+        "translation": "中非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Mittelafrika",
+        "translation": "帝国中非保护领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_reichskommissariat:0",
+        "original": "Deutsch-Mittelafrika",
+        "translation": "德属中非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_satellite:0",
+        "original": "Nordafrika",
+        "translation": "北非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Nordafrika",
+        "translation": "帝国北非保护领",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_reichskommissariat:0",
+        "original": "Deutsch-Nordafrika",
+        "translation": "德属北非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_satellite_DEF:0",
+        "original": "Ostafrika",
+        "translation": "东非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Ostafrika",
+        "translation": "帝国东非保护领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_GER_autonomy_reichskommissariat_DEF:0",
+        "original": "Deutsch-Ostafrika",
+        "translation": "德属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_satellite_DEF:0",
+        "original": "Mittelafrika",
+        "translation": "中非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Mittelafrika",
+        "translation": "帝国中非保护领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_GER_autonomy_reichskommissariat_DEF:0",
+        "original": "Deutsch-Mittelafrika",
+        "translation": "德属中非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_satellite_DEF:0",
+        "original": "Nordafrika",
+        "translation": "Nordafrika",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Nordafrika",
+        "translation": "帝国北非保护领",
+        "stage": 1
+    },
+    {
+        "key": "LBA_GER_autonomy_reichskommissariat_DEF:0",
+        "original": "Deutsch-Nordafrika",
+        "translation": "德属北非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_satellite:0",
+        "original": "Kingdom of Libya",
+        "translation": "利比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_reichsprotectorate:0",
+        "original": "Cyrenica",
+        "translation": "昔兰尼加",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_reichskommissariat:0",
+        "original": "Italian North Africa",
+        "translation": "意属北非",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_satellite:0",
+        "original": "Kingdom of Ethiopia",
+        "translation": "埃塞俄比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_reichsprotectorate:0",
+        "original": "Governate of Ethiopia",
+        "translation": "埃塞俄比亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_reichskommissariat:0",
+        "original": "Italian East Africa",
+        "translation": "意属东非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_satellite_DEF:0",
+        "original": "the Kingdom of Libya",
+        "translation": "利比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "Cyrenica",
+        "translation": "昔兰尼加",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "Italian North Africa",
+        "translation": "意属北非",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_satellite_DEF:0",
+        "original": "the Kingdom of Ethiopia",
+        "translation": "埃塞俄比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Governate of Ethiopia",
+        "translation": "埃塞俄比亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "Italian East Africa",
+        "translation": "意属东非",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_dominion:0",
+        "original": "Dominion of Kenya",
+        "translation": "肯尼亚自治领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_colony:0",
+        "original": "Colony of Kenya",
+        "translation": "肯尼亚殖民地",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_puppet:0",
+        "original": "British Kenya",
+        "translation": "英属肯尼亚",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_integrated_puppet:0",
+        "original": "British East Africa",
+        "translation": "英属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_dominion:0",
+        "original": "Dominion of Rhodesia",
+        "translation": "罗德西亚自治领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_colony:0",
+        "original": "Colony of Rhodesia",
+        "translation": "罗德西亚殖民地",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_puppet:0",
+        "original": "British Rhodesia",
+        "translation": "英属罗德西亚",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_integrated_puppet:0",
+        "original": "British SAC Territory",
+        "translation": "英属南非公司领地",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_dominion:0",
+        "original": "Dominion of Botswana",
+        "translation": "博茨瓦纳自治领",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_colony:0",
+        "original": "Colony of Bechuanaland",
+        "translation": "贝专纳兰殖民地",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_puppet:0",
+        "original": "Bechuanaland Protectorate",
+        "translation": "贝专纳兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_integrated_puppet:0",
+        "original": "British Bechuanaland",
+        "translation": "英属贝专纳兰",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_dominion_DEF:0",
+        "original": "the Dominion of Kenya",
+        "translation": "肯尼亚自治领",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_colony_DEF:0",
+        "original": "the Colony of Kenya",
+        "translation": "肯尼亚殖民地",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_puppet_DEF:0",
+        "original": "British Kenya",
+        "translation": "英属肯尼亚",
+        "stage": 1
+    },
+    {
+        "key": "KEN_ENG_autonomy_integrated_puppet_DEF:0",
+        "original": "British East Africa",
+        "translation": "英属东非",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_dominion_DEF:0",
+        "original": "the Dominion of Rhodesia",
+        "translation": "罗德西亚自治领",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_colony_DEF:0",
+        "original": "the Colony of Rhodesia",
+        "translation": "罗德西亚殖民地",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_puppet_DEF:0",
+        "original": "British Rhodesia",
+        "translation": "英属罗德西亚",
+        "stage": 1
+    },
+    {
+        "key": "ZIM_ENG_autonomy_integrated_puppet_DEF:0",
+        "original": "the British SAC Territory",
+        "translation": "英属南非公司领地",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_dominion_DEF:0",
+        "original": "the Dominion of Botswana",
+        "translation": "博茨瓦纳自治领",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_colony_DEF:0",
+        "original": "the Colony of Bechuanaland",
+        "translation": "贝专纳兰殖民地",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_puppet_DEF:0",
+        "original": "the Bechuanaland Protectorate",
+        "translation": "贝专纳兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "BOT_ENG_autonomy_integrated_puppet_DEF:0",
+        "original": "British Bechuanaland",
+        "translation": "英属贝专纳兰",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Niederlande",
+        "translation": "帝国尼德兰总督区",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Niederlande",
+        "translation": "帝国尼德兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_satellite:0",
+        "original": "Dietsland",
+        "translation": "大荷兰",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Belgien",
+        "translation": "帝国比利时总督区",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Belgien",
+        "translation": "帝国比利时保护领",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_satellite:0",
+        "original": "Flandern-Wallonien",
+        "translation": "弗兰德-瓦隆",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Estland",
+        "translation": "帝国爱沙尼亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Estland",
+        "translation": "帝国爱沙尼亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_satellite:0",
+        "original": "Estonia",
+        "translation": "爱沙尼亚",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Litauen",
+        "translation": "帝国立陶宛总督区",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Litauen",
+        "translation": "帝国立陶宛保护领",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_satellite:0",
+        "original": "Lithuania",
+        "translation": "立陶宛",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Lettland",
+        "translation": "帝国拉脱维亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Lettland",
+        "translation": "帝国拉脱维亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_satellite:0",
+        "original": "Latvia",
+        "translation": "拉脱维亚",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_reichskommissariat:0",
+        "original": "Reichskommissariat Norwegen",
+        "translation": "帝国挪威总督区",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Norwegen",
+        "translation": "帝国挪威保护领",
+        "stage": 1
+    },
+    {
+        "key": "CZE_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reichsprotektorat Böhmen-Mähren",
+        "translation": "帝国波希米亚-摩拉维亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Niederlande",
+        "translation": "帝国尼德兰总督区",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Niederlande",
+        "translation": "帝国尼德兰保护领",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_satellite_DEF:0",
+        "original": "Dietsland",
+        "translation": "大荷兰",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Belgien",
+        "translation": "帝国比利时总督区",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Belgien",
+        "translation": "帝国比利时保护领",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_satellite_DEF:0",
+        "original": "Flandern-Wallonien",
+        "translation": "弗兰德-瓦隆",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Estland",
+        "translation": "帝国爱沙尼亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Estland",
+        "translation": "帝国爱沙尼亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_satellite_DEF:0",
+        "original": "Estonia",
+        "translation": "爱沙尼亚",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Litauen",
+        "translation": "帝国立陶宛总督区",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Litauen",
+        "translation": "帝国立陶宛保护领",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_satellite_DEF:0",
+        "original": "Lithuania",
+        "translation": "立陶宛",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Lettland",
+        "translation": "帝国拉脱维亚总督区",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Lettland",
+        "translation": "帝国拉脱维亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_satellite_DEF:0",
+        "original": "Latvia",
+        "translation": "拉脱维亚",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Reichskommissariat Norwegen",
+        "translation": "帝国挪威总督区",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Norwegen",
+        "translation": "帝国挪威保护领",
+        "stage": 1
+    },
+    {
+        "key": "CZE_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reichsprotektorat Böhmen-Mähren",
+        "translation": "帝国波希米亚-摩拉维亚保护领",
+        "stage": 1
+    },
+    {
+        "key": "POL_GER_fascism_autonomy_reichsprotectorate_DEF:1",
+        "original": "The Generalgouvernement",
+        "translation": "帝国总督府",
+        "stage": 1
+    },
+    {
+        "key": "POL_GER_fascism_autonomy_reichsprotectorate:1",
+        "original": "The Generalgouvernement",
+        "translation": "帝国总督府",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_reichskommissariat:0",
+        "original": "Province of Montenegro",
+        "translation": "黑山省",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Province of Montenegro",
+        "translation": "黑山省",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_reichsprotectorate:0",
+        "original": "Governate of Montenegro",
+        "translation": "黑山总督区",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Governate of Montenegro",
+        "translation": "黑山总督区",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_satellite:0",
+        "original": "Kingdom of Montenegro",
+        "translation": "黑山王国",
+        "stage": 1
+    },
+    {
+        "key": "MNT_ITA_fascism_autonomy_satellite_DEF:0",
+        "original": "the Kingdom of Montenegro",
+        "translation": "黑山王国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_FREE_democratic:0",
+        "original": "Free France",
+        "translation": "自由法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_FREE_democratic_DEF:0",
+        "original": "Free France",
+        "translation": "自由法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_GER_fascism_autonomy_reichsprotectorate:0",
+        "original": "Vichy France",
+        "translation": "维希法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_GER_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "Vichy France",
+        "translation": "维希法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_GER_fascism_autonomy_puppet:0",
+        "original": "Vichy France",
+        "translation": "维希法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "Vichy France",
+        "translation": "维希法国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_democratic:0",
+        "original": "Franco-British Union",
+        "translation": "法英联盟",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_democratic_DEF:0",
+        "original": "the Franco-British Union",
+        "translation": "法英联盟",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_fascism:0",
+        "original": "Restored Norman Empire",
+        "translation": "新诺曼帝国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_fascism_DEF:0",
+        "original": "the Restored Norman Empire",
+        "translation": "新诺曼帝国",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_communism:0",
+        "original": "European People's Union",
+        "translation": "欧洲人民联盟",
+        "stage": 1
+    },
+    {
+        "key": "FRA_UK_communism_DEF:0",
+        "original": "the European People's Union",
+        "translation": "欧洲人民联盟",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_democratic:0",
+        "original": "Czech Republic",
+        "translation": "捷克共和国",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_democratic_DEF:0",
+        "original": "the Czech Republic",
+        "translation": "捷克共和国",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_fascism:0",
+        "original": "Bohemian Empire",
+        "translation": "波希米亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_fascism_DEF:0",
+        "original": "the Bohemian Empire",
+        "translation": "波希米亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_communism:0",
+        "original": "Czech People's Republic",
+        "translation": "捷克人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "CZE_ONLY_communism_DEF:0",
+        "original": "the Czech People's Republic",
+        "translation": "捷克人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_neutrality:0",
+        "original": "Austria-Hungary",
+        "translation": "奥地利-匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_fascism:0",
+        "original": "Austro-Hungarian Empire",
+        "translation": "奥匈帝国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_democratic:0",
+        "original": "Danubian Confederation",
+        "translation": "多瑙河邦联",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_communism:0",
+        "original": "Association of Autonomous States",
+        "translation": "自治邦联合会",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_neutrality:0",
+        "original": "Greater Hungary",
+        "translation": "大匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_fascism:0",
+        "original": "Greater Hungary",
+        "translation": "大匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_democratic:0",
+        "original": "Hungarian Federal Republic",
+        "translation": "匈牙利联邦共和国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_communism:0",
+        "original": "Balkan Socialist Union",
+        "translation": "巴尔干社会主义联盟",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_neutrality_DEF:0",
+        "original": "Austria-Hungary",
+        "translation": "奥地利-匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_fascism_DEF:0",
+        "original": "the Austro-Hungarian Empire",
+        "translation": "奥匈帝国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_democratic_DEF:0",
+        "original": "the Danubian Confederation",
+        "translation": "多瑙河邦联",
+        "stage": 1
+    },
+    {
+        "key": "HUN_EMPIRE_communism_DEF:0",
+        "original": "the Association of Autonomous States",
+        "translation": "自治邦联合会",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_neutrality_DEF:0",
+        "original": "Greater Hungary",
+        "translation": "大匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_fascism_DEF:0",
+        "original": "Greater Hungary",
+        "translation": "大匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_democratic_DEF:0",
+        "original": "the Hungarian Federal Republic",
+        "translation": "匈牙利联邦共和国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GREATER_communism_DEF:0",
+        "original": "the Balkan Socialist Union",
+        "translation": "巴尔干社会主义联盟",
+        "stage": 1
+    },
+    {
+        "key": "HUN_MONARCHY_democratic:0",
+        "original": "Kingdom of Hungary",
+        "translation": "匈牙利王国",
+        "stage": 1
+    },
+    {
+        "key": "HUN_MONARCHY_fascism:0",
+        "original": "Kingdom of Hungary",
+        "translation": "匈牙利王国",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_dominion:0",
+        "original": "Kingdom of Libya",
+        "translation": "利比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_colony:0",
+        "original": "Libya",
+        "translation": "利比亚",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_puppet:0",
+        "original": "Cyrenica",
+        "translation": "昔兰尼加",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_integrated_puppet:0",
+        "original": "Italian North Africa",
+        "translation": "意属北非",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_dominion:0",
+        "original": "Kingdom of Ethiopia",
+        "translation": "埃塞俄比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_colony:0",
+        "original": "Grand Duchy of Ethiopia",
+        "translation": "埃塞俄比亚大公国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_puppet:0",
+        "original": "Governate of Ethiopia",
+        "translation": "埃塞俄比亚省",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_integrated_puppet:0",
+        "original": "Italian East Africa",
+        "translation": "意属东非",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_dominion_DEF:0",
+        "original": "the Kingdom of Libya",
+        "translation": "利比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_colony_DEF:0",
+        "original": "Libya",
+        "translation": "利比亚",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_puppet_DEF:0",
+        "original": "Cyrenica",
+        "translation": "昔兰尼加",
+        "stage": 1
+    },
+    {
+        "key": "LBA_ITA_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "Italian North Africa",
+        "translation": "意属北非",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_dominion_DEF:0",
+        "original": "the Kingdom of Ethiopia",
+        "translation": "埃塞俄比亚王国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_colony_DEF:0",
+        "original": "the Grand Duchy of Ethiopia",
+        "translation": "埃塞俄比亚大公国",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_puppet_DEF:0",
+        "original": "the Governate of Ethiopia",
+        "translation": "埃塞俄比亚省",
+        "stage": 1
+    },
+    {
+        "key": "ETH_ITA_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "Italian East Africa",
+        "translation": "意属东非",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Niederlande",
+        "translation": "低地总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Niederlande",
+        "translation": "低地帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Niederlande",
+        "translation": "低地帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_dominion:0",
+        "original": "Dietsland",
+        "translation": "大尼德兰",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Belgien",
+        "translation": "比利时总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Belgien",
+        "translation": "比利时帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Belgien",
+        "translation": "比利时帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_dominion:0",
+        "original": "Flandern-Wallonien",
+        "translation": "法兰德斯瓦隆",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Estland",
+        "translation": "爱沙尼亚总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Estland",
+        "translation": "爱沙尼亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Estland",
+        "translation": "爱沙尼亚帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_dominion:0",
+        "original": "Estonia",
+        "translation": "爱沙尼亚",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Litauen",
+        "translation": "立陶宛总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Litauen",
+        "translation": "立陶宛保护领",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Litauen",
+        "translation": "立陶宛帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_dominion:0",
+        "original": "Lithuania",
+        "translation": "立陶宛",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Lettland",
+        "translation": "拉脱维亚总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Lettland",
+        "translation": "拉脱维亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Lettland",
+        "translation": "拉脱维亚帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_dominion:0",
+        "original": "Latvia",
+        "translation": "拉脱维亚",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_integrated_puppet:0",
+        "original": "Reichskommissariat Norwegen",
+        "translation": "挪威总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Norwegen",
+        "translation": "挪威保护领",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_colony:0",
+        "original": "Reichsland Norwegen",
+        "translation": "挪威帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "CZE_GER_fascism_autonomy_puppet:0",
+        "original": "Reichsprotektorat Böhmen-Mähren",
+        "translation": "波希米亚摩拉维亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "POL_GER_fascism_autonomy_puppet:1",
+        "original": "Generalgouvernment",
+        "translation": "波兰总督府",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Niederlande",
+        "translation": "低地总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Niederlande",
+        "translation": "低地帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Niederlande",
+        "translation": "低地帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "HOL_GER_fascism_autonomy_dominion_DEF:0",
+        "original": "Dietsland",
+        "translation": "大尼德兰",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Belgien",
+        "translation": "比利时总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Belgien",
+        "translation": "比利时帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Belgien",
+        "translation": "比利时帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "BEL_GER_fascism_autonomy_dominion_DEF:0",
+        "original": "Flandern-Wallonien",
+        "translation": "法兰德斯瓦隆",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Estland",
+        "translation": "爱沙尼亚总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Estland",
+        "translation": "爱沙尼亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Estland",
+        "translation": "爱沙尼亚帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "EST_GER_fascism_autonomy_dominion_DEF:0",
+        "original": "Estonia",
+        "translation": "爱沙尼亚",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Litauen",
+        "translation": "立陶宛行政区总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Litauen",
+        "translation": "立陶宛帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Litauen",
+        "translation": "立陶宛帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LIT_GER_fascism_autonomy_dominion_DEF:0",
+        "original": "Lithuania",
+        "translation": "立陶宛",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Lettland",
+        "translation": "拉脱维亚总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Lettland",
+        "translation": "拉脱维亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Lettland",
+        "translation": "拉脱维亚帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "LAT_GER_fascism_autonomy_dominion_DEF:0",
+        "original": "Latvia",
+        "translation": "拉脱维亚",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Reichskommissariat Norwegen",
+        "translation": "挪威总督辖区",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Norwegen",
+        "translation": "挪威帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "NOR_GER_fascism_autonomy_colony_DEF:0",
+        "original": "the Reichsland Norwegen",
+        "translation": "挪威帝国属地",
+        "stage": 1
+    },
+    {
+        "key": "CZE_GER_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reichsprotektorat Böhmen-Mähren",
+        "translation": "波希米亚摩拉维亚帝国保护领",
+        "stage": 1
+    },
+    {
+        "key": "POL_GER_fascism_autonomy_puppet_DEF:1",
+        "original": "The Generalgouvernement",
+        "translation": "波兰总督府",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_neutrality:0",
+        "original": "Kingdom of Scandinavia",
+        "translation": "斯堪的纳维亚王国",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_fascism:0",
+        "original": "Scandinavian Empire",
+        "translation": "斯堪的纳维亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_democratic:0",
+        "original": "Scandinavia",
+        "translation": "斯堪的纳维亚",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_communism:0",
+        "original": "Scandinavian Socialist State",
+        "translation": "斯堪的纳维亚社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_neutrality_DEF:0",
+        "original": "the Kingdom of Scandinavia",
+        "translation": "斯堪的纳维亚王国",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_fascism_DEF:0",
+        "original": "the Scandinavian Empire",
+        "translation": "斯堪的纳维亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_democratic_DEF:0",
+        "original": "Scandinavia",
+        "translation": "斯堪的纳维亚",
+        "stage": 1
+    },
+    {
+        "key": "SCA_UNIFIED_communism_DEF:0",
+        "original": "the Scandinavian Socialist State",
+        "translation": "斯堪的纳维亚社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_neutrality:1",
+        "original": "Nordic League",
+        "translation": "北欧联盟",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_fascism:0",
+        "original": "Nordic Empire",
+        "translation": "北欧帝国",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_democratic:1",
+        "original": "Nordic Council",
+        "translation": "北欧议会",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_communism:0",
+        "original": "Nordic Socialist States",
+        "translation": "北欧社会主义联盟",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_neutrality_DEF:1",
+        "original": "The Nordic League",
+        "translation": "北欧联盟",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_fascism_DEF:0",
+        "original": "the Nordic Empire",
+        "translation": "北欧帝国",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_democratic_DEF:1",
+        "original": "The Nordic Council",
+        "translation": "北欧议会",
+        "stage": 1
+    },
+    {
+        "key": "NDC_UNIFIED_communism_DEF:0",
+        "original": "the Nordic Socialist States",
+        "translation": "北欧社会主义联盟",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_neutrality:0",
+        "original": "New Granada",
+        "translation": "新格拉纳达",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_fascism:0",
+        "original": "Bolivar Empire",
+        "translation": "玻利维亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_democratic:0",
+        "original": "Gran Colombia",
+        "translation": "大哥伦比亚",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_communism:0",
+        "original": "Red Colombia",
+        "translation": "红色哥伦比亚",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_neutrality_DEF:0",
+        "original": "New Granada",
+        "translation": "新格拉纳达",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_fascism_DEF:0",
+        "original": "the Bolivar Empire",
+        "translation": "玻利维亚帝国",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_democratic_DEF:0",
+        "original": "Gran Colombia",
+        "translation": "大哥伦比亚",
+        "stage": 1
+    },
+    {
+        "key": "GCO_UNIFIED_communism_DEF:0",
+        "original": "Red Colombia",
+        "translation": "红色哥伦比亚",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_neutrality:0",
+        "original": "Polish-Lithuanian Commonwealth",
+        "translation": "波兰立陶宛联邦",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_fascism:0",
+        "original": "Polish-Lithuanian Empire",
+        "translation": "波兰立陶宛帝国",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_democratic:0",
+        "original": "Polish-Lithuanian Federation",
+        "translation": "波兰立陶宛联邦",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_communism:0",
+        "original": "Polish-Lithuanian Socialist Republic",
+        "translation": "波兰立陶宛社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_neutrality_DEF:0",
+        "original": "the Polish-Lithuanian Commonwealth",
+        "translation": "波兰立陶宛联邦",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_fascism_DEF:0",
+        "original": "the Polish-Lithuanian Empire",
+        "translation": "波兰立陶宛帝国",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_democratic_DEF:0",
+        "original": "the Polish-Lithuanian Federation",
+        "translation": "波兰立陶宛联邦",
+        "stage": 1
+    },
+    {
+        "key": "PLC_UNIFIED_communism_DEF:1",
+        "original": "The Polish-Lithuanian Socialist Republic",
+        "translation": "波兰立陶宛社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_neutrality:0",
+        "original": "United Provinces",
+        "translation": "联合省",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_fascism:0",
+        "original": "Leo Belgicus",
+        "translation": "雄狮比利时",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_democratic:0",
+        "original": "United Kingdom of the Netherlands",
+        "translation": "尼德兰联合王国",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_communism:0",
+        "original": "Benelux Socialist State",
+        "translation": "比荷卢社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_neutrality_DEF:0",
+        "original": "the United Provinces",
+        "translation": "联合省",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_fascism_DEF:0",
+        "original": "Leo Belgicus",
+        "translation": "雄狮比利时",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_democratic_DEF:0",
+        "original": "the United Kingdom of the Netherlands",
+        "translation": "尼德兰联合王国",
+        "stage": 1
+    },
+    {
+        "key": "UNL_UNIFIED_communism_DEF:0",
+        "original": "the Benelux Socialist State",
+        "translation": "比荷卢社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_neutrality:0",
+        "original": "Federal Republic of Central America",
+        "translation": "中美洲联邦共和国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_fascism:0",
+        "original": "Central American Empire",
+        "translation": "中美洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_democratic:0",
+        "original": "United States of Central America",
+        "translation": "中美洲合众国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_communism:0",
+        "original": "Central American Socialist State",
+        "translation": "中美洲社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_neutrality_DEF:0",
+        "original": "the Federal Republic of Central America",
+        "translation": "中美洲联邦共和国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_fascism_DEF:0",
+        "original": "the Central American Empire",
+        "translation": "中美洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_democratic_DEF:0",
+        "original": "the United States of Central America",
+        "translation": "中美洲合众国",
+        "stage": 1
+    },
+    {
+        "key": "USC_UNIFIED_communism_DEF:0",
+        "original": "the Central American Socialist State",
+        "translation": "中美洲社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_neutrality:0",
+        "original": "Baltic Assembly",
+        "translation": "波罗的海联合体",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_fascism:0",
+        "original": "Baltic Unitary State",
+        "translation": "波罗的海合一国",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_democratic:0",
+        "original": "Baltic Federation",
+        "translation": "波罗的海联邦",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_communism:0",
+        "original": "Baltic Socialist Republic",
+        "translation": "波罗的海社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_neutrality_DEF:0",
+        "original": "the Baltic Assembly",
+        "translation": "波罗的海联合体",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_fascism_DEF:0",
+        "original": "the Baltic Unitary State",
+        "translation": "波罗的海合一国",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_democratic_DEF:0",
+        "original": "the Baltic Federation",
+        "translation": "波罗的海联邦",
+        "stage": 1
+    },
+    {
+        "key": "BAL_UNIFIED_communism_DEF:0",
+        "original": "the Baltic Socialist Republic",
+        "translation": "波罗的海社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_neutrality:0",
+        "original": "Ottoman Empire",
+        "translation": "奥斯曼帝国",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_fascism:0",
+        "original": "Grand Ottoman Sovereignty",
+        "translation": "大奥斯曼最高主权",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_democratic:0",
+        "original": "Ottoman Federation",
+        "translation": "奥斯曼联邦",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_communism:0",
+        "original": "Ottoman Socialist Republic",
+        "translation": "奥斯曼社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_neutrality_DEF:0",
+        "original": "the Ottoman Empire",
+        "translation": "奥斯曼帝国",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_fascism_DEF:0",
+        "original": "the Grand Ottoman Sovereignty",
+        "translation": "大奥斯曼最高主权",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_democratic_DEF:0",
+        "original": "the Ottoman Federation",
+        "translation": "奥斯曼联邦",
+        "stage": 1
+    },
+    {
+        "key": "OTT_UNIFIED_communism_DEF:0",
+        "original": "the Ottoman Socialist Republic",
+        "translation": "奥斯曼社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_neutrality:0",
+        "original": "Unified Kingdom of Europe",
+        "translation": "欧罗巴联合王国",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_fascism:0",
+        "original": "European Global Hegemony",
+        "translation": "欧罗巴全球霸权",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_democratic:0",
+        "original": "European Union",
+        "translation": "欧洲联盟",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_communism:0",
+        "original": "European Commune",
+        "translation": "欧罗巴公社",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_neutrality_DEF:0",
+        "original": "Unified Kingdom of Europe",
+        "translation": "欧罗巴联合王国",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_fascism_DEF:0",
+        "original": "the European Global Hegemony",
+        "translation": "欧罗巴全球霸权",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_democratic_DEF:0",
+        "original": "the European Union",
+        "translation": "欧洲联盟",
+        "stage": 1
+    },
+    {
+        "key": "EUR_UNIFIED_communism_DEF:0",
+        "original": "the European Commune",
+        "translation": "欧罗巴公社",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_neutrality:0",
+        "original": "Kingdom of Mutapa",
+        "translation": "穆塔帕王国",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_fascism:0",
+        "original": "Great Zimbabwe",
+        "translation": "大津巴布韦",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_democratic:0",
+        "original": "Mutapa",
+        "translation": "穆塔帕",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_communism:0",
+        "original": "Mutapa Socialist State",
+        "translation": "穆塔帕社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_neutrality_DEF:0",
+        "original": "the Kingdom of Mutapa",
+        "translation": "穆塔帕王国",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_fascism_DEF:0",
+        "original": "Great Zimbabwe",
+        "translation": "大津巴布韦",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_democratic_DEF:0",
+        "original": "Mutapa",
+        "translation": "穆塔帕",
+        "stage": 1
+    },
+    {
+        "key": "MUT_UNIFIED_communism_DEF:0",
+        "original": "the Mutapa Socialist State",
+        "translation": "穆塔帕社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_neutrality:0",
+        "original": "Regnum Romanum",
+        "translation": "罗马王国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_fascism:0",
+        "original": "Imperium Romanum",
+        "translation": "罗马帝国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_democratic:0",
+        "original": "Res Publica Romana",
+        "translation": "罗马共和国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_communism:0",
+        "original": "Communitas Proletariique Romani",
+        "translation": "罗马无产阶级公社",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_neutrality_DEF:0",
+        "original": "Regnum Romanum",
+        "translation": "罗马王国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_fascism_DEF:0",
+        "original": "Imperium Romanum",
+        "translation": "罗马帝国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_democratic_DEF:0",
+        "original": "Res Publica Romana",
+        "translation": "罗马共和国",
+        "stage": 1
+    },
+    {
+        "key": "SPQR_UNIFIED_communism_DEF:0",
+        "original": "Communitas Proletariique Romani",
+        "translation": "罗马无产阶级公社",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_neutrality:0",
+        "original": "Persia",
+        "translation": "波斯",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_fascism:0",
+        "original": "Persian Empire",
+        "translation": "波斯帝国",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_democratic:0",
+        "original": "Cyric Union",
+        "translation": "居鲁士联盟",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_communism:0",
+        "original": "Middle Eastern Socialist Republic",
+        "translation": "中东社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_neutrality_DEF:0",
+        "original": "Persia",
+        "translation": "波斯",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_fascism_DEF:0",
+        "original": "the Persian Empire",
+        "translation": "波斯帝国",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_democratic_DEF:0",
+        "original": "the Cyric Union",
+        "translation": "居鲁士联盟",
+        "stage": 1
+    },
+    {
+        "key": "PER_UNIFIED_communism_DEF:0",
+        "original": "the Middle Eastern Socialist Republic",
+        "translation": "中东社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_neutrality:0",
+        "original": "Byzantium",
+        "translation": "拜占庭",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_fascism:0",
+        "original": "Byzantine Empire",
+        "translation": "拜占庭帝国",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_democratic:0",
+        "original": "East-Roman Republic",
+        "translation": "东罗马共和国",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_communism:0",
+        "original": "Byzantine Commune",
+        "translation": "拜占庭公社",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_neutrality_DEF:0",
+        "original": "Byzantium",
+        "translation": "拜占庭",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_fascism_DEF:0",
+        "original": "the Byzantine Empire",
+        "translation": "拜占庭帝国",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_democratic_DEF:0",
+        "original": "the East-Roman Republic",
+        "translation": "东罗马共和国",
+        "stage": 1
+    },
+    {
+        "key": "BYZ_UNIFIED_communism_DEF:0",
+        "original": "the Byzantine Commune",
+        "translation": "拜占庭公社",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_neutrality:0",
+        "original": "Arabia",
+        "translation": "阿拉伯",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_fascism:0",
+        "original": "Arabian Empire",
+        "translation": "阿拉伯帝国",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_democratic:0",
+        "original": "Arabian Federation",
+        "translation": "阿拉伯联邦",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_communism:0",
+        "original": "United Arab Socialist Republics",
+        "translation": "阿拉伯社会主义共和国联盟",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_neutrality_DEF:0",
+        "original": "Arabia",
+        "translation": "阿拉伯",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_fascism_DEF:0",
+        "original": "the Arabian Empire",
+        "translation": "阿拉伯帝国",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_democratic_DEF:0",
+        "original": "the Arabian Federation",
+        "translation": "阿拉伯联邦",
+        "stage": 1
+    },
+    {
+        "key": "ARA_UNIFIED_communism_DEF:0",
+        "original": "the United Arab Socialist Republics",
+        "translation": "阿拉伯社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_neutrality:0",
+        "original": "Majapahit Thalassocracy",
+        "translation": "满者伯夷海权国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_fascism:0",
+        "original": "Majapahit Empire",
+        "translation": "满者伯夷帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_democratic:0",
+        "original": "Greater Indonesian Confederacy",
+        "translation": "大印度尼西亚邦联",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_communism:0",
+        "original": "Democratic Majaphit Socialist Republic",
+        "translation": "满者伯夷民主社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_neutrality_DEF:0",
+        "original": "the Majapahit Thalassocracy",
+        "translation": "满者伯夷海权国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_fascism_DEF:0",
+        "original": "the Majapahit Empire",
+        "translation": "满者伯夷帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_democratic_DEF:0",
+        "original": "the Greater Indonesian Confederacy",
+        "translation": "大印度尼西亚邦联",
+        "stage": 1
+    },
+    {
+        "key": "MAJ_UNIFIED_communism_DEF:0",
+        "original": "the Democratic Majaphit Socialist Republic",
+        "translation": "满者伯夷民主社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_neutrality:0",
+        "original": "Rattanakosin Kingdom",
+        "translation": "拉达那哥欣王国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_fascism:0",
+        "original": "Rattanakosin Empire",
+        "translation": "拉达那哥欣帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_democratic:0",
+        "original": "Rattanakosin Federation",
+        "translation": "拉达那哥欣联邦",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_communism:0",
+        "original": "Rattanakosin Socialist State",
+        "translation": "拉达那哥欣社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_neutrality_DEF:0",
+        "original": "the Rattanakosin Kingdom",
+        "translation": "拉达那哥欣王国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_fascism_DEF:0",
+        "original": "the Rattanakosin Empire",
+        "translation": "拉达那哥欣帝国",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_democratic_DEF:0",
+        "original": "the Rattanakosin Federation",
+        "translation": "拉达那哥欣联邦",
+        "stage": 1
+    },
+    {
+        "key": "RAT_UNIFIED_communism_DEF:0",
+        "original": "the Rattanakosin Socialist State",
+        "translation": "拉达那哥欣社会主义国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_neutrality:0",
+        "original": "Holy Roman Empire",
+        "translation": "神圣罗马帝国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_fascism:0",
+        "original": "Nationalist Roman State",
+        "translation": "罗马民族国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_democratic:0",
+        "original": "Secular Roman Federation",
+        "translation": "罗马世俗联邦",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_communism:0",
+        "original": "Socialist Roman Republic",
+        "translation": "罗马社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_neutrality_DEF:0",
+        "original": "the Holy Roman Empire",
+        "translation": "神圣罗马帝国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_fascism_DEF:0",
+        "original": "the Nationalist Roman State",
+        "translation": "罗马民族国",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_democratic_DEF:0",
+        "original": "the Secular Roman Federation",
+        "translation": "罗马世俗联邦",
+        "stage": 1
+    },
+    {
+        "key": "HRE_UNIFIED_communism_DEF:0",
+        "original": "the Socialist Roman Republic",
+        "translation": "罗马社会主义共和国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_puppet:0",
+        "original": "Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_reichsprotectorate:0",
+        "original": "Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_integrated_puppet:0",
+        "original": "Chinese Provisional Authority",
+        "translation": "中国临时权力机构",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_reichskommissariat:0",
+        "original": "Chinese Provisional Authority",
+        "translation": "中国临时权力机构",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_puppet:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_reichsprotectorate:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_colony:0",
+        "original": "Imperial Realm of Manchukuo",
+        "translation": "满洲帝国领",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_dominion:0",
+        "original": "Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_satellite:0",
+        "original": "Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_integrated_puppet:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_reichskommissariat:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_protectorate:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_subject:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_associate:0",
+        "original": "Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_wtt_imperial_protectorate:0",
+        "original": "Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_wtt_imperial_associate:0",
+        "original": "Chinese Constitutional Republic",
+        "translation": "中华立宪共和国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_puppet_DEF:0",
+        "original": "the Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "the Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "the Chinese Provisional Authority",
+        "translation": "中国临时权力机构",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "the Chinese Provisional Authority",
+        "translation": "中国临时权力机构",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_puppet_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_reichsprotectorate_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_colony_DEF:0",
+        "original": "the Imperial Realm of Manchukuo",
+        "translation": "满洲帝国领",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_dominion_DEF:0",
+        "original": "the Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_satellite_DEF:0",
+        "original": "the Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_integrated_puppet_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_reichskommissariat_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_protectorate_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_subject_DEF:0",
+        "original": "Manchukuo",
+        "translation": "满洲国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_JAP_fascism_autonomy_wtt_imperial_associate_DEF:0",
+        "original": "the Empire of Manchukuo",
+        "translation": "满洲帝国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_wtt_imperial_protectorate_DEF:0",
+        "original": "the Reorganized Government of China",
+        "translation": "改组国民政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_JAP_fascism_autonomy_wtt_imperial_associate_DEF:0",
+        "original": "the Chinese Constitutional Republic",
+        "translation": "中华立宪共和国",
+        "stage": 1
+    },
+    {
+        "key": "GER_provisional_gvt_neutrality:0",
+        "original": "German Military Junta",
+        "translation": "德意志军政府",
+        "stage": 1
+    },
+    {
+        "key": "GER_provisional_gvt_democratic:0",
+        "original": "Germany Transitional Government",
+        "translation": "德意志过渡政府",
+        "stage": 1
+    },
+    {
+        "key": "GER_german_empire_neutrality:0",
+        "original": "German Empire",
+        "translation": "德意志帝国",
+        "stage": 1
+    },
+    {
+        "key": "GER_german_empire_neutrality_DEF:0",
+        "original": "the German Empire",
+        "translation": "德意志帝国",
+        "stage": 1
+    },
+    {
+        "key": "GER_german_monarchy_democratic:0",
+        "original": "Germany",
+        "translation": "德国",
+        "stage": 1
+    },
+    {
+        "key": "GER_german_monarchy_democratic_DEF:0",
+        "original": "Germany",
+        "translation": "德国",
+        "stage": 1
+    },
+    {
+        "key": "PRC_proclaimed_communism:0",
+        "original": "People's Republic of China",
+        "translation": "中华人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "PRC_proclaimed_communism_DEF:0",
+        "original": "the People's Republic of China",
+        "translation": "中华人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "PRC_proclaimed_democratic:0",
+        "original": "Republic of China",
+        "translation": "中华民国",
+        "stage": 1
+    },
+    {
+        "key": "PRC_proclaimed_neutrality:0",
+        "original": "China",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_neutrality:0",
+        "original": "China",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_neutrality_DEF:0",
+        "original": "China",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_democratic:0",
+        "original": "Republic of China",
+        "translation": "中华民国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_democratic_DEF:0",
+        "original": "the Republic of China",
+        "translation": "中华民国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_fascism:0",
+        "original": "Imperial Kwantung Territories",
+        "translation": "帝国关东领",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_communism:0",
+        "original": "Manchurian People's Republic",
+        "translation": "满洲人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_democratic:0",
+        "original": "Manchurian Federated Provinces",
+        "translation": "满洲联合省",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_fascism_DEF:0",
+        "original": "the Imperial Kwantung Territories",
+        "translation": "帝国关东领",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_communism_DEF:0",
+        "original": "the Manchurian People's Republic",
+        "translation": "满洲人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_kwantung_army_democratic_DEF:0",
+        "original": "the Manchurian Federated Provinces",
+        "translation": "满洲联合省",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_fascism:0",
+        "original": "Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_neutrality:0",
+        "original": "Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_democratic:0",
+        "original": "Chinese Constitutional Monarchy",
+        "translation": "中华君宪国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_communism:0",
+        "original": "United Chinese People's Republics",
+        "translation": "中华合众共和国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_fascism_DEF:0",
+        "original": "the Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_neutrality_DEF:0",
+        "original": "the Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_democratic_DEF:0",
+        "original": "the Chinese Constitutional Monarchy",
+        "translation": "中华君宪国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_communism_DEF:0",
+        "original": "the United Chinese People's Republics",
+        "translation": "中华合众共和国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_fascism:0",
+        "original": "Japan",
+        "translation": "日本",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_neutrality:0",
+        "original": "Empire of Japan",
+        "translation": "大日本帝国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_democratic:0",
+        "original": "State of Japan",
+        "translation": "日本国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_communism:0",
+        "original": "Japanese People's Republic",
+        "translation": "日本人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_fascism_DEF:0",
+        "original": "Japan",
+        "translation": "日本",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_neutrality_DEF:0",
+        "original": "the Empire of Japan",
+        "translation": "大日本帝国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_democratic_DEF:0",
+        "original": "the State of Japan",
+        "translation": "日本国",
+        "stage": 1
+    },
+    {
+        "key": "JAP_showa_restoration_communism_DEF:0",
+        "original": "the Japanese People's Republic",
+        "translation": "日本人民共和国",
+        "stage": 1
+    },
+    {
+        "key": "GER_greater_german_reich_fascism:0",
+        "original": "Greater German Reich",
+        "translation": "大德意志帝国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_fascism:0",
+        "original": "Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_fascism_DEF:0",
+        "original": "the Chinese Empire",
+        "translation": "中华帝国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_democratic:0",
+        "original": "Chinese Republic",
+        "translation": "中华共和国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_democratic_DEF:0",
+        "original": "the Chinese Republic",
+        "translation": "中华共和国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_neutrality:0",
+        "original": "China",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_neutrality_DEF:0",
+        "original": "China",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_communism:1",
+        "original": "Communist China",
+        "translation": "中共",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_communism_DEF:1",
+        "original": "Communist China",
+        "translation": "中共",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_fascism_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_democratic_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_neutrality_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_PRC_communism_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_neutrality_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_warlord_leader_democratic_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_fascism_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_neutrality_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_democratic_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "MAN_restored_communism_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_neutrality:0",
+        "original": "CC Clique",
+        "translation": "中央俱乐部",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_neutrality_DEF:0",
+        "original": "the CC Clique",
+        "translation": "中央俱乐部",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_democratic:0",
+        "original": "Republican Government of China",
+        "translation": "中华民主政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_democratic_DEF:0",
+        "original": "the Republican Government of China",
+        "translation": "中华民主政府",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_neutrality_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "CHI_power_struggle_defeated_democratic_ADJ:0",
+        "original": "Chinese",
+        "translation": "中国",
+        "stage": 1
+    }
+]

@@ -1,0 +1,576 @@
+YEM_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Alfursan Almalika"
+    }
+    2 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    3 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    4 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    5 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    6 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    7 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    8 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    9 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    10 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    12 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    13 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    14 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    15 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    16 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    17 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    18 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    19 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "Yemeni Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Almasha Almalika"
+    }
+    2 = {
+      "Yemeni Sipahis al-%di"
+    }
+    3 = {
+      "Yemeni Sipahis al-%di"
+    }
+    4 = {
+      "Yemeni Sipahis al-%di"
+    }
+    5 = {
+      "Yemeni Sipahis al-%di"
+    }
+    6 = {
+      "Yemeni Sipahis al-%di"
+    }
+    7 = {
+      "Yemeni Sipahis al-%di"
+    }
+    8 = {
+      "Yemeni Sipahis al-%di"
+    }
+    9 = {
+      "Yemeni Sipahis al-%di"
+    }
+    10 = {
+      "Yemeni Sipahis al-%di"
+    }
+    11 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    12 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    13 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    14 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    15 = {
+      "Yemeni Sipahis al-%dr"
+    }
+  }
+}
+YEM_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Alfursan Almalika"
+    }
+    2 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    3 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    4 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    5 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    6 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    7 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    8 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    9 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    10 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    12 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    13 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    14 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    15 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    16 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    17 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    18 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    19 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_ARM_01 = {
+  name = "Armoured Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    YEM_CAV_01
+  }
+  fallback_name = "Yemeni Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Almasha Almalika"
+    }
+    2 = {
+      "Yemeni Sipahis al-%di"
+    }
+    3 = {
+      "Yemeni Sipahis al-%di"
+    }
+    4 = {
+      "Yemeni Sipahis al-%di"
+    }
+    5 = {
+      "Yemeni Sipahis al-%di"
+    }
+    6 = {
+      "Yemeni Sipahis al-%di"
+    }
+    7 = {
+      "Yemeni Sipahis al-%di"
+    }
+    8 = {
+      "Yemeni Sipahis al-%di"
+    }
+    9 = {
+      "Yemeni Sipahis al-%di"
+    }
+    10 = {
+      "Yemeni Sipahis al-%di"
+    }
+    11 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    12 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    13 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    14 = {
+      "Yemeni Sipahis al-%dr"
+    }
+    15 = {
+      "Yemeni Sipahis al-%dr"
+    }
+  }
+}
+YEM_MEC_01 = {
+  name = "Mechanised Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Alfursan Almalika"
+    }
+    2 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    3 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    4 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    5 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    6 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    7 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    8 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    9 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    10 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    12 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    13 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    14 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    15 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    16 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    17 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    18 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    19 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alfurqat Alfursan Almalika"
+    }
+    2 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    3 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    4 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    5 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    6 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    7 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    8 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    9 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    10 = {
+      "Yemeni al-Mushati al-%di"
+    }
+    12 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    13 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    14 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    15 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    16 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    17 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    18 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    19 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    21 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    22 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    23 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    24 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    25 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    26 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    27 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    28 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    29 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    30 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    21 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    22 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    23 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    24 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    25 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    26 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    27 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    28 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    29 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    30 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}
+YEM_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    YEM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  link_numbering_with = {
+    YEM_INF_01
+  }
+  fallback_name = "Yemeni al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    21 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    22 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    23 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    24 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    25 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    26 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    27 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    28 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    29 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+    30 = {
+      "Yemeni al-Mushati al-%dr"
+    }
+  }
+}

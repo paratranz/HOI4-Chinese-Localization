@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Nationalist Partisans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Partisan Brigade I",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Nationalist Partisans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "Partisan Brigade II",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Nationalist Partisans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "Partisan Brigade III",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Nationalist Partisans",
+        "translation": "",
+        "stage": 0
+    }
+]

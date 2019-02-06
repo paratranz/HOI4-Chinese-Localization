@@ -1,0 +1,2774 @@
+[
+    {
+        "key": "cc_leader:0",
+        "original": "General",
+        "translation": "上将",
+        "stage": 1
+    },
+    {
+        "key": "fm_leader:0",
+        "original": "Field Marshal",
+        "translation": "元帅",
+        "stage": 1
+    },
+    {
+        "key": "navy_leader:0",
+        "original": "Admiral",
+        "translation": "海军上将",
+        "stage": 1
+    },
+    {
+        "key": "communist_revolutionary:0",
+        "original": "Communist Revolutionary",
+        "translation": "共产主义革命者",
+        "stage": 1
+    },
+    {
+        "key": "communist_revolutionary_desc:0",
+        "original": "A supporter of the international revolution hoping to aid the country's, and eventually the world's, transition to a communist society.",
+        "translation": "一个国际革命的支持者，希望通过帮助国家，并最终帮助全世界过渡到共产主义社会",
+        "stage": 1
+    },
+    {
+        "key": "democratic_reformer:0",
+        "original": "Democratic Reformer",
+        "translation": "民主主义改革者",
+        "stage": 1
+    },
+    {
+        "key": "democratic_reformer_desc:0",
+        "original": "A firm believer in the people's right to rule themselves, this politician sees empowering them as the first priority and aims for the country to be ruled with their mandate.",
+        "translation": "一个坚信人民有权去统治他们自己的政治家，他的第一要务就是帮助人民，让国家被人民自己所统治。",
+        "stage": 1
+    },
+    {
+        "key": "fascist_demagogue:0",
+        "original": "Fascist Demagogue",
+        "translation": "法西斯煽动者",
+        "stage": 1
+    },
+    {
+        "key": "fascist_demagogue_desc:0",
+        "original": "Driven by a will to unite the people under a strong state, this politician emphasizes nationalist and militarist rhetoric.",
+        "translation": "在意志的推动下把人民团结在一个强大的国家之中，这个政治家强调民族主义和军国主义。",
+        "stage": 1
+    },
+    {
+        "key": "staunch_monarchist:0",
+        "original": "Staunch Monarchist",
+        "translation": "坚定的君主制支持者",
+        "stage": 1
+    },
+    {
+        "key": "staunch_monarchist_desc:0",
+        "original": "This politician believes that a hereditary ruler serves as a powerful icon to unite the country.",
+        "translation": "这位政客认为君主是团结国家的有力象征。",
+        "stage": 1
+    },
+    {
+        "key": "ideological_crusader:0",
+        "original": "Ideological Crusader",
+        "translation": "意识形态十字军",
+        "stage": 1
+    },
+    {
+        "key": "popular_figurehead:0",
+        "original": "Popular Figurehead",
+        "translation": "受欢迎的花瓶",
+        "stage": 1
+    },
+    {
+        "key": "silent_workhorse:0",
+        "original": "Silent Workhorse",
+        "translation": "沉默的实干家",
+        "stage": 1
+    },
+    {
+        "key": "compassionate_gentleman:0",
+        "original": "Compassionate Gentleman",
+        "translation": "慈悲的绅士",
+        "stage": 1
+    },
+    {
+        "key": "prince_of_terror:0",
+        "original": "Prince of Terror",
+        "translation": "恐怖的巨头",
+        "stage": 1
+    },
+    {
+        "key": "backroom_backstabber:0",
+        "original": "Backroom Backstabber",
+        "translation": "密谋的暗害者",
+        "stage": 1
+    },
+    {
+        "key": "smooth_talking_charmer:0",
+        "original": "Smooth-Talking Charmer",
+        "translation": "巧言的魔术师",
+        "stage": 1
+    },
+    {
+        "key": "fortification_engineer:0",
+        "original": "Fortification Engineer",
+        "translation": "筑垒工程师",
+        "stage": 1
+    },
+    {
+        "key": "war_industrialist:0",
+        "original": "War Industrialist",
+        "translation": "战争实业家",
+        "stage": 1
+    },
+    {
+        "key": "captain_of_industry:0",
+        "original": "Captain of Industry",
+        "translation": "工业领袖",
+        "stage": 1
+    },
+    {
+        "key": "financial_expert:0",
+        "original": "Financial Expert",
+        "translation": "金融专家",
+        "stage": 1
+    },
+    {
+        "key": "armaments_organizer:0",
+        "original": "Armaments Organizer",
+        "translation": "军备组织者",
+        "stage": 1
+    },
+    {
+        "key": "quartermaster_general:0",
+        "original": "Quartermaster General",
+        "translation": "军需将军",
+        "stage": 1
+    },
+    {
+        "key": "rocket_scientist:0",
+        "original": "Rocket Scientist",
+        "translation": "火箭科学家",
+        "stage": 1
+    },
+    {
+        "key": "nuclear_scientist:0",
+        "original": "Nuclear Scientist",
+        "translation": "原子科学家",
+        "stage": 1
+    },
+    {
+        "key": "blitzkrieg_theorist:0",
+        "original": "Blitzkrieg Theorist",
+        "translation": "闪电战理论家",
+        "stage": 1
+    },
+    {
+        "key": "military_theorist:0",
+        "original": "Military Theorist",
+        "translation": "军事理论家",
+        "stage": 1
+    },
+    {
+        "key": "air_warfare_theorist:0",
+        "original": "Air Warfare Theorist",
+        "translation": "空战理论家",
+        "stage": 1
+    },
+    {
+        "key": "dive_bomber:0",
+        "original": "Dive Bomber",
+        "translation": "俯冲轰炸手",
+        "stage": 1
+    },
+    {
+        "key": "victory_through_airpower:0",
+        "original": "Victory Through Airpower",
+        "translation": "空中制胜",
+        "stage": 1
+    },
+    {
+        "key": "close_air_support_proponent:0",
+        "original": "Close Air Support Proponent",
+        "translation": "密接支援提倡者",
+        "stage": 1
+    },
+    {
+        "key": "assault_avaition:0",
+        "original": "Assault Aviation",
+        "translation": "侵袭航空学",
+        "stage": 1
+    },
+    {
+        "key": "naval_theorist:0",
+        "original": "Naval Theorist",
+        "translation": "海军理论家",
+        "stage": 1
+    },
+    {
+        "key": "naval_aviation_pioneer:0",
+        "original": "Naval Aviation Pioneer",
+        "translation": "海军航空先驱",
+        "stage": 1
+    },
+    {
+        "key": "grand_fleet_proponent:0",
+        "original": "Grand Fleet Proponent",
+        "translation": "大舰队提倡者",
+        "stage": 1
+    },
+    {
+        "key": "submarine_specialist:0",
+        "original": "Submarine Specialist",
+        "translation": "潜艇专家",
+        "stage": 1
+    },
+    {
+        "key": "tank_manufacturer:0",
+        "original": "Tank Designer",
+        "translation": "坦克制造商",
+        "stage": 1
+    },
+    {
+        "key": "artillery_manufacturer:0",
+        "original": "Artillery Designer",
+        "translation": "火炮制造商",
+        "stage": 1
+    },
+    {
+        "key": "infantry_equipment_manufacturer:0",
+        "original": "Infantry Equipment Designer",
+        "translation": "步兵装备制造商",
+        "stage": 1
+    },
+    {
+        "key": "support_equipment_manufacturer:0",
+        "original": "Support Equipment Designer",
+        "translation": "支援装备制造商",
+        "stage": 1
+    },
+    {
+        "key": "motorized_equipment_manufacturer:0",
+        "original": "Motorized Equipment Designer",
+        "translation": "机动化装备制造商",
+        "stage": 1
+    },
+    {
+        "key": "naval_manufacturer:0",
+        "original": "Ship Designer",
+        "translation": "舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "industrial_concern:0",
+        "original": "Industrial Concern",
+        "translation": "工业企业",
+        "stage": 1
+    },
+    {
+        "key": "construction_company:0",
+        "original": "Construction Company",
+        "translation": "建筑公司",
+        "stage": 1
+    },
+    {
+        "key": "electronics_concern:0",
+        "original": "Electronics Concern",
+        "translation": "电子业企业",
+        "stage": 1
+    },
+    {
+        "key": "electronics_developer:0",
+        "original": "Electronics Developer",
+        "translation": "电子设备设计者",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_defensive_1:1",
+        "original": "Army Defense\\n(Specialist)",
+        "translation": "陆军防御\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_defensive_2:2",
+        "original": "Army Defense\\n(Expert)",
+        "translation": "陆军防御\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_defensive_3:1",
+        "original": "Army Defense\\n(Genius)",
+        "translation": "陆军防御\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_offensive_1:1",
+        "original": "Army Offense\\n(Specialist)",
+        "translation": "陆军进攻\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_offensive_2:1",
+        "original": "Army Offense\\n(Expert)",
+        "translation": "陆军进攻\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_offensive_3:1",
+        "original": "Army Offense\\n(Genius)",
+        "translation": "陆军进攻\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_drill_1:1",
+        "original": "Army Drill\\n(Specialist)",
+        "translation": "陆军演习\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_drill_2:1",
+        "original": "Army Drill\\n(Expert)",
+        "translation": "陆军演习\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_drill_3:1",
+        "original": "Army Drill\\n(Genius)",
+        "translation": "陆军演习\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_reform_1:1",
+        "original": "Army Reformer\\n(Specialist)",
+        "translation": "陆军改革\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_reform_2:1",
+        "original": "Army Reformer\\n(Expert)",
+        "translation": "陆军改革\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_reform_3:1",
+        "original": "Army Reformer\\n(Genius)",
+        "translation": "陆军改革\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_organizational_1:1",
+        "original": "Army Organization\\n(Specialist)",
+        "translation": "陆军组织\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_organizational_2:1",
+        "original": "Army Organization\\n(Expert)",
+        "translation": "陆军组织\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_organizational_3:1",
+        "original": "Army Organization\\n(Genius)",
+        "translation": "陆军组织\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_morale_1:1",
+        "original": "Army Morale\\n(Specialist)",
+        "translation": "陆军士气\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_morale_2:1",
+        "original": "Army Morale\\n(Expert)",
+        "translation": "陆军士气\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_morale_3:1",
+        "original": "Army Morale\\n(Genius)",
+        "translation": "陆军士气\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_maneuver_1:1",
+        "original": "Army Maneuver\\n(Specialist)",
+        "translation": "陆军机动\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_maneuver_2:1",
+        "original": "Army Maneuver\\n(Expert)",
+        "translation": "陆军机动\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_maneuver_3:1",
+        "original": "Army Maneuver\\n(Genius)",
+        "translation": "陆军机动\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_old_guard:0",
+        "original": "Old Guard",
+        "translation": "保守派",
+        "stage": 1
+    },
+    {
+        "key": "army_entrenchment_1:1",
+        "original": "Entrenchment\\n(Specialist)",
+        "translation": "堑壕\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_entrenchment_2:1",
+        "original": "Entrenchment\\n(Expert)",
+        "translation": "堑壕\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_entrenchment_3:1",
+        "original": "Entrenchment\\n(Genius)",
+        "translation": "堑壕\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_armored_1:1",
+        "original": "Armor\\n(Specialist)",
+        "translation": "装甲部队\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_armored_2:1",
+        "original": "Armor\\n(Expert)",
+        "translation": "装甲部队\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_armored_3:1",
+        "original": "Armor\\n(Genius)",
+        "translation": "装甲部队\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_artillery_1:1",
+        "original": "Artillery\\n(Specialist)",
+        "translation": "炮兵部队\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_artillery_2:1",
+        "original": "Artillery\\n(Expert)",
+        "translation": "炮兵部队\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_artillery_3:1",
+        "original": "Artillery\\n(Genius)",
+        "translation": "炮兵部队\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_infantry_1:1",
+        "original": "Infantry\\n(Specialist)",
+        "translation": "步兵部队\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_infantry_2:1",
+        "original": "Infantry\\n(Expert)",
+        "translation": "步兵部队\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_infantry_3:1",
+        "original": "Infantry\\n(Genius)",
+        "translation": "步兵部队\\n(天才)",
+        "stage": 1
+    },
+    {
+        "key": "army_commando_1:1",
+        "original": "Commando\\n(Specialist)",
+        "translation": "特种部队\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_commando_2:1",
+        "original": "Commando\\n(Expert)",
+        "translation": "特种部队\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_commando_3:1",
+        "original": "Commando\\n(Genius)",
+        "translation": "特种部队\\n(天才)",
+        "stage": 1
+    },
+    {
+        "key": "army_cavalry_1:1",
+        "original": "Cavalry\\n(Specialist)",
+        "translation": "骑兵部队\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_cavalry_2:1",
+        "original": "Cavalry\\n(Expert)",
+        "translation": "骑兵部队\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_cavalry_3:1",
+        "original": "Cavalry\\n(Genius)",
+        "translation": "骑兵部队\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_regrouping_1:1",
+        "original": "Army Regrouping\\n(Specialist)",
+        "translation": "陆军重组\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_regrouping_2:1",
+        "original": "Army Regrouping\\n(Expert)",
+        "translation": "陆军重组\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_regrouping_3:1",
+        "original": "Army Regrouping\\n(Genius)",
+        "translation": "陆军重组\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_concealment_1:1",
+        "original": "Concealment\\n(Specialist)",
+        "translation": "隐匿\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_concealment_2:1",
+        "original": "Concealment\\n(Expert)",
+        "translation": "隐匿\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_concealment_3:1",
+        "original": "Concealment\\n(Genius)",
+        "translation": "隐匿\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "army_logistics_1:1",
+        "original": "Army Logistics\\n(Specialist)",
+        "translation": "陆军后勤\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "army_logistics_2:1",
+        "original": "Army Logistics\\n(Expert)",
+        "translation": "陆军后勤\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "army_logistics_3:1",
+        "original": "Army Logistics\\n(Genius)",
+        "translation": "陆军后勤\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_reform_1:1",
+        "original": "Air Reformer\\n(Specialist)",
+        "translation": "空军改革\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_reform_2:1",
+        "original": "Air Reformer\\n(Expert)",
+        "translation": "空军改革\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_reform_3:1",
+        "original": "Air Reformer\\n(Genius)",
+        "translation": "空军改革\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_safety_1:1",
+        "original": "Air Safety\\n(Specialist)",
+        "translation": "空军安全\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_safety_2:1",
+        "original": "Air Safety\\n(Expert)",
+        "translation": "空军安全\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_safety_3:1",
+        "original": "Air Safety\\n(Genius)",
+        "translation": "空军安全\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_night_operations_1:1",
+        "original": "Night Operations\\n(Specialist)",
+        "translation": "夜间行动\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_night_operations_2:1",
+        "original": "Night Operations\\n(Expert)",
+        "translation": "夜间行动\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_night_operations_3:1",
+        "original": "Night Operations\\n(Genius)",
+        "translation": "夜间行动\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_ground_support_1:1",
+        "original": "Ground Support\\n(Specialist)",
+        "translation": "战场支援\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_ground_support_2:1",
+        "original": "Ground Support\\n(Expert)",
+        "translation": "战场支援\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_ground_support_3:1",
+        "original": "Ground Support\\n(Genius)",
+        "translation": "战场支援\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_all_weather_1:1",
+        "original": "All-Weather\\n(Specialist)",
+        "translation": "全天候\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_all_weather_2:1",
+        "original": "All-Weather\\n(Expert)",
+        "translation": "全天候\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_all_weather_3:1",
+        "original": "All-Weather\\n(Genius)",
+        "translation": "全天候\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_old_guard:0",
+        "original": "Old Guard",
+        "translation": "保守派",
+        "stage": 1
+    },
+    {
+        "key": "air_air_combat_training_1:1",
+        "original": "Air Combat Training\\n(Specialist)",
+        "translation": "空军战斗训练\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_air_combat_training_2:1",
+        "original": "Air Combat Training\\n(Expert)",
+        "translation": "空军战斗训练\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_air_combat_training_3:1",
+        "original": "Air Combat Training\\n(Genius)",
+        "translation": "空军战斗训练\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_naval_strike_1:1",
+        "original": "Naval Strike\\n(Specialist)",
+        "translation": "海军袭击\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_naval_strike_2:1",
+        "original": "Naval Strike\\n(Expert)",
+        "translation": "海军袭击\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_naval_strike_3:1",
+        "original": "Naval Strike\\n(Genius)",
+        "translation": "海军袭击\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_bomber_interception_1:1",
+        "original": "Bomber Interception\\n(Specialist)",
+        "translation": "轰炸机拦截\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_bomber_interception_2:1",
+        "original": "Bomber Interception\\n(Expert)",
+        "translation": "轰炸机拦截\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_bomber_interception_3:1",
+        "original": "Bomber Interception\\n(Genius)",
+        "translation": "轰炸机拦截\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_air_superiority_1:1",
+        "original": "Air Superiority\\n(Specialist)",
+        "translation": "制空\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_air_superiority_2:1",
+        "original": "Air Superiority\\n(Expert)",
+        "translation": "制空\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_air_superiority_3:1",
+        "original": "Air Superiority\\n(Genius)",
+        "translation": "制空\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_close_air_support_1:1",
+        "original": "Close Air Support\\n(Specialist)",
+        "translation": "密接支援\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_close_air_support_2:1",
+        "original": "Close Air Support\\n(Expert)",
+        "translation": "密接支援\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_close_air_support_3:1",
+        "original": "Close Air Support\\n(Genius)",
+        "translation": "密接支援\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_strategic_bombing_1:1",
+        "original": "Strategic Bombing\\n(Specialist)",
+        "translation": "战略轰炸\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_strategic_bombing_2:1",
+        "original": "Strategic Bombing\\n(Expert)",
+        "translation": "战略轰炸\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_strategic_bombing_3:1",
+        "original": "Strategic Bombing\\n(Genius)",
+        "translation": "战略轰炸\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_tactical_bombing_1:1",
+        "original": "Tactical Bombing\\n(Specialist)",
+        "translation": "战术轰炸\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_tactical_bombing_2:1",
+        "original": "Tactical Bombing\\n(Expert)",
+        "translation": "战术轰炸\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_tactical_bombing_3:1",
+        "original": "Tactical Bombing\\n(Genius)",
+        "translation": "战术轰炸\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "air_airborne_1:1",
+        "original": "Airborne Assault\\n(Specialist)",
+        "translation": "空降突袭\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "air_airborne_2:1",
+        "original": "Airborne Assault\\n(Expert)",
+        "translation": "空降突袭\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "air_airborne_3:1",
+        "original": "Airborne Assault\\n(Genius)",
+        "translation": "空降突袭\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_naval_aviation_1:1",
+        "original": "Naval Aviation\\n(Specialist)",
+        "translation": "海军航空\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_naval_aviation_2:1",
+        "original": "Naval Aviation\\n(Expert)",
+        "translation": "海军航空\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_naval_aviation_3:1",
+        "original": "Naval Aviation\\n(Genius)",
+        "translation": "海军航空\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_decisive_battle_1:1",
+        "original": "Decisive Battle\\n(Specialist)",
+        "translation": "决战\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_decisive_battle_2:1",
+        "original": "Decisive Battle\\n(Expert)",
+        "translation": "决战\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_decisive_battle_3:1",
+        "original": "Decisive Battle\\n(Genius)",
+        "translation": "决战\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_commerce_raiding_1:1",
+        "original": "Commerce Raiding\\n(Specialist)",
+        "translation": "贸易袭击\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_commerce_raiding_2:1",
+        "original": "Commerce Raiding\\n(Expert)",
+        "translation": "贸易袭击\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_commerce_raiding_3:1",
+        "original": "Commerce Raiding\\n(Genius)",
+        "translation": "贸易袭击\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_reform_1:1",
+        "original": "Naval Reformer\\n(Specialist)",
+        "translation": "海军改革\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_reform_2:1",
+        "original": "Naval Reformer\\n(Expert)",
+        "translation": "海军改革\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_reform_3:1",
+        "original": "Naval Reformer\\n(Genius)",
+        "translation": "海军改革\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_maneuver_1:1",
+        "original": "Naval Maneuver\\n(Specialist)",
+        "translation": "海军机动\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_maneuver_2:1",
+        "original": "Naval Maneuver\\n(Expert)",
+        "translation": "海军机动\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_maneuver_3:1",
+        "original": "Naval Maneuver\\n(Genius)",
+        "translation": "海军机动\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_old_guard:0",
+        "original": "Old Guard",
+        "translation": "保守派",
+        "stage": 1
+    },
+    {
+        "key": "navy_anti_submarine_1:1",
+        "original": "Anti-Submarine\\n(Specialist)",
+        "translation": "反潜\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_anti_submarine_2:1",
+        "original": "Anti-Submarine\\n(Expert)",
+        "translation": "反潜\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_anti_submarine_3:1",
+        "original": "Anti-Submarine\\n(Genius)",
+        "translation": "反潜\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_naval_air_defense_1:1",
+        "original": "Naval Air Defense\\n(Specialist)",
+        "translation": "海军对空防御\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_naval_air_defense_2:1",
+        "original": "Naval Air Defense\\n(Expert)",
+        "translation": "海军对空防御\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_naval_air_defense_3:1",
+        "original": "Naval Air Defense\\n(Genius)",
+        "translation": "海军对空防御\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_fleet_logistics_1:1",
+        "original": "Fleet Logistics\\n(Specialist)",
+        "translation": "舰队后勤\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_fleet_logistics_2:1",
+        "original": "Fleet Logistics\\n(Expert)",
+        "translation": "舰队后勤\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_fleet_logistics_3:1",
+        "original": "Fleet Logistics\\n(Genius)",
+        "translation": "舰队后勤\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_amphibious_assault_1:1",
+        "original": "Amphibious Assault\\n(Specialist)",
+        "translation": "两栖突击\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_amphibious_assault_2:1",
+        "original": "Amphibious Assault\\n(Expert)",
+        "translation": "两栖突击\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_amphibious_assault_3:1",
+        "original": "Amphibious Assault\\n(Genius)",
+        "translation": "两栖突击\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_submarine_1:1",
+        "original": "Submarines\\n(Specialist)",
+        "translation": "潜艇\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_submarine_2:1",
+        "original": "Submarines\\n(Expert)",
+        "translation": "潜艇\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_submarine_3:1",
+        "original": "Submarines\\n(Genius)",
+        "translation": "潜艇\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_destroyer_1:1",
+        "original": "Destroyers\\n(Specialist)",
+        "translation": "驱逐舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_destroyer_2:1",
+        "original": "Destroyers\\n(Expert)",
+        "translation": "驱逐舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_destroyer_3:1",
+        "original": "Destroyers\\n(Genius)",
+        "translation": "驱逐舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_cruiser_1:1",
+        "original": "Cruisers\\n(Specialist)",
+        "translation": "巡洋舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_cruiser_2:1",
+        "original": "Cruisers\\n(Expert)",
+        "translation": "巡洋舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_cruiser_3:1",
+        "original": "Cruisers\\n(Genius)",
+        "translation": "巡洋舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_battleship_1:1",
+        "original": "Battleships\\n(Specialist)",
+        "translation": "战列舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_battleship_2:1",
+        "original": "Battleships\\n(Expert)",
+        "translation": "战列舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_battleship_3:1",
+        "original": "Battleships\\n(Genius)",
+        "translation": "战列舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_capital_ship_1:1",
+        "original": "Capital Ships\\n(Specialist)",
+        "translation": "主力舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_capital_ship_2:1",
+        "original": "Capital Ships\\n(Expert)",
+        "translation": "主力舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_capital_ship_3:1",
+        "original": "Capital Ships\\n(Genius)",
+        "translation": "主力舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_screen_1:1",
+        "original": "Screens\\n(Specialist)",
+        "translation": "屏卫舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_screen_2:1",
+        "original": "Screens\\n(Expert)",
+        "translation": "屏卫舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_screen_3:1",
+        "original": "Screens\\n(Genius)",
+        "translation": "屏卫舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "navy_carrier_1:1",
+        "original": "Carriers\\n(Specialist)",
+        "translation": "航空母舰\\n(专家)",
+        "stage": 1
+    },
+    {
+        "key": "navy_carrier_2:1",
+        "original": "Carriers\\n(Expert)",
+        "translation": "航空母舰\\n(大师)",
+        "stage": 1
+    },
+    {
+        "key": "navy_carrier_3:1",
+        "original": "Carriers\\n(Genius)",
+        "translation": "航空母舰\\n(奇才)",
+        "stage": 1
+    },
+    {
+        "key": "seawolf:0",
+        "original": "Sea Wolf",
+        "translation": "海狼",
+        "stage": 1
+    },
+    {
+        "key": "seawolf_desc:0",
+        "original": "The Sea Wolf is particularly skilled in Convoy Raiding",
+        "translation": "海狼特别擅长贸易袭击",
+        "stage": 1
+    },
+    {
+        "key": "superior_tactician:0",
+        "original": "Superior Tactician",
+        "translation": "高级战术专家",
+        "stage": 1
+    },
+    {
+        "key": "superior_tactician_desc:0",
+        "original": "A master of Fleet Positioning.",
+        "translation": "一个舰队配置大师。",
+        "stage": 1
+    },
+    {
+        "key": "old_guard:0",
+        "original": "Old Guard",
+        "translation": "保守派",
+        "stage": 1
+    },
+    {
+        "key": "old_guard_desc:0",
+        "original": "While not the most brilliant officer, he is unlikely to cause trouble.",
+        "translation": "虽然不是才华横溢的长官，但是他不喜欢制造冲突。",
+        "stage": 1
+    },
+    {
+        "key": "old_guard_navy:0",
+        "original": "Old Guard",
+        "translation": "保守派",
+        "stage": 1
+    },
+    {
+        "key": "old_guard_navy_desc:0",
+        "original": "While not the most brilliant officer, he is unlikely to cause trouble.",
+        "translation": "虽然不是才华横溢的长官，但是他不喜欢制造冲突",
+        "stage": 1
+    },
+    {
+        "key": "trickster:0",
+        "original": "Trickster",
+        "translation": "奇袭专家",
+        "stage": 1
+    },
+    {
+        "key": "trickster_desc:0",
+        "original": "Doing the unexpected in combat can give you a large advantage.",
+        "translation": "会在战斗中做出出乎意料的举动并为你带来巨大优势。",
+        "stage": 1
+    },
+    {
+        "key": "logistics_wizard:0",
+        "original": "Logistics Wizard",
+        "translation": "后勤专家",
+        "stage": 1
+    },
+    {
+        "key": "logistics_wizard_desc:0",
+        "original": "Supplies are never late, nor are they ever early. They arrive precisely when I mean them to.",
+        "translation": "补给总不会迟，也不会早，总是在你期望的时间准确抵达。",
+        "stage": 1
+    },
+    {
+        "key": "defensive_doctrine:0",
+        "original": "Defensive Doctrine",
+        "translation": "防御专家",
+        "stage": 1
+    },
+    {
+        "key": "defensive_doctrine_desc:0",
+        "original": "Especially skilled in fighting on the Defensive.",
+        "translation": "在防御中技艺高超。",
+        "stage": 1
+    },
+    {
+        "key": "offensive_doctrine:0",
+        "original": "Offensive Doctrine",
+        "translation": "进攻专家",
+        "stage": 1
+    },
+    {
+        "key": "offensive_doctrine_desc:0",
+        "original": "More Offensive-minded than most.",
+        "translation": "非常具有进攻性。",
+        "stage": 1
+    },
+    {
+        "key": "winter_specialist:0",
+        "original": "Winter Specialist",
+        "translation": "冬季专家",
+        "stage": 1
+    },
+    {
+        "key": "winter_specialist_desc:0",
+        "original": "Possesses an intuitive understanding of the difficulties of fighting in Cold conditions.",
+        "translation": "对在寒冷的战场上作战的困难有直观理解。",
+        "stage": 1
+    },
+    {
+        "key": "trait_engineer:0",
+        "original": "Engineer",
+        "translation": "工兵",
+        "stage": 1
+    },
+    {
+        "key": "trait_engineer_desc:0",
+        "original": "Adept in the arts of crossing rivers and constructing field fortifications.",
+        "translation": "善于构建穿越河流以及其他野战的工事。",
+        "stage": 1
+    },
+    {
+        "key": "fortress_buster:0",
+        "original": "Fortress Buster",
+        "translation": "攻坚专家",
+        "stage": 1
+    },
+    {
+        "key": "fortress_buster_desc:0",
+        "original": "Assaulting a Fort holds no terror for this officer.",
+        "translation": "这位指挥官从不知晓袭击要塞的恐惧。",
+        "stage": 1
+    },
+    {
+        "key": "panzer_leader:0",
+        "original": "Panzer Leader",
+        "translation": "装甲专家",
+        "stage": 1
+    },
+    {
+        "key": "panzer_leader_desc:0",
+        "original": "A natural with Tanks and Mechanized forces.",
+        "translation": "生来就是为了指挥坦克和装甲部队。",
+        "stage": 1
+    },
+    {
+        "key": "commando:0",
+        "original": "Commando",
+        "translation": "特战专家",
+        "stage": 1
+    },
+    {
+        "key": "commando_desc:0",
+        "original": "Skilled in Amphibious operations, Air Assaults, and Cold weather conditions - the Commando is a man of many talents.",
+        "translation": "在诸如两栖登陆，空中袭击，寒冷天气中行动里技艺高超，突击队总是所有人里的奇才。",
+        "stage": 1
+    },
+    {
+        "key": "fast_planner:0",
+        "original": "Fast Planner",
+        "translation": "快速规划者",
+        "stage": 1
+    },
+    {
+        "key": "fast_planner_desc:0",
+        "original": "Knows all the shortcuts when preparing for battle - Efficiency is key!",
+        "translation": "在准备战斗中知道所有捷径，效率就是关键！",
+        "stage": 1
+    },
+    {
+        "key": "thorough_planner:0",
+        "original": "Thorough Planner",
+        "translation": "全面规划者",
+        "stage": 1
+    },
+    {
+        "key": "thorough_planner_desc:0",
+        "original": "A strategic master mind. Given time, the well-laid plan will be the strongest.",
+        "translation": "拥有战略大师的思想，给点时间，这个计划将会是最强的。",
+        "stage": 1
+    },
+    {
+        "key": "organisational_leader:0",
+        "original": "Organization First",
+        "translation": "组织至上",
+        "stage": 1
+    },
+    {
+        "key": "organisational_leader_desc:0",
+        "original": "Knows every trick to get reinforcements faster than anyone.",
+        "translation": "知晓所有的比别人能更快的得到支援的诡计。",
+        "stage": 1
+    },
+    {
+        "key": "inspirational_leader:0",
+        "original": "Charismatic",
+        "translation": "魅力非凡",
+        "stage": 1
+    },
+    {
+        "key": "inspirational_leader_desc:0",
+        "original": "A natural leader. Men will face their worst fears when backed by a powerful leader.",
+        "translation": "一个天生的领袖，人们在他们背后有一个强大的领导的时候就可以直面恐惧。",
+        "stage": 1
+    },
+    {
+        "key": "desert_fox:0",
+        "original": "Desert Fox",
+        "translation": "沙漠之狐",
+        "stage": 1
+    },
+    {
+        "key": "desert_fox_desc:0",
+        "original": "Entirely at home when fighting in a Desert.",
+        "translation": "在沙漠中战斗就像是自己家一样。",
+        "stage": 1
+    },
+    {
+        "key": "swamp_fox:0",
+        "original": "Swamp Fox",
+        "translation": "沼泽之狐",
+        "stage": 1
+    },
+    {
+        "key": "swamp_fox_desc:0",
+        "original": "While somewhat soggy, the Swamp Fox knows his way around Swamps and Marshes.",
+        "translation": "在一个湿透的地方的时候，沼泽之狐总能知道那些绕开泥泞的道路。",
+        "stage": 1
+    },
+    {
+        "key": "trait_mountaineer:0",
+        "original": "Mountaineer",
+        "translation": "山地专家",
+        "stage": 1
+    },
+    {
+        "key": "trait_mountaineer_desc:0",
+        "original": "An excellent climber and skilled at Mountain warfare.",
+        "translation": "一个杰出的攀爬者并在山地作战中技艺非凡。",
+        "stage": 1
+    },
+    {
+        "key": "hill_fighter:0",
+        "original": "Hill Fighter",
+        "translation": "丘陵专家",
+        "stage": 1
+    },
+    {
+        "key": "hill_fighter_desc:0",
+        "original": "Excels at fighting in Hilly terrain.",
+        "translation": "非常擅长在丘陵地形作战。",
+        "stage": 1
+    },
+    {
+        "key": "jungle_rat:0",
+        "original": "Jungle Rat",
+        "translation": "丛林之鼠",
+        "stage": 1
+    },
+    {
+        "key": "jungle_rat_desc:0",
+        "original": "Undeterred by rodents of unusual size, and skilled in Jungle warfare.",
+        "translation": "从不畏惧各种奇特型号的啮齿动物，并在丛林作战中技艺非凡。",
+        "stage": 1
+    },
+    {
+        "key": "ranger:0",
+        "original": "Ranger",
+        "translation": "巡林者",
+        "stage": 1
+    },
+    {
+        "key": "ranger_desc:1",
+        "original": "Rangers lead the way, especially when it involves fighting in Forests.",
+        "translation": "巡林者总知道路，尤其是涉及到在丛林和森林中战斗时。",
+        "stage": 1
+    },
+    {
+        "key": "urban_assault_specialist:0",
+        "original": "Urban Assault Specialist",
+        "translation": "巷战专家",
+        "stage": 1
+    },
+    {
+        "key": "urban_assault_specialist_desc:0",
+        "original": "An expert in Fighting In Someone's House and Causing Havoc In People's Streets.",
+        "translation": "一个善于在别人的房子里作战和街道上制造大破坏的的专家。",
+        "stage": 1
+    },
+    {
+        "key": "blockade_runner:0",
+        "original": "Blockade Runner",
+        "translation": "穿越封锁",
+        "stage": 1
+    },
+    {
+        "key": "blockade_runner_desc:0",
+        "original": "Able to rapidly Disengage from Naval Combat.",
+        "translation": "能迅速的从海战中脱离战斗。",
+        "stage": 1
+    },
+    {
+        "key": "spotter:0",
+        "original": "Spotter",
+        "translation": "索敌专家",
+        "stage": 1
+    },
+    {
+        "key": "spotter_desc:0",
+        "original": "The Spotter pays special attention to keeping an eye out for enemy fleets.",
+        "translation": "索敌专家会在关注敌人舰队上格外认真。",
+        "stage": 1
+    },
+    {
+        "key": "fly_swatter:0",
+        "original": "Fly swatter",
+        "translation": "火鸡射手",
+        "stage": 1
+    },
+    {
+        "key": "fly_swatter_desc:0",
+        "original": "Realizing the danger posed to even our most powerful ships by airplanes, the Fly Swatter swiftly disposes of anything that flies.",
+        "translation": "认识到了对舰船最大的危险来自那些飞机，并能在它们靠近的时候做出迅速的反应。",
+        "stage": 1
+    },
+    {
+        "key": "ironside:0",
+        "original": "Ironside",
+        "translation": "铁人",
+        "stage": 1
+    },
+    {
+        "key": "ironside_desc:0",
+        "original": "Determined to defend our home waters with the most powerful ships our navy can muster.",
+        "translation": "用我们能招募来的最强大的舰艇来誓死捍卫我们的领海。",
+        "stage": 1
+    },
+    {
+        "key": "air_controller:0",
+        "original": "Air Controller",
+        "translation": "制空专家",
+        "stage": 1
+    },
+    {
+        "key": "air_controller_desc:0",
+        "original": "An expert in the nascent field of naval aviation, the Air Controller is a natural choice to command carriers.",
+        "translation": "一个海军航空学这个新兴领域的专家，制空专家是天生的航空母舰指挥官。",
+        "stage": 1
+    },
+    {
+        "key": "naval_invader:0",
+        "original": "Invader",
+        "translation": "入侵者",
+        "stage": 1
+    },
+    {
+        "key": "naval_invader_desc:0",
+        "original": "An expert in performing naval invasions. The perfect guy for preparing an invasion of a hostile beach and carrying it out.",
+        "translation": "一个海军登陆的专家，可以完美的侵入到敌人的海岸上。",
+        "stage": 1
+    },
+    {
+        "key": "bearer_of_artillery:0",
+        "original": "Bearer of Artillery",
+        "translation": "炮兵搬运工",
+        "stage": 1
+    },
+    {
+        "key": "bearer_of_artillery_desc:0",
+        "original": "Never drop a crate!",
+        "translation": "不要拉下一个板条箱！",
+        "stage": 1
+    },
+    {
+        "key": "dictator:0",
+        "original": "Dictator",
+        "translation": "独裁者",
+        "stage": 1
+    },
+    {
+        "key": "CAS_manufacturer:0",
+        "original": "CAS Designer",
+        "translation": "近距支援机制造商",
+        "stage": 1
+    },
+    {
+        "key": "light_aircraft_manufacturer:0",
+        "original": "Light Aircraft Designer",
+        "translation": "轻型飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "light_aircraft_manufacturer_2:0",
+        "original": "Agility-focused Aircraft Designer",
+        "translation": "机动专精飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "fuel_efficient_aircraft_manufacturer:0",
+        "original": "Range-focused Aircraft Designer",
+        "translation": "航程专精飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "medium_aircraft_manufacturer:0",
+        "original": "Medium Aircraft Designer",
+        "translation": "中型飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "heavy_aircraft_manufacturer:0",
+        "original": "Heavy Aircraft Designer",
+        "translation": "重型飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "naval_aircraft_manufacturer:0",
+        "original": "Naval Aircraft Designer",
+        "translation": "舰载飞机制造商",
+        "stage": 1
+    },
+    {
+        "key": "fast_tank_manufacturer:0",
+        "original": "Mobile Tank Designer",
+        "translation": "轻型坦克制造商",
+        "stage": 1
+    },
+    {
+        "key": "medium_tank_manufacturer:0",
+        "original": "Medium Tank Designer",
+        "translation": "中型坦克制造商",
+        "stage": 1
+    },
+    {
+        "key": "heavy_tank_manufacturer:0",
+        "original": "Heavy Tank Designer",
+        "translation": "重型坦克制造商",
+        "stage": 1
+    },
+    {
+        "key": "pacific_fleet_naval_manufacturer:0",
+        "original": "Pacific Fleet Designer",
+        "translation": "太平洋舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "atlantic_fleet_naval_manufacturer:0",
+        "original": "Atlantic Fleet Designer",
+        "translation": "大西洋舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "raiding_fleet_naval_manufacturer:0",
+        "original": "Raiding Fleet Designer",
+        "translation": "袭击舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "convoy_escort_naval_manufacturer:0",
+        "original": "Escort Fleet Designer",
+        "translation": "护航舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "coastal_defence_naval_manufacturer:0",
+        "original": "Coastal Defense Fleet Designer",
+        "translation": "海防舰艇制造商",
+        "stage": 1
+    },
+    {
+        "key": "battlefleet_designer:0",
+        "original": "Battlefleet Designer",
+        "translation": "主战舰队制造商",
+        "stage": 1
+    },
+    {
+        "key": "refinery_concern:0",
+        "original": "Refining Concern",
+        "translation": "精炼企业",
+        "stage": 1
+    },
+    {
+        "key": "political_dancer:0",
+        "original": "Master Maneuverer",
+        "translation": "长袖善舞",
+        "stage": 1
+    },
+    {
+        "key": "political_dancer_desc:0",
+        "original": "Knows the moves when it comes to political maneuvering on the dance mat of Europe.",
+        "translation": "通晓在欧洲这个舞池中的每一个政治舞步。",
+        "stage": 1
+    },
+    {
+        "key": "mobile_warfare_expert:0",
+        "original": "Mobile Warfare Expert",
+        "translation": "移动作战专家",
+        "stage": 1
+    },
+    {
+        "key": "superior_firepower_expert:0",
+        "original": "Superior Firepower Expert",
+        "translation": "火力优势专家",
+        "stage": 1
+    },
+    {
+        "key": "grand_battle_plan_expert:0",
+        "original": "Grand Battleplan Expert",
+        "translation": "大规模战役策划专家",
+        "stage": 1
+    },
+    {
+        "key": "mass_assault_expert:0",
+        "original": "Mass Assault Expert",
+        "translation": "人海作战专家",
+        "stage": 1
+    },
+    {
+        "key": "warrior_code:0",
+        "original": "Warrior Code",
+        "translation": "武士道",
+        "stage": 1
+    },
+    {
+        "key": "imperial_sanction:0",
+        "original": "Imperial Sanction",
+        "translation": "帝国勅裁",
+        "stage": 1
+    },
+    {
+        "key": "emperor_showa:0",
+        "original": "Emperor Showa",
+        "translation": "昭和天皇",
+        "stage": 1
+    },
+    {
+        "key": "dislikes_germany:0",
+        "original": "Dislikes Germany",
+        "translation": "厌恶德国",
+        "stage": 1
+    },
+    {
+        "key": "staunch_constitutionalist:0",
+        "original": "Staunch Constitutionalist",
+        "translation": "忠诚的立宪者",
+        "stage": 1
+    },
+    {
+        "key": "cornered_fox:0",
+        "original": "Cornered Fox",
+        "translation": "绝境之狐",
+        "stage": 1
+    },
+    {
+        "key": "stout_defender:0",
+        "original": "Stout Defender",
+        "translation": "坚定的防御者",
+        "stage": 1
+    },
+    {
+        "key": "warmonger:0",
+        "original": "Warmonger",
+        "translation": "战争贩子",
+        "stage": 1
+    },
+    {
+        "key": "permanent_revolutionary:0",
+        "original": "Permanent Revolutionary",
+        "translation": "永远的革命者",
+        "stage": 1
+    },
+    {
+        "key": "triumphant_revolutionary:0",
+        "original": "Triumphant Revolutionary",
+        "translation": "胜利的革命者",
+        "stage": 1
+    },
+    {
+        "key": "inexperienced_imperialist:0",
+        "original": "Inexperienced Imperialist",
+        "translation": "不熟练的帝国主义者",
+        "stage": 1
+    },
+    {
+        "key": "spirit_of_genghis:0",
+        "original": "Spirit Of Genghis",
+        "translation": "成吉思汗的传承者",
+        "stage": 1
+    },
+    {
+        "key": "stalins_puppet:0",
+        "original": "Stalin's Puppet",
+        "translation": "斯大林的傀儡",
+        "stage": 1
+    },
+    {
+        "key": "stalins_puppet_desc:0",
+        "original": "As loyal as he is patriotic, he will never betray the International, the plight of the worker, or his home country. In that order.",
+        "translation": "他对斯大林的忠诚和他爱国者的程度相当。他永远都不会背叛共产国际，工人阶级的苦难，以及自己的国家——按照这个顺序。",
+        "stage": 1
+    },
+    {
+        "key": "exiled:0",
+        "original": "Exiled",
+        "translation": "流亡者",
+        "stage": 1
+    },
+    {
+        "key": "exiled_desc:0",
+        "original": "Under threat of persecution they have spent much of the recent years of political turmoil abroad.",
+        "translation": "在迫害的威胁下他们这几年都在海外的政治庇护下渡过。",
+        "stage": 1
+    },
+    {
+        "key": "indomitable_perseverance:1",
+        "original": "Indomitable Perseverance",
+        "translation": "百折不屈",
+        "stage": 1
+    },
+    {
+        "key": "anti_communist:0",
+        "original": "Anti-Communist",
+        "translation": "反共产主义",
+        "stage": 1
+    },
+    {
+        "key": "fascist_sympathies:0",
+        "original": "Fascist Sympathies",
+        "translation": "法西斯同情者",
+        "stage": 1
+    },
+    {
+        "key": "hedonist:0",
+        "original": "Hedonist",
+        "translation": "享乐主义者",
+        "stage": 1
+    },
+    {
+        "key": "camarilla_leader:0",
+        "original": "Camarilla Leader",
+        "translation": "佞幸",
+        "stage": 1
+    },
+    {
+        "key": "propaganda_expert:0",
+        "original": "Propaganda Master",
+        "translation": "政治宣传大师",
+        "stage": 1
+    },
+    {
+        "key": "appeaser:0",
+        "original": "Humble Appeaser",
+        "translation": "谦卑的劝解人",
+        "stage": 1
+    },
+    {
+        "key": "organizer:0",
+        "original": "Organizer",
+        "translation": "组织者",
+        "stage": 1
+    },
+    {
+        "key": "organizer_desc:1",
+        "original": "Able to plan and organize the movement of large armies.",
+        "translation": "有能力计划和组织大型军队的机动。",
+        "stage": 1
+    },
+    {
+        "key": "first_lady:0",
+        "original": "First Lady of the Republic",
+        "translation": "共和国的第一夫人",
+        "stage": 1
+    },
+    {
+        "key": "dealbroker:0",
+        "original": "Deal Broker",
+        "translation": "交易掮客",
+        "stage": 1
+    },
+    {
+        "key": "dealbroker_desc:0",
+        "original": "People don't like to see how sausages and laws get made. This man knows why.",
+        "translation": "人们不喜欢目睹香肠和法律是怎么鼓捣出来的。这个人知道为什么。",
+        "stage": 1
+    },
+    {
+        "key": "panzer_expert:0",
+        "original": "Panzer Expert",
+        "translation": "装甲专家",
+        "stage": 1
+    },
+    {
+        "key": "panzer_expert_desc:1",
+        "original": "Experience and training makes this leader an expert at commanding tanks.",
+        "translation": "经验和训练使这个将领成为指挥坦克的专家。",
+        "stage": 1
+    },
+    {
+        "key": "combined_arms_expert:0",
+        "original": "Combined Arms Expert",
+        "translation": "协同作战专家",
+        "stage": 1
+    },
+    {
+        "key": "combined_arms_expert_short:0",
+        "original": "Comb. Arms Expert",
+        "translation": "协同作战专家",
+        "stage": 1
+    },
+    {
+        "key": "combined_arms_expert_desc:1",
+        "original": "Able to combine the strengths of both armor and infantry.",
+        "translation": "有能力将步兵和武器的力量结合到一起。",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_leader:0",
+        "original": "Cavalry Leader",
+        "translation": "骑兵将领",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_leader_desc:1",
+        "original": "Skilled at using mobile forces to achieve victory.",
+        "translation": "善于利用机动力量来获得胜利。",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_expert:0",
+        "original": "Cavalry Expert",
+        "translation": "骑兵专家",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_expert_desc:1",
+        "original": "An expert at using speed and mobility in battle.",
+        "translation": "在战斗中运用速度和机动的专家。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_leader:0",
+        "original": "Infantry Leader",
+        "translation": "步兵将领",
+        "stage": 1
+    },
+    {
+        "key": "infantry_leader_desc:1",
+        "original": "Skilled at leading infantry in combat.",
+        "translation": "善于在战斗中领导步兵。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_expert:0",
+        "original": "Infantry Expert",
+        "translation": "步兵专家",
+        "stage": 1
+    },
+    {
+        "key": "infantry_expert_desc:1",
+        "original": "A true expert in leading infantry.",
+        "translation": "一个领导步兵的真正专家。",
+        "stage": 1
+    },
+    {
+        "key": "unyielding_defender:0",
+        "original": "Unyielding Defender",
+        "translation": "不屈的防守者",
+        "stage": 1
+    },
+    {
+        "key": "unyielding_defender_desc:1",
+        "original": "Retreat is not an option.",
+        "translation": "撤退不是一个选项。",
+        "stage": 1
+    },
+    {
+        "key": "aggressive_assaulter:0",
+        "original": "Aggressive Assaulter",
+        "translation": "咄咄逼人的进攻者",
+        "stage": 1
+    },
+    {
+        "key": "aggressive_assaulter_short:0",
+        "original": "Aggr. Assaulter",
+        "translation": "咄咄逼人的进攻者",
+        "stage": 1
+    },
+    {
+        "key": "aggressive_assaulter_desc:1",
+        "original": "The best defence is a strong offence.",
+        "translation": "最好的防御是强力的进攻。",
+        "stage": 1
+    },
+    {
+        "key": "scavenger:0",
+        "original": "Scavenger",
+        "translation": "拾荒者",
+        "stage": 1
+    },
+    {
+        "key": "scavenger_desc:1",
+        "original": "More likely to scavenge and repair captured equipment for use by their own troops.",
+        "translation": "更喜欢捡破烂和维修缴获而来的装备来给他们自己的部队使用。",
+        "stage": 1
+    },
+    {
+        "key": "ambusher:0",
+        "original": "Ambusher",
+        "translation": "伏击专家",
+        "stage": 1
+    },
+    {
+        "key": "ambusher_desc:1",
+        "original": "Expertly able to trick enemy forces into ambushes.",
+        "translation": "专精于耍弄敌人部队进入伏击点。",
+        "stage": 1
+    },
+    {
+        "key": "invader_ii:0",
+        "original": "Amphibious",
+        "translation": "两栖专家",
+        "stage": 1
+    },
+    {
+        "key": "invader_ii_desc:1",
+        "original": "Naval invasions may need to fight for a long time before resupply can arrive.",
+        "translation": "海面入侵部队可能需要长时间战斗直到后续补给到来。",
+        "stage": 1
+    },
+    {
+        "key": "naval_liason:1",
+        "original": "Naval Liaison",
+        "translation": "海军联络者",
+        "stage": 1
+    },
+    {
+        "key": "naval_liason_desc:1",
+        "original": "A good relationship with the navy will ensure that naval fire support will be more plentiful.",
+        "translation": "与海军的良好关系能确保海军的炮火支援能更加充足。",
+        "stage": 1
+    },
+    {
+        "key": "expert_improviser:0",
+        "original": "Improvisation Expert",
+        "translation": "随机应变的专家",
+        "stage": 1
+    },
+    {
+        "key": "expert_improviser_short:0",
+        "original": "Improv. Expert",
+        "translation": "随机应变的专家",
+        "stage": 1
+    },
+    {
+        "key": "expert_improviser_desc:1",
+        "original": "An expert in solving problems with whatever means are available.",
+        "translation": "一个能够用上手边任何可以用上的东西来解决问题的专家。",
+        "stage": 1
+    },
+    {
+        "key": "guerilla_fighter:0",
+        "original": "Guerilla Fighter",
+        "translation": "游击战士",
+        "stage": 1
+    },
+    {
+        "key": "guerilla_fighter_desc:1",
+        "original": "The skilled guerilla fighter is an expert at using natural terrain and obstacles to their advantage.",
+        "translation": "熟练的游击战士是利用自然地形和障碍取得优势的专家。",
+        "stage": 1
+    },
+    {
+        "key": "winter_expert:0",
+        "original": "Winter Expert",
+        "translation": "冬季专家",
+        "stage": 1
+    },
+    {
+        "key": "winter_expert_desc:1",
+        "original": "Hard earned experience has taught this leader how to fight in harsh winter conditions.",
+        "translation": "来之不易的经验教会这位将领如何在严酷的冬季环境下战斗。",
+        "stage": 1
+    },
+    {
+        "key": "skilled_staffer:0",
+        "original": "Skilled Staffer",
+        "translation": "熟练参谋",
+        "stage": 1
+    },
+    {
+        "key": "skilled_staffer_desc:1",
+        "original": "Surrounded by some of the best staff, this leader is able to organize and manage a larger number of units.",
+        "translation": "身边有一些最好的参谋，这位将领有能力组织和管理数量庞大的部队。",
+        "stage": 1
+    },
+    {
+        "key": "adaptable:0",
+        "original": "Adaptable",
+        "translation": "强于适应",
+        "stage": 1
+    },
+    {
+        "key": "adaptable_desc:1",
+        "original": "A natural understanding of how to fight in various terrains and adapt to different environments.",
+        "translation": "天然地理解如何在各种地形中战斗并能适应不同的环境。",
+        "stage": 1
+    },
+    {
+        "key": "terrain_traits:0",
+        "original": "Terrain Traits",
+        "translation": "地形特质",
+        "stage": 1
+    },
+    {
+        "key": "traits:0",
+        "original": "Traits",
+        "translation": "特质",
+        "stage": 1
+    },
+    {
+        "key": "basic_traits:1",
+        "original": "Earned Traits",
+        "translation": "习得特质",
+        "stage": 1
+    },
+    {
+        "key": "field_marshal_traits:0",
+        "original": "Field Marshal Traits",
+        "translation": "元帅特质",
+        "stage": 1
+    },
+    {
+        "key": "assignable_traits:1",
+        "original": "General Traits",
+        "translation": "将军特质",
+        "stage": 1
+    },
+    {
+        "key": "background:0",
+        "original": "Background",
+        "translation": "背景",
+        "stage": 1
+    },
+    {
+        "key": "LEADER_DETAILS_TITLE:0",
+        "original": "Leader Details",
+        "translation": "将领细节",
+        "stage": 1
+    },
+    {
+        "key": "OPEN_LEADER_DETAILS:0",
+        "original": "Show leader details.",
+        "translation": "显示将领细节",
+        "stage": 1
+    },
+    {
+        "key": "anti_democrat:0",
+        "original": "Anti-Democrat",
+        "translation": "反民主分子",
+        "stage": 1
+    },
+    {
+        "key": "great_war_hero:0",
+        "original": "Great War Hero",
+        "translation": "一战英雄",
+        "stage": 1
+    },
+    {
+        "key": "popular_figurehead2:0",
+        "original": "Popular Figurehead",
+        "translation": "受欢迎的花瓶",
+        "stage": 1
+    },
+    {
+        "key": "imperial_connections:0",
+        "original": "Imperial Connections",
+        "translation": "帝国纽带",
+        "stage": 1
+    },
+    {
+        "key": "kaiserin_of_the_people:0",
+        "original": "Kaiserin of the People",
+        "translation": "人民的女皇",
+        "stage": 1
+    },
+    {
+        "key": "victoria_iii:0",
+        "original": "Victoria III",
+        "translation": "维多利亚三世",
+        "stage": 1
+    },
+    {
+        "key": "incognito:0",
+        "original": "Incognito",
+        "translation": "隐姓埋名",
+        "stage": 1
+    },
+    {
+        "key": "nationalist_symbol:1",
+        "original": "Nationalist Symbol",
+        "translation": "民族主义象征",
+        "stage": 1
+    },
+    {
+        "key": "generallissimo:0",
+        "original": "Generalissimo",
+        "translation": "委员长",
+        "stage": 1
+    },
+    {
+        "key": "ENABLES_ABILITY:0",
+        "original": "Enables Ability: $NAME|H$",
+        "translation": "解锁能力：$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_DESC:0",
+        "original": "$NAME|H$: $DETAILS$",
+        "translation": "$NAME|H$：$DETAILS$",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NOT_ASSIGNABLE:1",
+        "original": "Earned traits can only be unlocked by gaining experience or by events.\\n",
+        "translation": "习得特质只能通过获取经验或通过事件来解锁。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS:0",
+        "original": "Field Marshal traits are only assignable to Field Marshals.\\n",
+        "translation": "元帅特质只能够分配给陆军元帅。\\n",
+        "stage": 1
+    },
+    {
+        "key": "ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS:0",
+        "original": "The general already has maximum amount of assignable traits.\\n",
+        "translation": "这个将领已经有最大数目的可分配特质了。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NOT_ALLOWED:0",
+        "original": "The trait is not allowed.\\n",
+        "translation": "这个特质不可用。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NO_PREREQUISITES:0",
+        "original": "Not all prerequisites are completed.\\n",
+        "translation": "没有达成全部的前置条件。\\n",
+        "stage": 1
+    },
+    {
+        "key": "MUTUALLY_EXCLUSIVE_TRAIT_ALREADY_ASSIGNED:0",
+        "original": "A mutually exclusive trait is already assigned.\\n",
+        "translation": "已经分配了一个互斥的特质。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NEED_ALL_PARENTS:0",
+        "original": "All parent traits must be unlocked to be able to assign this trait.\\n",
+        "translation": "所有前级特质必须解锁才能分配这个特质。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NEED_SOME_PARENTS:0",
+        "original": "You need at least $NUM$ parent traits unlocked to be able to assign this trait.\\n",
+        "translation": "你至少需要解锁$NUM$个前级特质才能够分配这个特质。\\n",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_ATTACK:0",
+        "original": "§HAttack§!",
+        "translation": "§H进攻§!",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_ATTACK_DESC:0",
+        "original": "Attack skill boosts offensive stats of the units that are being led by the general.",
+        "translation": "进攻技能增强这个将领正在指挥的部队的进攻数值。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_DEFENSE:0",
+        "original": "§HDefense§!",
+        "translation": "§H防御§!",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_DEFENSE_DESC:0",
+        "original": "Defense skill boosts defensive stats of the units that are being led by the general.",
+        "translation": "防御技能增强这个将领正在指挥的部队的防御数值。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_PLANNING:0",
+        "original": "§HPlanning§!",
+        "translation": "§H计划§!",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_PLANNING_DESC:0",
+        "original": "Planning skill planning speed of the units that are being led by the general.",
+        "translation": "计划技能增强这个将领正在指挥的部队的计划速度。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LOGISTICS:0",
+        "original": "§HLogistics§!",
+        "translation": "§H后勤§!",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LOGISTICS_DESC:0",
+        "original": "Logistics skill reduces the supply usage of the units that are being led by the general.",
+        "translation": "后勤技能减少这个将领正在指挥的部队的补给使用。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LEVEL_MAX:0",
+        "original": "The leader is already at max level.",
+        "translation": "这个将领已经达到最大等级。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LEVEL_NEXT_AMOUNT:0",
+        "original": "Your general needs $VALUE|H$ experience to advance next level.",
+        "translation": "你的将领需要$VALUE|H$点经验值来达到下一等级。",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LEVEL_CURRENT_PROGRESS:0",
+        "original": "Current progress: $VALUE|H%0$",
+        "translation": "当前进度：$VALUE|H%0$",
+        "stage": 1
+    },
+    {
+        "key": "SKILL_LEVEL_DETAILS:0",
+        "original": "After leveling up, a general gains 3 random stat points. The type of the traits that a general has increases the chances of gaining a point in relevant stats.",
+        "translation": "升级后，一个将领会获得3个随机能力数值。将领拥有的技能类型会增加将领获得相关能力数值的几率。",
+        "stage": 1
+    },
+    {
+        "key": "PICK_TRAIT:0",
+        "original": "Pick Trait",
+        "translation": "选取特质",
+        "stage": 1
+    },
+    {
+        "key": "BASIC_TRAITS_DESC:1",
+        "original": "Earned traits are the traits that can not be manually assigned but can be gained by gaining experience in relevant areas or by events.",
+        "translation": "习得特质不能手动分配，只能通过在相关地形中获取经验或通过事件来获得。",
+        "stage": 1
+    },
+    {
+        "key": "ASSIGNABLE_TRAITS_DESC:1",
+        "original": "General traits are the traits that can be manually assigned to a general. Each general has a maximum amount of traits that can be assigned to them.",
+        "translation": "将军特质是可以手动分配给将军的特质。每一个将军都有一个最大的可分配特质数目。",
+        "stage": 1
+    },
+    {
+        "key": "FIELD_MARSHAL_TRAITS_DESC:0",
+        "original": "Field Marshal traits can only be assigned to Field Marshals. Field Marshals also can use regular traits, but their effects will be reduced while commanding more than one army.",
+        "translation": "元帅特质是只能分配给陆军元帅的特质。陆军元帅也可以使用常规的特质，但在指挥超过一支军队的时候其效果会减弱。",
+        "stage": 1
+    },
+    {
+        "key": "TERRAIN_TRAITS_DESC:0",
+        "original": "Terrain traits give bonuses to generals that fights in specific terrains. They can be manually assigned or gained through experience like basic traits.",
+        "translation": "地形特质给予将领在特殊地形中战斗以加成。它们像基础特质一样可以被手动分配，或是通过获取经验而获得。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMTRAITASSIGNMENT:0",
+        "original": "Assign Trait to General",
+        "translation": "分配特质给将领",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMTRAITASSIGNMENT_DESC:0",
+        "original": "Are you sure you want to assign $TRAIT|H$ to $LEADER|H$?",
+        "translation": "你确定要将$TRAIT|H$特质分配给$LEADER|H$？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMTRAITASSIGNMENT_DESC_REMAINING:0",
+        "original": "After assigning this trait, you will have $NUM|H$ more avaliable trait slots to assign for this general.",
+        "translation": "在分配这个特质之后，你将有$NUM|H$个多余可用特质槽位可以分配给这个将领。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE:0",
+        "original": "After assigning this trait, you will have §Rno§! avaliable trait slots to assign for this general.",
+        "translation": "在分配这个特质之后，你将§R没有§!可用的特质槽位分配给这个将领。",
+        "stage": 1
+    },
+    {
+        "key": "JAP_samurai_lineage:0",
+        "original": "Samurai Lineage",
+        "translation": "武士血统",
+        "stage": 1
+    },
+    {
+        "key": "JAP_samurai_lineage_desc:1",
+        "original": "This man hails from proud lineage of Samurai and remains true to the old traditions and loyalties.",
+        "translation": "此人来自骄傲的武士世系，并且恪守古老的传统和忠诚。",
+        "stage": 1
+    },
+    {
+        "key": "JAP_communist_sympathizer:0",
+        "original": "Communist Sympathizer",
+        "translation": "共产主义同情者",
+        "stage": 1
+    },
+    {
+        "key": "JAP_communist_sympathizer_desc:1",
+        "original": "Supporter of the communist cause.",
+        "translation": "共产主义事业的支持者",
+        "stage": 1
+    },
+    {
+        "key": "BOOST_ATTACK_FACTOR:4",
+        "original": "More likely to gain §HAttack§! skill on level up",
+        "translation": "在升级时更可能获得§H进攻§!技能",
+        "stage": 1
+    },
+    {
+        "key": "BOOST_DEFENCE_FACTOR:4",
+        "original": "More likely to gain §HDefense§! skill on level up",
+        "translation": "在升级时更可能获得§H防御§!技能",
+        "stage": 1
+    },
+    {
+        "key": "BOOST_LOGISTICS_FACTOR:4",
+        "original": "More likely to gain §HLogistics§! skill on level up",
+        "translation": "在升级时更可能获得§H后勤§!技能",
+        "stage": 1
+    },
+    {
+        "key": "BOOST_PLANNING_FACTOR:4",
+        "original": "More likely to gain §HPlanning§! skill on level up",
+        "translation": "在升级时更可能获得§H计划§!技能",
+        "stage": 1
+    },
+    {
+        "key": "INCREASED_BLITZ_AND_ENCIRCLEMENT_CHANCE:0",
+        "original": "Increased chance of executing §HBlitz§! and §HEncirclement§! tactics",
+        "translation": "增加执行§H闪电战§!和§H包围§!战术的几率",
+        "stage": 1
+    },
+    {
+        "key": "INCREASED_COUNTERATTACK_CHANCE:0",
+        "original": "Increased chance of executing §HCounterattack§! tactics",
+        "translation": "增加执行§H反击§!战术的几率",
+        "stage": 1
+    },
+    {
+        "key": "INCREASED_ASSAULT_AND_SHOCK_CHANCE:0",
+        "original": "Increased chance of executing §HAssault§! and §HShock§! tactics",
+        "translation": "增加执行§H突击§!和§H冲击§!战术的几率",
+        "stage": 1
+    },
+    {
+        "key": "skirmisher:0",
+        "original": "Skirmisher",
+        "translation": "散兵作战",
+        "stage": 1
+    },
+    {
+        "key": "skirmisher_desc:1",
+        "original": "Skilled at using probing attacks to test the enemy's strength and to wear them down.",
+        "translation": "精通于使用侦查攻击探测敌人实力并损耗敌人。",
+        "stage": 1
+    },
+    {
+        "key": "camouflage_expert:0",
+        "original": "Camouflage Expert",
+        "translation": "伪装专家",
+        "stage": 1
+    },
+    {
+        "key": "camouflage_expert_desc:1",
+        "original": "The proper use of camouflage can significantly reduce the threat of enemy air strikes.",
+        "translation": "合理使用伪装能够极大减少敌人空袭的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "needs_at_least_one_terrain:0",
+        "original": "At Least 1 Terrain Trait",
+        "translation": "至少1个地形特质",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_PREREQUISITES:0",
+        "original": "§HPrerequisites§!\\n",
+        "translation": "§H前置§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "expert_delegator:0",
+        "original": "Expert Delegator",
+        "translation": "专业委任者",
+        "stage": 1
+    },
+    {
+        "key": "expert_delegator_desc:1",
+        "original": "The art of delegation allows this leader to efficiently command several armies.",
+        "translation": "委任下属的技巧使得这位将领能够有效率地指挥数支军队。",
+        "stage": 1
+    },
+    {
+        "key": "trait_bonus_all:0",
+        "original": "All Stats: $VAL|+=0$",
+        "translation": "所有能力值：$VAL|+=0$",
+        "stage": 1
+    },
+    {
+        "key": "trait_bonus_attack:0",
+        "original": "Attack: $VAL|+=0$",
+        "translation": "进攻：$VAL|+=0$",
+        "stage": 1
+    },
+    {
+        "key": "trait_bonus_defense:0",
+        "original": "Defense: $VAL|+=0$",
+        "translation": "防御：$VAL|+=0$",
+        "stage": 1
+    },
+    {
+        "key": "trait_bonus_planning:0",
+        "original": "Planning: $VAL|+=0$",
+        "translation": "计划：$VAL|+=0$",
+        "stage": 1
+    },
+    {
+        "key": "trait_bonus_logistics:0",
+        "original": "Logistics: $VAL|+=0$",
+        "translation": "后勤：$VAL|+=0$",
+        "stage": 1
+    },
+    {
+        "key": "sick:0",
+        "original": "Sick",
+        "translation": "生病",
+        "stage": 1
+    },
+    {
+        "key": "sick_desc:1",
+        "original": "Confined to a bed due to severe sickness.",
+        "translation": "由于严重的疾病而卧床不起。",
+        "stage": 1
+    },
+    {
+        "key": "wounded:0",
+        "original": "Wounded",
+        "translation": "受伤",
+        "stage": 1
+    },
+    {
+        "key": "wounded_desc:1",
+        "original": "A bad wound will take some time to recover from.",
+        "translation": "严重的伤口需要花上一段时间来恢复。",
+        "stage": 1
+    },
+    {
+        "key": "disgruntled:0",
+        "original": "Disgruntled",
+        "translation": "不满",
+        "stage": 1
+    },
+    {
+        "key": "disgruntled_desc:1",
+        "original": "This man is not happy and makes no secret of it.",
+        "translation": "此人不高兴并且毫不隐瞒他的情绪。",
+        "stage": 1
+    },
+    {
+        "key": "demoted:0",
+        "original": "Demoted",
+        "translation": "贬职",
+        "stage": 1
+    },
+    {
+        "key": "demoted_desc:1",
+        "original": "Being demoted won't make anyone happy and this leader is no exception.",
+        "translation": "任何人被贬职都不会高兴而这个将领也不例外。",
+        "stage": 1
+    },
+    {
+        "key": "substance_abuser:0",
+        "original": "Substance Abuser",
+        "translation": "药物滥用者",
+        "stage": 1
+    },
+    {
+        "key": "substance_abuser_desc:1",
+        "original": "Addiction can be a bad thing, but it's really under control. Really.",
+        "translation": "成瘾是一件坏事，但还在控制范围之中。我是说真的。",
+        "stage": 1
+    },
+    {
+        "key": "substance_addict:0",
+        "original": "Substance Addict",
+        "translation": "药物成瘾者",
+        "stage": 1
+    },
+    {
+        "key": "substance_addict_desc:1",
+        "original": "This man's addiction is clearly affecting his judgement, and not in a good way.",
+        "translation": "此人的瘾癖显著影响了他的判断力，而且并非是在好的方面上。",
+        "stage": 1
+    },
+    {
+        "key": "brilliant_strategist:0",
+        "original": "Brilliant Strategist",
+        "translation": "天才的战略家",
+        "stage": 1
+    },
+    {
+        "key": "brilliant_strategist_desc:1",
+        "original": "A natural born strategist that is able to adapt to the dynamics of the battlefield.",
+        "translation": "一个天生的战略家，能够适应战场的动态变化。",
+        "stage": 1
+    },
+    {
+        "key": "inflexible_strategist:0",
+        "original": "Inflexible Strategist",
+        "translation": "不灵活的战略家",
+        "stage": 1
+    },
+    {
+        "key": "inflexible_strategist_desc:1",
+        "original": "Skilled but stubborn. A good enough plan can survive contact with the enemy.",
+        "translation": "精熟但固执。一个足够好的计划在与敌人遭遇后还能继续有效。",
+        "stage": 1
+    },
+    {
+        "key": "politically_connected:0",
+        "original": "Politically Connected",
+        "translation": "政治关联",
+        "stage": 1
+    },
+    {
+        "key": "politically_connected_desc:1",
+        "original": "§LThis leader has political connections which has smoothed the way for his career. Perhaps too quickly.§!",
+        "translation": "§L这位领导人在政坛上有关系，为他的事业上升铺平了道路。也许太快了一点。§!",
+        "stage": 1
+    },
+    {
+        "key": "war_hero:0",
+        "original": "War Hero",
+        "translation": "战争英雄",
+        "stage": 1
+    },
+    {
+        "key": "war_hero_desc:0",
+        "original": "Hailed as a hero from their actions in war.",
+        "translation": "因为在战争中的壮举而受到尊崇。",
+        "stage": 1
+    },
+    {
+        "key": "career_officer:0",
+        "original": "Career Officer",
+        "translation": "职业军官",
+        "stage": 1
+    },
+    {
+        "key": "career_officer_desc:0",
+        "original": "Dedicated to the life as an officer, with ambitions to match.",
+        "translation": "一生致力于军官的事业，并且有着相应的野心。",
+        "stage": 1
+    },
+    {
+        "key": "trait_cautious:0",
+        "original": "Cautious",
+        "translation": "谨慎",
+        "stage": 1
+    },
+    {
+        "key": "trait_cautious_desc:0",
+        "original": "Takes their time and plans carefully.",
+        "translation": "仔细考虑他们的时机和计划。",
+        "stage": 1
+    },
+    {
+        "key": "trait_reckless:0",
+        "original": "Reckless",
+        "translation": "鲁莽",
+        "stage": 1
+    },
+    {
+        "key": "trait_reckless_desc:0",
+        "original": "A good officer needs to lead from the front.",
+        "translation": "一个好的军官需要在前线领导。",
+        "stage": 1
+    },
+    {
+        "key": "media_personality:0",
+        "original": "Media Personality",
+        "translation": "媒体人物",
+        "stage": 1
+    },
+    {
+        "key": "media_personality_desc:0",
+        "original": "This general will go out of his way to talk to the media and will always try to be in the limelight.",
+        "translation": "这个将领费劲心思在媒体面前发表言论，并且一直试图成为众人瞩目的焦点。",
+        "stage": 1
+    },
+    {
+        "key": "harsh_leader:0",
+        "original": "Harsh Leader",
+        "translation": "严厉将领",
+        "stage": 1
+    },
+    {
+        "key": "harsh_leader_desc:0",
+        "original": "Discipline is necessary to lead an army, but some leaders take it a bit too far.",
+        "translation": "领导一支军队，纪律是必不可少的，但有些将领在这方面走得稍微有点远。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_officer:0",
+        "original": "Infantry Officer",
+        "translation": "步兵军官",
+        "stage": 1
+    },
+    {
+        "key": "infantry_officer_desc:1",
+        "original": "Trained as an infantry officer.",
+        "translation": "被训练成一个步兵军官。",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_officer:0",
+        "original": "Cavalry Officer",
+        "translation": "骑兵军官",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_officer_desc:1",
+        "original": "Trained as a cavalry offier.",
+        "translation": "被训练成一个骑兵军官。",
+        "stage": 1
+    },
+    {
+        "key": "armor_officer:0",
+        "original": "Armor Officer",
+        "translation": "装甲军官",
+        "stage": 1
+    },
+    {
+        "key": "armor_officer_desc:1",
+        "original": "Trained as an armor officer.",
+        "translation": "被训练成一个装甲军官。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_ASSIGN_TRAIT_COST_TOOLTIP:0",
+        "original": "It will cost $VAL|R$ £command_power to assign this trait.",
+        "translation": "将会花费$VAL|R$ £command_power 来分配这个特质。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_TRAIT_XP:0",
+        "original": "§HExperience:§! $CUR|.0$/$MAX|.0$",
+        "translation": "§H经验值：§! $CUR|.0$/$MAX|.0$",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_TRAIT_GAIN_XP_WHEN:0",
+        "original": "§HExperience gained while:§!",
+        "translation": "§H获取经验值当：§!",
+        "stage": 1
+    },
+    {
+        "key": "hidden_sympathies:0",
+        "original": "Hidden Sympathies",
+        "translation": "隐藏的同情心",
+        "stage": 1
+    },
+    {
+        "key": "hidden_sympathies_desc:0",
+        "original": "This general has voiced some disloyal opinions in private spheres, and will most likely lend his support to insurrections started by subversive elements.",
+        "translation": "这个将领在私人领域表达过一些不忠诚的观点，并且将极有可能为颠覆分子的叛乱提供他的支持。",
+        "stage": 1
+    },
+    {
+        "key": "is_using_battle_plans:0",
+        "original": "Is using battle plans",
+        "translation": "正在使用战斗计划",
+        "stage": 1
+    },
+    {
+        "key": "cavalary_ratio_over_40:1",
+        "original": "Cavalry, motorized and mechanized ratio > §H40%§!",
+        "translation": "骑兵，摩托化步兵和机械化步兵比率 > §H40%§!",
+        "stage": 1
+    },
+    {
+        "key": "infantry_ratio_over_80:0",
+        "original": "Infantry ratio > §H80%§!",
+        "translation": "步兵比率 > §H80%§!",
+        "stage": 1
+    },
+    {
+        "key": "armored_ratio_over_40:0",
+        "original": "Armored ratio > §H40%§!",
+        "translation": "装甲率 > §H40%§!",
+        "stage": 1
+    },
+    {
+        "key": "has_flanked:0",
+        "original": "Is flanking enemy or getting flanked by them",
+        "translation": "正在侧翼包抄敌人或是被敌人侧翼包抄",
+        "stage": 1
+    },
+    {
+        "key": "fighting_with_at_least_23_units:0",
+        "original": "Controlling at least §H24§! armies",
+        "translation": "至少控制§H24§!个陆军部队",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_OPEN_WIKI:0",
+        "original": "Click to read more on the web",
+        "translation": "点击以在网页上阅读更多信息",
+        "stage": 1
+    },
+    {
+        "key": "trait_xp_factor:0",
+        "original": "$NAME|H$ experience factor: $VAL|H%.0$",
+        "translation": "$NAME|H$ 经验值系数：$VAL|H%.0$",
+        "stage": 1
+    },
+    {
+        "key": "recently_promoted:0",
+        "original": "Recently Promoted",
+        "translation": "近期被晋升",
+        "stage": 1
+    },
+    {
+        "key": "recently_promoted_desc:1",
+        "original": "Adjusting to the responsibilities of the new rank.",
+        "translation": "调整到新职级的职责上",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_WILL_EXPIRE:0",
+        "original": "Trait will expire in $DAYS|H$ days.",
+        "translation": "特质将在$DAYS|H$天后过期。",
+        "stage": 1
+    },
+    {
+        "key": "TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY:0",
+        "original": "§RTrait not active when commanding an army.§!",
+        "translation": "§R特质在指挥集团军时无效。§!",
+        "stage": 1
+    },
+    {
+        "key": "expert_improviser_movement_bonus_on_land:0",
+        "original": "Movement Bonus On Land: §G+10%§!",
+        "translation": "陆地上的移动加成：§G+10%§!",
+        "stage": 1
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Charles de Gaulle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Édouard Daladier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Maurice Thorez",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Philippe Pétain",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Jean de Lattre de Tassigny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Alphonse Juin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Maurice Gamelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Maxime Weygand",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Alphonse Georges",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Charles De Gaulle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Philippe Leclerc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Henri Giraud",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "Charles Huntziger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "François Darlan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Jean-Marie Charles Abrial",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Jean-Pierre Esteva",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "René-Émile Godfroy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "Jean de Laborde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant####|name",
+        "original": "Bretagne Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Aurore Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant#|name",
+        "original": "Le Hardi Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant##|name",
+        "original": "Mogador Class",
+        "translation": "",
+        "stage": 0
+    }
+]

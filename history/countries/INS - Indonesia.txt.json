@@ -1,0 +1,26 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Sukarno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Amir Sjarifuddin Harahap",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Suharto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader####|name",
+        "original": "Sutan Sjahrir",
+        "translation": "",
+        "stage": 0
+    }
+]

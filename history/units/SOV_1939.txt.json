@@ -1,0 +1,2660 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#######|name",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template########|name",
+        "original": "Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#########|name",
+        "original": "Tyazolaya-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|name",
+        "original": "10ya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "1ya LVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Tyazolaya-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|name",
+        "original": "2ya LVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|name",
+        "original": "3ya BVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|name",
+        "original": "Dneiper Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|name",
+        "original": "1ya BVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|name",
+        "original": "4ya BVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|name",
+        "original": "15ya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|name",
+        "original": "2ya BVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|name",
+        "original": "UrVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|division_template",
+        "original": "Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################|division_template",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################|name",
+        "original": "OrVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################|division_template",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################|division_template",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################|name",
+        "original": "1ya KOVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################|division_template",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################|division_template",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################|name",
+        "original": "2ya KOVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################|name",
+        "original": "3ya KOVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################|division_template",
+        "original": "Tyazolaya-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################|name",
+        "original": "25ya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################|division_template",
+        "original": "Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################|name",
+        "original": "4ya KOVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################|division_template",
+        "original": "Vozdushno-Desantnaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################|name",
+        "original": "KhVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################|division_template",
+        "original": "Tyazolaya-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################################################|division_template",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################################################################|division_template",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################################################################|division_template",
+        "original": "Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################################################|name",
+        "original": "DVVO Tankovaya Gruppa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################################################|division_template",
+        "original": "Legko-Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################################################################################|division_template",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################################################################|name",
+        "original": "20ya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################################################################|division_template",
+        "original": "Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################################################################################################################################################|division_template",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################################################################################################################################################|division_templat",
+        "original": "Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################################################################################################################################################|division_templa",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################################################################################################################################################|division_templ",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################################################################################################################################################|division_temp",
+        "original": "NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################################################################################################################################################|division_tem",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################################################################################################################################################|division_te",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################################################################################################################################################|division_t",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################################################################################################################################################|division_",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################################################################################################################################################|division",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################################################################################################################################################|divisio",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################################################################################################################################################|divisi",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################################################################################################################################################################|divis",
+        "original": "Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################################################################################################################################################################|divi",
+        "original": "Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Severnyy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "Dzerzhinskiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "Nezamozhnik",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "Petrovskiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "Shaumyan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "Karl Libknekht",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "Izyaslav",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "Kalinin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "Lenin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "Voykov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "Engels",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Severniy Podvodniy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "D-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "D-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "D-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "D-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "D-5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "D-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "Shch-401",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "Shch-402",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "Shch-403",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "Shch-404",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|name",
+        "original": "Shch-421",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|name",
+        "original": "Shch-422",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############|name",
+        "original": "Shch-423",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############|name",
+        "original": "Shch-424",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Baltiyskiy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "Marat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "Oktyabrskaya Revolutsiya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "Kirov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "Leningrad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|equipment|destroyer_1|version_name",
+        "original": "Leningrad & Minsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "Gremyashchiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "Groznyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "Gnevnyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "Gordyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "Minsk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|equipment|destroyer_1|version_name",
+        "original": "Leningrad & Minsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "Gromkiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|name",
+        "original": "Smetlivyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|name",
+        "original": "Stremitelnyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############|name",
+        "original": "Sokrushitelnyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Baltiyskiy Podvodniy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "Shch-301",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "Shch-302",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "Shch-303",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "Shch-304",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "Shch-305",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "Shch-306",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "Shch-307",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "Shch-308",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|name",
+        "original": "Shch-309",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|name",
+        "original": "Shch-310",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|name",
+        "original": "Shch-311",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###########|name",
+        "original": "Shch-317",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship############|name",
+        "original": "Shch-318",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#############|name",
+        "original": "Shch-319",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##############|name",
+        "original": "Shch-320",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###############|name",
+        "original": "Shch-322",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship################|name",
+        "original": "Shch-323",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#################|name",
+        "original": "Shch-324",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##################|name",
+        "original": "P-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###################|name",
+        "original": "P-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####################|name",
+        "original": "P-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####################|name",
+        "original": "S-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####################|equipment|submarine_2|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######################|name",
+        "original": "S-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######################|equipment|submarine_2|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######################|name",
+        "original": "S-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######################|equipment|submarine_2|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "Chernomorskiy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "Parizhskaya Kommuna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "Krasni Kavkaz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "Krasny Krym",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "Chervonaya Ukraina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "Komintern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "Moskva",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|equipment|destroyer_1|version_name",
+        "original": "Leningrad & Minsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|name",
+        "original": "Bodryy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|name",
+        "original": "Bystryy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship########|name",
+        "original": "Boykiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#########|name",
+        "original": "Kharkov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#########|equipment|destroyer_1|version_name",
+        "original": "Leningrad & Minsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##########|name",
+        "original": "Artyom",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###########|name",
+        "original": "Volodarskiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship############|name",
+        "original": "Yakov Sverdlov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#############|name",
+        "original": "Frunze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "Chernomorskiy Podvodniy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "Shch-201",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "Shch-202",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "Shch-203",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "Shch-204",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "Shch-205",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "Shch-206",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "Shch-207",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|name",
+        "original": "Shch-208",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|name",
+        "original": "Shch-209",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|name",
+        "original": "Shch-210",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##########|name",
+        "original": "Shch-211",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###########|name",
+        "original": "Shch-212",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###########|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship############|name",
+        "original": "Shch-213",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#############|name",
+        "original": "Shch-214",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##############|name",
+        "original": "Shch-215",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##############|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "Tikhookeanskiy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "Ryanyy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "Rykov",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "Uritskiy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "Stalin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "Tihookyeanskiy Podvodniy Flot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "Shch-101",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "Shch-102",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "Shch-103",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "Shch-104",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|name",
+        "original": "Shch-105",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####|name",
+        "original": "Shch-106",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship######|name",
+        "original": "Shch-107",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#######|name",
+        "original": "Shch-108",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship########|name",
+        "original": "Shch-109",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#########|name",
+        "original": "Shch-110",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##########|name",
+        "original": "Shch-111",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###########|name",
+        "original": "Shch-112",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship############|name",
+        "original": "Shch-113",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#############|name",
+        "original": "Shch-114",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##############|name",
+        "original": "Shch-115",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###############|name",
+        "original": "Shch-116",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship################|name",
+        "original": "Shch-117",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#################|name",
+        "original": "Shch-118",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##################|name",
+        "original": "Shch-119",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###################|name",
+        "original": "Shch-120",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####################|name",
+        "original": "Shch-121",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####################|name",
+        "original": "Shch-122",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship######################|name",
+        "original": "Shch-123",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#######################|name",
+        "original": "Shch-124",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship########################|name",
+        "original": "Shch-126",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship########################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#########################|name",
+        "original": "Shch-127",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#########################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##########################|name",
+        "original": "Shch-128",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##########################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###########################|name",
+        "original": "Shch-129",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###########################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship############################|name",
+        "original": "Shch-130",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship############################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#############################|name",
+        "original": "Shch-131",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#############################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##############################|name",
+        "original": "Shch-132",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##############################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###############################|name",
+        "original": "Shch-133",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###############################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship################################|name",
+        "original": "Shch-134",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship################################|equipment|submarine_2|version_name",
+        "original": "Series X Shchuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production#########|equipment|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production##########|equipment|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production###########|equipment|version_name",
+        "original": "Series IX Srednyaya",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Chiang Kai-Shek",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Zhang Guotao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Wang Jingwei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Weng Wenhao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Tu Yu-ming",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Hsueh Yueh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Tai An-lan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal###|name",
+        "original": "Wang Yao-wu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Sun Li Jen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Hu Zongnan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Gu Zhutong",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Wei Lihuang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Fu Zuoyi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal####|name",
+        "original": "Zhang Xueliang",
+        "translation": "",
+        "stage": 0
+    }
+]

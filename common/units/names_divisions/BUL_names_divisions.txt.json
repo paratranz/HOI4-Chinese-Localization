@@ -1,0 +1,1706 @@
+[
+    {
+        "key": "BUL_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_INF_01|fallback_name",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|1#|%d-va 'Sofiya' Pekhotna Divizija",
+        "original": "%d-va 'Sofiya' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|2#|%d-ra 'Plovdiv' Pekhotna Divizija",
+        "original": "%d-ra 'Plovdiv' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|3#|%d-ta 'Sliven' Pekhotna Divizija",
+        "original": "%d-ta 'Sliven' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|4#|%d-ta 'Schumen' Pekhotna Divizija",
+        "original": "%d-ta 'Schumen' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|5#|%d-ta 'Russe' Pekhotna Divizija",
+        "original": "%d-ta 'Russe' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|6#|%d-ta 'Vraca' Pekhotna Divizija",
+        "original": "%d-ta 'Vraca' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|7#|%d-ma 'Dupnica' Pekhotna Divizija",
+        "original": "%d-ma 'Dupnica' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|8#|%d-a 'Stara Zagora' Pekhotna Divizija",
+        "original": "%d-a 'Stara Zagora' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|9#|%d-a 'Pleven' Pekhotna Divizija",
+        "original": "%d-a 'Pleven' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|10#|%d-a 'Kirdzali' Pekhotna Divizija",
+        "original": "%d-a 'Kirdzali' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|11#|%d-va zapasna Pekhotna Divizija",
+        "original": "%d-va zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|12#|%d-ra 'Dobrudjanska' Pekhotna Divizija",
+        "original": "%d-ra 'Dobrudjanska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|14#|%d-ta 'Skopska' Pekhotna Divizija",
+        "original": "%d-ta 'Skopska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|15#|%d-ta 'Ohridska' Pekhotna Divizija",
+        "original": "%d-ta 'Ohridska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|16#|%d-ta 'Belomorska' Pekhotna Divizija",
+        "original": "%d-ta 'Belomorska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|17#|%d-ma 'Bitolska' Pekhotna Divizija",
+        "original": "%d-ma 'Bitolska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|20#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|21#|%d-va zapasna Pekhotna Divizija",
+        "original": "%d-va zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|22#|%d-ra zapasna Pekhotna Divizija",
+        "original": "%d-ra zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|24#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|25#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|27#|%d-ma zapasna Pekhotna Divizija",
+        "original": "%d-ma zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|13#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|18#|%d-a Pekhotna Divizija",
+        "original": "%d-a Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|23#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|26#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|28#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|29#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|30#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|31#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|32#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|33#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|34#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|35#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|36#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|37#|%d-ma Pekhotna Divizija",
+        "original": "%d-ma Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|38#|%d-a Pekhotna Pivizija",
+        "original": "%d-a Pekhotna Pivizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|39#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|40#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|41#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|42#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|43#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|44#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|45#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|46#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|47#|%d-ma Pekhotna Divizija",
+        "original": "%d-ma Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|48#|%d-a Pekhotna Divizija",
+        "original": "%d-a Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|49#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|50#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|51#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_INF_01|ordered|52#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_CAV_01|fallback_name",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|1#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|2#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|3#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|4#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|5#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|6#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|7#|%d-ma Konna divizija",
+        "original": "%d-ma Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|8#|%d-a Konna divizija",
+        "original": "%d-a Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|9#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|10#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|11#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|12#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|13#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|14#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|15#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|16#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|17#|%d-ma Konna divizija",
+        "original": "%d-ma Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|18#|%d-a Konna divizija",
+        "original": "%d-a Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|19#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|20#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|21#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|22#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|23#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|24#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|25#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|26#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|27#|%d-ma Konna divizija",
+        "original": "%d-ma Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|28#|%d-a Konna divizija",
+        "original": "%d-a Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|29#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|30#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|31#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|32#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|33#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|34#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|35#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|36#|%d-ma Konna divizija",
+        "original": "%d-ma Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|37#|%d-a Konna divizija",
+        "original": "%d-a Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|38#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|39#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|40#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|41#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|42#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|43#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|44#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|45#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|46#|%d-ma Konna divizija",
+        "original": "%d-ma Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|47#|%d-a Konna divizija",
+        "original": "%d-a Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|48#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|49#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|50#|%d-ta Konna divizija",
+        "original": "%d-ta Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|51#|%d-va Konna divizija",
+        "original": "%d-va Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_CAV_01|ordered|52#|%d-ra Konna divizija",
+        "original": "%d-ra Konna divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MOT_01|fallback_name",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|1#|%d-va Brza divizija",
+        "original": "%d-va Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|2#|%d-ra Brza divizija",
+        "original": "%d-ra Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|3#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|4#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|5#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|6#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|7#|%d-ma Brza divizija",
+        "original": "%d-ma Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|8#|%d-a Brza divizija",
+        "original": "%d-a Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|9#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|10#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|11#|%d-va Brza divizija",
+        "original": "%d-va Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|12#|%d-ra Brza divizija",
+        "original": "%d-ra Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|13#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|14#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|15#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|16#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|17#|%d-ma Brza divizija",
+        "original": "%d-ma Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|18#|%d-a Brza divizija",
+        "original": "%d-a Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|19#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|20#|%d-ta Brza divizija",
+        "original": "%d-ta Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|21#|%d-va Brza divizija",
+        "original": "%d-va Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MOT_01|ordered|22#|%d-ra Brza divizija",
+        "original": "%d-ra Brza divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_ARM_01|fallback_name",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|1#|%d-va Bronirana División",
+        "original": "%d-va Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|2#|%d-ra Bronirana División",
+        "original": "%d-ra Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|3#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|4#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|5#|%d-ta Tankova División",
+        "original": "%d-ta Tankova División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|6#|%d-ta Tankova División",
+        "original": "%d-ta Tankova División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|7#|%d-ma Tankova División",
+        "original": "%d-ma Tankova División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|8#|%d-a Bronirana División",
+        "original": "%d-a Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|9#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|10#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|11#|%d-va Bronirana División",
+        "original": "%d-va Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|12#|%d-ra Bronirana División",
+        "original": "%d-ra Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|13#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|14#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|15#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|16#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|17#|%d-ma Bronirana División",
+        "original": "%d-ma Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|18#|%d-a Bronirana División",
+        "original": "%d-a Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|19#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|20#|%d-ta Bronirana División",
+        "original": "%d-ta Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|21#|%d-va Bronirana División",
+        "original": "%d-va Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_ARM_01|ordered|22#|%d-ra Bronirana División",
+        "original": "%d-ra Bronirana División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MEC_01|fallback_name",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|1#|%d-va Mekhanizirana divizija",
+        "original": "%d-va Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|2#|%d-ra Mekhanizirana divizija",
+        "original": "%d-ra Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|3#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|4#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|5#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|6#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|7#|%d-ma Mekhanizirana divizija",
+        "original": "%d-ma Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|8#|%d-a Mekhanizirana divizija",
+        "original": "%d-a Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|9#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|10#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|11#|%d-va Mekhanizirana divizija",
+        "original": "%d-va Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|12#|%d-ra Mekhanizirana divizija",
+        "original": "%d-ra Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|13#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|14#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|15#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|16#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|17#|%d-ma Mekhanizirana divizija",
+        "original": "%d-ma Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|18#|%d-a Mekhanizirana divizija",
+        "original": "%d-a Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|19#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|20#|%d-ta Mekhanizirana divizija",
+        "original": "%d-ta Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|21#|%d-va Mekhanizirana divizija",
+        "original": "%d-va Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MEC_01|ordered|22#|%d-ra Mekhanizirana divizija",
+        "original": "%d-ra Mekhanizirana divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_GAR_01|fallback_name",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|1#|%d-va 'Sofiya' Pekhotna Divizija",
+        "original": "%d-va 'Sofiya' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|2#|%d-ra 'Plovdiv' Pekhotna Divizija",
+        "original": "%d-ra 'Plovdiv' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|3#|%d-ta 'Sliven' Pekhotna Divizija",
+        "original": "%d-ta 'Sliven' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|4#|%d-ta 'Schumen' Pekhotna Divizija",
+        "original": "%d-ta 'Schumen' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|5#|%d-ta 'Russe' Pekhotna Divizija",
+        "original": "%d-ta 'Russe' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|6#|%d-ta 'Vraca' Pekhotna Divizija",
+        "original": "%d-ta 'Vraca' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|7#|%d-ma 'Dupnica' Pekhotna Divizija",
+        "original": "%d-ma 'Dupnica' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|8#|%d-a 'Stara Zagora' Pekhotna Divizija",
+        "original": "%d-a 'Stara Zagora' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|9#|%d-a 'Pleven' Pekhotna Divizija",
+        "original": "%d-a 'Pleven' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|10#|%d-a 'Kirdzali' Pekhotna Divizija",
+        "original": "%d-a 'Kirdzali' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|11#|%d-va zapasna Pekhotna Divizija",
+        "original": "%d-va zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|12#|%d-ra 'Dobrudjanska' Pekhotna Divizija",
+        "original": "%d-ra 'Dobrudjanska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|14#|%d-ta 'Skopska' Pekhotna Divizija",
+        "original": "%d-ta 'Skopska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|15#|%d-ta 'Ohridska' Pekhotna Divizija",
+        "original": "%d-ta 'Ohridska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|16#|%d-ta 'Belomorska' Pekhotna Divizija",
+        "original": "%d-ta 'Belomorska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|17#|%d-ma 'Bitolska' Pekhotna Divizija",
+        "original": "%d-ma 'Bitolska' Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|20#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|21#|%d-va zapasna Pekhotna Divizija",
+        "original": "%d-va zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|22#|%d-ra zapasna Pekhotna Divizija",
+        "original": "%d-ra zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|24#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|25#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|27#|%d-ma zapasna Pekhotna Divizija",
+        "original": "%d-ma zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|13#|%d-ta zapasna Pekhotna Divizija",
+        "original": "%d-ta zapasna Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|18#|%d-a Pekhotna Divizija",
+        "original": "%d-a Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|23#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|26#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|28#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|29#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|30#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|31#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|32#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|33#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|34#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|35#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|36#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|37#|%d-ma Pekhotna Divizija",
+        "original": "%d-ma Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|38#|%d-a Pekhotna Pivizija",
+        "original": "%d-a Pekhotna Pivizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|39#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|40#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|41#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|42#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|43#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|44#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|45#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|46#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|47#|%d-ma Pekhotna Divizija",
+        "original": "%d-ma Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|48#|%d-a Pekhotna Divizija",
+        "original": "%d-a Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|49#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|50#|%d-ta Pekhotna Divizija",
+        "original": "%d-ta Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|51#|%d-va Pekhotna Divizija",
+        "original": "%d-va Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_GAR_01|ordered|52#|%d-ra Pekhotna Divizija",
+        "original": "%d-ra Pekhotna Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MAR_01|fallback_name",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|1#|%d-va Divizija morska pekhotna",
+        "original": "%d-va Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|2#|%d-ra Divizija morska pekhotna",
+        "original": "%d-ra Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|3#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|4#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|5#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|6#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|7#|%d-ma Divizija morska pekhotna",
+        "original": "%d-ma Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|8#|%d-a Divizija morska pekhotna",
+        "original": "%d-a Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|9#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|10#|%d-ta Divizija morska pekhotna",
+        "original": "%d-ta Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|11#|%d-va Divizija morska pekhotna",
+        "original": "%d-va Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MAR_01|ordered|12#|%d-ra Divizija morska pekhotna",
+        "original": "%d-ra Divizija morska pekhotna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_MTN_01|fallback_name",
+        "original": "%d-ta Granichna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|3#|%d-ta Granichna División",
+        "original": "%d-ta Granichna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|4#|%d-ta Granichna División",
+        "original": "%d-ta Granichna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|1#|%d-va Planinska divizija",
+        "original": "%d-va Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|2#|%d-ra Planinska divizija",
+        "original": "%d-ra Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|5#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|6#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|7#|%d-ma Planinska divizija",
+        "original": "%d-ma Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|8#|%d-a Planinska divizija",
+        "original": "%d-a Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|9#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|10#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|11#|%d-va Planinska divizija",
+        "original": "%d-va Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|12#|%d-ra Planinska divizija",
+        "original": "%d-ra Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|13#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|14#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|15#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|16#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|17#|%d-ma Planinska divizija",
+        "original": "%d-ma Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|18#|%d-a Planinska divizija",
+        "original": "%d-a Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|19#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|20#|%d-ta Planinska divizija",
+        "original": "%d-ta Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|21#|%d-va Planinska divizija",
+        "original": "%d-va Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_MTN_01|ordered|22#|%d-ra Planinska divizija",
+        "original": "%d-ra Planinska divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BUL_PAR_01|fallback_name",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|1#|%d-va Parashutna División",
+        "original": "%d-va Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|2#|%d-ra Parashutna División",
+        "original": "%d-ra Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|3#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|4#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|5#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|6#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|7#|%d-ma Parashutna División",
+        "original": "%d-ma Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|8#|%d-a Parashutna División",
+        "original": "%d-a Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|9#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|10#|%d-ta Parashutna División",
+        "original": "%d-ta Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|11#|%d-va Parashutna División",
+        "original": "%d-va Parashutna División",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BUL_PAR_01|ordered|12#|%d-ra Parashutna División",
+        "original": "%d-ra Parashutna División",
+        "translation": "",
+        "stage": 0
+    }
+]

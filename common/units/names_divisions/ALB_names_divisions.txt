@@ -1,0 +1,477 @@
+ALB_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s Këmbësori Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    2 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    3 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    4 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    5 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    6 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    7 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    8 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    9 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    10 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    11 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    12 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    13 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    14 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    15 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    16 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    17 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    18 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    19 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    20 = {
+      "%s Këmbësori Pjesëtim"
+    }
+  }
+}
+ALB_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%s Kavaleri Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    2 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    3 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    4 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    5 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    6 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    7 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    8 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    9 = {
+      "%s Kavaleri Pjesëtim"
+    }
+    10 = {
+      "%s Kavaleri Pjesëtim"
+    }
+  }
+}
+ALB_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    ALB_INF_01
+  }
+  fallback_name = "%s Këmbësori Pje. përdor Kamion"
+  ordered = {
+    1 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    2 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    3 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    4 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    5 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    6 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    7 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    8 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    9 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+    10 = {
+      "%s Këmbësori Pje. përdor Kamion"
+    }
+  }
+}
+ALB_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    ALB_INF_01
+  }
+  fallback_name = "%s Këmb. Pje. për. Kamion Mekanik"
+  ordered = {
+    1 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    2 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    3 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    4 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    5 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    6 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    7 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    8 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    9 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+    10 = {
+      "%s Këmb. Pje. për. Kamion Mekanik"
+    }
+  }
+}
+ALB_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%s Koracë Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Koracë Pjesëtim"
+    }
+    2 = {
+      "%s Koracë Pjesëtim"
+    }
+    3 = {
+      "%s Koracë Pjesëtim"
+    }
+    4 = {
+      "%s Koracë Pjesëtim"
+    }
+    5 = {
+      "%s Koracë Pjesëtim"
+    }
+    6 = {
+      "%s Koracë Pjesëtim"
+    }
+    7 = {
+      "%s Koracë Pjesëtim"
+    }
+    8 = {
+      "%s Koracë Pjesëtim"
+    }
+    9 = {
+      "%s Koracë Pjesëtim"
+    }
+    10 = {
+      "%s Koracë Pjesëtim"
+    }
+  }
+}
+ALB_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%s Ushtar përdor Aviacion Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    2 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    3 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    4 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    5 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    6 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    7 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    8 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    9 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+    10 = {
+      "%s Ushtar përdor Aviacion Pjesëtim"
+    }
+  }
+}
+ALB_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%s Marinë Këmbësori Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    2 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    3 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    4 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    5 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    6 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    7 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    8 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    9 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+    10 = {
+      "%s Marinë Këmbësori Pjesëtim"
+    }
+  }
+}
+ALB_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%s Bjeshkë Këmbësori Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    2 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    3 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    4 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    5 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    6 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    7 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    8 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    9 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+    10 = {
+      "%s Bjeshkë Këmbësori Pjesëtim"
+    }
+  }
+}
+ALB_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    ALB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    ALB_INF_01
+  }
+  fallback_name = "%s Këmbësori Pjesëtim"
+  ordered = {
+    1 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    2 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    3 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    4 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    5 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    6 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    7 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    8 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    9 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    10 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    11 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    12 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    13 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    14 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    15 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    16 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    17 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    18 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    19 = {
+      "%s Këmbësori Pjesëtim"
+    }
+    20 = {
+      "%s Këmbësori Pjesëtim"
+    }
+  }
+}

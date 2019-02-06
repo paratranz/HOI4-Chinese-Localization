@@ -1,0 +1,56 @@
+[
+    {
+        "key": "ST:0",
+        "original": "st",
+        "translation": "",
+        "stage": 9
+    },
+    {
+        "key": "ND:0",
+        "original": "nd",
+        "translation": "",
+        "stage": 9
+    },
+    {
+        "key": "RD:0",
+        "original": "rd",
+        "translation": "",
+        "stage": 9
+    },
+    {
+        "key": "TH:0",
+        "original": "th",
+        "translation": "",
+        "stage": 9
+    },
+    {
+        "key": "WAR_NAME:0",
+        "original": "$ORDER$$FIRST$-$SECOND$ War",
+        "translation": "$ORDER$$FIRST$-$SECOND$战争",
+        "stage": 1
+    },
+    {
+        "key": "CIVIL_WAR_NAME:0",
+        "original": "$ORDER$$SECOND$ Civil War",
+        "translation": "$ORDER$$SECOND$内战",
+        "stage": 1
+    },
+    {
+        "key": "WAR_TAKE_CORE_NAME:0",
+        "original": "$ORDER$$FIRST$ reclamation of $STATE$",
+        "translation": "$ORDER$$FIRST$收复$STATE$战争",
+        "stage": 1
+    },
+    {
+        "key": "WAR_TAKE_CLAIM_NAME:0",
+        "original": "$ORDER$$FIRST$ Aggression for $STATE$",
+        "translation": "$ORDER$$FIRST$征服$STATE$战争",
+        "stage": 1
+    },
+    {
+        "key": "WAR_NAME_ITA_ETH:0",
+        "original": "Italian War on Ethiopia",
+        "translation": "意大利埃塞俄比亚战争",
+        "stage": 1
+    }
+]

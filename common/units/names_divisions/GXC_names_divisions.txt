@@ -1,0 +1,600 @@
+GXC_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Guangxi Juntuán"
+  ordered = {
+    62 = {
+      "%d Juntuán"
+    }
+    63 = {
+      "%d Juntuán"
+    }
+    64 = {
+      "%d Juntuán"
+    }
+    65 = {
+      "%d Juntuán"
+    }
+    66 = {
+      "%d Juntuán"
+    }
+    67 = {
+      "%d Juntuán"
+    }
+    68 = {
+      "%d Juntuán"
+    }
+    69 = {
+      "%d Juntuán"
+    }
+    60 = {
+      "%d Juntuán"
+    }
+    61 = {
+      "%d Juntuán"
+    }
+    1 = {
+      "%d Guangxi Juntuán"
+    }
+    2 = {
+      "%d Guangxi Juntuán"
+    }
+    3 = {
+      "%d Guangxi Juntuán"
+    }
+    4 = {
+      "%d Guangxi Juntuán"
+    }
+    5 = {
+      "%d Guangxi Juntuán"
+    }
+    6 = {
+      "%d Guangxi Juntuán"
+    }
+    7 = {
+      "%d Guangxi Juntuán"
+    }
+    8 = {
+      "%d Guangxi Juntuán"
+    }
+    9 = {
+      "%d Guangxi Juntuán"
+    }
+    10 = {
+      "%d Guangxi Juntuán"
+    }
+    11 = {
+      "%d Guangxi Juntuán"
+    }
+    12 = {
+      "%d Guangxi Juntuán"
+    }
+    13 = {
+      "%d Guangxi Juntuán"
+    }
+    14 = {
+      "%d Guangxi Juntuán"
+    }
+    15 = {
+      "%d Guangxi Juntuán"
+    }
+    16 = {
+      "%d Guangxi Juntuán"
+    }
+    17 = {
+      "%d Guangxi Juntuán"
+    }
+    18 = {
+      "%d Guangxi Juntuán"
+    }
+    19 = {
+      "%d Guangxi Juntuán"
+    }
+    20 = {
+      "%d Guangxi Juntuán"
+    }
+  }
+}
+GXC_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Guangxi Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Guangxi Qibing Jun"
+    }
+    2 = {
+      "%d Guangxi Qibing Jun"
+    }
+    3 = {
+      "%d Guangxi Qibing Jun"
+    }
+    4 = {
+      "%d Guangxi Qibing Jun"
+    }
+    6 = {
+      "%d Guangxi Qibing Jun"
+    }
+    5 = {
+      "%d Guangxi Qibing Jun"
+    }
+    7 = {
+      "%d Guangxi Qibing Jun"
+    }
+    8 = {
+      "%d Guangxi Qibing Jun"
+    }
+    9 = {
+      "%d Guangxi Qibing Jun"
+    }
+    10 = {
+      "%d Guangxi Qibing Jun"
+    }
+    11 = {
+      "%d Guangxi Qibing Jun"
+    }
+    12 = {
+      "%d Guangxi Qibing Jun"
+    }
+    13 = {
+      "%d Guangxi Qibing Jun"
+    }
+    14 = {
+      "%d Guangxi Qibing Jun"
+    }
+    15 = {
+      "%d Guangxi Qibing Jun"
+    }
+  }
+}
+GXC_MOT_01 = {
+  name = "Motorized Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    GXC_INF_01
+  }
+  fallback_name = "%d Guangxi Juntuán"
+  ordered = {
+    62 = {
+      "%d Juntuán"
+    }
+    63 = {
+      "%d Juntuán"
+    }
+    64 = {
+      "%d Juntuán"
+    }
+    65 = {
+      "%d Juntuán"
+    }
+    66 = {
+      "%d Juntuán"
+    }
+    67 = {
+      "%d Juntuán"
+    }
+    68 = {
+      "%d Juntuán"
+    }
+    69 = {
+      "%d Juntuán"
+    }
+    60 = {
+      "%d Juntuán"
+    }
+    61 = {
+      "%d Juntuán"
+    }
+    1 = {
+      "%d Guangxi Juntuán"
+    }
+    2 = {
+      "%d Guangxi Juntuán"
+    }
+    3 = {
+      "%d Guangxi Juntuán"
+    }
+    4 = {
+      "%d Guangxi Juntuán"
+    }
+    5 = {
+      "%d Guangxi Juntuán"
+    }
+    6 = {
+      "%d Guangxi Juntuán"
+    }
+    7 = {
+      "%d Guangxi Juntuán"
+    }
+    8 = {
+      "%d Guangxi Juntuán"
+    }
+    9 = {
+      "%d Guangxi Juntuán"
+    }
+    10 = {
+      "%d Guangxi Juntuán"
+    }
+    11 = {
+      "%d Guangxi Juntuán"
+    }
+    12 = {
+      "%d Guangxi Juntuán"
+    }
+    13 = {
+      "%d Guangxi Juntuán"
+    }
+    14 = {
+      "%d Guangxi Juntuán"
+    }
+    15 = {
+      "%d Guangxi Juntuán"
+    }
+    16 = {
+      "%d Guangxi Juntuán"
+    }
+    17 = {
+      "%d Guangxi Juntuán"
+    }
+    18 = {
+      "%d Guangxi Juntuán"
+    }
+    19 = {
+      "%d Guangxi Juntuán"
+    }
+    20 = {
+      "%d Guangxi Juntuán"
+    }
+  }
+}
+GXC_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    GXC_INF_01
+  }
+  fallback_name = "%d Guangxi Juntuán"
+  ordered = {
+    62 = {
+      "%d Juntuán"
+    }
+    63 = {
+      "%d Juntuán"
+    }
+    64 = {
+      "%d Juntuán"
+    }
+    65 = {
+      "%d Juntuán"
+    }
+    66 = {
+      "%d Juntuán"
+    }
+    67 = {
+      "%d Juntuán"
+    }
+    68 = {
+      "%d Juntuán"
+    }
+    69 = {
+      "%d Juntuán"
+    }
+    60 = {
+      "%d Juntuán"
+    }
+    61 = {
+      "%d Juntuán"
+    }
+    1 = {
+      "%d Guangxi Juntuán"
+    }
+    2 = {
+      "%d Guangxi Juntuán"
+    }
+    3 = {
+      "%d Guangxi Juntuán"
+    }
+    4 = {
+      "%d Guangxi Juntuán"
+    }
+    5 = {
+      "%d Guangxi Juntuán"
+    }
+    6 = {
+      "%d Guangxi Juntuán"
+    }
+    7 = {
+      "%d Guangxi Juntuán"
+    }
+    8 = {
+      "%d Guangxi Juntuán"
+    }
+    9 = {
+      "%d Guangxi Juntuán"
+    }
+    10 = {
+      "%d Guangxi Juntuán"
+    }
+    11 = {
+      "%d Guangxi Juntuán"
+    }
+    12 = {
+      "%d Guangxi Juntuán"
+    }
+    13 = {
+      "%d Guangxi Juntuán"
+    }
+    14 = {
+      "%d Guangxi Juntuán"
+    }
+    15 = {
+      "%d Guangxi Juntuán"
+    }
+    16 = {
+      "%d Guangxi Juntuán"
+    }
+    17 = {
+      "%d Guangxi Juntuán"
+    }
+    18 = {
+      "%d Guangxi Juntuán"
+    }
+    19 = {
+      "%d Guangxi Juntuán"
+    }
+    20 = {
+      "%d Guangxi Juntuán"
+    }
+  }
+}
+GXC_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    GXC_INF_01
+  }
+  fallback_name = "%d Guangxi Juntuán"
+  ordered = {
+    62 = {
+      "%d Juntuán"
+    }
+    63 = {
+      "%d Juntuán"
+    }
+    64 = {
+      "%d Juntuán"
+    }
+    65 = {
+      "%d Juntuán"
+    }
+    66 = {
+      "%d Juntuán"
+    }
+    67 = {
+      "%d Juntuán"
+    }
+    68 = {
+      "%d Juntuán"
+    }
+    69 = {
+      "%d Juntuán"
+    }
+    60 = {
+      "%d Juntuán"
+    }
+    61 = {
+      "%d Juntuán"
+    }
+    1 = {
+      "%d Guangxi Juntuán"
+    }
+    2 = {
+      "%d Guangxi Juntuán"
+    }
+    3 = {
+      "%d Guangxi Juntuán"
+    }
+    4 = {
+      "%d Guangxi Juntuán"
+    }
+    5 = {
+      "%d Guangxi Juntuán"
+    }
+    6 = {
+      "%d Guangxi Juntuán"
+    }
+    7 = {
+      "%d Guangxi Juntuán"
+    }
+    8 = {
+      "%d Guangxi Juntuán"
+    }
+    9 = {
+      "%d Guangxi Juntuán"
+    }
+    10 = {
+      "%d Guangxi Juntuán"
+    }
+    11 = {
+      "%d Guangxi Juntuán"
+    }
+    12 = {
+      "%d Guangxi Juntuán"
+    }
+    13 = {
+      "%d Guangxi Juntuán"
+    }
+    14 = {
+      "%d Guangxi Juntuán"
+    }
+    15 = {
+      "%d Guangxi Juntuán"
+    }
+    16 = {
+      "%d Guangxi Juntuán"
+    }
+    17 = {
+      "%d Guangxi Juntuán"
+    }
+    18 = {
+      "%d Guangxi Juntuán"
+    }
+    19 = {
+      "%d Guangxi Juntuán"
+    }
+    20 = {
+      "%d Guangxi Juntuán"
+    }
+  }
+}
+GXC_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    GXC
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Guangxi Jingbei"
+  ordered = {
+    101 = {
+      "1 Guangzhou Jingbei"
+    }
+    111 = {
+      "1 Hainan Jingbei"
+    }
+    121 = {
+      "1 Guilin Jingbei"
+    }
+    102 = {
+      "2 Guangzhou Jingbei"
+    }
+    103 = {
+      "3 Guangzhou Jingbei"
+    }
+    112 = {
+      "2 Hainan Jingbei"
+    }
+    113 = {
+      "3 Hainan Jingbei"
+    }
+    122 = {
+      "2 Guilin Jingbei"
+    }
+    104 = {
+      "4 Guangzhou Jingbei"
+    }
+    105 = {
+      "5 Guangzhou Jingbei"
+    }
+    123 = {
+      "3 Guilin Jingbei"
+    }
+    124 = {
+      "4 Guilin Jingbei"
+    }
+    114 = {
+      "4 Hainan Jingbei"
+    }
+    115 = {
+      "5 Hainan Jingbei"
+    }
+    125 = {
+      "5 Guilin Jingbei"
+    }
+    131 = {
+      "Guangzhou Baoan Ke"
+    }
+    132 = {
+      "1 Nanning Baoan Ke"
+    }
+    133 = {
+      "1 Guangdong Baoan Ke"
+    }
+    134 = {
+      "2 Guangdong Baoan Ke"
+    }
+    135 = {
+      "3 Guangdong Baoan Ke"
+    }
+    136 = {
+      "2 Nanning Baoan Ke"
+    }
+    137 = {
+      "3 Nanning Baoan Ke"
+    }
+    1 = {
+      "%d Guangxi Jingbei"
+    }
+    2 = {
+      "%d Guangxi Jingbei"
+    }
+    3 = {
+      "%d Guangxi Jingbei"
+    }
+    4 = {
+      "%d Guangxi Jingbei"
+    }
+    5 = {
+      "%d Guangxi Jingbei"
+    }
+    6 = {
+      "%d Guangxi Jingbei"
+    }
+    7 = {
+      "%d Guangxi Jingbei"
+    }
+    8 = {
+      "%d Guangxi Jingbei"
+    }
+    9 = {
+      "%d Guangxi Jingbei"
+    }
+    10 = {
+      "%d Guangxi Jingbei"
+    }
+  }
+}

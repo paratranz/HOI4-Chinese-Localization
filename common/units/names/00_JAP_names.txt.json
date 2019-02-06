@@ -1,0 +1,3398 @@
+[
+    {
+        "key": "#LIST#|JAP|submarine|generic|Sensuikan",
+        "original": "Sensuikan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-34",
+        "original": "Ro-34",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-35",
+        "original": "Ro-35",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-36",
+        "original": "Ro-36",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-37",
+        "original": "Ro-37",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-38",
+        "original": "Ro-38",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-39",
+        "original": "Ro-39",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-40",
+        "original": "Ro-40",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-41",
+        "original": "Ro-41",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-42",
+        "original": "Ro-42",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-43",
+        "original": "Ro-43",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-44",
+        "original": "Ro-44",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-45",
+        "original": "Ro-45",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-46",
+        "original": "Ro-46",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-47",
+        "original": "Ro-47",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-48",
+        "original": "Ro-48",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-49",
+        "original": "Ro-49",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|submarine|unique|Ro-50",
+        "original": "Ro-50",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|generic|Kuchikukan",
+        "original": "Kuchikukan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shiratsuyu",
+        "original": "Shiratsuyu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shigure",
+        "original": "Shigure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Murasame",
+        "original": "Murasame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yudachi",
+        "original": "Yudachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Harusame",
+        "original": "Harusame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Samidare",
+        "original": "Samidare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Umikaze",
+        "original": "Umikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamakaze",
+        "original": "Yamakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kawakaze",
+        "original": "Kawakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Suzukaze",
+        "original": "Suzukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asashio",
+        "original": "Asashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Oshio",
+        "original": "Oshio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Michishio",
+        "original": "Michishio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Arashio",
+        "original": "Arashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsugumo",
+        "original": "Natsugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamagumo",
+        "original": "Yamagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Minegumo",
+        "original": "Minegumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asagumo",
+        "original": "Asagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Arare",
+        "original": "Arare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kasumi",
+        "original": "Kasumi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kagero",
+        "original": "Kagero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shiranui",
+        "original": "Shiranui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kuroshio",
+        "original": "Kuroshio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Oyashio",
+        "original": "Oyashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayashio",
+        "original": "Hayashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsushio",
+        "original": "Natsushio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsukaze",
+        "original": "Hatsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yukikaze",
+        "original": "Yukikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Amatsukaze",
+        "original": "Amatsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tokitsukaze",
+        "original": "Tokitsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Urakaze",
+        "original": "Urakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Isokaze",
+        "original": "Isokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hamakaze",
+        "original": "Hamakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tanikaze",
+        "original": "Tanikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nowaki",
+        "original": "Nowaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Arashi",
+        "original": "Arashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hagikaze",
+        "original": "Hagikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Maikaze",
+        "original": "Maikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akigumo",
+        "original": "Akigumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yugumo",
+        "original": "Yugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Makigumo",
+        "original": "Makigumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kazagumo",
+        "original": "Kazagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Naganami",
+        "original": "Naganami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Makinami",
+        "original": "Makinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Takanami",
+        "original": "Takanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Onami",
+        "original": "Onami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiyonami",
+        "original": "Kiyonami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tamanami",
+        "original": "Tamanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Suzunami",
+        "original": "Suzunami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fujinami",
+        "original": "Fujinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayanami",
+        "original": "Hayanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hamanami",
+        "original": "Hamanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Okinami",
+        "original": "Okinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kishinami",
+        "original": "Kishinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asashimo",
+        "original": "Asashimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayashimo",
+        "original": "Hayashimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akishimo",
+        "original": "Akishimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiyoshimo",
+        "original": "Kiyoshimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akizuki",
+        "original": "Akizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Teruzuki",
+        "original": "Teruzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Suzutsuki",
+        "original": "Suzutsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuzuki",
+        "original": "Hatsuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Niizuki",
+        "original": "Niizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakatsuki",
+        "original": "Wakatsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shimotsuki",
+        "original": "Shimotsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fuyutsuki",
+        "original": "Fuyutsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Harutsuki",
+        "original": "Harutsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yoizuki",
+        "original": "Yoizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsuzuki",
+        "original": "Natsuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hanazuki",
+        "original": "Hanazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shimakaze",
+        "original": "Shimakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Matsu",
+        "original": "Matsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Take",
+        "original": "Take",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ume",
+        "original": "Ume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Momo",
+        "original": "Momo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kuwa",
+        "original": "Kuwa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiri",
+        "original": "Kiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sugi",
+        "original": "Sugi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Maki",
+        "original": "Maki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Momi",
+        "original": "Momi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kashi",
+        "original": "Kashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kaya",
+        "original": "Kaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nara",
+        "original": "Nara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sakura",
+        "original": "Sakura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yanagi",
+        "original": "Yanagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tsubaki",
+        "original": "Tsubaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kaki",
+        "original": "Kaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kaba",
+        "original": "Kaba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hinoki",
+        "original": "Hinoki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kaede",
+        "original": "Kaede",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Keyaki",
+        "original": "Keyaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tachibana",
+        "original": "Tachibana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tsuta",
+        "original": "Tsuta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hagi",
+        "original": "Hagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sumire",
+        "original": "Sumire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kusunoki",
+        "original": "Kusunoki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuzakura",
+        "original": "Hatsuzakura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nire",
+        "original": "Nire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nashi",
+        "original": "Nashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shii",
+        "original": "Shii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Enoki",
+        "original": "Enoki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Odake",
+        "original": "Odake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuume",
+        "original": "Hatsuume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Umigiri",
+        "original": "Umigiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamagiri",
+        "original": "Yamagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tanigiri",
+        "original": "Tanigiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kawagiri",
+        "original": "Kawagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Taekaze",
+        "original": "Taekaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiyokaze",
+        "original": "Kiyokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Satokaze",
+        "original": "Satokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Murakaze",
+        "original": "Murakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamasame",
+        "original": "Yamasame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akisame",
+        "original": "Akisame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsusame",
+        "original": "Natsusame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayasame",
+        "original": "Hayasame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Takashio",
+        "original": "Takashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akishio",
+        "original": "Akishio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Harushio",
+        "original": "Harushio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakashio",
+        "original": "Wakashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Michitsuki",
+        "original": "Michitsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiyotsuki",
+        "original": "Kiyotsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Otsuki",
+        "original": "Otsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hazuki",
+        "original": "Hazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamazuki",
+        "original": "Yamazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Urazuki",
+        "original": "Urazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Aogumo",
+        "original": "Aogumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Benigumo",
+        "original": "Benigumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Harugumo",
+        "original": "Harugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Amagumo",
+        "original": "Amagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yaegumo",
+        "original": "Yaegumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fuyugumo",
+        "original": "Fuyugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yukigumo",
+        "original": "Yukigumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Okitsukaze",
+        "original": "Okitsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shimokaze",
+        "original": "Shimokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asagochi",
+        "original": "Asagochi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Okaze",
+        "original": "Okaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kochi",
+        "original": "Kochi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nishikaze",
+        "original": "Nishikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hae",
+        "original": "Hae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kitakaze",
+        "original": "Kitakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayakaze",
+        "original": "Hayakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsukaze",
+        "original": "Natsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fuyukaze",
+        "original": "Fuyukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsunatsu",
+        "original": "Hatsunatsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuaki",
+        "original": "Hatsuaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayaharu",
+        "original": "Hayaharu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yaezakura",
+        "original": "Yaezakura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yadake",
+        "original": "Yadake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kuzu",
+        "original": "Kuzu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayaume",
+        "original": "Hayaume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Katsura",
+        "original": "Katsura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tobiume",
+        "original": "Tobiume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fuji",
+        "original": "Fuji",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakazakura",
+        "original": "Wakazakura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yamazakura",
+        "original": "Yamazakura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ashi",
+        "original": "Ashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shinodake",
+        "original": "Shinodake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yomogi",
+        "original": "Yomogi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Aoi",
+        "original": "Aoi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shiraume",
+        "original": "Shiraume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kiku",
+        "original": "Kiku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kashiwa",
+        "original": "Kashiwa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kigiku",
+        "original": "Kigiku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsugiku",
+        "original": "Hatsugiku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akane",
+        "original": "Akane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shiragiku",
+        "original": "Shiragiku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Chigusa",
+        "original": "Chigusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakakusa",
+        "original": "Wakakusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Natsugusa",
+        "original": "Natsugusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akikusa",
+        "original": "Akikusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Azusa",
+        "original": "Azusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tochi",
+        "original": "Tochi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hishi",
+        "original": "Hishi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nogiku",
+        "original": "Nogiku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Susuki",
+        "original": "Susuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sakaki",
+        "original": "Sakaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tsuga",
+        "original": "Tsuga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kuri",
+        "original": "Kuri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hasu",
+        "original": "Hasu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Warabi",
+        "original": "Warabi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tade",
+        "original": "Tade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakatake",
+        "original": "Wakatake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kuretake",
+        "original": "Kuretake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sanae",
+        "original": "Sanae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sarawabi",
+        "original": "Sarawabi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asagao",
+        "original": "Asagao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yugao",
+        "original": "Yugao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fuyo",
+        "original": "Fuyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Karukaya",
+        "original": "Karukaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Minekaze",
+        "original": "Minekaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sawakaze",
+        "original": "Sawakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Okikaze",
+        "original": "Okikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nadakaze",
+        "original": "Nadakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yakaze",
+        "original": "Yakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hakaze",
+        "original": "Hakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shiokaze",
+        "original": "Shiokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akikaze",
+        "original": "Akikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yukaze",
+        "original": "Yukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Tachikaze",
+        "original": "Tachikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hokaze",
+        "original": "Hokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nokaze",
+        "original": "Nokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Namikaze",
+        "original": "Namikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Numakaze",
+        "original": "Numakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kamikaze",
+        "original": "Kamikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asakaze",
+        "original": "Asakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Harukaze",
+        "original": "Harukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Matsukaze",
+        "original": "Matsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatakaze",
+        "original": "Hatakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Oite",
+        "original": "Oite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hayate",
+        "original": "Hayate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asanagi",
+        "original": "Asanagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yunagi",
+        "original": "Yunagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Mutsuki",
+        "original": "Mutsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kisaragi",
+        "original": "Kisaragi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yayoi",
+        "original": "Yayoi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Uzuki",
+        "original": "Uzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Satsuki",
+        "original": "Satsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Minazuki",
+        "original": "Minazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fumizuki",
+        "original": "Fumizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nagatsuki",
+        "original": "Nagatsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Kikuzuki",
+        "original": "Kikuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Mikazuki",
+        "original": "Mikazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Mochizuki",
+        "original": "Mochizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yuzuki",
+        "original": "Yuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Fubuki",
+        "original": "Fubuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shirayuki",
+        "original": "Shirayuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuyuki",
+        "original": "Hatsuyuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Miyuki",
+        "original": "Miyuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Murakumo",
+        "original": "Murakumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shinonome",
+        "original": "Shinonome",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Usugumo",
+        "original": "Usugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shirakumo",
+        "original": "Shirakumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Isonami",
+        "original": "Isonami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Uranami",
+        "original": "Uranami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ayanami",
+        "original": "Ayanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Shikinami",
+        "original": "Shikinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Asagiri",
+        "original": "Asagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yugiri",
+        "original": "Yugiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Amagiri",
+        "original": "Amagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sagiri",
+        "original": "Sagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Oboro",
+        "original": "Oboro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akebono",
+        "original": "Akebono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Sazanami",
+        "original": "Sazanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ushio",
+        "original": "Ushio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Akatsuki",
+        "original": "Akatsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hibiki",
+        "original": "Hibiki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ikazuchi",
+        "original": "Ikazuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Inazuma",
+        "original": "Inazuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsuharu",
+        "original": "Hatsuharu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Nenohi",
+        "original": "Nenohi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Wakaba",
+        "original": "Wakaba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Hatsushimo",
+        "original": "Hatsushimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Ariake",
+        "original": "Ariake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|destroyer|unique|Yugure",
+        "original": "Yugure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|generic|Keijun'yokan",
+        "original": "Keijun'yokan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Katori",
+        "original": "Katori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kashima",
+        "original": "Kashima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kashii",
+        "original": "Kashii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kashiwara",
+        "original": "Kashiwara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Agano",
+        "original": "Agano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Noshiro",
+        "original": "Noshiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yahagi",
+        "original": "Yahagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Sakawa",
+        "original": "Sakawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Oyodo",
+        "original": "Oyodo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ioshima",
+        "original": "Ioshima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yasoshima",
+        "original": "Yasoshima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Mogami",
+        "original": "Mogami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Mikuma",
+        "original": "Mikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Suzuya",
+        "original": "Suzuya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kumano",
+        "original": "Kumano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yodo",
+        "original": "Yodo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Hirado",
+        "original": "Hirado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tenryu",
+        "original": "Tenryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tatsuta",
+        "original": "Tatsuta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kuma",
+        "original": "Kuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tama",
+        "original": "Tama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kitikami",
+        "original": "Kitikami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Oi",
+        "original": "Oi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kiso",
+        "original": "Kiso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Nagara",
+        "original": "Nagara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Isuzu",
+        "original": "Isuzu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Natori",
+        "original": "Natori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yura",
+        "original": "Yura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kinu",
+        "original": "Kinu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Abukuma",
+        "original": "Abukuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yubari",
+        "original": "Yubari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Sendai",
+        "original": "Sendai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Jintsu",
+        "original": "Jintsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Naka",
+        "original": "Naka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Furutaka",
+        "original": "Furutaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kako",
+        "original": "Kako",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Aoba",
+        "original": "Aoba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kinugasa",
+        "original": "Kinugasa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Myoko",
+        "original": "Myoko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Nachi",
+        "original": "Nachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Haguro",
+        "original": "Haguro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ashigara",
+        "original": "Ashigara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Takao",
+        "original": "Takao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Atago",
+        "original": "Atago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Maya",
+        "original": "Maya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Chokai",
+        "original": "Chokai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tone",
+        "original": "Tone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Chikuma",
+        "original": "Chikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Aso",
+        "original": "Aso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tsugaru",
+        "original": "Tsugaru",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Soya",
+        "original": "Soya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ibuki",
+        "original": "Ibuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Haogi",
+        "original": "Haogi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Iwaki",
+        "original": "Iwaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Mabechi",
+        "original": "Mabechi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Takase",
+        "original": "Takase",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Naruse",
+        "original": "Naruse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yoneshiro",
+        "original": "Yoneshiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Omono",
+        "original": "Omono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Koyoshi",
+        "original": "Koyoshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kuji",
+        "original": "Kuji",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tsurumi",
+        "original": "Tsurumi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Oyabe",
+        "original": "Oyabe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Tedori",
+        "original": "Tedori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kano",
+        "original": "Kano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Shonai",
+        "original": "Shonai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Suzuka",
+        "original": "Suzuka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kumozu",
+        "original": "Kumozu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kushida",
+        "original": "Kushida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Maruyama",
+        "original": "Maruyama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Hino",
+        "original": "Hino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Takatsu",
+        "original": "Takatsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yoshii",
+        "original": "Yoshii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Takahashi",
+        "original": "Takahashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ashida",
+        "original": "Ashida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yoshino",
+        "original": "Yoshino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Onga",
+        "original": "Onga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yabe",
+        "original": "Yabe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Matsuura",
+        "original": "Matsuura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Yamakuni",
+        "original": "Yamakuni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Chikugo",
+        "original": "Chikugo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Rokkaku",
+        "original": "Rokkaku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kikuchi",
+        "original": "Kikuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kase",
+        "original": "Kase",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Honmyo",
+        "original": "Honmyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ooita",
+        "original": "Ooita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ono",
+        "original": "Ono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Ota",
+        "original": "Ota",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Banjo",
+        "original": "Banjo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Gokase",
+        "original": "Gokase",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Omaru",
+        "original": "Omaru",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_cruiser|unique|Kimotsuki",
+        "original": "Kimotsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|generic|Jun'yokan",
+        "original": "Jun'yokan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Mogami",
+        "original": "Mogami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Mikuma",
+        "original": "Mikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Suzuya",
+        "original": "Suzuya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Kumano",
+        "original": "Kumano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tone",
+        "original": "Tone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Chikuma",
+        "original": "Chikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Aso",
+        "original": "Aso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tsugaru",
+        "original": "Tsugaru",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Soya",
+        "original": "Soya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Furutaka",
+        "original": "Furutaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Kako",
+        "original": "Kako",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Aoba",
+        "original": "Aoba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Kinugasa",
+        "original": "Kinugasa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Myoko",
+        "original": "Myoko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Nachi",
+        "original": "Nachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Haguro",
+        "original": "Haguro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ashigara",
+        "original": "Ashigara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Takao",
+        "original": "Takao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Atago",
+        "original": "Atago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Maya",
+        "original": "Maya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Chokai",
+        "original": "Chokai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ibuki",
+        "original": "Ibuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Haogi",
+        "original": "Haogi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Iwaki",
+        "original": "Iwaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Iwate",
+        "original": "Iwate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Asahi",
+        "original": "Asahi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Zao",
+        "original": "Zao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Iide",
+        "original": "Iide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Azuma",
+        "original": "Azuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Bandai",
+        "original": "Bandai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Nasu",
+        "original": "Nasu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Makihata",
+        "original": "Makihata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tanigawa",
+        "original": "Tanigawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Takatsuma",
+        "original": "Takatsuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Hotaka",
+        "original": "Hotaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Asama",
+        "original": "Asama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tsukuba",
+        "original": "Tsukuba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Jonen",
+        "original": "Jonen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Norikura",
+        "original": "Norikura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tateshina",
+        "original": "Tateshina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Mizugaki",
+        "original": "Mizugaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Tanzawa",
+        "original": "Tanzawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ena",
+        "original": "Ena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Shiomi",
+        "original": "Shiomi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Akaishi",
+        "original": "Akaishi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Omine",
+        "original": "Omine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ishizuchi",
+        "original": "Ishizuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Kaimon",
+        "original": "Kaimon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Waga",
+        "original": "Waga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Kurikoma",
+        "original": "Kurikoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Moriyoshi",
+        "original": "Moriyoshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Sumon",
+        "original": "Sumon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Hakkai",
+        "original": "Hakkai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Iwasuge",
+        "original": "Iwasuge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Myogi",
+        "original": "Myogi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Buko",
+        "original": "Buko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Hakuseki",
+        "original": "Hakuseki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ashitaka",
+        "original": "Ashitaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Osuzu",
+        "original": "Osuzu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ichifusa",
+        "original": "Ichifusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Yufu",
+        "original": "Yufu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Unzen",
+        "original": "Unzen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Ariake",
+        "original": "Ariake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|heavy_cruiser|unique|Iizuma",
+        "original": "Iizuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|generic|Jun'yosenkan",
+        "original": "Jun'yosenkan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Amagi",
+        "original": "Amagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Tsukuba",
+        "original": "Tsukuba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ikoma",
+        "original": "Ikoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ibuki",
+        "original": "Ibuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Kurama",
+        "original": "Kurama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Akagi",
+        "original": "Akagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Atago",
+        "original": "Atago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Takao",
+        "original": "Takao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Kongo",
+        "original": "Kongo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Hiei",
+        "original": "Hiei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Haruna",
+        "original": "Haruna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Kirishima",
+        "original": "Kirishima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Iwaki",
+        "original": "Iwaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Iwate",
+        "original": "Iwate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Asahi",
+        "original": "Asahi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Zao",
+        "original": "Zao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Iide",
+        "original": "Iide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Azuma",
+        "original": "Azuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Bandai",
+        "original": "Bandai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Nasu",
+        "original": "Nasu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Makihata",
+        "original": "Makihata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Tanigawa",
+        "original": "Tanigawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Takatsuma",
+        "original": "Takatsuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Hotaka",
+        "original": "Hotaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Asama",
+        "original": "Asama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Jonen",
+        "original": "Jonen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Norikura",
+        "original": "Norikura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Tateshina",
+        "original": "Tateshina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Mizugaki",
+        "original": "Mizugaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Tanzawa",
+        "original": "Tanzawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ena",
+        "original": "Ena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Shiomi",
+        "original": "Shiomi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Akaishi",
+        "original": "Akaishi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Omine",
+        "original": "Omine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ishizuchi",
+        "original": "Ishizuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Aso",
+        "original": "Aso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Kaimon",
+        "original": "Kaimon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Waga",
+        "original": "Waga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Kurikoma",
+        "original": "Kurikoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Moriyoshi",
+        "original": "Moriyoshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Sumon",
+        "original": "Sumon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Hakkai",
+        "original": "Hakkai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Iwasuge",
+        "original": "Iwasuge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Myogi",
+        "original": "Myogi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Buko",
+        "original": "Buko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Hakuseki",
+        "original": "Hakuseki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ashitaka",
+        "original": "Ashitaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Osuzu",
+        "original": "Osuzu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ichifusa",
+        "original": "Ichifusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Yufu",
+        "original": "Yufu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Unzen",
+        "original": "Unzen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Ariake",
+        "original": "Ariake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battle_cruiser|unique|Iizuma",
+        "original": "Iizuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|generic|Senkan",
+        "original": "Senkan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Hiei",
+        "original": "Hiei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Yamato",
+        "original": "Yamato",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Musashi",
+        "original": "Musashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Tosa",
+        "original": "Tosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Kii",
+        "original": "Kii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Owari",
+        "original": "Owari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Iwami",
+        "original": "Iwami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Sagami",
+        "original": "Sagami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Suwo",
+        "original": "Suwo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Hizen",
+        "original": "Hizen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Tango",
+        "original": "Tango",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Iki",
+        "original": "Iki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Fuso",
+        "original": "Fuso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Yamashiro",
+        "original": "Yamashiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Ise",
+        "original": "Ise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Hyuga",
+        "original": "Hyuga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Nagato",
+        "original": "Nagato",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Mutsu",
+        "original": "Mutsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Kaga",
+        "original": "Kaga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Shinano",
+        "original": "Shinano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Dewa",
+        "original": "Dewa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Hitachi",
+        "original": "Hitachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Noto",
+        "original": "Noto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Hida",
+        "original": "Hida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Mino",
+        "original": "Mino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Mikawa",
+        "original": "Mikawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Suruga",
+        "original": "Suruga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Kai",
+        "original": "Kai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Izumi",
+        "original": "Izumi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Kawachi",
+        "original": "Kawachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Iga",
+        "original": "Iga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Tanba",
+        "original": "Tanba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Sanuki",
+        "original": "Sanuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Awa",
+        "original": "Awa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Satsuma",
+        "original": "Satsuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Osumi",
+        "original": "Osumi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Aki",
+        "original": "Aki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Settsu",
+        "original": "Settsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Tajima",
+        "original": "Tajima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Iyo",
+        "original": "Iyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|battleship|unique|Omi",
+        "original": "Omi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|generic|Kokubokan",
+        "original": "Kokubokan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Soryu",
+        "original": "Soryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Hiryu",
+        "original": "Hiryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Shokaku",
+        "original": "Shokaku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Zuikaku",
+        "original": "Zuikaku",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Junyo",
+        "original": "Junyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Hiyo",
+        "original": "Hiyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Taiho",
+        "original": "Taiho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Unryu",
+        "original": "Unryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Amagi",
+        "original": "Amagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Katsuragi",
+        "original": "Katsuragi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Shinano",
+        "original": "Shinano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Kasagi",
+        "original": "Kasagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Aso",
+        "original": "Aso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Ikoma",
+        "original": "Ikoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Kurama",
+        "original": "Kurama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Akagi",
+        "original": "Akagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Kaga",
+        "original": "Kaga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Hosho",
+        "original": "Hosho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Ryujo",
+        "original": "Ryujo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Zuiho",
+        "original": "Zuiho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Shoho",
+        "original": "Shoho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Ryuho",
+        "original": "Ryuho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Chitose",
+        "original": "Chitose",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Chiyoda",
+        "original": "Chiyoda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Ibuki",
+        "original": "Ibuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Taiyo",
+        "original": "Taiyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Unyo",
+        "original": "Unyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Chuyo",
+        "original": "Chuyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|carrier|unique|Shinyo",
+        "original": "Shinyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|cv_fighter_equipment|generic|Kokutai",
+        "original": "Kokutai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|cv_CAS_equipment|generic|Kokutai",
+        "original": "Kokutai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|cv_nav_bomber_equipment|generic|Kokutai",
+        "original": "Kokutai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|suicide_craft_equipment|generic|Tokubetsu Kogekitai",
+        "original": "Tokubetsu Kogekitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|infantry|generic|Hoheishidan",
+        "original": "Hoheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|motorized|generic|Hoheishidan",
+        "original": "Hoheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|cavalry|generic|Kiheishidan",
+        "original": "Kiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|light_armor|generic|Senshashidan",
+        "original": "Senshashidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP|medium_armor|generic|Senshashidan",
+        "original": "Senshashidan",
+        "translation": "",
+        "stage": 0
+    }
+]

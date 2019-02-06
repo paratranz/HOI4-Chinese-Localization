@@ -1,0 +1,86 @@
+[
+    {
+        "key": "achievement_the_dragon_swallowed_the_sun:0",
+        "original": "Annexed Japan",
+        "translation": "吞并日本",
+        "stage": 1
+    },
+    {
+        "key": "achievement_sunrise_invasion_conquered_mexico_first:0",
+        "original": "Annexed Mexico before taking any territory in Europe",
+        "translation": "在欧洲不占领任何土地前吞并墨西哥",
+        "stage": 1
+    },
+    {
+        "key": "achievement_tojo_shot_first:0",
+        "original": "Dropped a nuclear bomb on a core state of the US",
+        "translation": "在美国核心地区扔下一颗核弹",
+        "stage": 1
+    },
+    {
+        "key": "achievement_romance_of_the_three_kingdoms_GXC:0",
+        "original": "Integrated the Guanxi Clique through making them a puppet",
+        "translation": "通过傀儡化吞并广西",
+        "stage": 1
+    },
+    {
+        "key": "achievement_romance_of_the_three_kingdoms_YUN:0",
+        "original": "Integrated Yunnan through making them a puppet",
+        "translation": "通过傀儡化吞并统一云南",
+        "stage": 1
+    },
+    {
+        "key": "achivement_i_swear_im_not_a_byzantophile:0",
+        "original": "Formed the Byzantine Empire",
+        "translation": "建立拜占庭帝国",
+        "stage": 1
+    },
+    {
+        "key": "australia_hungary_tt:0",
+        "original": "Conquered all Hungarian core territory",
+        "translation": "征服所有匈牙利核心领土",
+        "stage": 1
+    },
+    {
+        "key": "place_in_the_sun_tt:0",
+        "original": "Conquered an island in the Carribean",
+        "translation": "征服所有加勒比的海岛",
+        "stage": 1
+    },
+    {
+        "key": "sunrise_invasion_tt:0",
+        "original": "Conquered a coastal state in Europe",
+        "translation": "征服一个欧洲沿海地区",
+        "stage": 1
+    },
+    {
+        "key": "all_cores_of_chi_and_man_owned_by_root:0",
+        "original": "Conquered all core territory of China and Manchukuo",
+        "translation": "征服中国和满洲国的所有核心领土",
+        "stage": 1
+    },
+    {
+        "key": "the_people_have_stood_up_tt:1",
+        "original": "Conquered all of Nationalist China's starting territory.",
+        "translation": "征服国民党控制的中国的初始领土全境",
+        "stage": 1
+    },
+    {
+        "key": "battlecry_tt:0",
+        "original": "Conquered all of China and Japan",
+        "translation": "征服中国和日本全境",
+        "stage": 1
+    },
+    {
+        "key": "achievement_JAP_sue_for_peace_CHI_completed:0",
+        "original": "Japan was forced to sue for peace after losing all of Manchuria and Korea",
+        "translation": "迫使日本在失去满洲和朝鲜之后祈求和平谈判",
+        "stage": 1
+    },
+    {
+        "key": "has_taken_decision_to_form_gran_columbia:0",
+        "original": "Has taken the decision to form Gran Columbia",
+        "translation": "已执行成立大哥伦比亚的决议",
+        "stage": 1
+    }
+]

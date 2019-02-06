@@ -1,0 +1,1892 @@
+[
+    {
+        "key": "ETH_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_INF_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_INF_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_CAV_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_CAV_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MOT_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MOT_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MEC_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MEC_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_ARM_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_ARM_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_PAR_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_PAR_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MAR_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MAR_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_MNT_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_MNT_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ETH_GAR_01|fallback_name",
+        "original": "%d Yekilili Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|1#|Kebur Zabagna",
+        "original": "Kebur Zabagna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|2#|1 Gojjam Sefari",
+        "original": "1 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|3#|2 Gojjam Sefari",
+        "original": "2 Gojjam Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|4#|Wolqayt-Semien Sefari",
+        "original": "Wolqayt-Semien Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|5#|Walega-Ardjo Sefari",
+        "original": "Walega-Ardjo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|6#|1 Tigray Sefari",
+        "original": "1 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|7#|2 Tigray Sefari",
+        "original": "2 Tigray Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|8#|1 Begemder Sefari",
+        "original": "1 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|9#|2 Begemder Sefari",
+        "original": "2 Begemder Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|10#|Wag Sefari",
+        "original": "Wag Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|11#|Ogaden Sefari",
+        "original": "Ogaden Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|12#|Arusi Sefari",
+        "original": "Arusi Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|13#|Illubabor Sefari",
+        "original": "Illubabor Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|14#|1 Sidamo Sefari",
+        "original": "1 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|15#|2 Sidamo Sefari",
+        "original": "2 Sidamo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|16#|Amino Sefari",
+        "original": "Amino Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|17#|Gubba Sefari",
+        "original": "Gubba Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|18#|Jimma Sefari",
+        "original": "Jimma Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|19#|Mui Sefari",
+        "original": "Mui Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|20#|Om Hajer Sefari",
+        "original": "Om Hajer Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|21#|Sela Sefari",
+        "original": "Sela Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|22#|Sodo Sefari",
+        "original": "Sodo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|23#|Welega Sefari",
+        "original": "Welega Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|24#|Yejju Sefari",
+        "original": "Yejju Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|25#|Danakil Sefari",
+        "original": "Danakil Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|26#|Ifrata Sefari",
+        "original": "Ifrata Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|27#|Kaffa Sefari",
+        "original": "Kaffa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|28#|Wollo Sefari",
+        "original": "Wollo Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|29#|Hararghe Sefari",
+        "original": "Hararghe Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|30#|Gemu Gofa Sefari",
+        "original": "Gemu Gofa Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|31#|Kula Sefari",
+        "original": "Kula Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|32#|Bale Sefari",
+        "original": "Bale Sefari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ETH_GAR_01|ordered|33#|Mahel Sefari",
+        "original": "Mahel Sefari",
+        "translation": "",
+        "stage": 0
+    }
+]

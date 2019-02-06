@@ -1,0 +1,572 @@
+[
+    {
+        "key": "BRA_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_INF_01|fallback_name",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|1#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|2#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|3#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|4#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|5#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|6#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|7#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|8#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|9#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|10#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|11#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|12#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|13#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|14#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|15#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|16#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|17#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|18#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|19#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_INF_01|ordered|20#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_CAV_01|fallback_name",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|1#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|2#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|3#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|4#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|5#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|6#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|7#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|8#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|9#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_CAV_01|ordered|10#|%da Divisão de Cavalaria",
+        "original": "%da Divisão de Cavalaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_ARM_01|fallback_name",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|1#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|2#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|3#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|4#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|5#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|6#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|7#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|8#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|9#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_ARM_01|ordered|10#|%da Divisão de Blindada",
+        "original": "%da Divisão de Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_PAR_01|name",
+        "original": "Parachute Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_PAR_01|fallback_name",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|1#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|2#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|3#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|4#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|5#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|6#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|7#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|8#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|9#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_PAR_01|ordered|10#|%da Divisão de Pára-Quedistas",
+        "original": "%da Divisão de Pára-Quedistas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_MAR_01|fallback_name",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|1#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|2#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|3#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|4#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|5#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|6#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|7#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|8#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|9#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_MAR_01|ordered|10#|%da Divisão Marinha",
+        "original": "%da Divisão Marinha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRA_GAR_01|fallback_name",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|1#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|2#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|3#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|4#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|5#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|6#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|7#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|8#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|9#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|10#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|11#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|12#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|13#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|14#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|15#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|16#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|17#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|18#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|19#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRA_GAR_01|ordered|20#|%da Divisão de Infanteria",
+        "original": "%da Divisão de Infanteria",
+        "translation": "",
+        "stage": 0
+    }
+]

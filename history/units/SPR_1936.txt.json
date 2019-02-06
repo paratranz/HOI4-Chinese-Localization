@@ -1,0 +1,356 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Brigada de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|name",
+        "original": "1a Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "2a Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "Brigada Mixta Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "Brigada de Arma de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Brigada de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Brigada de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Brigada de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|name",
+        "original": "Circunscripción Occidental",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|name",
+        "original": "Circunscripción Oriental",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Base Naval El Ferrol",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "ARE Jaime I",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "ARE España",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "ARE Libertad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Príncipe Alfonso Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "ARE Almirante Cervera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Príncipe Alfonso Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "ARE Miguel de Cervantes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|equipment|light_cruiser_1|version_name",
+        "original": "Príncipe Alfonso Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "ARE Alsedo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "ARE Velasco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "ARE Lazaga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Base Naval Cádiz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "ARE República",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "ARE Méndez Núñez",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Base Naval Cartagena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "ARE Almirante Ferrándiz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "ARE Sánchez Barcáiztegui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "ARE Alcalá Galiano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "ARE Almirante Valdés",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "ARE Churucca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "ARE José Luis Díez",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "ARE Lepanto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "ARE Almirante Antequera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Grupo de Cartagena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|equipment|submarine_1|version_name",
+        "original": "C Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "Grupo de Cádiz",
+        "translation": "",
+        "stage": 0
+    }
+]

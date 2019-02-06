@@ -1,0 +1,134 @@
+[
+    {
+        "key": "maintheme:0",
+        "original": "Main Theme - Allies",
+        "translation": "主题曲 - 同盟国",
+        "stage": 1
+    },
+    {
+        "key": "axis_war_1:0",
+        "original": "Axis Theme",
+        "translation": "轴心国 主题曲",
+        "stage": 1
+    },
+    {
+        "key": "allies_peace_1:0",
+        "original": "Morning of D-day",
+        "translation": "D-day的早上",
+        "stage": 1
+    },
+    {
+        "key": "general_war_1:0",
+        "original": "Bring Forth the Tanks",
+        "translation": "坦克前行",
+        "stage": 1
+    },
+    {
+        "key": "axis_peace_1:0",
+        "original": "Krakow",
+        "translation": "克拉科夫",
+        "stage": 1
+    },
+    {
+        "key": "general_war_2:0",
+        "original": "The Attack",
+        "translation": "攻势",
+        "stage": 1
+    },
+    {
+        "key": "comintern_war_1:0",
+        "original": "The Might of the Soviet Union",
+        "translation": "苏联之力",
+        "stage": 1
+    },
+    {
+        "key": "comintern_war_2:0",
+        "original": "Comintern Theme",
+        "translation": "共产国际 主题曲",
+        "stage": 1
+    },
+    {
+        "key": "axis_war_4:0",
+        "original": "Days of Thunder",
+        "translation": "雷霆之日",
+        "stage": 1
+    },
+    {
+        "key": "general_peace_1:0",
+        "original": "Hearts of Men",
+        "translation": "人心",
+        "stage": 1
+    },
+    {
+        "key": "allies_war_2:0",
+        "original": "The Royal Airforce",
+        "translation": "皇家空军",
+        "stage": 1
+    },
+    {
+        "key": "axis_war_2:0",
+        "original": "Heavy Water",
+        "translation": "重水",
+        "stage": 1
+    },
+    {
+        "key": "comintern_war_3:0",
+        "original": "The Great Patriotic War",
+        "translation": "伟大的卫国战争",
+        "stage": 1
+    },
+    {
+        "key": "general_peace_3:0",
+        "original": "A Song For the Children of WW2",
+        "translation": "奏给二战儿童",
+        "stage": 1
+    },
+    {
+        "key": "comintern_peace_2:0",
+        "original": "The Red Army",
+        "translation": "红军",
+        "stage": 1
+    },
+    {
+        "key": "allies_war_1:0",
+        "original": "We Are Soldiers",
+        "translation": "我们是战士",
+        "stage": 1
+    },
+    {
+        "key": "comintern_peace_1:0",
+        "original": "Mother Russia",
+        "translation": "祖国俄罗斯",
+        "stage": 1
+    },
+    {
+        "key": "axis_peace_2:0",
+        "original": "Luftwaffe March - Reprise",
+        "translation": "纳粹空军进行曲 - 重奏",
+        "stage": 1
+    },
+    {
+        "key": "axis_war_3:0",
+        "original": "Operation Barbarossa",
+        "translation": "巴巴罗萨行动",
+        "stage": 1
+    },
+    {
+        "key": "allies_peace_2:0",
+        "original": "End of the Tour",
+        "translation": "旅程的终点",
+        "stage": 1
+    },
+    {
+        "key": "comintern_peace_3:0",
+        "original": "Russian Victory",
+        "translation": "俄国胜利",
+        "stage": 1
+    },
+    {
+        "key": "general_peace_2:0",
+        "original": "The War Ends",
+        "translation": "战争结束",
+        "stage": 1
+    }
+]

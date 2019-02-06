@@ -1,0 +1,56 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Estado Mayor Presidencial",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    }
+]

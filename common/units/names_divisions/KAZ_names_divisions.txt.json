@@ -1,0 +1,56 @@
+[
+    {
+        "key": "KAZ_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_KAZ_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KAZ_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    }
+]

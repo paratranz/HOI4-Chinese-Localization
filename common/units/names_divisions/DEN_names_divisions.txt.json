@@ -1,0 +1,134 @@
+[
+    {
+        "key": "DEN_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_INF_01|ordered|21#|Prinsens Division",
+        "original": "Prinsens Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_INF_01|ordered|27#|Livgarden",
+        "original": "Livgarden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_INF_01|ordered|22#|Dronningens Livgardedivision",
+        "original": "Dronningens Livgardedivision",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_CAV_01|ordered|21#|Livgarden til Hest",
+        "original": "Livgarden til Hest",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_MOT_01|ordered|23#|Motordivision 'København'",
+        "original": "Motordivision 'København'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_MEC_01|ordered|24#|Livgardens Armerede Korps",
+        "original": "Livgardens Armerede Korps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_PAR_01|ordered|21#|Faldskærmsdivisionen 'Ørnene'",
+        "original": "Faldskærmsdivisionen 'Ørnene'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_MAR_01|ordered|21#|Frømandskorpset",
+        "original": "Frømandskorpset",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_MNT_01|ordered|25#|Jægerkorpset",
+        "original": "Jægerkorpset",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_MNT_01|ordered|26#|Sirius",
+        "original": "Sirius",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DEN_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_GAR_01|ordered|21#|Prinsens Division",
+        "original": "Prinsens Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_GAR_01|ordered|27#|Livgarden",
+        "original": "Livgarden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DEN_GAR_01|ordered|22#|Dronningens Livgardedivision",
+        "original": "Dronningens Livgardedivision",
+        "translation": "",
+        "stage": 0
+    }
+]

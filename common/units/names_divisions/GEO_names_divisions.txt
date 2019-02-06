@@ -1,0 +1,597 @@
+GEO_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dya Gruziyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+  }
+}
+GEO_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dya Gruziyanska Kavaleriyskaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Kavaleriyskaya Div."
+    }
+  }
+}
+GEO_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    GEO_INF_01
+  }
+  fallback_name = "%dya Gruziyanska Motorizovannaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    11 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    12 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    13 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    14 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    15 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    16 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    17 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    18 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    19 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    20 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    21 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    22 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    23 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    24 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+    25 = {
+      "%dya Gruziyanska Motorizovannaya Div."
+    }
+  }
+}
+GEO_GEO_01 = {
+  name = "Armored Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dya Gruziyanska Tankovaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Tankovaya Div."
+    }
+  }
+}
+GEO_MEC_01 = {
+  name = "Mechanized Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    GEO_INF_01
+  }
+  fallback_name = "%dya Gruziyanska Motostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    11 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    12 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    13 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    14 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    15 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    16 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    17 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    18 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    19 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    20 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    21 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    22 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    23 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    24 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+    25 = {
+      "%dya Gruziyanska Motostrelkovaya Div."
+    }
+  }
+}
+GEO_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    GEO_INF_01
+  }
+  fallback_name = "%dya Gruziyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Gruziyanska Strelkovaya Div."
+    }
+  }
+}
+GEO_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dya Gruziyanska Div. Morskoi Pekhoty"
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    2 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    3 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    4 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    5 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    6 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    7 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    8 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    9 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+    10 = {
+      "%dya Gruziyanska Div. Morskoi Pekhoty"
+    }
+  }
+}
+GEO_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%dya Gruziyanska Gornostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Gornostrelkovaya Div."
+    }
+  }
+}
+GEO_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    GEO
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dya Gruziyanska Vozdushno-Desantnaya Div."
+  ordered = {
+    1 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    2 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    3 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    4 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    5 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    6 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    7 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    8 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    9 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+    10 = {
+      "%dya Gruziyanska Vozdushno-Desantnaya Div."
+    }
+  }
+}

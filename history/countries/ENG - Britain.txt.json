@@ -1,0 +1,296 @@
+[
+    {
+        "key": "1939.1.1|create_country_leader|name",
+        "original": "Neville Chamberlain",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader|name",
+        "original": "Winston Churchill",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Stanley Baldwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Oswald Mosley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Rajani Palme Dutt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Alan Brooke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Bernard Montgomery",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Claude Auchinleck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Neil Ritchie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Alan Cunningham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "William Slim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Richard O'Connor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "William Platt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######|name",
+        "original": "George Giffard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######|name",
+        "original": "Harold Alexander",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########|name",
+        "original": "Jackie Smyth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########|name",
+        "original": "Thomas Jacomb Hutton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########|name",
+        "original": "Arthur Percival",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########|name",
+        "original": "Merton Beckwith-Smith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############|name",
+        "original": "Henry Pownall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############|name",
+        "original": "John Vereker Lord Gort",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##############|name",
+        "original": "Henry Wilson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###############|name",
+        "original": "William Gott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander################|name",
+        "original": "Jock Campbell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#################|name",
+        "original": "Oliver Leese",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##################|name",
+        "original": "Miles Dempsey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###################|name",
+        "original": "Brian Horrocks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####################|name",
+        "original": "Archibald Wavell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "James Fownes Somerville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Henry Harwood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Andrew Cunningham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Bruce Fraser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "John Tovey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#####|name",
+        "original": "Bernard Rawlings",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader######|name",
+        "original": "John Cunningham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#######|name",
+        "original": "Charles Forbes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader########|name",
+        "original": "Algernon Willis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#########|name",
+        "original": "Arthur Power",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "O/P/R Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "S Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "A/B/C/D Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Emerald Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant####|name",
+        "original": "Amphion Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#####|name",
+        "original": "County Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant######|name",
+        "original": "Admiral Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#######|name",
+        "original": "Nelson Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant########|name",
+        "original": "Queen Elizabeth Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Tribal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant#|name",
+        "original": "Edinburgh Class",
+        "translation": "",
+        "stage": 0
+    }
+]

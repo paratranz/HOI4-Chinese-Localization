@@ -1,0 +1,74 @@
+[
+    {
+        "key": "TUR_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TUR_GAR_01|ordered|14#|Çanakkale Bogazi Tugay",
+        "original": "Çanakkale Bogazi Tugay",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TUR_MTN_01|ordered|2#|Kirklareli Dag Tugayi",
+        "original": "Kirklareli Dag Tugayi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TUR_MTN_01|ordered|3#|Antalya Dag Tugayi",
+        "original": "Antalya Dag Tugayi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TUR_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    }
+]

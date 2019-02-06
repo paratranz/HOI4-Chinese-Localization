@@ -1,0 +1,170 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Australian Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HMAS Canberra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Canberra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HMAS Australia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "Canberra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "HMAS Sydney",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Sydney Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "HMAS Hobart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Sydney Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "HMAS Perth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|equipment|light_cruiser_1|version_name",
+        "original": "Sydney Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "HMAS Adelaide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "HMAS Stuart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "HMAS Vampire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "HMAS Vendetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "HMAS Voyager",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "HMAS Waterhen",
+        "translation": "",
+        "stage": 0
+    }
+]

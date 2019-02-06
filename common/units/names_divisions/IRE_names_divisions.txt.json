@@ -1,0 +1,782 @@
+[
+    {
+        "key": "IRE_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_INF_01|fallback_name",
+        "original": "%d Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|1#|%dst 'Thunderbolt' Division",
+        "original": "%dst 'Thunderbolt' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|2#|%dnd 'Spearhead' Division",
+        "original": "%dnd 'Spearhead' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|3#|%drd Irish Infantry Division",
+        "original": "%drd Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|4#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|5#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|6#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|7#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|8#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|9#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|10#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|11#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|12#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|13#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|14#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|15#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|16#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|17#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|18#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|19#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|20#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|21#|%dst Irish Infantry Division",
+        "original": "%dst Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_INF_01|ordered|22#|%dnd Irish Infantry Division",
+        "original": "%dnd Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_CAV_01|fallback_name",
+        "original": "%d Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|1#|%dst 'Parnell' Cavalry Division",
+        "original": "%dst 'Parnell' Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|2#|%dnd Irish Cavalry Division",
+        "original": "%dnd Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|3#|%drd Irish Cavalry Division",
+        "original": "%drd Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|4#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|5#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|6#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|7#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|8#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|9#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_CAV_01|ordered|10#|%dth Irish Cavalry Division",
+        "original": "%dth Irish Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MOT_01|name",
+        "original": "Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MOT_01|fallback_name",
+        "original": "%d Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|1#|%dst 'Thunderbolt' Motor Division",
+        "original": "%dst 'Thunderbolt' Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|2#|%dnd 'Spearhead' Motor Division",
+        "original": "%dnd 'Spearhead' Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|3#|%drd Irish Motor Division",
+        "original": "%drd Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|4#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|5#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|6#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|7#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|8#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|9#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MOT_01|ordered|10#|%dth Irish Motor Division",
+        "original": "%dth Irish Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MEC_01|fallback_name",
+        "original": "%d Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|1#|%dst 'Thunderbolt' Mechanized Division",
+        "original": "%dst 'Thunderbolt' Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|2#|%dnd 'Spearhead' Mechanized Division",
+        "original": "%dnd 'Spearhead' Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|3#|%drd Irish Mechanized Division",
+        "original": "%drd Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|4#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|5#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|6#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|7#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|8#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|9#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MEC_01|ordered|10#|%dth Irish Mechanized Division",
+        "original": "%dth Irish Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_ARM_01|name",
+        "original": "Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_ARM_01|fallback_name",
+        "original": "%d Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|1#|%dst Irish Armoured Division",
+        "original": "%dst Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|2#|%dnd Irish Armoured Division",
+        "original": "%dnd Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|3#|%drd Irish Armoured Division",
+        "original": "%drd Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|4#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|5#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|6#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|7#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|8#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|9#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_ARM_01|ordered|10#|%dth Irish Armoured Division",
+        "original": "%dth Irish Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_PAR_01|fallback_name",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|1#|%dst Irish Airborne Division",
+        "original": "%dst Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|2#|%dnd Irish Airborne Division",
+        "original": "%dnd Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|3#|%drd Irish Airborne Division",
+        "original": "%drd Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|4#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|5#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|6#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|7#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|8#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|9#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_PAR_01|ordered|10#|%dth Irish Airborne Division",
+        "original": "%dth Irish Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MAR_01|fallback_name",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|1#|%dst Irish Marines Division",
+        "original": "%dst Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|2#|%dnd Irish Marines Division",
+        "original": "%dnd Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|3#|%drd Irish Marines Division",
+        "original": "%drd Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|4#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|5#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|6#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|7#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|8#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|9#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MAR_01|ordered|10#|%dth Irish Marines Division",
+        "original": "%dth Irish Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_MNT_01|fallback_name",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|1#|%dst 'Thunderbolt' Mountain Division",
+        "original": "%dst 'Thunderbolt' Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|2#|%dnd 'Spearhead' Mountain Division",
+        "original": "%dnd 'Spearhead' Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|3#|%drd Irish Mountain Division",
+        "original": "%drd Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|4#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|5#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|6#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|7#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|8#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|9#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_MNT_01|ordered|10#|%dth Irish Mountain Division",
+        "original": "%dth Irish Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRE_GAR_01|fallback_name",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|3#|%drd Irish Infantry Division",
+        "original": "%drd Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|4#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|5#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|6#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|7#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|8#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|9#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|10#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|11#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|12#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|13#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|14#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|15#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|16#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|17#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|18#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|19#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|20#|%dth Irish Infantry Division",
+        "original": "%dth Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|21#|%dst Irish Infantry Division",
+        "original": "%dst Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRE_GAR_01|ordered|22#|%dnd Irish Infantry Division",
+        "original": "%dnd Irish Infantry Division",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,4766 @@
+[
+    {
+        "key": "JAP_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_INF_01|fallback_name",
+        "original": "%d Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|168#|Konoe Shidan",
+        "original": "Konoe Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|1#|%d 'Gyoku' Hohei Shidan",
+        "original": "%d 'Gyoku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|2#|%d 'Isamu' Hohei Shidan",
+        "original": "%d 'Isamu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|3#|%d 'Ko' Hohei Shidan",
+        "original": "%d 'Ko' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|4#|%d 'Yodo' Hohei Shidan",
+        "original": "%d 'Yodo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|5#|%d 'Koi' Hohei Shidan",
+        "original": "%d 'Koi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|6#|%d 'Akari' Hohei Shidan",
+        "original": "%d 'Akari' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|7#|%d 'Kuma' Hohei Shidan",
+        "original": "%d 'Kuma' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|8#|%d 'Sugi' Hohei Shidan",
+        "original": "%d 'Sugi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|9#|%d 'Take' Hohei Shidan",
+        "original": "%d 'Take' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|10#|%d 'Tetsu' Hohei Shidan",
+        "original": "%d 'Tetsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|11#|%d 'Nishiki' Hohei Shidan",
+        "original": "%d 'Nishiki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|12#|%d 'Ken' Hohei Shidan",
+        "original": "%d 'Ken' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|13#|%d 'Kyo' Hohei Shidan",
+        "original": "%d 'Kyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|14#|%d 'Sho' Hohei Shidan",
+        "original": "%d 'Sho' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|15#|%d 'Sai' Hohei Shidan",
+        "original": "%d 'Sai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|16#|%d 'Kaki' Hohei Shidan",
+        "original": "%d 'Kaki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|17#|%d 'Getsu' Hohei Shidan",
+        "original": "%d 'Getsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|18#|%d 'Kiku' Hohei Shidan",
+        "original": "%d 'Kiku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|19#|%d 'Tora' Hohei Shidan",
+        "original": "%d 'Tora' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|20#|%d 'Asa' Hohei Shidan",
+        "original": "%d 'Asa' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|21#|%d 'Tou' Hohei Shidan",
+        "original": "%d 'Tou' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|22#|%d 'Hara' Hohei Shidan",
+        "original": "%d 'Hara' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|23#|%d 'Kyoku' Hohei Shidan",
+        "original": "%d 'Kyoku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|24#|%d 'Yama' Hohei Shidan",
+        "original": "%d 'Yama' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|35#|%d 'Azuma' Hohei Shidan",
+        "original": "%d 'Azuma' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|36#|%d 'Yuki' Hohei Shidan",
+        "original": "%d 'Yuki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|37#|%d 'Fuyu' Hohei Shidan",
+        "original": "%d 'Fuyu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|38#|%d 'Numa' Hohei Shidan",
+        "original": "%d 'Numa' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|39#|%d 'Fuji' Hohei Shidan",
+        "original": "%d 'Fuji' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|40#|%d 'Kujira' Hohei Shidan",
+        "original": "%d 'Kujira' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|41#|%d 'Kawa' Hohei Shidan",
+        "original": "%d 'Kawa' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|42#|%d 'Isao' Hohei Shidan",
+        "original": "%d 'Isao' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|43#|%d 'Homare' Hohei Shidan",
+        "original": "%d 'Homare' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|44#|%d 'Tachibana' Hohei Shidan",
+        "original": "%d 'Tachibana' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|104#|%d 'Ootori' Hohei Shidan",
+        "original": "%d 'Ootori' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|116#|%d 'Ran' Hohei Shidan",
+        "original": "%d 'Ran' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|25#|%d 'Kuni' Hohei Shidan",
+        "original": "%d 'Kuni' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|26#|%d 'Izumi' Hohei Shidan",
+        "original": "%d 'Izumi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|27#|%d 'Goku' Hohei Shidan",
+        "original": "%d 'Goku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|28#|%d 'Toyo' Hohei Shidan",
+        "original": "%d 'Toyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|29#|%d 'Ikazuchi' Hohei Shidan",
+        "original": "%d 'Ikazuchi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|48#|%d 'Umi' Hohei Shidan",
+        "original": "%d 'Umi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|50#|%d 'Yomogi' Hohei Shidan",
+        "original": "%d 'Yomogi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|51#|%d 'Moto' Hohei Shidan",
+        "original": "%d 'Moto' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|52#|%d 'Kashiwa' Hohei Shidan",
+        "original": "%d 'Kashiwa' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|53#|%d 'Yasushi' Hohei Shidan",
+        "original": "%d 'Yasushi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|54#|%d 'Hei' Hohei Shidan",
+        "original": "%d 'Hei' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|55#|%d 'Sou' Hohei Shidan",
+        "original": "%d 'Sou' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|56#|%d 'Ryu' Hohei Shidan",
+        "original": "%d 'Ryu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|57#|%d 'Oku' Hohei Shidan",
+        "original": "%d 'Oku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|58#|%d 'Kou' Hohei Shidan",
+        "original": "%d 'Kou' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|59#|%d 'Koromo' Hohei Shidan",
+        "original": "%d 'Koromo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|60#|%d 'Hoko' Hohei Shidan",
+        "original": "%d 'Hoko' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|68#|%d 'Hinoki' Hohei Shidan",
+        "original": "%d 'Hinoki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|69#|%d 'Katsu' Hohei Shidan",
+        "original": "%d 'Katsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|70#|%d Hohei Shidan",
+        "original": "%d Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|71#|%d 'Mikoto' Hohei Shidan",
+        "original": "%d 'Mikoto' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|31#|%d 'Retsu' Hohei Shidan",
+        "original": "%d 'Retsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|61#|%d 'Tobi' Hohei Shidan",
+        "original": "%d 'Tobi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|30#|%d 'Hyo' Hohei Shidan",
+        "original": "%d 'Hyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|46#|%d 'Sei' Hohei Shidan",
+        "original": "%d 'Sei' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|47#|%d 'Dan' Hohei Shidan",
+        "original": "%d 'Dan' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|62#|%d 'Ishi' Hohei Shidan",
+        "original": "%d 'Ishi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|63#|%d 'Jin' Hohei Shidan",
+        "original": "%d 'Jin' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|64#|%d 'Kai' Hohei Shidan",
+        "original": "%d 'Kai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|65#|%d 'Sen' Hohei Shidan",
+        "original": "%d 'Sen' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|49#|%d 'Ookami' Hohei Shidan",
+        "original": "%d 'Ookami' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|72#|%d 'Ten' Hohei Shidan",
+        "original": "%d 'Ten' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|77#|%d 'Nen' Hohei Shidan",
+        "original": "%d 'Nen' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|81#|%d 'No' Hohei Shidan",
+        "original": "%d 'No' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|86#|%d 'Seki' Hohei Shidan",
+        "original": "%d 'Seki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|91#|%d 'Saki' Hohei Shidan",
+        "original": "%d 'Saki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|100#|%d 'Kyo' Hohei Shidan",
+        "original": "%d 'Kyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|102#|%d 'Hatsu' Hohei Shidan",
+        "original": "%d 'Hatsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|103#|%d 'Shun' Hohei Shidan",
+        "original": "%d 'Shun' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|66#|%d 'Kan' Hohei Shidan",
+        "original": "%d 'Kan' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|73#|%d 'Ikari' Hohei Shidan",
+        "original": "%d 'Ikari' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|84#|%d 'To' Hohei Shidan",
+        "original": "%d 'To' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|93#|%d 'Ketsu' Hohei Shidan",
+        "original": "%d 'Ketsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|105#|%d 'Kin' Hohei Shidan",
+        "original": "%d 'Kin' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|107#|%d 'Nagi' Hohei Shidan",
+        "original": "%d 'Nagi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|108#|%d 'Yū' Hohei Shidan",
+        "original": "%d 'Yū' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|109#|%d 'Tan' Hohei Shidan",
+        "original": "%d 'Tan' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|111#|%d 'Ichi' Hohei Shidan",
+        "original": "%d 'Ichi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|112#|%d 'Kimi' Hohei Shidan",
+        "original": "%d 'Kimi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|115#|%d 'Kita' Hohei Shidan",
+        "original": "%d 'Kita' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|117#|%d 'Gu' Hohei Shidan",
+        "original": "%d 'Gu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|114#|%d 'Sho' Hohei Shidan",
+        "original": "%d 'Sho' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|94#|%d 'Iretsu' Hohei Shidan",
+        "original": "%d 'Iretsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|118#|%d 'Kei' Hohei Shidan",
+        "original": "%d 'Kei' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|119#|%d 'Sai' Hohei Shidan",
+        "original": "%d 'Sai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|120#|%d 'Maishin' Hohei Shidan",
+        "original": "%d 'Maishin' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|96#|%d 'Gen' Hohei Shidan",
+        "original": "%d 'Gen' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|167#|%d Hohei Shidan",
+        "original": "%d Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|32#|%d 'Kaede' Hohei Shidan",
+        "original": "%d 'Kaede' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|33#|%d 'Yumi' Hohei Shidan",
+        "original": "%d 'Yumi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|34#|%d 'Tsubaki' Hohei Shidan",
+        "original": "%d 'Tsubaki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|79#|%d 'So' Hohei Shidan",
+        "original": "%d 'So' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|88#|%d 'Kaname' Hohei Shidan",
+        "original": "%d 'Kaname' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|89#|%d 'Sai' Hohei Shidan",
+        "original": "%d 'Sai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|101#|%d Hohei Shidan",
+        "original": "%d Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|106#|%d Hohei Shidan",
+        "original": "%d Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|110#|%d 'Sagi' Hohei Shidan",
+        "original": "%d 'Sagi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|121#|%d 'Eiko' Hohei Shidan",
+        "original": "%d 'Eiko' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|122#|%d 'Maizuru' Hohei Shidan",
+        "original": "%d 'Maizuru' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|123#|%d 'Matsukaze' Hohei Shidan",
+        "original": "%d 'Matsukaze' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|124#|%d 'Enbo' Hohei Shidan",
+        "original": "%d 'Enbo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|125#|%d 'Eiki' Hohei Shidan",
+        "original": "%d 'Eiki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|127#|%d 'Eimai' Hohei Shidan",
+        "original": "%d 'Eimai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|128#|%d 'Eibu' Hohei Shidan",
+        "original": "%d 'Eibu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|129#|%d 'Shinbu' Hohei Shidan",
+        "original": "%d 'Shinbu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|130#|%d 'Shoki' Hohei Shidan",
+        "original": "%d 'Shoki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|131#|%d 'Shūsui' Hohei Shidan",
+        "original": "%d 'Shūsui' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|132#|%d 'Shinki' Hohei Shidan",
+        "original": "%d 'Shinki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|133#|%d 'Shingeki' Hohei Shidan",
+        "original": "%d 'Shingeki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|134#|%d 'Magatama' Hohei Shidan",
+        "original": "%d 'Magatama' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|135#|%d 'Shinshin' Hohei Shidan",
+        "original": "%d 'Shinshin' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|136#|%d 'Fubatsu' Hohei Shidan",
+        "original": "%d 'Fubatsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|137#|%d 'Fuyoku' Hohei Shidan",
+        "original": "%d 'Fuyoku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|138#|%d 'Fudo' Hohei Shidan",
+        "original": "%d 'Fudo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|139#|%d 'Fukutsu' Hohei Shidan",
+        "original": "%d 'Fukutsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|140#|%d 'Koto' Hohei Shidan",
+        "original": "%d 'Koto' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|142#|%d 'Kosen' Hohei Shidan",
+        "original": "%d 'Kosen' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|143#|%d 'Kogo' Hohei Shidan",
+        "original": "%d 'Kogo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|144#|%d 'Kosaka' Hohei Shidan",
+        "original": "%d 'Kosaka' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|145#|%d 'Koshu' Hohei Shidan",
+        "original": "%d 'Koshu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|146#|%d 'Konan' Hohei Shidan",
+        "original": "%d 'Konan' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|147#|%d 'Koho' Hohei Shidan",
+        "original": "%d 'Koho' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|148#|%d 'Fugaku' Hohei Shidan",
+        "original": "%d 'Fugaku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|149#|%d 'Fugyo' Hohei Shidan",
+        "original": "%d 'Fugyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|150#|%d 'Gocho' Hohei Shidan",
+        "original": "%d 'Gocho' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|151#|%d 'Gou' Hohei Shidan",
+        "original": "%d 'Gou' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|152#|%d 'Gozawa' Hohei Shidan",
+        "original": "%d 'Gozawa' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|153#|%d 'Gokyo' Hohei Shidan",
+        "original": "%d 'Gokyo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|154#|%d 'Goji' Hohei Shidan",
+        "original": "%d 'Goji' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|155#|%d 'Godo' Hohei Shidan",
+        "original": "%d 'Godo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|156#|%d 'Gosai' Hohei Shidan",
+        "original": "%d 'Gosai' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|157#|%d 'Gogu' Hohei Shidan",
+        "original": "%d 'Gogu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|158#|%d 'Fumetsu' Hohei Shidan",
+        "original": "%d 'Fumetsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|160#|%d 'Gosen' Hohei Shidan",
+        "original": "%d 'Gosen' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|161#|%d 'Shinten' Hohei Shidan",
+        "original": "%d 'Shinten' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|201#|%d 'Musashi' Hohei Shidan",
+        "original": "%d 'Musashi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|202#|%d 'Aoba' Hohei Shidan",
+        "original": "%d 'Aoba' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|205#|%d 'Aki' Hohei Shidan",
+        "original": "%d 'Aki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|206#|%d 'Aso' Hohei Shidan",
+        "original": "%d 'Aso' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|209#|%d 'Kaetsu' Hohei Shidan",
+        "original": "%d 'Kaetsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|212#|%d 'Kikuchi' Hohei Shidan",
+        "original": "%d 'Kikuchi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|214#|%d 'Hitachi' Hohei Shidan",
+        "original": "%d 'Hitachi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|216#|%d 'Hiei' Hohei Shidan",
+        "original": "%d 'Hiei' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|221#|%d 'Tenryū' Hohei Shidan",
+        "original": "%d 'Tenryū' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|222#|%d 'Towada' Hohei Shidan",
+        "original": "%d 'Towada' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|224#|%d 'Ako' Hohei Shidan",
+        "original": "%d 'Ako' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|225#|%d 'Kongo' Hohei Shidan",
+        "original": "%d 'Kongo' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|229#|%d 'Hokuetsu' Hohei Shidan",
+        "original": "%d 'Hokuetsu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|230#|%d 'Sobu' Hohei Shidan",
+        "original": "%d 'Sobu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|231#|%d 'Taikoku' Hohei Shidan",
+        "original": "%d 'Taikoku' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|234#|%d 'Tone' Hohei Shidan",
+        "original": "%d 'Tone' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|303#|%d 'Takashi' Hohei Shidan",
+        "original": "%d 'Takashi' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|308#|%d 'Iwaki' Hohei Shidan",
+        "original": "%d 'Iwaki' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|312#|%d 'Chitose' Hohei Shidan",
+        "original": "%d 'Chitose' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|316#|%d 'Yamajiro' Hohei Shidan",
+        "original": "%d 'Yamajiro' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_INF_01|ordered|320#|%d 'Senbu' Hohei Shidan",
+        "original": "%d 'Senbu' Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_CAV_01|fallback_name",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|1#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|2#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|3#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|4#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|5#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|6#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|7#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|8#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|9#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|10#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|11#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|12#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|13#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|14#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|15#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|16#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|17#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|18#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|19#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_CAV_01|ordered|20#|%d Kihei Shidan",
+        "original": "%d Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MOT_01|fallback_name",
+        "original": "%d Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|1#|%d 'Gyoku' Jidoushoka Shidan",
+        "original": "%d 'Gyoku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|2#|%d 'Isamu' Jidoushoka Shidan",
+        "original": "%d 'Isamu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|3#|%d 'Ko' Jidoushoka Shidan",
+        "original": "%d 'Ko' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|4#|%d 'Yodo' Jidoushoka Shidan",
+        "original": "%d 'Yodo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|5#|%d 'Koi' Jidoushoka Shidan",
+        "original": "%d 'Koi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|6#|%d 'Akari' Jidoushoka Shidan",
+        "original": "%d 'Akari' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|7#|%d 'Kuma' Jidoushoka Shidan",
+        "original": "%d 'Kuma' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|8#|%d 'Sugi' Jidoushoka Shidan",
+        "original": "%d 'Sugi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|9#|%d 'Take' Jidoushoka Shidan",
+        "original": "%d 'Take' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|10#|%d 'Tetsu' Jidoushoka Shidan",
+        "original": "%d 'Tetsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|11#|%d 'Nishiki' Jidoushoka Shidan",
+        "original": "%d 'Nishiki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|12#|%d 'Ken' Jidoushoka Shidan",
+        "original": "%d 'Ken' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|13#|%d 'Kyo' Jidoushoka Shidan",
+        "original": "%d 'Kyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|14#|%d 'Sho' Jidoushoka Shidan",
+        "original": "%d 'Sho' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|15#|%d 'Sai' Jidoushoka Shidan",
+        "original": "%d 'Sai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|16#|%d 'Kaki' Jidoushoka Shidan",
+        "original": "%d 'Kaki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|17#|%d 'Getsu' Jidoushoka Shidan",
+        "original": "%d 'Getsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|18#|%d 'Kiku' Jidoushoka Shidan",
+        "original": "%d 'Kiku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|19#|%d 'Tora' Jidoushoka Shidan",
+        "original": "%d 'Tora' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|20#|%d 'Asa' Jidoushoka Shidan",
+        "original": "%d 'Asa' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|21#|%d 'Tou' Jidoushoka Shidan",
+        "original": "%d 'Tou' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|22#|%d 'Hara' Jidoushoka Shidan",
+        "original": "%d 'Hara' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|23#|%d 'Kyoku' Jidoushoka Shidan",
+        "original": "%d 'Kyoku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|24#|%d 'Yama' Jidoushoka Shidan",
+        "original": "%d 'Yama' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|35#|%d 'Azuma' Jidoushoka Shidan",
+        "original": "%d 'Azuma' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|36#|%d 'Yuki' Jidoushoka Shidan",
+        "original": "%d 'Yuki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|37#|%d 'Fuyu' Jidoushoka Shidan",
+        "original": "%d 'Fuyu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|38#|%d 'Numa' Jidoushoka Shidan",
+        "original": "%d 'Numa' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|39#|%d 'Fuji' Jidoushoka Shidan",
+        "original": "%d 'Fuji' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|40#|%d 'Kujira' Jidoushoka Shidan",
+        "original": "%d 'Kujira' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|41#|%d 'Kawa' Jidoushoka Shidan",
+        "original": "%d 'Kawa' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|42#|%d 'Isao' Jidoushoka Shidan",
+        "original": "%d 'Isao' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|43#|%d 'Homare' Jidoushoka Shidan",
+        "original": "%d 'Homare' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|44#|%d 'Tachibana' Jidoushoka Shidan",
+        "original": "%d 'Tachibana' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|104#|%d 'Ootori' Jidoushoka Shidan",
+        "original": "%d 'Ootori' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|116#|%d 'Ran' Jidoushoka Shidan",
+        "original": "%d 'Ran' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|25#|%d 'Kuni' Jidoushoka Shidan",
+        "original": "%d 'Kuni' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|26#|%d 'Izumi' Jidoushoka Shidan",
+        "original": "%d 'Izumi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|27#|%d 'Goku' Jidoushoka Shidan",
+        "original": "%d 'Goku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|28#|%d 'Toyo' Jidoushoka Shidan",
+        "original": "%d 'Toyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|29#|%d 'Ikazuchi' Jidoushoka Shidan",
+        "original": "%d 'Ikazuchi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|48#|%d 'Umi' Jidoushoka Shidan",
+        "original": "%d 'Umi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|50#|%d 'Yomogi' Jidoushoka Shidan",
+        "original": "%d 'Yomogi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|51#|%d 'Moto' Jidoushoka Shidan",
+        "original": "%d 'Moto' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|52#|%d 'Kashiwa' Jidoushoka Shidan",
+        "original": "%d 'Kashiwa' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|53#|%d 'Yasushi' Jidoushoka Shidan",
+        "original": "%d 'Yasushi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|54#|%d 'Hei' Jidoushoka Shidan",
+        "original": "%d 'Hei' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|55#|%d 'Sou' Jidoushoka Shidan",
+        "original": "%d 'Sou' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|56#|%d 'Ryu' Jidoushoka Shidan",
+        "original": "%d 'Ryu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|57#|%d 'Oku' Jidoushoka Shidan",
+        "original": "%d 'Oku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|58#|%d 'Kou' Jidoushoka Shidan",
+        "original": "%d 'Kou' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|59#|%d 'Koromo' Jidoushoka Shidan",
+        "original": "%d 'Koromo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|60#|%d 'Hoko' Jidoushoka Shidan",
+        "original": "%d 'Hoko' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|68#|%d 'Hinoki' Jidoushoka Shidan",
+        "original": "%d 'Hinoki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|69#|%d 'Katsu' Jidoushoka Shidan",
+        "original": "%d 'Katsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|70#|%d Jidoushoka Shidan",
+        "original": "%d Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|71#|%d 'Mikoto' Jidoushoka Shidan",
+        "original": "%d 'Mikoto' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|31#|%d 'Retsu' Jidoushoka Shidan",
+        "original": "%d 'Retsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|61#|%d 'Tobi' Jidoushoka Shidan",
+        "original": "%d 'Tobi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|30#|%d 'Hyo' Jidoushoka Shidan",
+        "original": "%d 'Hyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|46#|%d 'Sei' Jidoushoka Shidan",
+        "original": "%d 'Sei' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|47#|%d 'Dan' Jidoushoka Shidan",
+        "original": "%d 'Dan' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|62#|%d 'Ishi' Jidoushoka Shidan",
+        "original": "%d 'Ishi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|63#|%d 'Jin' Jidoushoka Shidan",
+        "original": "%d 'Jin' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|64#|%d 'Kai' Jidoushoka Shidan",
+        "original": "%d 'Kai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|65#|%d 'Sen' Jidoushoka Shidan",
+        "original": "%d 'Sen' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|49#|%d 'Ookami' Jidoushoka Shidan",
+        "original": "%d 'Ookami' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|72#|%d 'Ten' Jidoushoka Shidan",
+        "original": "%d 'Ten' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|77#|%d 'Nen' Jidoushoka Shidan",
+        "original": "%d 'Nen' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|81#|%d 'No' Jidoushoka Shidan",
+        "original": "%d 'No' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|86#|%d 'Seki' Jidoushoka Shidan",
+        "original": "%d 'Seki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|91#|%d 'Saki' Jidoushoka Shidan",
+        "original": "%d 'Saki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|100#|%d 'Kyo' Jidoushoka Shidan",
+        "original": "%d 'Kyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|102#|%d 'Hatsu' Jidoushoka Shidan",
+        "original": "%d 'Hatsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|103#|%d 'Shun' Jidoushoka Shidan",
+        "original": "%d 'Shun' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|66#|%d 'Kan' Jidoushoka Shidan",
+        "original": "%d 'Kan' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|73#|%d 'Ikari' Jidoushoka Shidan",
+        "original": "%d 'Ikari' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|84#|%d 'To' Jidoushoka Shidan",
+        "original": "%d 'To' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|93#|%d 'Ketsu' Jidoushoka Shidan",
+        "original": "%d 'Ketsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|105#|%d 'Kin' Jidoushoka Shidan",
+        "original": "%d 'Kin' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|107#|%d 'Nagi' Jidoushoka Shidan",
+        "original": "%d 'Nagi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|108#|%d 'Yū' Jidoushoka Shidan",
+        "original": "%d 'Yū' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|109#|%d 'Tan' Jidoushoka Shidan",
+        "original": "%d 'Tan' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|111#|%d 'Ichi' Jidoushoka Shidan",
+        "original": "%d 'Ichi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|112#|%d 'Kimi' Jidoushoka Shidan",
+        "original": "%d 'Kimi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|115#|%d 'Kita' Jidoushoka Shidan",
+        "original": "%d 'Kita' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|117#|%d 'Gu' Jidoushoka Shidan",
+        "original": "%d 'Gu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|114#|%d 'Sho' Jidoushoka Shidan",
+        "original": "%d 'Sho' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|94#|%d 'Iretsu' Jidoushoka Shidan",
+        "original": "%d 'Iretsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|118#|%d 'Kei' Jidoushoka Shidan",
+        "original": "%d 'Kei' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|119#|%d 'Sai' Jidoushoka Shidan",
+        "original": "%d 'Sai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|120#|%d 'Maishin' Jidoushoka Shidan",
+        "original": "%d 'Maishin' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|96#|%d 'Gen' Jidoushoka Shidan",
+        "original": "%d 'Gen' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|167#|%d Jidoushoka Shidan",
+        "original": "%d Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|32#|%d 'Kaede' Jidoushoka Shidan",
+        "original": "%d 'Kaede' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|33#|%d 'Yumi' Jidoushoka Shidan",
+        "original": "%d 'Yumi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|34#|%d 'Tsubaki' Jidoushoka Shidan",
+        "original": "%d 'Tsubaki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|79#|%d 'So' Jidoushoka Shidan",
+        "original": "%d 'So' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|88#|%d 'Kaname' Jidoushoka Shidan",
+        "original": "%d 'Kaname' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|89#|%d 'Sai' Jidoushoka Shidan",
+        "original": "%d 'Sai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|101#|%d Jidoushoka Shidan",
+        "original": "%d Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|106#|%d Jidoushoka Shidan",
+        "original": "%d Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|110#|%d 'Sagi' Jidoushoka Shidan",
+        "original": "%d 'Sagi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|121#|%d 'Eiko' Jidoushoka Shidan",
+        "original": "%d 'Eiko' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|122#|%d 'Maizuru' Jidoushoka Shidan",
+        "original": "%d 'Maizuru' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|123#|%d 'Matsukaze' Jidoushoka Shidan",
+        "original": "%d 'Matsukaze' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|124#|%d 'Enbo' Jidoushoka Shidan",
+        "original": "%d 'Enbo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|125#|%d 'Eiki' Jidoushoka Shidan",
+        "original": "%d 'Eiki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|127#|%d 'Eimai' Jidoushoka Shidan",
+        "original": "%d 'Eimai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|128#|%d 'Eibu' Jidoushoka Shidan",
+        "original": "%d 'Eibu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|129#|%d 'Shinbu' Jidoushoka Shidan",
+        "original": "%d 'Shinbu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|130#|%d 'Shoki' Jidoushoka Shidan",
+        "original": "%d 'Shoki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|131#|%d 'Shūsui' Jidoushoka Shidan",
+        "original": "%d 'Shūsui' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|132#|%d 'Shinki' Jidoushoka Shidan",
+        "original": "%d 'Shinki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|133#|%d 'Shingeki' Jidoushoka Shidan",
+        "original": "%d 'Shingeki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|134#|%d 'Magatama' Jidoushoka Shidan",
+        "original": "%d 'Magatama' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|135#|%d 'Shinshin' Jidoushoka Shidan",
+        "original": "%d 'Shinshin' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|136#|%d 'Fubatsu' Jidoushoka Shidan",
+        "original": "%d 'Fubatsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|137#|%d 'Fuyoku' Jidoushoka Shidan",
+        "original": "%d 'Fuyoku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|138#|%d 'Fudo' Jidoushoka Shidan",
+        "original": "%d 'Fudo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|139#|%d 'Fukutsu' Jidoushoka Shidan",
+        "original": "%d 'Fukutsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|140#|%d 'Koto' Jidoushoka Shidan",
+        "original": "%d 'Koto' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|142#|%d 'Kosen' Jidoushoka Shidan",
+        "original": "%d 'Kosen' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|143#|%d 'Kogo' Jidoushoka Shidan",
+        "original": "%d 'Kogo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|144#|%d 'Kosaka' Jidoushoka Shidan",
+        "original": "%d 'Kosaka' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|145#|%d 'Koshu' Jidoushoka Shidan",
+        "original": "%d 'Koshu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|146#|%d 'Konan' Jidoushoka Shidan",
+        "original": "%d 'Konan' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|147#|%d 'Koho' Jidoushoka Shidan",
+        "original": "%d 'Koho' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|148#|%d 'Fugaku' Jidoushoka Shidan",
+        "original": "%d 'Fugaku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|149#|%d 'Fugyo' Jidoushoka Shidan",
+        "original": "%d 'Fugyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|150#|%d 'Gocho' Jidoushoka Shidan",
+        "original": "%d 'Gocho' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|151#|%d 'Gou' Jidoushoka Shidan",
+        "original": "%d 'Gou' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|152#|%d 'Gozawa' Jidoushoka Shidan",
+        "original": "%d 'Gozawa' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|153#|%d 'Gokyo' Jidoushoka Shidan",
+        "original": "%d 'Gokyo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|154#|%d 'Goji' Jidoushoka Shidan",
+        "original": "%d 'Goji' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|155#|%d 'Godo' Jidoushoka Shidan",
+        "original": "%d 'Godo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|156#|%d 'Gosai' Jidoushoka Shidan",
+        "original": "%d 'Gosai' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|157#|%d 'Gogu' Jidoushoka Shidan",
+        "original": "%d 'Gogu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|158#|%d 'Fumetsu' Jidoushoka Shidan",
+        "original": "%d 'Fumetsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|160#|%d 'Gosen' Jidoushoka Shidan",
+        "original": "%d 'Gosen' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|161#|%d 'Shinten' Jidoushoka Shidan",
+        "original": "%d 'Shinten' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|201#|%d 'Musashi' Jidoushoka Shidan",
+        "original": "%d 'Musashi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|202#|%d 'Aoba' Jidoushoka Shidan",
+        "original": "%d 'Aoba' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|205#|%d 'Aki' Jidoushoka Shidan",
+        "original": "%d 'Aki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|206#|%d 'Aso' Jidoushoka Shidan",
+        "original": "%d 'Aso' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|209#|%d 'Kaetsu' Jidoushoka Shidan",
+        "original": "%d 'Kaetsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|212#|%d 'Kikuchi' Jidoushoka Shidan",
+        "original": "%d 'Kikuchi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|214#|%d 'Hitachi' Jidoushoka Shidan",
+        "original": "%d 'Hitachi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|216#|%d 'Hiei' Jidoushoka Shidan",
+        "original": "%d 'Hiei' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|221#|%d 'Tenryū' Jidoushoka Shidan",
+        "original": "%d 'Tenryū' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|222#|%d 'Towada' Jidoushoka Shidan",
+        "original": "%d 'Towada' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|224#|%d 'Ako' Jidoushoka Shidan",
+        "original": "%d 'Ako' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|225#|%d 'Kongo' Jidoushoka Shidan",
+        "original": "%d 'Kongo' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|229#|%d 'Hokuetsu' Jidoushoka Shidan",
+        "original": "%d 'Hokuetsu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|230#|%d 'Sobu' Jidoushoka Shidan",
+        "original": "%d 'Sobu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|231#|%d 'Taikoku' Jidoushoka Shidan",
+        "original": "%d 'Taikoku' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|234#|%d 'Tone' Jidoushoka Shidan",
+        "original": "%d 'Tone' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|303#|%d 'Takashi' Jidoushoka Shidan",
+        "original": "%d 'Takashi' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|308#|%d 'Iwaki' Jidoushoka Shidan",
+        "original": "%d 'Iwaki' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|312#|%d 'Chitose' Jidoushoka Shidan",
+        "original": "%d 'Chitose' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|316#|%d 'Yamajiro' Jidoushoka Shidan",
+        "original": "%d 'Yamajiro' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MOT_01|ordered|320#|%d 'Senbu' Jidoushoka Shidan",
+        "original": "%d 'Senbu' Jidoushoka Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MEC_01|fallback_name",
+        "original": "%d Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|1#|%d 'Gyoku' Kikaika Shidan",
+        "original": "%d 'Gyoku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|2#|%d 'Isamu' Kikaika Shidan",
+        "original": "%d 'Isamu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|3#|%d 'Ko' Kikaika Shidan",
+        "original": "%d 'Ko' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|4#|%d 'Yodo' Kikaika Shidan",
+        "original": "%d 'Yodo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|5#|%d 'Koi' Kikaika Shidan",
+        "original": "%d 'Koi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|6#|%d 'Akari' Kikaika Shidan",
+        "original": "%d 'Akari' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|7#|%d 'Kuma' Kikaika Shidan",
+        "original": "%d 'Kuma' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|8#|%d 'Sugi' Kikaika Shidan",
+        "original": "%d 'Sugi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|9#|%d 'Take' Kikaika Shidan",
+        "original": "%d 'Take' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|10#|%d 'Tetsu' Kikaika Shidan",
+        "original": "%d 'Tetsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|11#|%d 'Nishiki' Kikaika Shidan",
+        "original": "%d 'Nishiki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|12#|%d 'Ken' Kikaika Shidan",
+        "original": "%d 'Ken' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|13#|%d 'Kyo' Kikaika Shidan",
+        "original": "%d 'Kyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|14#|%d 'Sho' Kikaika Shidan",
+        "original": "%d 'Sho' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|15#|%d 'Sai' Kikaika Shidan",
+        "original": "%d 'Sai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|16#|%d 'Kaki' Kikaika Shidan",
+        "original": "%d 'Kaki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|17#|%d 'Getsu' Kikaika Shidan",
+        "original": "%d 'Getsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|18#|%d 'Kiku' Kikaika Shidan",
+        "original": "%d 'Kiku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|19#|%d 'Tora' Kikaika Shidan",
+        "original": "%d 'Tora' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|20#|%d 'Asa' Kikaika Shidan",
+        "original": "%d 'Asa' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|21#|%d 'Tou' Kikaika Shidan",
+        "original": "%d 'Tou' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|22#|%d 'Hara' Kikaika Shidan",
+        "original": "%d 'Hara' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|23#|%d 'Kyoku' Kikaika Shidan",
+        "original": "%d 'Kyoku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|24#|%d 'Yama' Kikaika Shidan",
+        "original": "%d 'Yama' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|35#|%d 'Azuma' Kikaika Shidan",
+        "original": "%d 'Azuma' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|36#|%d 'Yuki' Kikaika Shidan",
+        "original": "%d 'Yuki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|37#|%d 'Fuyu' Kikaika Shidan",
+        "original": "%d 'Fuyu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|38#|%d 'Numa' Kikaika Shidan",
+        "original": "%d 'Numa' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|39#|%d 'Fuji' Kikaika Shidan",
+        "original": "%d 'Fuji' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|40#|%d 'Kujira' Kikaika Shidan",
+        "original": "%d 'Kujira' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|41#|%d 'Kawa' Kikaika Shidan",
+        "original": "%d 'Kawa' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|42#|%d 'Isao' Kikaika Shidan",
+        "original": "%d 'Isao' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|43#|%d 'Homare' Kikaika Shidan",
+        "original": "%d 'Homare' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|44#|%d 'Tachibana' Kikaika Shidan",
+        "original": "%d 'Tachibana' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|104#|%d 'Ootori' Kikaika Shidan",
+        "original": "%d 'Ootori' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|116#|%d 'Ran' Kikaika Shidan",
+        "original": "%d 'Ran' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|25#|%d 'Kuni' Kikaika Shidan",
+        "original": "%d 'Kuni' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|26#|%d 'Izumi' Kikaika Shidan",
+        "original": "%d 'Izumi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|27#|%d 'Goku' Kikaika Shidan",
+        "original": "%d 'Goku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|28#|%d 'Toyo' Kikaika Shidan",
+        "original": "%d 'Toyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|29#|%d 'Ikazuchi' Kikaika Shidan",
+        "original": "%d 'Ikazuchi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|48#|%d 'Umi' Kikaika Shidan",
+        "original": "%d 'Umi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|50#|%d 'Yomogi' Kikaika Shidan",
+        "original": "%d 'Yomogi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|51#|%d 'Moto' Kikaika Shidan",
+        "original": "%d 'Moto' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|52#|%d 'Kashiwa' Kikaika Shidan",
+        "original": "%d 'Kashiwa' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|53#|%d 'Yasushi' Kikaika Shidan",
+        "original": "%d 'Yasushi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|54#|%d 'Hei' Kikaika Shidan",
+        "original": "%d 'Hei' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|55#|%d 'Sou' Kikaika Shidan",
+        "original": "%d 'Sou' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|56#|%d 'Ryu' Kikaika Shidan",
+        "original": "%d 'Ryu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|57#|%d 'Oku' Kikaika Shidan",
+        "original": "%d 'Oku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|58#|%d 'Kou' Kikaika Shidan",
+        "original": "%d 'Kou' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|59#|%d 'Koromo' Kikaika Shidan",
+        "original": "%d 'Koromo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|60#|%d 'Hoko' Kikaika Shidan",
+        "original": "%d 'Hoko' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|68#|%d 'Hinoki' Kikaika Shidan",
+        "original": "%d 'Hinoki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|69#|%d 'Katsu' Kikaika Shidan",
+        "original": "%d 'Katsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|70#|%d Kikaika Shidan",
+        "original": "%d Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|71#|%d 'Mikoto' Kikaika Shidan",
+        "original": "%d 'Mikoto' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|31#|%d 'Retsu' Kikaika Shidan",
+        "original": "%d 'Retsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|61#|%d 'Tobi' Kikaika Shidan",
+        "original": "%d 'Tobi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|30#|%d 'Hyo' Kikaika Shidan",
+        "original": "%d 'Hyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|46#|%d 'Sei' Kikaika Shidan",
+        "original": "%d 'Sei' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|47#|%d 'Dan' Kikaika Shidan",
+        "original": "%d 'Dan' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|62#|%d 'Ishi' Kikaika Shidan",
+        "original": "%d 'Ishi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|63#|%d 'Jin' Kikaika Shidan",
+        "original": "%d 'Jin' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|64#|%d 'Kai' Kikaika Shidan",
+        "original": "%d 'Kai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|65#|%d 'Sen' Kikaika Shidan",
+        "original": "%d 'Sen' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|49#|%d 'Ookami' Kikaika Shidan",
+        "original": "%d 'Ookami' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|72#|%d 'Ten' Kikaika Shidan",
+        "original": "%d 'Ten' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|77#|%d 'Nen' Kikaika Shidan",
+        "original": "%d 'Nen' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|81#|%d 'No' Kikaika Shidan",
+        "original": "%d 'No' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|86#|%d 'Seki' Kikaika Shidan",
+        "original": "%d 'Seki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|91#|%d 'Saki' Kikaika Shidan",
+        "original": "%d 'Saki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|100#|%d 'Kyo' Kikaika Shidan",
+        "original": "%d 'Kyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|102#|%d 'Hatsu' Kikaika Shidan",
+        "original": "%d 'Hatsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|103#|%d 'Shun' Kikaika Shidan",
+        "original": "%d 'Shun' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|66#|%d 'Kan' Kikaika Shidan",
+        "original": "%d 'Kan' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|73#|%d 'Ikari' Kikaika Shidan",
+        "original": "%d 'Ikari' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|84#|%d 'To' Kikaika Shidan",
+        "original": "%d 'To' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|93#|%d 'Ketsu' Kikaika Shidan",
+        "original": "%d 'Ketsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|105#|%d 'Kin' Kikaika Shidan",
+        "original": "%d 'Kin' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|107#|%d 'Nagi' Kikaika Shidan",
+        "original": "%d 'Nagi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|108#|%d 'Yū' Kikaika Shidan",
+        "original": "%d 'Yū' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|109#|%d 'Tan' Kikaika Shidan",
+        "original": "%d 'Tan' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|111#|%d 'Ichi' Kikaika Shidan",
+        "original": "%d 'Ichi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|112#|%d 'Kimi' Kikaika Shidan",
+        "original": "%d 'Kimi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|115#|%d 'Kita' Kikaika Shidan",
+        "original": "%d 'Kita' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|117#|%d 'Gu' Kikaika Shidan",
+        "original": "%d 'Gu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|114#|%d 'Sho' Kikaika Shidan",
+        "original": "%d 'Sho' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|94#|%d 'Iretsu' Kikaika Shidan",
+        "original": "%d 'Iretsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|118#|%d 'Kei' Kikaika Shidan",
+        "original": "%d 'Kei' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|119#|%d 'Sai' Kikaika Shidan",
+        "original": "%d 'Sai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|120#|%d 'Maishin' Kikaika Shidan",
+        "original": "%d 'Maishin' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|96#|%d 'Gen' Kikaika Shidan",
+        "original": "%d 'Gen' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|167#|%d Kikaika Shidan",
+        "original": "%d Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|32#|%d 'Kaede' Kikaika Shidan",
+        "original": "%d 'Kaede' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|33#|%d 'Yumi' Kikaika Shidan",
+        "original": "%d 'Yumi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|34#|%d 'Tsubaki' Kikaika Shidan",
+        "original": "%d 'Tsubaki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|79#|%d 'So' Kikaika Shidan",
+        "original": "%d 'So' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|88#|%d 'Kaname' Kikaika Shidan",
+        "original": "%d 'Kaname' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|89#|%d 'Sai' Kikaika Shidan",
+        "original": "%d 'Sai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|101#|%d Kikaika Shidan",
+        "original": "%d Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|106#|%d Kikaika Shidan",
+        "original": "%d Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|110#|%d 'Sagi' Kikaika Shidan",
+        "original": "%d 'Sagi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|121#|%d 'Eiko' Kikaika Shidan",
+        "original": "%d 'Eiko' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|122#|%d 'Maizuru' Kikaika Shidan",
+        "original": "%d 'Maizuru' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|123#|%d 'Matsukaze' Kikaika Shidan",
+        "original": "%d 'Matsukaze' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|124#|%d 'Enbo' Kikaika Shidan",
+        "original": "%d 'Enbo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|125#|%d 'Eiki' Kikaika Shidan",
+        "original": "%d 'Eiki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|127#|%d 'Eimai' Kikaika Shidan",
+        "original": "%d 'Eimai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|128#|%d 'Eibu' Kikaika Shidan",
+        "original": "%d 'Eibu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|129#|%d 'Shinbu' Kikaika Shidan",
+        "original": "%d 'Shinbu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|130#|%d 'Shoki' Kikaika Shidan",
+        "original": "%d 'Shoki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|131#|%d 'Shūsui' Kikaika Shidan",
+        "original": "%d 'Shūsui' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|132#|%d 'Shinki' Kikaika Shidan",
+        "original": "%d 'Shinki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|133#|%d 'Shingeki' Kikaika Shidan",
+        "original": "%d 'Shingeki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|134#|%d 'Magatama' Kikaika Shidan",
+        "original": "%d 'Magatama' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|135#|%d 'Shinshin' Kikaika Shidan",
+        "original": "%d 'Shinshin' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|136#|%d 'Fubatsu' Kikaika Shidan",
+        "original": "%d 'Fubatsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|137#|%d 'Fuyoku' Kikaika Shidan",
+        "original": "%d 'Fuyoku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|138#|%d 'Fudo' Kikaika Shidan",
+        "original": "%d 'Fudo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|139#|%d 'Fukutsu' Kikaika Shidan",
+        "original": "%d 'Fukutsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|140#|%d 'Koto' Kikaika Shidan",
+        "original": "%d 'Koto' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|142#|%d 'Kosen' Kikaika Shidan",
+        "original": "%d 'Kosen' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|143#|%d 'Kogo' Kikaika Shidan",
+        "original": "%d 'Kogo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|144#|%d 'Kosaka' Kikaika Shidan",
+        "original": "%d 'Kosaka' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|145#|%d 'Koshu' Kikaika Shidan",
+        "original": "%d 'Koshu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|146#|%d 'Konan' Kikaika Shidan",
+        "original": "%d 'Konan' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|147#|%d 'Koho' Kikaika Shidan",
+        "original": "%d 'Koho' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|148#|%d 'Fugaku' Kikaika Shidan",
+        "original": "%d 'Fugaku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|149#|%d 'Fugyo' Kikaika Shidan",
+        "original": "%d 'Fugyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|150#|%d 'Gocho' Kikaika Shidan",
+        "original": "%d 'Gocho' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|151#|%d 'Gou' Kikaika Shidan",
+        "original": "%d 'Gou' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|152#|%d 'Gozawa' Kikaika Shidan",
+        "original": "%d 'Gozawa' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|153#|%d 'Gokyo' Kikaika Shidan",
+        "original": "%d 'Gokyo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|154#|%d 'Goji' Kikaika Shidan",
+        "original": "%d 'Goji' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|155#|%d 'Godo' Kikaika Shidan",
+        "original": "%d 'Godo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|156#|%d 'Gosai' Kikaika Shidan",
+        "original": "%d 'Gosai' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|157#|%d 'Gogu' Kikaika Shidan",
+        "original": "%d 'Gogu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|158#|%d 'Fumetsu' Kikaika Shidan",
+        "original": "%d 'Fumetsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|160#|%d 'Gosen' Kikaika Shidan",
+        "original": "%d 'Gosen' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|161#|%d 'Shinten' Kikaika Shidan",
+        "original": "%d 'Shinten' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|201#|%d 'Musashi' Kikaika Shidan",
+        "original": "%d 'Musashi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|202#|%d 'Aoba' Kikaika Shidan",
+        "original": "%d 'Aoba' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|205#|%d 'Aki' Kikaika Shidan",
+        "original": "%d 'Aki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|206#|%d 'Aso' Kikaika Shidan",
+        "original": "%d 'Aso' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|209#|%d 'Kaetsu' Kikaika Shidan",
+        "original": "%d 'Kaetsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|212#|%d 'Kikuchi' Kikaika Shidan",
+        "original": "%d 'Kikuchi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|214#|%d 'Hitachi' Kikaika Shidan",
+        "original": "%d 'Hitachi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|216#|%d 'Hiei' Kikaika Shidan",
+        "original": "%d 'Hiei' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|221#|%d 'Tenryū' Kikaika Shidan",
+        "original": "%d 'Tenryū' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|222#|%d 'Towada' Kikaika Shidan",
+        "original": "%d 'Towada' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|224#|%d 'Ako' Kikaika Shidan",
+        "original": "%d 'Ako' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|225#|%d 'Kongo' Kikaika Shidan",
+        "original": "%d 'Kongo' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|229#|%d 'Hokuetsu' Kikaika Shidan",
+        "original": "%d 'Hokuetsu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|230#|%d 'Sobu' Kikaika Shidan",
+        "original": "%d 'Sobu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|231#|%d 'Taikoku' Kikaika Shidan",
+        "original": "%d 'Taikoku' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|234#|%d 'Tone' Kikaika Shidan",
+        "original": "%d 'Tone' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|303#|%d 'Takashi' Kikaika Shidan",
+        "original": "%d 'Takashi' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|308#|%d 'Iwaki' Kikaika Shidan",
+        "original": "%d 'Iwaki' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|312#|%d 'Chitose' Kikaika Shidan",
+        "original": "%d 'Chitose' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|316#|%d 'Yamajiro' Kikaika Shidan",
+        "original": "%d 'Yamajiro' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MEC_01|ordered|320#|%d 'Senbu' Kikaika Shidan",
+        "original": "%d 'Senbu' Kikaika Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_ARM_01|fallback_name",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|1#|Sensha Dai-%d 'Taku' Shidan",
+        "original": "Sensha Dai-%d 'Taku' Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|2#|Sensha Dai-%d 'Geki' Shidan",
+        "original": "Sensha Dai-%d 'Geki' Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|3#|Sensha Dai-%d 'Taki' Shidan",
+        "original": "Sensha Dai-%d 'Taki' Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|4#|Sensha Dai-%d 'Hagane' Shidan",
+        "original": "Sensha Dai-%d 'Hagane' Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|5#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|6#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|7#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|8#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|9#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|10#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|11#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|12#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|13#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|14#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|15#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|16#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|17#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|18#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|19#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|20#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|21#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|22#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|23#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|24#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|25#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|26#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|27#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|28#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|29#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_ARM_01|ordered|30#|Sensha Dai-%d Shidan",
+        "original": "Sensha Dai-%d Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_PAR_01|fallback_name",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|1#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|2#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|3#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|4#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|5#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|6#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|7#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|8#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|9#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|10#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|11#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|12#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|13#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|14#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|15#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|16#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|17#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|18#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|19#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_PAR_01|ordered|20#|%d Kuteiheishidan",
+        "original": "%d Kuteiheishidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MAR_01|fallback_name",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|21#|Sasebo Rikusentai",
+        "original": "Sasebo Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|22#|Maizaru Rikusentai",
+        "original": "Maizaru Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|23#|Yokohama Rikusentai",
+        "original": "Yokohama Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|24#|Kure Rikusentai",
+        "original": "Kure Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|1#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|2#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|3#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|4#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|5#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|6#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|7#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|8#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|9#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|10#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|11#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|12#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|13#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|14#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|15#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|16#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|17#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|18#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|19#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MAR_01|ordered|20#|%d Rikusentai",
+        "original": "%d Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_MNT_01|fallback_name",
+        "original": "%d Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|6#|%d 'Kumamoto' Sangakuryohei Shidan",
+        "original": "%d 'Kumamoto' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|7#|%d 'Asahigawa' Sangakuryohei Shidan",
+        "original": "%d 'Asahigawa' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|9#|%d 'Kanazawa' Sangakuryohei Shidan",
+        "original": "%d 'Kanazawa' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|11#|%d 'Zentsuji' Sangakuryohei Shidan",
+        "original": "%d 'Zentsuji' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|15#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|16#|%d 'Kyoto' Sangakuryohei Shidan",
+        "original": "%d 'Kyoto' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|17#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|21#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|22#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|27#|%d 'Chaina' Sangakuryohei Shidan",
+        "original": "%d 'Chaina' Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|29#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|32#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|33#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|34#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|35#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|36#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|37#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|38#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|39#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|40#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|41#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|52#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_MNT_01|ordered|104#|%d Sangakuryohei Shidan",
+        "original": "%d Sangakuryohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_GAR_01|name",
+        "original": "Garrison Units",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_GAR_01|fallback_name",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|68#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|69#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|70#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|71#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|31#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|61#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|30#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|46#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|47#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|62#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|63#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|64#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|65#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|49#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|72#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|77#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|81#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|86#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|91#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|100#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|102#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|103#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|66#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|73#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|84#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|93#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|105#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|107#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|108#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|109#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|111#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|112#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|115#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|117#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|114#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|94#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|118#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|119#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|120#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|96#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_GAR_01|ordered|167#|%d Tokubetsu Keibitai",
+        "original": "%d Tokubetsu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_IMB_01|name",
+        "original": "Mixed Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "JAP_IMB_01|fallback_name",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|1#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|11#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|201#|Karafuto Dokuritsu Konsei Ryodan",
+        "original": "Karafuto Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|202#|Konoe Dokuritsu Konsei Ryodan",
+        "original": "Konoe Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|12#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|15#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|18#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|203#|2 Konoe Dokuritsu Konsei Ryodan",
+        "original": "2 Konoe Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|5#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|3#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|6#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|7#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|8#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|9#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|10#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|204#|Taiwan Dokuritsu Konsei Ryodan",
+        "original": "Taiwan Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|13#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|17#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|19#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|21#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|22#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|14#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|16#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|20#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|65#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|4#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|29#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|30#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|32#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|2#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|24#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|25#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|26#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|27#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|28#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|34#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|31#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|33#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|35#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|36#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|37#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|38#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|39#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|40#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|43#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|46#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|47#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|48#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|49#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|50#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|51#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|52#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|53#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|54#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|55#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|56#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|57#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|58#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|61#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|62#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|64#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|68#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|70#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|71#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|72#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|73#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|75#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|77#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|89#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|91#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|23#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|44#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|45#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|59#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|60#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|66#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|67#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|69#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|76#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|78#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|79#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|80#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|81#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|82#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|83#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|84#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|85#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|86#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|87#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|88#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|90#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|92#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|95#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|96#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|97#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|98#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|100#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|101#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|102#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|103#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|105#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|107#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|108#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|109#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|112#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|113#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|114#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|115#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|116#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|117#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|118#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|119#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|120#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|121#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|122#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|123#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|124#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|125#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|126#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|127#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|128#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|129#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|130#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|131#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|132#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|133#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|134#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|135#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|JAP_IMB_01|ordered|136#|%d Dokuritsu Konsei Ryodan",
+        "original": "%d Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    }
+]

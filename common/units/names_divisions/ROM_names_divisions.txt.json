@@ -1,0 +1,2282 @@
+[
+    {
+        "key": "ROM_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_INF_01|fallback_name",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|52#|Divizia 1 Infanterie de Garda",
+        "original": "Divizia 1 Infanterie de Garda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|1#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|2#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|3#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|4#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|5#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|6#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|7#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|8#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|9#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|10#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|11#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|12#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|13#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|14#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|15#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|16#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|17#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|18#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|19#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|20#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|21#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|53#|Divizia 2 Infanterie de Garda",
+        "original": "Divizia 2 Infanterie de Garda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|22#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|23#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|24#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|25#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|26#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|27#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|28#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|29#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|30#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|31#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|32#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|54#|Divizie 1 Fortificatii",
+        "original": "Divizie 1 Fortificatii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|55#|Divizie 1 Graniceri",
+        "original": "Divizie 1 Graniceri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|36#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|37#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|38#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|39#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|40#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|41#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|42#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|43#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|44#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|45#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|46#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|47#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|48#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|49#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|50#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_INF_01|ordered|51#|Divizie %d Infanterie",
+        "original": "Divizie %d Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_CAV_01|fallback_name",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|1#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|5#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|6#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|7#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|8#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|9#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|10#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|11#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|12#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|13#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|14#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|15#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|16#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|17#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|18#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|19#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|20#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|21#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|22#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|23#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|24#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|25#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|26#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|27#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|28#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|29#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|30#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|31#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|32#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|33#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|34#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|35#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|36#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|37#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|38#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|39#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|40#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|41#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|42#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|43#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|44#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|45#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|46#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|47#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|48#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|49#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|50#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|51#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|52#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_CAV_01|ordered|53#|Brigada %d Cavalerie",
+        "original": "Brigada %d Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MOT_01|fallback_name",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|1#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|2#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|3#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|4#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|5#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|6#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|7#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|8#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|9#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|10#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|11#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|12#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|13#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|14#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|15#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|16#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|17#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|18#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|19#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|20#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|21#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|22#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|23#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|24#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|25#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|26#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|27#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|28#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|29#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|30#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|31#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|32#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MOT_01|ordered|33#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_ARM_01|fallback_name",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|1#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|2#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|3#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|4#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|5#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|6#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|7#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|8#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|9#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|10#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|11#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|12#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|13#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|14#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|15#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|16#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|17#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|18#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|19#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|20#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|21#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|22#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|23#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|24#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|25#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|26#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|27#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|28#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|29#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|30#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|31#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|32#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_ARM_01|ordered|33#|Divizie %d Armura",
+        "original": "Divizie %d Armura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MEC_01|fallback_name",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|1#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|2#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|3#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|4#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|5#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|6#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|7#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|8#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|9#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|10#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|11#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|12#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|13#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|14#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|15#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|16#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|17#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|18#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|19#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|20#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|21#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|22#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|23#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|24#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|25#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|26#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|27#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|28#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|29#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|30#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|31#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|32#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MEC_01|ordered|33#|Divizie %d Motomecanizat",
+        "original": "Divizie %d Motomecanizat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_GAR_01|fallback_name",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|1#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|2#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|3#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|4#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|5#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|6#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|7#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|8#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|9#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|10#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|11#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|12#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|13#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|14#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|15#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|16#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|17#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|18#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|19#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|20#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|21#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|22#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|23#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|24#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|25#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|26#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|27#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|28#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|29#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|30#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|31#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|32#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|36#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|37#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|38#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|39#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|40#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|41#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|42#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|43#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|44#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|45#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|46#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|47#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|48#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|49#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|50#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_GAR_01|ordered|51#|Divizia %d Paza",
+        "original": "Divizia %d Paza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MAR_01|fallback_name",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|1#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|2#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|3#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|4#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|5#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|6#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|7#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|8#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|9#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|10#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|11#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|12#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|13#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|14#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|15#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|16#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|17#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|18#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|19#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|20#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|21#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|22#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|23#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|24#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|25#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|26#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|27#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|28#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|29#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MAR_01|ordered|30#|Divizie %d Infanterie Marinar",
+        "original": "Divizie %d Infanterie Marinar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_MTN_01|fallback_name",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|1#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|2#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|3#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|4#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|5#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|6#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|7#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|8#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|9#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|10#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|11#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|12#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|13#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|14#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|15#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|16#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|17#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|18#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|19#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|20#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|21#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|22#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|23#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|24#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|25#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|26#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|27#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|28#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|29#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|30#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|31#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|32#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|33#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|34#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|35#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|36#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|37#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|38#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|39#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|40#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|41#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|42#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|43#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|44#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|45#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|46#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|47#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|48#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|49#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|50#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|51#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|52#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_MTN_01|ordered|53#|Brigada %d de Munte Mixtă",
+        "original": "Brigada %d de Munte Mixtă",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ROM_PAR_01|fallback_name",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|1#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|2#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|3#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|4#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|5#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|6#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|7#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|8#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|9#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|10#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|11#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|12#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|13#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|14#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|15#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|16#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|17#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|18#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|19#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|20#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|21#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|22#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|23#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|24#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|25#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|26#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|27#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|28#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|29#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ROM_PAR_01|ordered|30#|Divizie %d Parasutisti",
+        "original": "Divizie %d Parasutisti",
+        "translation": "",
+        "stage": 0
+    }
+]

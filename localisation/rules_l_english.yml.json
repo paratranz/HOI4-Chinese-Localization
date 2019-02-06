@@ -1,0 +1,56 @@
+[
+    {
+        "key": "CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR:1",
+        "original": "Can declare war on a neighbor without a wargoal when at war with a major.",
+        "translation": "和主要国家交战时可以无需战争借口向邻国宣战。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_DECLARE_WAR_ON_SAME_IDEOLOGY:0",
+        "original": "Can declare war on country with the same ideology group without a war goal.",
+        "translation": "可以无需战争借口向同一意识形态组的国家宣战。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_FORCE_GOVERNMENT:0",
+        "original": "Can force government of another country to adopt the same ideology.",
+        "translation": "可以强迫别的国家政府接受己方意识形态。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_GUARANTEE_OTHER_IDEOLOGIES:0",
+        "original": "Can guarantee other ideologies.",
+        "translation": "可以保障其他意识形态国家独立。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_PUPPET:0",
+        "original": "Can puppet a country.",
+        "translation": "可以傀儡其他国家。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_ONLY_JUSTIFY_WAR_ON_THREAT_COUNTRY:1",
+        "original": "Can justify war goals against a country that have not generated world tension.",
+        "translation": "可以对没有引起全球紧张度增长的国家正当化战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_BOOST_OTHER_IDEOLOGIES:0",
+        "original": "Can boost popularity of other ideologies",
+        "translation": "可以提高其他意识形态的支持率。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_JOIN_FACTIONS:0",
+        "original": "Can join factions",
+        "translation": "可以加入阵营",
+        "stage": 1
+    },
+    {
+        "key": "CAN_JOIN_FACTIONS_NOT_ALLOWED_DIPLOMACY:0",
+        "original": "$COUNTRY|NAME$ is not allowed to join factions.",
+        "translation": "$COUNTRY|NAME$无法加入阵营。",
+        "stage": 1
+    }
+]

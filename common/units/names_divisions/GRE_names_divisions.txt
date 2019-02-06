@@ -1,0 +1,612 @@
+GRE_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s Merarchía Pezikoú"
+  ordered = {
+    1 = {
+      "%s Merarchía Pezikoú"
+    }
+    2 = {
+      "%s Merarchía Pezikoú"
+    }
+    3 = {
+      "%s Merarchía Pezikoú"
+    }
+    4 = {
+      "%s Merarchía Pezikoú"
+    }
+    5 = {
+      "%s Merarchía Pezikoú"
+    }
+    6 = {
+      "%s Merarchía Pezikoú"
+    }
+    7 = {
+      "%s Merarchía Pezikoú"
+    }
+    8 = {
+      "%s Merarchía Pezikoú"
+    }
+    9 = {
+      "%s Merarchía Pezikoú"
+    }
+    10 = {
+      "%s Merarchía Pezikoú"
+    }
+    11 = {
+      "%s Merarchía Pezikoú"
+    }
+    12 = {
+      "%s Merarchía Pezikoú"
+    }
+    13 = {
+      "%s Merarchía Pezikoú"
+    }
+    14 = {
+      "%s Merarchía Pezikoú"
+    }
+    15 = {
+      "%s Merarchía Pezikoú"
+    }
+    16 = {
+      "%s Merarchía Pezikoú"
+    }
+    17 = {
+      "%s Merarchía Pezikoú"
+    }
+    18 = {
+      "%s Merarchía Pezikoú"
+    }
+    19 = {
+      "%s Merarchía Pezikoú"
+    }
+    20 = {
+      "%s Merarchía Pezikoú"
+    }
+    21 = {
+      "%s Merarchía Pezikoú"
+    }
+    22 = {
+      "%s Merarchía Pezikoú"
+    }
+    23 = {
+      "%s Merarchía Pezikoú"
+    }
+    24 = {
+      "%s Merarchía Pezikoú"
+    }
+    25 = {
+      "%s Merarchía Pezikoú"
+    }
+    26 = {
+      "%s Merarchía Pezikoú"
+    }
+    27 = {
+      "%s Merarchía Pezikoú"
+    }
+    28 = {
+      "%s Merarchía Pezikoú"
+    }
+    29 = {
+      "%s Merarchía Pezikoú"
+    }
+    30 = {
+      "%s Merarchía Pezikoú"
+    }
+  }
+}
+GRE_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%s Merarchía Ippikoú"
+  ordered = {
+    1 = {
+      "%s Merarchía Ippikoú"
+    }
+    2 = {
+      "%s Merarchía Ippikoú"
+    }
+    3 = {
+      "%s Merarchía Ippikoú"
+    }
+    4 = {
+      "%s Merarchía Ippikoú"
+    }
+    5 = {
+      "%s Merarchía Ippikoú"
+    }
+    6 = {
+      "%s Merarchía Ippikoú"
+    }
+    7 = {
+      "%s Merarchía Ippikoú"
+    }
+    8 = {
+      "%s Merarchía Ippikoú"
+    }
+    9 = {
+      "%s Merarchía Ippikoú"
+    }
+    10 = {
+      "%s Merarchía Ippikoú"
+    }
+  }
+}
+GRE_MOT_01 = {
+  name = "Motorized Infantry Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    GRE_INF_01
+  }
+  fallback_name = "%s Michanopoiiméni Merarchía Pezikoú"
+  ordered = {
+    19 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    1 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    2 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    3 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    4 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    5 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    6 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    7 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    8 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    9 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+    10 = {
+      "%s Michanopoiiméni Merarchía Pezikoú"
+    }
+  }
+}
+GRE_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    GRE_INF_01
+  }
+  fallback_name = "%s Michanokíniti Merarchía"
+  ordered = {
+    19 = {
+      "%s Michanokíniti Merarchía"
+    }
+    1 = {
+      "%s Michanokíniti Merarchía"
+    }
+    2 = {
+      "%s Michanokíniti Merarchía"
+    }
+    3 = {
+      "%s Michanokíniti Merarchía"
+    }
+    4 = {
+      "%s Michanokíniti Merarchía"
+    }
+    5 = {
+      "%s Michanokíniti Merarchía"
+    }
+    6 = {
+      "%s Michanokíniti Merarchía"
+    }
+    7 = {
+      "%s Michanokíniti Merarchía"
+    }
+    8 = {
+      "%s Michanokíniti Merarchía"
+    }
+    9 = {
+      "%s Michanokíniti Merarchía"
+    }
+    10 = {
+      "%s Michanokíniti Merarchía"
+    }
+  }
+}
+GRE_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    GRE_INF_01
+  }
+  fallback_name = "%s Tethorakisméni Merarchía"
+  ordered = {
+    20 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    1 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    2 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    3 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    4 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    5 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    6 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    7 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    8 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    9 = {
+      "%s Tethorakisméni Merarchía"
+    }
+    10 = {
+      "%s Tethorakisméni Merarchía"
+    }
+  }
+}
+GRE_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%s Merarchía Alexiptotiston"
+  ordered = {
+    1 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    2 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    3 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    4 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    5 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    6 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    7 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    8 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    9 = {
+      "%s Merarchía Alexiptotiston"
+    }
+    10 = {
+      "%s Merarchía Alexiptotiston"
+    }
+  }
+}
+GRE_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%s Merarchía Pezonavton"
+  ordered = {
+    1 = {
+      "%s Merarchía Pezonavton"
+    }
+    2 = {
+      "%s Merarchía Pezonavton"
+    }
+    3 = {
+      "%s Merarchía Pezonavton"
+    }
+    4 = {
+      "%s Merarchía Pezonavton"
+    }
+    5 = {
+      "%s Merarchía Pezonavton"
+    }
+    6 = {
+      "%s Merarchía Pezonavton"
+    }
+    7 = {
+      "%s Merarchía Pezonavton"
+    }
+    8 = {
+      "%s Merarchía Pezonavton"
+    }
+    9 = {
+      "%s Merarchía Pezonavton"
+    }
+    10 = {
+      "%s Merarchía Pezonavton"
+    }
+  }
+}
+GRE_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    GRE_INF_01
+  }
+  fallback_name = "%s Merarchía Pezikoú"
+  ordered = {
+    1 = {
+      "%s Merarchía Pezikoú"
+    }
+    2 = {
+      "%s Merarchía Pezikoú"
+    }
+    3 = {
+      "%s Merarchía Pezikoú"
+    }
+    4 = {
+      "%s Merarchía Pezikoú"
+    }
+    5 = {
+      "%s Merarchía Pezikoú"
+    }
+    6 = {
+      "%s Merarchía Pezikoú"
+    }
+    7 = {
+      "%s Merarchía Pezikoú"
+    }
+    8 = {
+      "%s Merarchía Pezikoú"
+    }
+    9 = {
+      "%s Merarchía Pezikoú"
+    }
+    10 = {
+      "%s Merarchía Pezikoú"
+    }
+    11 = {
+      "%s Merarchía Pezikoú"
+    }
+    12 = {
+      "%s Merarchía Pezikoú"
+    }
+    13 = {
+      "%s Merarchía Pezikoú"
+    }
+    14 = {
+      "%s Merarchía Pezikoú"
+    }
+    15 = {
+      "%s Merarchía Pezikoú"
+    }
+    16 = {
+      "%s Merarchía Pezikoú"
+    }
+    17 = {
+      "%s Merarchía Pezikoú"
+    }
+    18 = {
+      "%s Merarchía Pezikoú"
+    }
+    19 = {
+      "%s Merarchía Pezikoú"
+    }
+    20 = {
+      "%s Merarchía Pezikoú"
+    }
+    21 = {
+      "%s Merarchía Pezikoú"
+    }
+    22 = {
+      "%s Merarchía Pezikoú"
+    }
+    23 = {
+      "%s Merarchía Pezikoú"
+    }
+    24 = {
+      "%s Merarchía Pezikoú"
+    }
+    25 = {
+      "%s Merarchía Pezikoú"
+    }
+    26 = {
+      "%s Merarchía Pezikoú"
+    }
+    27 = {
+      "%s Merarchía Pezikoú"
+    }
+    28 = {
+      "%s Merarchía Pezikoú"
+    }
+    29 = {
+      "%s Merarchía Pezikoú"
+    }
+    30 = {
+      "%s Merarchía Pezikoú"
+    }
+  }
+}
+GRE_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    GRE_INF_01
+  }
+  fallback_name = "%s Merarchía Pezikoú"
+  ordered = {
+    21 = {
+      "%s Merarchía Pezikoú"
+    }
+    22 = {
+      "%s Merarchía Pezikoú"
+    }
+    23 = {
+      "%s Merarchía Pezikoú"
+    }
+    24 = {
+      "%s Merarchía Pezikoú"
+    }
+    25 = {
+      "%s Merarchía Pezikoú"
+    }
+    26 = {
+      "%s Merarchía Pezikoú"
+    }
+    27 = {
+      "%s Merarchía Pezikoú"
+    }
+    28 = {
+      "%s Merarchía Pezikoú"
+    }
+    29 = {
+      "%s Merarchía Pezikoú"
+    }
+    30 = {
+      "%s Merarchía Pezikoú"
+    }
+    1 = {
+      "%s Merarchía Pezikoú"
+    }
+    2 = {
+      "%s Merarchía Pezikoú"
+    }
+    3 = {
+      "%s Merarchía Pezikoú"
+    }
+    4 = {
+      "%s Merarchía Pezikoú"
+    }
+    5 = {
+      "%s Merarchía Pezikoú"
+    }
+    6 = {
+      "%s Merarchía Pezikoú"
+    }
+    7 = {
+      "%s Merarchía Pezikoú"
+    }
+    8 = {
+      "%s Merarchía Pezikoú"
+    }
+    9 = {
+      "%s Merarchía Pezikoú"
+    }
+    10 = {
+      "%s Merarchía Pezikoú"
+    }
+    11 = {
+      "%s Merarchía Pezikoú"
+    }
+    12 = {
+      "%s Merarchía Pezikoú"
+    }
+    13 = {
+      "%s Merarchía Pezikoú"
+    }
+    14 = {
+      "%s Merarchía Pezikoú"
+    }
+    15 = {
+      "%s Merarchía Pezikoú"
+    }
+    16 = {
+      "%s Merarchía Pezikoú"
+    }
+    17 = {
+      "%s Merarchía Pezikoú"
+    }
+    18 = {
+      "%s Merarchía Pezikoú"
+    }
+    19 = {
+      "%s Merarchía Pezikoú"
+    }
+    20 = {
+      "%s Merarchía Pezikoú"
+    }
+  }
+}

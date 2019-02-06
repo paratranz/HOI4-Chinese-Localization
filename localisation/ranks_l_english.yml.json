@@ -1,0 +1,98 @@
+[
+    {
+        "key": "rank1:0",
+        "original": "Maj. General",
+        "translation": "少将",
+        "stage": 1
+    },
+    {
+        "key": "rank1_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "rank2:0",
+        "original": "Lt. General",
+        "translation": "中将",
+        "stage": 1
+    },
+    {
+        "key": "rank2_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "rank3:0",
+        "original": "General",
+        "translation": "上将",
+        "stage": 1
+    },
+    {
+        "key": "rank3_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "rank4:0",
+        "original": "Field Marshal",
+        "translation": "元帅",
+        "stage": 1
+    },
+    {
+        "key": "rank4_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "naval_rank1:0",
+        "original": "Commodore",
+        "translation": "海军准将",
+        "stage": 1
+    },
+    {
+        "key": "naval_rank1_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "naval_rank2:0",
+        "original": "Rear Admiral",
+        "translation": "海军少将",
+        "stage": 1
+    },
+    {
+        "key": "naval_rank2_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "naval_rank3:0",
+        "original": "Vice Admiral",
+        "translation": "海军中将",
+        "stage": 1
+    },
+    {
+        "key": "naval_rank3_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "naval_rank4:0",
+        "original": "Admiral",
+        "translation": "海军上将",
+        "stage": 1
+    },
+    {
+        "key": "naval_rank4_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    }
+]

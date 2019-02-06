@@ -1,0 +1,68 @@
+[
+    {
+        "key": "1939.1.1#|create_country_leader|name",
+        "original": "Ismet Inönü",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader|name",
+        "original": "Ismet Inönü",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Mustafa Kemal Atatürk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Sefik Hüsnü",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Celâl Bayar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader####|name",
+        "original": "Fevzi Çakmak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Cemil Cahit Toydemir",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Nazmi Solok",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Salih Omurtak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Rauf Orbay",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Dumlupinar Class",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Pestininku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Kavalerijos Brigados",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Pestininku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Pestininku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Pestininku Divizija",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Kavalerijos Brigados",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Kavalerijos Brigados",
+        "translation": "",
+        "stage": 0
+    }
+]

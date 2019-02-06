@@ -1,0 +1,74 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "District Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Armored-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "District Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "District Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "District Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "New Zealand Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HMNZS Achilles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|equipment|light_cruiser_1|version_name",
+        "original": "Leander Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HMNZS Leander",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Leander Class",
+        "translation": "",
+        "stage": 0
+    }
+]

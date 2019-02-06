@@ -1,0 +1,26 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Federal Council",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Ernest Béuin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Fritz Platten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Henri Guisan",
+        "translation": "",
+        "stage": 0
+    }
+]

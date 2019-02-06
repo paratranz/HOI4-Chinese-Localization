@@ -1,0 +1,1232 @@
+[
+    {
+        "key": "PRC_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_INF_01|fallback_name",
+        "original": "Xin %d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|1#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|21#|1 Lie/120 Bubing Shi",
+        "original": "1 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|31#|1 Lie/129 Bubing Shi",
+        "original": "1 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|2#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|22#|2 Lie/120 Bubing Shi",
+        "original": "2 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|32#|2 Lie/129 Bubing Shi",
+        "original": "2 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|3#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|23#|3 Lie/120 Bubing Shi",
+        "original": "3 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|33#|3 Lie/129 Bubing Shi",
+        "original": "3 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|4#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|24#|4 Lie/120 Bubing Shi",
+        "original": "4 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|34#|4 Lie/129 Bubing Shi",
+        "original": "4 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|5#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|25#|5 Lie/120 Bubing Shi",
+        "original": "5 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|35#|5 Lie/129 Bubing Shi",
+        "original": "5 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|41#|1 Lie/Xin 4 Juntuán",
+        "original": "1 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|42#|2 Lie/Xin 4 Juntuán",
+        "original": "2 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|43#|3 Lie/Xin 4 Juntuán",
+        "original": "3 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|6#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|26#|6 Lie/120 Bubing Shi",
+        "original": "6 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|36#|6 Lie/129 Bubing Shi",
+        "original": "6 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|44#|4 Lie/Xin 4 Juntuán",
+        "original": "4 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|45#|5 Lie/Xin 4 Juntuán",
+        "original": "5 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|7#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|27#|7 Lie/120 Bubing Shi",
+        "original": "7 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|37#|7 Lie/129 Bubing Shi",
+        "original": "7 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|46#|6 Lie/Xin 4 Juntuán",
+        "original": "6 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|47#|7 Lie/Xin 4 Juntuán",
+        "original": "7 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|8#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|28#|8 Lie/120 Bubing Shi",
+        "original": "8 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|38#|8 Lie/129 Bubing Shi",
+        "original": "8 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|48#|8 Lie/Xin 4 Juntuán",
+        "original": "8 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|9#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|29#|9 Lie/120 Bubing Shi",
+        "original": "9 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|39#|9 Lie/129 Bubing Shi",
+        "original": "9 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_INF_01|ordered|49#|9 Lie/Xin 4 Juntuán",
+        "original": "9 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_CAV_01|fallback_name",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|1#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|2#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|3#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|4#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|6#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|5#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|7#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|8#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|9#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|10#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|104#|Xin 4 Luxian Qibing Jun",
+        "original": "Xin 4 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|108#|Xin 8 Luxian Qibing Jun",
+        "original": "Xin 8 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|106#|Xin 6 Luxian Qibing Jun",
+        "original": "Xin 6 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|11#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|12#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|13#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|14#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|15#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|16#|%d Luxian Qibing Jun",
+        "original": "%d Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|101#|Xin 1 Luxian Qibing Jun",
+        "original": "Xin 1 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|102#|Xin 2 Luxian Qibing Jun",
+        "original": "Xin 2 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|103#|Xin 3 Luxian Qibing Jun",
+        "original": "Xin 3 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|105#|Xin 5 Luxian Qibing Jun",
+        "original": "Xin 5 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_CAV_01|ordered|107#|Xin 7 Luxian Qibing Jun",
+        "original": "Xin 7 Luxian Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MOT_01|name",
+        "original": "Motorized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MOT_01|fallback_name",
+        "original": "Xin %d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|1#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|21#|1 Lie/120 Bubing Shi",
+        "original": "1 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|31#|1 Lie/129 Bubing Shi",
+        "original": "1 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|2#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|22#|2 Lie/120 Bubing Shi",
+        "original": "2 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|32#|2 Lie/129 Bubing Shi",
+        "original": "2 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|3#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|23#|3 Lie/120 Bubing Shi",
+        "original": "3 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|33#|3 Lie/129 Bubing Shi",
+        "original": "3 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|4#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|24#|4 Lie/120 Bubing Shi",
+        "original": "4 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|34#|4 Lie/129 Bubing Shi",
+        "original": "4 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|5#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|25#|5 Lie/120 Bubing Shi",
+        "original": "5 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|35#|5 Lie/129 Bubing Shi",
+        "original": "5 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|41#|1 Lie/Xin 4 Juntuán",
+        "original": "1 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|42#|2 Lie/Xin 4 Juntuán",
+        "original": "2 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|43#|3 Lie/Xin 4 Juntuán",
+        "original": "3 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|6#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|26#|6 Lie/120 Bubing Shi",
+        "original": "6 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|36#|6 Lie/129 Bubing Shi",
+        "original": "6 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|44#|4 Lie/Xin 4 Juntuán",
+        "original": "4 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|45#|5 Lie/Xin 4 Juntuán",
+        "original": "5 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|7#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|27#|7 Lie/120 Bubing Shi",
+        "original": "7 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|37#|7 Lie/129 Bubing Shi",
+        "original": "7 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|46#|6 Lie/Xin 4 Juntuán",
+        "original": "6 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|47#|7 Lie/Xin 4 Juntuán",
+        "original": "7 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|8#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|28#|8 Lie/120 Bubing Shi",
+        "original": "8 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|38#|8 Lie/129 Bubing Shi",
+        "original": "8 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|48#|8 Lie/Xin 4 Juntuán",
+        "original": "8 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|9#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|29#|9 Lie/120 Bubing Shi",
+        "original": "9 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|39#|9 Lie/129 Bubing Shi",
+        "original": "9 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MOT_01|ordered|49#|9 Lie/Xin 4 Juntuán",
+        "original": "9 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MEC_01|fallback_name",
+        "original": "Xin %d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|1#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|21#|1 Lie/120 Bubing Shi",
+        "original": "1 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|31#|1 Lie/129 Bubing Shi",
+        "original": "1 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|2#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|22#|2 Lie/120 Bubing Shi",
+        "original": "2 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|32#|2 Lie/129 Bubing Shi",
+        "original": "2 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|3#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|23#|3 Lie/120 Bubing Shi",
+        "original": "3 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|33#|3 Lie/129 Bubing Shi",
+        "original": "3 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|4#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|24#|4 Lie/120 Bubing Shi",
+        "original": "4 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|34#|4 Lie/129 Bubing Shi",
+        "original": "4 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|5#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|25#|5 Lie/120 Bubing Shi",
+        "original": "5 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|35#|5 Lie/129 Bubing Shi",
+        "original": "5 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|41#|1 Lie/Xin 4 Juntuán",
+        "original": "1 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|42#|2 Lie/Xin 4 Juntuán",
+        "original": "2 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|43#|3 Lie/Xin 4 Juntuán",
+        "original": "3 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|6#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|26#|6 Lie/120 Bubing Shi",
+        "original": "6 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|36#|6 Lie/129 Bubing Shi",
+        "original": "6 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|44#|4 Lie/Xin 4 Juntuán",
+        "original": "4 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|45#|5 Lie/Xin 4 Juntuán",
+        "original": "5 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|7#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|27#|7 Lie/120 Bubing Shi",
+        "original": "7 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|37#|7 Lie/129 Bubing Shi",
+        "original": "7 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|46#|6 Lie/Xin 4 Juntuán",
+        "original": "6 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|47#|7 Lie/Xin 4 Juntuán",
+        "original": "7 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|8#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|28#|8 Lie/120 Bubing Shi",
+        "original": "8 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|38#|8 Lie/129 Bubing Shi",
+        "original": "8 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|48#|8 Lie/Xin 4 Juntuán",
+        "original": "8 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|9#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|29#|9 Lie/120 Bubing Shi",
+        "original": "9 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|39#|9 Lie/129 Bubing Shi",
+        "original": "9 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MEC_01|ordered|49#|9 Lie/Xin 4 Juntuán",
+        "original": "9 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_MNT_01|fallback_name",
+        "original": "Xin %d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|1#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|21#|1 Lie/120 Bubing Shi",
+        "original": "1 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|31#|1 Lie/129 Bubing Shi",
+        "original": "1 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|2#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|22#|2 Lie/120 Bubing Shi",
+        "original": "2 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|32#|2 Lie/129 Bubing Shi",
+        "original": "2 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|3#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|23#|3 Lie/120 Bubing Shi",
+        "original": "3 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|33#|3 Lie/129 Bubing Shi",
+        "original": "3 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|4#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|24#|4 Lie/120 Bubing Shi",
+        "original": "4 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|34#|4 Lie/129 Bubing Shi",
+        "original": "4 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|5#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|25#|5 Lie/120 Bubing Shi",
+        "original": "5 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|35#|5 Lie/129 Bubing Shi",
+        "original": "5 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|41#|1 Lie/Xin 4 Juntuán",
+        "original": "1 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|42#|2 Lie/Xin 4 Juntuán",
+        "original": "2 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|43#|3 Lie/Xin 4 Juntuán",
+        "original": "3 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|6#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|26#|6 Lie/120 Bubing Shi",
+        "original": "6 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|36#|6 Lie/129 Bubing Shi",
+        "original": "6 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|44#|4 Lie/Xin 4 Juntuán",
+        "original": "4 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|45#|5 Lie/Xin 4 Juntuán",
+        "original": "5 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|7#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|27#|7 Lie/120 Bubing Shi",
+        "original": "7 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|37#|7 Lie/129 Bubing Shi",
+        "original": "7 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|46#|6 Lie/Xin 4 Juntuán",
+        "original": "6 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|47#|7 Lie/Xin 4 Juntuán",
+        "original": "7 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|8#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|28#|8 Lie/120 Bubing Shi",
+        "original": "8 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|38#|8 Lie/129 Bubing Shi",
+        "original": "8 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|48#|8 Lie/Xin 4 Juntuán",
+        "original": "8 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|9#|%d Lie/115 Bubing Shi",
+        "original": "%d Lie/115 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|29#|9 Lie/120 Bubing Shi",
+        "original": "9 Lie/120 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|39#|9 Lie/129 Bubing Shi",
+        "original": "9 Lie/129 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_MNT_01|ordered|49#|9 Lie/Xin 4 Juntuán",
+        "original": "9 Lie/Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PRC_GAR_01|fallback_name",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|1#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|2#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|3#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|4#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|5#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|101#|1 Yan'an Jingbei",
+        "original": "1 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|102#|2 Yan'an Jingbei",
+        "original": "2 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|103#|3 Yan'an Jingbei",
+        "original": "3 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|104#|4 Yan'an Jingbei",
+        "original": "4 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|105#|5 Yan'an Jingbei",
+        "original": "5 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|6#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|7#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|8#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|9#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|10#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|11#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|12#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|106#|6 Yan'an Jingbei",
+        "original": "6 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|107#|7 Yan'an Jingbei",
+        "original": "7 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|108#|8 Yan'an Jingbei",
+        "original": "8 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|109#|9 Yan'an Jingbei",
+        "original": "9 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|110#|10 Yan'an Jingbei",
+        "original": "10 Yan'an Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|13#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|14#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PRC_GAR_01|ordered|15#|%d Shensi Juntuán",
+        "original": "%d Shensi Juntuán",
+        "translation": "",
+        "stage": 0
+    }
+]

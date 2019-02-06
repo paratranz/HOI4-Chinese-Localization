@@ -1,0 +1,1028 @@
+[
+    {
+        "key": "GRE_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_INF_01|fallback_name",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|1#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|2#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|3#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|4#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|5#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|6#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|7#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|8#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|9#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|10#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|11#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|12#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|13#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|14#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|15#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|16#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|17#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|18#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|19#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|20#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|21#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|22#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|23#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|24#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|25#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|26#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|27#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|28#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|29#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_INF_01|ordered|30#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_CAV_01|fallback_name",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|1#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|2#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|3#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|4#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|5#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|6#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|7#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|8#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|9#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_CAV_01|ordered|10#|%s Merarchía Ippikoú",
+        "original": "%s Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MOT_01|name",
+        "original": "Motorized Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MOT_01|fallback_name",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|19#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|1#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|2#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|3#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|4#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|5#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|6#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|7#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|8#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|9#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MOT_01|ordered|10#|%s Michanopoiiméni Merarchía Pezikoú",
+        "original": "%s Michanopoiiméni Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MEC_01|fallback_name",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|19#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|1#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|2#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|3#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|4#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|5#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|6#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|7#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|8#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|9#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MEC_01|ordered|10#|%s Michanokíniti Merarchía",
+        "original": "%s Michanokíniti Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_ARM_01|fallback_name",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|20#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|1#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|2#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|3#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|4#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|5#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|6#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|7#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|8#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|9#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_ARM_01|ordered|10#|%s Tethorakisméni Merarchía",
+        "original": "%s Tethorakisméni Merarchía",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_PAR_01|fallback_name",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|1#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|2#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|3#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|4#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|5#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|6#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|7#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|8#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|9#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_PAR_01|ordered|10#|%s Merarchía Alexiptotiston",
+        "original": "%s Merarchía Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MAR_01|fallback_name",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|1#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|2#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|3#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|4#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|5#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|6#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|7#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|8#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|9#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MAR_01|ordered|10#|%s Merarchía Pezonavton",
+        "original": "%s Merarchía Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_MNT_01|fallback_name",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|1#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|2#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|3#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|4#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|5#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|6#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|7#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|8#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|9#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|10#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|11#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|12#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|13#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|14#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|15#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|16#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|17#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|18#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|19#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|20#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|21#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|22#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|23#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|24#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|25#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|26#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|27#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|28#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|29#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_MNT_01|ordered|30#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GRE_GAR_01|fallback_name",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|21#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|22#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|23#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|24#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|25#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|26#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|27#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|28#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|29#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|30#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|1#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|2#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|3#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|4#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|5#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|6#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|7#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|8#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|9#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|10#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|11#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|12#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|13#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|14#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|15#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|16#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|17#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|18#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|19#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GRE_GAR_01|ordered|20#|%s Merarchía Pezikoú",
+        "original": "%s Merarchía Pezikoú",
+        "translation": "",
+        "stage": 0
+    }
+]

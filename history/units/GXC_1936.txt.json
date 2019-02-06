@@ -1,0 +1,80 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|name",
+        "original": "Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Adolf Hitler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Konrad Adenauer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Wilhelm Pieck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Gerd von Rundstedt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Günther von Kluge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Friedrich Paulus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Erwin Rommel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Erich von Manstein",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Heinz Guderian",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Wilhelm List",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "Ewald von Kleist",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######|name",
+        "original": "Fedor von Bock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Walter Model",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######|name",
+        "original": "Maximilian von Weichs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########|name",
+        "original": "Wilhelm Ritter von Leeb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########|name",
+        "original": "Georg-Hans Reinhardt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########|name",
+        "original": "Walter Krüger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########|name",
+        "original": "Kurt Student",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############|name",
+        "original": "Erwin von Witzleben",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############|name",
+        "original": "Hermann Hoth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##############|name",
+        "original": "Johannes Blaskowitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###############|name",
+        "original": "Paul Hausser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander################|name",
+        "original": "Friedrich Schulz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#################|name",
+        "original": "Georg von Küchler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##################|name",
+        "original": "Alfred Jodl",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###################|name",
+        "original": "Sepp Dietrich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####################|name",
+        "original": "Hasso von Manteuffel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####################|name",
+        "original": "Albert Kesselring",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######################|name",
+        "original": "Gotthard Heinrici",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######################|name",
+        "original": "Ernst-Eberhard Hell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########################|name",
+        "original": "Felix Steiner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Karl Dönitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Erich Raeder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Alfred Saalwächter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Hermann Boehm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "Wilhelm Marschall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#####|name",
+        "original": "Günther Lütjens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Königsberg Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Deutschland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Ju 86",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Do 17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant#|name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant##|name",
+        "original": "He 112",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant###|name",
+        "original": "Bf 109 E",
+        "translation": "",
+        "stage": 0
+    }
+]

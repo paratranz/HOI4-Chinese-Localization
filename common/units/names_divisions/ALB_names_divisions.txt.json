@@ -1,0 +1,638 @@
+[
+    {
+        "key": "ALB_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_INF_01|fallback_name",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|1#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|2#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|3#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|4#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|5#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|6#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|7#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|8#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|9#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|10#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|11#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|12#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|13#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|14#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|15#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|16#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|17#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|18#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|19#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_INF_01|ordered|20#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_CAV_01|fallback_name",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|1#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|2#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|3#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|4#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|5#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|6#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|7#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|8#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|9#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_CAV_01|ordered|10#|%s Kavaleri Pjesëtim",
+        "original": "%s Kavaleri Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_ARM_01|fallback_name",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|1#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|2#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|3#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|4#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|5#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|6#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|7#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|8#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|9#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_ARM_01|ordered|10#|%s Koracë Pjesëtim",
+        "original": "%s Koracë Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_PAR_01|fallback_name",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|1#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|2#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|3#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|4#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|5#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|6#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|7#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|8#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|9#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_PAR_01|ordered|10#|%s Ushtar përdor Aviacion Pjesëtim",
+        "original": "%s Ushtar përdor Aviacion Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MAR_01|fallback_name",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|1#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|2#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|3#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|4#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|5#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|6#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|7#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|8#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|9#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MAR_01|ordered|10#|%s Marinë Këmbësori Pjesëtim",
+        "original": "%s Marinë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_MNT_01|fallback_name",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|1#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|2#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|3#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|4#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|5#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|6#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|7#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|8#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|9#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_MNT_01|ordered|10#|%s Bjeshkë Këmbësori Pjesëtim",
+        "original": "%s Bjeshkë Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ALB_GAR_01|fallback_name",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|1#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|2#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|3#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|4#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|5#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|6#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|7#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|8#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|9#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|10#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|11#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|12#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|13#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|14#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|15#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|16#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|17#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|18#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|19#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ALB_GAR_01|ordered|20#|%s Këmbësori Pjesëtim",
+        "original": "%s Këmbësori Pjesëtim",
+        "translation": "",
+        "stage": 0
+    }
+]

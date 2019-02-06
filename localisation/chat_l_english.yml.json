@@ -1,0 +1,32 @@
+[
+    {
+        "key": "CHAT_USERJOINEDCHANNEL:0",
+        "original": "$NAME$ joined.",
+        "translation": "$NAME$已加入。",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_USERDISCONNECTED:0",
+        "original": "$NAME$ disconnected.",
+        "translation": "$NAME$已断开。",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_USERWASBANNED:0",
+        "original": "$NAME$ was banned.",
+        "translation": "$NAME$被禁止。",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_USERLEFTCHANNEL:0",
+        "original": "$NAME$ left the channel.",
+        "translation": "$NAME$离开了频道。",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_CHANNEL_GENERAL:0",
+        "original": "General",
+        "translation": "通用频道",
+        "stage": 1
+    }
+]

@@ -1,0 +1,597 @@
+AZR_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dya Azerbaidjyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+  }
+}
+AZR_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dya Azerbaidjyanska Kavaleriyskaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Kavaleriyskaya Div."
+    }
+  }
+}
+AZR_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    AZR_INF_01
+  }
+  fallback_name = "%dya Azerbaidjyanska Motorizovannaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    11 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    12 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    13 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    14 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    15 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    16 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    17 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    18 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    19 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    20 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    21 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    22 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    23 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    24 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+    25 = {
+      "%dya Azerbaidjyanska Motorizovannaya Div."
+    }
+  }
+}
+AZR_AZR_01 = {
+  name = "Armored Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dya Azerbaidjyanska Tankovaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Tankovaya Div."
+    }
+  }
+}
+AZR_MEC_01 = {
+  name = "Mechanized Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    AZR_INF_01
+  }
+  fallback_name = "%dya Azerbaidjyanska Motostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    11 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    12 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    13 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    14 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    15 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    16 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    17 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    18 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    19 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    20 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    21 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    22 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    23 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    24 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+    25 = {
+      "%dya Azerbaidjyanska Motostrelkovaya Div."
+    }
+  }
+}
+AZR_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    AZR_INF_01
+  }
+  fallback_name = "%dya Azerbaidjyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Azerbaidjyanska Strelkovaya Div."
+    }
+  }
+}
+AZR_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    2 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    3 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    4 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    5 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    6 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    7 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    8 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    9 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+    10 = {
+      "%dya Azerbaidjyanska Div. Morskoi Pekhoty"
+    }
+  }
+}
+AZR_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%dya Azerbaidjyanska Gornostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Gornostrelkovaya Div."
+    }
+  }
+}
+AZR_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    AZR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+  ordered = {
+    1 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    2 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    3 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    4 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    5 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    6 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    7 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    8 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    9 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+    10 = {
+      "%dya Azerbaidjyanska Vozdushno-Desantnaya Div."
+    }
+  }
+}

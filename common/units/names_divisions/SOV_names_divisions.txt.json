@@ -1,0 +1,5276 @@
+[
+    {
+        "key": "SOV_INF_01|name",
+        "original": "Rifle Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_INF_01|fallback_name",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|18#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|38#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|49#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|37#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|81#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|43#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|99#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|100#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|41#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|75#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|53#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|65#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|85#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|59#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|66#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|69#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|78#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|82#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|94#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|70#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|71#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|54#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|64#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|73#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|52#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|87#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|11#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|97#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|98#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|108#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|116#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|111#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|67#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|92#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|105#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|90#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|104#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|118#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|126#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|127#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|129#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|130#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|132#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|133#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|134#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|135#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|136#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|137#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|139#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|140#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|141#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|142#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|143#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|144#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|145#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|146#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|148#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|149#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|150#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|151#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|152#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|155#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|156#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|157#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|158#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|159#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|160#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|162#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|164#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|166#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|168#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|169#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|170#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|171#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|172#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|173#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|176#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|178#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|180#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|182#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|186#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|187#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|114#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|120#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|91#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|102#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|107#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|115#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|117#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|119#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|121#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|123#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|124#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|125#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|88#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|89#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|110#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|112#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|113#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|122#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|42#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|106#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|128#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|153#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|154#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|161#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|165#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|167#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|174#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|175#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|177#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|179#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|181#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|183#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|184#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|188#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|189#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|190#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|191#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|193#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|195#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|199#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|200#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|206#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|214#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|217#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|222#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|227#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|228#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|229#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|232#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|233#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|235#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|237#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|238#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|201#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|203#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|207#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|211#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|223#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|224#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|225#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|226#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|230#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|231#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|234#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|241#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|243#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|244#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|245#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|246#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|247#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|248#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|249#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|250#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|251#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|252#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|253#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|254#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|255#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|256#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|257#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|258#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|259#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|260#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|261#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|262#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|263#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|264#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|265#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|266#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|267#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|268#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|269#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|270#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|271#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|272#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|273#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|274#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|275#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|276#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|277#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|278#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|279#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|280#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|281#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|282#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|283#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|284#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|285#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|286#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|287#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|288#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|289#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|290#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|291#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|292#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|293#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|294#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|295#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|296#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|297#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|298#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|299#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|300#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|301#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|303#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|304#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|305#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|306#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|307#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|308#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|310#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|311#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|312#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|313#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|314#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|315#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|316#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|317#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|318#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|319#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|320#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|321#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|322#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|323#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|324#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|325#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|326#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|327#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|328#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|329#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|330#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|332#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|333#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|334#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|335#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|336#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|337#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|339#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|340#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|341#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|342#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|343#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|344#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|345#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|346#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|348#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|349#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|350#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|351#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|352#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|353#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|354#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|355#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|356#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|357#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|358#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|359#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|360#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|361#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|362#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|364#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|365#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|366#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|367#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|368#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|369#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|370#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|371#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|372#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|373#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|374#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|375#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|376#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|377#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|378#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|379#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|380#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|381#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|382#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|383#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|384#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|386#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|387#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|388#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|389#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|390#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|391#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|393#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|395#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|396#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|397#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|399#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|400#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|402#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|404#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|405#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|406#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|407#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|408#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|409#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|411#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|412#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|413#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|414#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|415#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|416#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|417#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|422#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|445#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|410#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|418#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|419#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|420#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|421#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|423#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|424#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|425#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|426#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|427#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|428#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|429#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|430#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|432#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|433#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|434#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|435#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|436#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|437#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|439#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|440#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|441#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|442#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|443#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|444#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|446#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|448#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|449#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|450#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|451#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|452#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|453#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|454#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|455#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|456#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|457#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|458#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|459#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|460#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|461#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|462#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|464#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|465#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|466#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|467#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|468#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|469#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|470#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|471#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|472#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|473#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_INF_01|ordered|474#|%dya Strelkovaya Diviziya",
+        "original": "%dya Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_CAV_01|fallback_name",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|4#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|7#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|10#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|11#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|16#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|17#|%dya Gorno-Kavaleriyskaya Diviziya",
+        "original": "%dya Gorno-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|19#|%dya Gorno-Kavaleriyskaya Diviziya",
+        "original": "%dya Gorno-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|23#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|24#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|25#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|26#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|29#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|30#|%dya Legko-Kavaleriyskaya Diviziya",
+        "original": "%dya Legko-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|31#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|32#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|33#|%dya Gorno-Kavaleriyskaya Diviziya",
+        "original": "%dya Gorno-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|34#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|48#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|67#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|27#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|28#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|35#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|38#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|40#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|41#|%dya Legko-Kavaleriyskaya Diviziya",
+        "original": "%dya Legko-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|43#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|44#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|46#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|47#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|49#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|50#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|51#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|52#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|53#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|54#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|55#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|56#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|57#|%dya Legko-Kavaleriyskaya Diviziya",
+        "original": "%dya Legko-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|60#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|61#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|62#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|63#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|64#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|66#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|68#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|70#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|72#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|73#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|74#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|75#|%dya Legko-Kavaleriyskaya Diviziya",
+        "original": "%dya Legko-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|76#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|77#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|78#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|79#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|80#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|81#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|82#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|83#|%dya Gorno-Kavaleriyskaya Diviziya",
+        "original": "%dya Gorno-Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|87#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|91#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|94#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|97#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|98#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|99#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|100#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|101#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|102#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|103#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|104#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|105#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|106#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|107#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|108#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|109#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|110#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|111#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|112#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|113#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|114#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|115#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|116#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|59#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_CAV_01|ordered|84#|%dya Kavaleriyskaya Diviziya",
+        "original": "%dya Kavaleriyskaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MOT_01|name",
+        "original": "Motor Rifle Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MOT_01|fallback_name",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|81#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|82#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|84#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|69#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|103#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|109#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|131#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|163#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|185#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|198#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|202#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|204#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|205#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|208#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|209#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|210#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|212#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|213#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|215#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|216#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|218#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|219#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|220#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|221#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|236#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|239#|%dya Motostrelkovaya Diviziya",
+        "original": "%dya Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|801#|%OMSDON 'Dzerzhinskiy' Diviziya",
+        "original": "%OMSDON 'Dzerzhinskiy' Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|821#|21ya NKVD Motostrelkovaya Diviziya",
+        "original": "21ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|822#|22ya NKVD Motostrelkovaya Diviziya",
+        "original": "22ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|823#|23ya NKVD Motostrelkovaya Diviziya",
+        "original": "23ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|802#|2ya NKVD Motostrelkovaya Diviziya",
+        "original": "2ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|806#|6ya NKVD Motostrelkovaya Diviziya",
+        "original": "6ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|803#|3ya NKVD Motostrelkovaya Diviziya",
+        "original": "3ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|804#|4ya NKVD Motostrelkovaya Diviziya",
+        "original": "4ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|808#|8ya NKVD Motostrelkovaya Diviziya",
+        "original": "8ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|807#|7ya NKVD Motostrelkovaya Diviziya",
+        "original": "7ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MOT_01|ordered|809#|9ya NKVD Motostrelkovaya Diviziya",
+        "original": "9ya NKVD Motostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MEC_01|fallback_name",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|69#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|81#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|82#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|84#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|103#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|109#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|131#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|163#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|185#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|198#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|202#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|204#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|205#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|208#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|209#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|210#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|212#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|213#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|215#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|216#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|218#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|219#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|220#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|221#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|236#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|239#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MEC_01|ordered|240#|%dya Mekhanizirovanaya Diviziya",
+        "original": "%dya Mekhanizirovanaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_01|name",
+        "original": "Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_01|fallback_name",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|1#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|2#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|3#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|4#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|5#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|6#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|7#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|8#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|9#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|10#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|11#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|12#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|13#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|14#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|15#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|16#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|17#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|18#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|19#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|20#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|21#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|22#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|23#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|24#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|25#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|26#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|27#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|28#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|29#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|30#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|31#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|32#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|33#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|34#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|35#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|36#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|37#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|38#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|39#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|40#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|41#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|42#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|43#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|44#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|45#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|46#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|47#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|48#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|49#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|50#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|51#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|52#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|53#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|54#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|55#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|56#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|57#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|58#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|59#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|60#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|61#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|101#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|102#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|104#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|105#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|107#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|108#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|109#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|110#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|111#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_01|ordered|112#|%dya Tankovaya Diviziya",
+        "original": "%dya Tankovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_02|name",
+        "original": "Tank Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_02|fallback_name",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|1#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|2#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|3#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|4#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|5#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|6#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|7#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|8#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|9#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|10#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|11#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|12#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|13#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|14#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|15#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|16#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|17#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|18#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|19#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|20#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|21#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|22#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|23#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|24#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|25#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|26#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|27#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|28#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|29#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|30#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|31#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|32#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|33#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|34#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|35#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|36#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|37#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|38#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|39#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|40#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|41#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|42#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|43#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|44#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|45#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|46#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|47#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|48#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|49#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|50#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|51#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|52#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|53#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|54#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|55#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|56#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|57#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|58#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|59#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|60#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|61#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|101#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|102#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|104#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|105#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|107#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|108#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|109#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|110#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|111#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_02|ordered|112#|%dya Tankovaya Korpus",
+        "original": "%dya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_03|name",
+        "original": "Guard Tank Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_03|fallback_name",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|1#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|2#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|3#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|4#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|5#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|6#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|7#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|8#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|9#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|10#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|11#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|12#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|13#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|14#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|15#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|16#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|17#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|18#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|19#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|20#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|21#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|22#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|23#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|24#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|25#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|26#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|27#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|28#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|29#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|30#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|31#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|32#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|33#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|34#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|35#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|36#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|37#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|38#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|39#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|40#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|41#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|42#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|43#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|44#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|45#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|46#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|47#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|48#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|49#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|50#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|51#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|52#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|53#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|54#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|55#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|56#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|57#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|58#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|59#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|60#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|61#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|101#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|102#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|104#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|105#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|107#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|108#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|109#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|110#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|111#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_03|ordered|112#|%dya Gvardeiskaya Tankovaya Korpus",
+        "original": "%dya Gvardeiskaya Tankovaya Korpus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_04|name",
+        "original": "Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_ARM_04|fallback_name",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|1#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|2#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|3#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|4#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|5#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|6#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|7#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|8#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|9#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|10#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|11#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|12#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|13#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|14#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|15#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|16#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|17#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|18#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|19#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|20#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|21#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|22#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|23#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|24#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|25#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|26#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|27#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|28#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|29#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|30#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|31#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|32#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|33#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|34#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|35#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|36#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|37#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|38#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|39#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|40#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|41#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|42#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|43#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|44#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|45#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|46#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|47#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|48#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|49#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|50#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|51#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|52#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|53#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|54#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|55#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|56#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|57#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|58#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|59#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|60#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|61#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|101#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|102#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|104#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|105#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|107#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|108#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|109#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|110#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|111#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_ARM_04|ordered|112#|%dya Tankovaya Brigada",
+        "original": "%dya Tankovaya Brigada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MAR_01|fallback_name",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|1#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|2#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|3#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|4#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|5#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|6#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|7#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|8#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|9#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MAR_01|ordered|10#|%dya Diviziya Morskoi Pekhoty",
+        "original": "%dya Diviziya Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MNT_01|name",
+        "original": "Mountain Rifle Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_MNT_01|fallback_name",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|58#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|79#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|101#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|138#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|192#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|194#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|232#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_MNT_01|ordered|302#|%dya Gornostrelkovaya Diviziya",
+        "original": "%dya Gornostrelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_GAR_01|fallback_name",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|1#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|3#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|4#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|5#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|6#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|7#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|8#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|9#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|10#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|11#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|12#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|13#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|15#|%dya NKVD SU Otdel Diviziya",
+        "original": "%dya NKVD SU Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|16#|%dya NKVD SU Otdel Diviziya",
+        "original": "%dya NKVD SU Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|17#|%dya NKVD Pogranichnaya Diviziya",
+        "original": "%dya NKVD Pogranichnaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|19#|%dya NKVD SU Otdel Diviziya",
+        "original": "%dya NKVD SU Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|35#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|36#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|37#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|38#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|39#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|45#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|46#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|47#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|48#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|49#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|50#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|51#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|52#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|53#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|56#|%dya NKVD BZ Otdel Diviziya",
+        "original": "%dya NKVD BZ Otdel Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|57#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|58#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|59#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|60#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|61#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|62#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|63#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|64#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|65#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SOV_GAR_01|ordered|66#|%dya NKVD Strelkovaya Diviziya",
+        "original": "%dya NKVD Strelkovaya Diviziya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_GRD_01|name",
+        "original": "Guards Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_GMC_01|name",
+        "original": "Guards Mechanized",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SOV_GTC_01|name",
+        "original": "Guards Tanks",
+        "translation": "",
+        "stage": 0
+    }
+]

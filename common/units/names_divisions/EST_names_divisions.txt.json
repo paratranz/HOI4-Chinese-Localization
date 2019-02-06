@@ -1,0 +1,770 @@
+[
+    {
+        "key": "EST_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_INF_01|fallback_name",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|1#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|2#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|3#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|4#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|5#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|6#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|7#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|8#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|9#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|10#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|11#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|12#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|13#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|14#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|15#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|16#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|17#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|18#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|19#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_INF_01|ordered|20#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_CAV_01|fallback_name",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|1#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|2#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|3#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|4#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|5#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|6#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|7#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|8#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|9#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_CAV_01|ordered|10#|%s Ratsaväediviisi",
+        "original": "%s Ratsaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MOT_01|fallback_name",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|1#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|2#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|3#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|4#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|5#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|6#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|7#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|8#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|9#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MOT_01|ordered|10#|%s Motoriseeritud diviisi",
+        "original": "%s Motoriseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MEC_01|fallback_name",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|1#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|2#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|3#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|4#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|5#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|6#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|7#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|8#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|9#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MEC_01|ordered|10#|%s Mehhaniseeritud diviisi",
+        "original": "%s Mehhaniseeritud diviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_ARM_01|name",
+        "original": "Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_ARM_01|fallback_name",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|1#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|2#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|3#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|4#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|5#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|6#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|7#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|8#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|9#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_ARM_01|ordered|10#|%s Tankidiviisi",
+        "original": "%s Tankidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_PAR_01|fallback_name",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|1#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|2#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|3#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|4#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|5#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|6#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|7#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|8#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|9#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_PAR_01|ordered|10#|%s Õhudessantdiviisi",
+        "original": "%s Õhudessantdiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MAR_01|fallback_name",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|1#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|2#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|3#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|4#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|5#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|6#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|7#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|8#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|9#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MAR_01|ordered|10#|%s Merejalaväediviisi",
+        "original": "%s Merejalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_MNT_01|fallback_name",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|1#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|2#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|3#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|4#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|5#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|6#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|7#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|8#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|9#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_MNT_01|ordered|10#|%s Mägidiviisi",
+        "original": "%s Mägidiviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EST_GAR_01|fallback_name",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|1#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|2#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|3#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|4#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|5#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|6#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|7#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|8#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|9#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|10#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|11#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|12#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|13#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|14#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|15#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|16#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|17#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|18#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|19#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|EST_GAR_01|ordered|20#|%s Jalaväediviisi",
+        "original": "%s Jalaväediviisi",
+        "translation": "",
+        "stage": 0
+    }
+]

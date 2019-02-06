@@ -1,0 +1,1334 @@
+[
+    {
+        "key": "PRODUCTION_PRODUCTION_LABEL:0",
+        "original": "Production",
+        "translation": "生产",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENTPOOL_LABEL:0",
+        "original": "Storage",
+        "translation": "存量",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY_LABEL:0",
+        "original": "§TEfficiency§!",
+        "translation": "§T效率§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_LABEL:0",
+        "original": "Equipment",
+        "translation": "装备",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ADJUSTERS_LABEL:0",
+        "original": "Adjusters",
+        "translation": "修正",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_LABEL:0",
+        "original": "Materials",
+        "translation": "原料",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FACTORIES_LABEL:0",
+        "original": "Factories",
+        "translation": "工业",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OPERATIONAL_ARMS_FACTORIES_LABEL:0",
+        "original": "Military Factories",
+        "translation": "军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OPERATIONAL_DOCKYARDS_LABEL:0",
+        "original": "Naval Dockyards",
+        "translation": "海军船坞",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OPERATIONAL_FACTORIES_LABEL:0",
+        "original": "Civilian Factories",
+        "translation": "民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AVAILABLE_ARMS_FACTORIES_LABEL:0",
+        "original": "Available Military Factories",
+        "translation": "可用军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AVAILABLE_DOCKYARDS_LABEL:0",
+        "original": "Available Naval Dockyards",
+        "translation": "可用海军船坞",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AVAILABLE_FACTORIES_LABEL:0",
+        "original": "Available Civilian Factories",
+        "translation": "可用民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OPERATIONAL_FACTORIES_VALUE:0",
+        "original": "$VALUE$/$TOT$",
+        "translation": "$VALUE$/$TOT$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MILITARY_LABEL:0",
+        "original": "§TArmy & Airforce Equipment§!",
+        "translation": "§T陆军和空军装备§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_LABEL:0",
+        "original": "§TNavy Equipment§!",
+        "translation": "§T海军装备§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_BUILDINGS_LABEL:0",
+        "original": "§TBuildings construction§!",
+        "translation": "§T建筑施工§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_DAILY:0",
+        "original": "$AMOUNT$/day",
+        "translation": "$AMOUNT$/日",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_WEEKLY:0",
+        "original": "$AMOUNT$/week",
+        "translation": "$AMOUNT$/周",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_MONTHLY:0",
+        "original": "$AMOUNT$/month",
+        "translation": "$AMOUNT$/月",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_YEARLY:0",
+        "original": "$AMOUNT$/year",
+        "translation": "$AMOUNT$/年",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_ETA_DATE:0",
+        "original": "Next complete: $DATE$",
+        "translation": "下次完成日期：$DATE$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_REPAIRING_ETA_DATE:0",
+        "original": "Reparation complete: $DATE$",
+        "translation": "修复完成日期：$DATE$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_ETA_DAYS:0",
+        "original": "In $AMOUNT$ days",
+        "translation": "$AMOUNT$天内",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_ETA_WEEKS:0",
+        "original": "In $AMOUNT$ weeks",
+        "translation": "$AMOUNT$周内",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_ETA_MONTHS:0",
+        "original": "In $AMOUNT$ months",
+        "translation": "$AMOUNT$月内",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_ETA_YEARS:0",
+        "original": "In $AMOUNT$ years",
+        "translation": "$AMOUNT$年内",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_NEVER:1",
+        "original": "§RNever§!",
+        "translation": "§R无§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_NO_FACTORIES:0",
+        "original": "§RNo factories assigned§!",
+        "translation": "§R没有分配工厂§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRODUCING_NONE:0",
+        "original": "§RNone§!",
+        "translation": "§R无§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CAN_NOT_DEPLOY:0",
+        "original": "§RCannot deploy§!",
+        "translation": "§R无法部署§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CAN_NOT_DEPLOY_MANPOWER:0",
+        "original": "Insufficient Manpower",
+        "translation": "人力资源不足",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_INCREASE_PRIORITY_LABEL:0",
+        "original": "§GClick to §Hincrease priority§!.\\nShift+click to give the production §Hhighest priority§!.§!",
+        "translation": "§G点击§H增加优先§!\\nShift+点击使得生产获得§H最高优先§!。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_DECREASE_PRIORITY_LABEL:0",
+        "original": "§GClick to §Hdecrease priority§!.\\nShift+click to give the production §Hlowest priority§!.§!",
+        "translation": "§G点击§H增加优先§!\\nShift+点击使得生产获得§H最低优先§!。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_PRIORITY_DELAYED:0",
+        "original": "A Production Line with higher priority will be given access to resources before Production Lines with a lower priority.",
+        "translation": "相对于低优先的生产线，资源会优先配置给拥有更高优先的生产线。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY:0",
+        "original": "£prod_eff  §TProduction Efficiency: $AMOUNT|H2%$§!",
+        "translation": "£prod_eff §T生产效率：$AMOUNT|H2%$§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY_MOD:0",
+        "original": "£prod_eff §TProduction Efficiency: $AMOUNT|Y2%$§!\\n",
+        "translation": "£prod_eff §T生产效率：$AMOUNT|Y2%$§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY_WITH_GAIN:2",
+        "original": "£prod_eff  §TProduction Efficiency: $AMOUNT|H2%$§! ($GAIN|H3%$ per day)",
+        "translation": "£prod_eff §T生产效率：$AMOUNT|H2%$§!（$GAIN|H3%$/日）",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY_DESC:0",
+        "original": "§TAverage Factory Production Efficiency.\\nProduction Efficiency Increases by $VALUE|H=2$%/unit produced split evenly on active Factories.§!",
+        "translation": "§T工厂平均生产效率。\\n生产效率每单位（这些单位由已激活的工厂平均分离出来）增加$VALUE|H=2$%§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_RESOURCE_PENALTY:0",
+        "original": "§TLack of resources: $AMOUNT|R2%$§!",
+        "translation": "§T缺少资源：$AMOUNT|R2%$§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ASSIGN_EQUIPMENT:0",
+        "original": "§TAssign Equipment to start production.§!",
+        "translation": "§T分配装备，开始生产。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_OIL:0",
+        "original": "Oil",
+        "translation": "石油",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_ALUMINIUM:0",
+        "original": "Aluminum",
+        "translation": "铝",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_RUBBER:0",
+        "original": "Rubber",
+        "translation": "橡胶",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_CHROMIUM:0",
+        "original": "Chromium",
+        "translation": "铬",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_STEEL:0",
+        "original": "Steel",
+        "translation": "钢",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIALS_TUNGSTEN:0",
+        "original": "Tungsten",
+        "translation": "钨",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIAL_VAL:0",
+        "original": "$VALUE|0H$",
+        "translation": "$VALUE|0H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VEHICLES_BUTTON:0",
+        "original": "Build Armored Vehicles",
+        "translation": "生产装甲车辆",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VEHICLES_BUTTON_DISABLED:0",
+        "original": "Armored Vehicles are §RNot invented§!!",
+        "translation": "装甲车辆§R还未发明§!!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VEHICLES_BUTTON_NO_FACTORIES_DISABLED:0",
+        "original": "We have §RNo military factories!§!",
+        "translation": "我们§R没有军用工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_INFANTRY_BUTTON:0",
+        "original": "Build Infantry & Artillery Equipment",
+        "translation": "生产步兵与炮兵装备",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_INFANTRY_BUTTON_DISABLED:0",
+        "original": "Infantry & Artillery Equipment is §RNot invented§!!",
+        "translation": "步兵与炮兵装备§R还未发明§!!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED:0",
+        "original": "We have §RNo military factories!§!",
+        "translation": "我们§R没有军用工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AIRCRAFT_BUTTON:0",
+        "original": "Build Aircraft",
+        "translation": "生产飞行器",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AIRCRAFT_BUTTON_DISABLED:0",
+        "original": "Aircraft is §RNot invented§!!",
+        "translation": "飞行器§R还未发明§!!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AIRCRAFT_BUTTON_NO_FACTORIES_DISABLED:0",
+        "original": "We have §RNo military factories§!!",
+        "translation": "我们§R没有军用工厂§!！",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SHIPS_BUTTON:0",
+        "original": "Build Ships",
+        "translation": "建造舰队",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SHIPS_BUTTON_DISABLED:0",
+        "original": "Ships are §RNot invented§!!",
+        "translation": "舰船§R还未发明§!!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SHIPS_BUTTON_NO_DEPLOY_DISABLED:0",
+        "original": "We have §RNo ports§!!",
+        "translation": "我们§R没有港口§!！",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SHIPS_BUTTON_NO_FACTORIES_DISABLED:0",
+        "original": "We have §RNo dockyards§!!",
+        "translation": "我们§R没有海军船坞§!！",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CONSUMER_GOODS_VALUE:0",
+        "original": "$VALUE$",
+        "translation": "$VALUE$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CONSUMER_GOODS:0",
+        "original": "Consumer Goods",
+        "translation": "生活消费品",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CONSUMER_GOODS_LABEL:0",
+        "original": "§HConsumer Goods§!",
+        "translation": "§H生活消费品§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CONSUMER_GOODS_DESC:0",
+        "original": "With our current Economic Policy, the people expect $PERCENTAGE|H0%$ of our total number of Factories to produce Consumer Goods. This need is filled by Civilian Factories only, leaving us with $OPERATIONAL|H$ factories where $TRADE_USABLE|H$ can be used for trade.",
+        "translation": "在我们现行经济政策下，民众期望我们工厂总数的$PERCENTAGE|H0%$用来生产消费品。只有民用工厂才能满足这种需求，剩余的$OPERATIONAL|H$中$TRADE_USABLE|H$可以进行贸易。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIV_AND_MIL_FACTORIES:0",
+        "original": "Civilian and Military Factories: $KEY|H$",
+        "translation": "民用与军用工厂：$KEY|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_REQ_CONSUMER_GOODS_FACTORIES:0",
+        "original": "Required Consumer Goods Factories: $KEY|H$",
+        "translation": "必要消费品工厂：$KEY|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIAL_COST_DESC:0",
+        "original": "§TThis Production Line uses $AMOUNT|0H$ unit of $MATERIAL|H$.§!",
+        "translation": "§T这条生产线使用$AMOUNT|0H$单位$MATERIAL|H$。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIAL_COST_LACKING_DESC:2",
+        "original": "§T$AMOUNT|0H$ more units are required for full efficiency.§!\\nProduction will continue at §Rreduced speed§!.",
+        "translation": "§T还需要$AMOUNT|0H$以充分发挥效率。§!\\n生产将会以§R减速§!继续。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CANCEL:3",
+        "original": "§GClick to §HCancel§! this Production Line§!\\n§GShift+Click to §HCancel§! all Production Lines§!",
+        "translation": "§G点击§H撤销§!这条生产线§!\\n§GCtrl+点击§H撤销§!所有生产线§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CREATE_VARIANT:0",
+        "original": "§HCreate variant§!",
+        "translation": "§H建造衍生型§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CANCEL_CONSTRUCTION:0",
+        "original": "§TCancel this construction.§!",
+        "translation": "§T取消此次建设。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VARIANT_OBSOLETE_YES:1",
+        "original": "Recommission",
+        "translation": "复役",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VARIANT_OBSOLETE_NO:1",
+        "original": "Decommission",
+        "translation": "退役",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VARIANT_OBSOLETE_YES_DESC:0",
+        "original": "§GClick§! to recommission this variant, marking it as up-to-date equipment.",
+        "translation": "§G点击§!让此衍生型再次投入使用，把它标记为最新型装备。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_VARIANT_OBSOLETE_NO_DESC:0",
+        "original": "§GClick§! to decommission this variant, marking it as outdated equipment.",
+        "translation": "§G点击§!让此衍生型停止使用，把他标记为过时装备。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_FACTORIES_VALUE:0",
+        "original": "$VALUE$/$TOT$",
+        "translation": "$VALUE$/$TOT$",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELPRODUCTIONLINE_TITLE:0",
+        "original": "Cancel Production Line",
+        "translation": "撤销生产线",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELPRODUCTIONLINE_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! this Production Line?",
+        "translation": "你确定要§R撤销§!这条生产线吗？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELALLPRODUCTIONLINE_TITLE:0",
+        "original": "Cancel All Lines",
+        "translation": "撤销所有生产线",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELALLPRODUCTIONLINE_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! all Production Lines?",
+        "translation": "你确定要§R撤销§!所有生产线吗？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_SWITCH_PRODUCTION_MODEL_TITLE:0",
+        "original": "Switch Equipment",
+        "translation": "切断设备",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_SWITCH_PRODUCTION_MODEL_DESC:0",
+        "original": "Are you sure you want to §Rswitch§! Equipment? This makes you lose $DAYS|R$ days of production.",
+        "translation": "你确定要§R切断§!设备吗？这将使你失去$DAYS|R$日的产量。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELCONSTRUCTION_TITLE:0",
+        "original": "Cancel construction",
+        "translation": "取消建设",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELCONSTRUCTION_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! the construction of $CONSTRUCTION|H$ in $REGION|H$?",
+        "translation": "你确定要§R取消§!在$REGION|H$的$CONSTRUCTION|H$建设吗？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELCONSTRUCTIONS_TITLE:0",
+        "original": "Cancel constructions",
+        "translation": "取消建设",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMCANCELCONSTRUCTIONS_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! all constructions?",
+        "translation": "你确定要§R取消§!所有建设吗？",
+        "stage": 1
+    },
+    {
+        "key": "INFINITY:0",
+        "original": "£infinity_icon",
+        "translation": "£infinity_icon",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_NEED:0",
+        "original": "Need: $AMOUNT|Y$",
+        "translation": "需要：$AMOUNT|Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_DEPLOY_TO_BASE:0",
+        "original": "Deploy to port: $BASE|H$",
+        "translation": "部署港口：$BASE|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_DEPLOY_TO_FLEET:0",
+        "original": "Deploy to fleet: $FLEET|H$",
+        "translation": "部署舰队：$FLEET|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_FLEET_INVALID_BASE:0",
+        "original": "Deploy target $FLEET|H$ has no base.",
+        "translation": "部署目标舰队$FLEET|H$无基地。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_FLEET:0",
+        "original": "Deploy target fleet $FLEET|H$ with base in $STATE|H$.",
+        "translation": "部署目标舰队$FLEET|H$到$STATE|H$的基地。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_BASE:0",
+        "original": "Deploy target base in $STATE|H$.",
+        "translation": "在$STATE|H$部署目标基地。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_INVALID_BASE:0",
+        "original": "No deploy target set.",
+        "translation": "无部署目标",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_NOT_DEPLOYABLE:0",
+        "original": "Not deployable",
+        "translation": "无法部署",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_AUTO_DEPLOYMENT:0",
+        "original": "Auto",
+        "translation": "自动",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_SCRAPPING:0",
+        "original": "Scrapping",
+        "translation": "废弃",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_SCRAPPING_DESC:0",
+        "original": "No valid base to deploy to. Unit will be scrapped upon completion.",
+        "translation": "无有效基地可部署。单位在完成后将被废弃。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_STOCKPILING:0",
+        "original": "Stockpiling",
+        "translation": "储备",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_RIGHT_CLICK_TO_ZOOM:0",
+        "original": "§GRight-click to go to province§!",
+        "translation": "§G右击转入省份§!",
+        "stage": 1
+    },
+    {
+        "key": "WEEKLY_PRODUCTION:0",
+        "original": "Weekly production",
+        "translation": "每周产量",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_WORKING_FACTORIES:0",
+        "original": "This is the amount of Factories that are currently working on one of your Production Lines.",
+        "translation": "这是你当前一条生产线运作的工厂数量。",
+        "stage": 1
+    },
+    {
+        "key": "PRODICTION_MIC_TRANSFERED:0",
+        "original": "$AMOUNT|Y$ of our factories are used by $OVERLORD|Y$.",
+        "translation": "我们的$AMOUNT|Y$个工厂正在被$OVERLORD|Y$使用。",
+        "stage": 1
+    },
+    {
+        "key": "PRODICTION_MIC_RECEIVED_FROM_SUBJECT:0",
+        "original": "$AMOUNT|Y$ of military factories are received from our subjects.",
+        "translation": "$AMOUNT|Y$个军用工厂来自于我们的附庸。",
+        "stage": 1
+    },
+    {
+        "key": "PRODICTION_MIC_SENT_TO_OVERLORD:0",
+        "original": "$AMOUNT|R$ of our military factories are given to our overlord, and we have left only $LEFT|H$.",
+        "translation": "我们的$AMOUNT|R$个军用工厂供宗主国使用，我们只剩下了$LEFT|H$个。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_AVAILABLE:0",
+        "original": "Available for construction: $VALUE|Y$",
+        "translation": "可以用来建设：$VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_CURRENTLY:0",
+        "original": "In Use: $VALUE|R$",
+        "translation": "正在使用中：$VALUE|R$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MAX_EFFICIENCY_BASE:0",
+        "original": "Base Cap: $VALUE|Y%$",
+        "translation": "基础上限：$VALUE|Y%$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MAX_EFFICIENCY_TOT:0",
+        "original": "£prod_eff_cap  Production Efficiency Cap: $VALUE|Y%$",
+        "translation": "£prod_eff_cap 生产效率上限：$VALUE|Y%$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MAX_EFFICIENCY_HINT:0",
+        "original": "£prod_eff_cap  Production Efficiency Cap determines the maximum value for your £prod_eff  Production Efficiency. It can be increased by £tech_mod Technologies.",
+        "translation": "£prod_eff_cap 生产效率上限你£prod_eff  生产效率的最大值，可通过£tech_mod 技术增加。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_RESOURCES_PER_FACTORY:0",
+        "original": "§HResources per factory to produce:§!",
+        "translation": "§H每个工厂生产资源：§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIAL_NO_WASTE:0",
+        "original": "Line is not wasting any of this resource.",
+        "translation": "生产线没有浪费该资源。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_MATERIAL_WASTE:0",
+        "original": "Line is wasting $WASTE|R2$ of this resource.",
+        "translation": "生产线正浪费$WASTE|R2$该资源。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SPEED:0",
+        "original": "Production speed: $SPEED|Y$",
+        "translation": "生产速度：$SPEED|Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SPEED_MODIFIERS:0",
+        "original": "§YProduction output modified by:§!",
+        "translation": "§Y产量修正：§!",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_CAPACITY_FACTOR:0",
+        "original": "Factory Output: $VALUE|Y$",
+        "translation": "工厂产量：$VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_CAPACITY_FACTOR_MODIFIERS:0",
+        "original": "Factory Output modified by:",
+        "translation": "工厂产量修正：",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_PROGRESS:0",
+        "original": "$BUILDING|H$ is $PROGRESS|0H$/$COST|0H$ ( $VALUE|0%H$ ) completed.",
+        "translation": "$BUILDING|H$$PROGRESS|0H$/$COST|0H$ ( $VALUE|0%H$ )完成。",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_PROGRESS_REPAIR:0",
+        "original": "$BUILDING|H$ repair progress: $PROGRESS|%0H$",
+        "translation": "$BUILDING|H$ 修复进度：$PROGRESS|%0H$",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_BASE_FACTORY_OUTPUT:0",
+        "original": "Base factory output: $VALUE|H$",
+        "translation": "基础工厂产量：$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRIAL_BASE_SPEED:0",
+        "original": "Output from $FACTORIES|0H$ factories: $VALUE|H$",
+        "translation": "$FACTORIES|0H$工厂产量：$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "PROD_COST_VALUE:0",
+        "original": "£production_cost  $VALUE$",
+        "translation": "£production_cost  $VALUE$",
+        "stage": 1
+    },
+    {
+        "key": "NAVPROD_COST_VALUE:0",
+        "original": "£navprod_cost  $VALUE$",
+        "translation": "£navprod_cost  $VALUE$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_OWNED:0",
+        "original": "Owned: $VAL|H$",
+        "translation": "拥有：$VAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_BORROWED:0",
+        "original": "From exports: +$VAL|H$",
+        "translation": "源自出口：+$VAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_FROM_SUBJECTS:0",
+        "original": "From subjects: +$VAL|H$",
+        "translation": "源自附庸 +$VAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_MASTER:0",
+        "original": "Given to Overlord: $VAL|R$",
+        "translation": "给宗主国：$VAL|R$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_FROM_OTHERS:0",
+        "original": "From other countries: +$VAL|H$",
+        "translation": "源自他国：+$VAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_OTHERS:0",
+        "original": "Given to other countrues: $VAL|R$",
+        "translation": "供给他国：$VAL|R$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CIVILIAN_FACTORIES_DAMAGED:0",
+        "original": "Damaged: $VAL|R$",
+        "translation": "损坏：$VAL|R$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_TOTAL_NEED:2",
+        "original": "$VALUE|0Y$",
+        "translation": "$VALUE|0Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_TOTAL_NEED_FILLED:1",
+        "original": "$AMOUNT|0G$",
+        "translation": "$AMOUNT|0G$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_TOTAL_NEED_UPGRADE:1",
+        "original": "$VALUE|0Y$",
+        "translation": "$VALUE|0Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_DAILY_BALANCE:0",
+        "original": "Daily balance: $VALUE|=2Y$",
+        "translation": "每日结余：$VALUE|=2Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_FILL_ESTIMATION:0",
+        "original": "With current daily balance we will §YFill§! our needs in $VALUE|0Y$ Days.",
+        "translation": "依照现在的每日余额，我们将在$VALUE|0Y$天内§Y满足§!需求。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_FILLED:0",
+        "original": "Our needs are §GFilled§! for now.",
+        "translation": "现在我们的需求已§G满足§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_LOSSES:0",
+        "original": "We lost $VALUE|R$ equipment yesterday.",
+        "translation": "我们昨天失去$VALUE|R$装备。",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_PLANE_DEST_RESERVES:1",
+        "original": "Moved to §YReserves§!",
+        "translation": "移入§Y后备队§!",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_PLANE_DEST_UPGRADING:2",
+        "original": "Needed for §YUpgrades§!",
+        "translation": "用作§Y升级§!",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_PLANE_DEST_REINFORCEMENT:2",
+        "original": "Needed for §YReinforcement§!",
+        "translation": "用作§Y增援§!",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_LAND_DEST_RESERVES:1",
+        "original": "Being §YStockpiled§!",
+        "translation": "正在§Y增加库存§!",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_LAND_DEST_UPGRADING:2",
+        "original": "Needed for §YUpgrades§!",
+        "translation": "用作§Y升级§!",
+        "stage": 1
+    },
+    {
+        "key": "PROD_LINE_LAND_DEST_REINFORCEMENT:2",
+        "original": "Needed for §YReinforcement§!",
+        "translation": "用作§Y增援§!",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_BUILDING_LEVEL_TITLE:0",
+        "original": "Remove Building",
+        "translation": "移除建筑",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_BUILDING_LEVEL_DESC:0",
+        "original": "Are you sure you want to §Rremove§! this Building?",
+        "translation": "你确定要§R移除§!此建筑？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_CONSTRUCTION_LEVEL_TITLE:0",
+        "original": "Cancel Construction",
+        "translation": "取消建设",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_CONSTRUCTION_LEVEL_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! this Construction?",
+        "translation": "你确定要§R取消§!此项建设？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_CONVERSION_LEVEL_TITLE:0",
+        "original": "Cancel Conversion",
+        "translation": "取消转换",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_REMOVE_CONVERSION_LEVEL_DESC:0",
+        "original": "Are you sure you want to §Rcancel§! this Conversion?",
+        "translation": "你确定要§R取消§!此次转换？",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ADD_CONVERSION_LEVEL_TITLE:0",
+        "original": "Start Conversion",
+        "translation": "开始转换",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ADD_CONVERSION_LEVEL_DESC:0",
+        "original": "Are you sure you want to §Rconvert§! this Building?",
+        "translation": "你确定要§R转换§!该建筑？",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFFICIENCY_GAIN_BASE:0",
+        "original": "Daily base gain: $VAL|%Y$",
+        "translation": "每日基础收入：$VAL|%Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_RESOURCE_FACTOR:0",
+        "original": "Lack of resources: $VAL|%+$",
+        "translation": "缺少资源：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OUTPUT_EXPLAIN:0",
+        "original": "Our $FACTORIES|Y$ £factory_item  Military Factories contribute $OUTPUT|Y$ £production_cost . \\n$ITEM|Y$ has a cost of $ITEM_COST|2Y$ £production_cost , which means we can produce $PERTIMEPERIOD$.\\n",
+        "translation": "我们的$FACTORIES|Y$ £factory_item 军用工厂提供$OUTPUT|Y$ £production_cost 。\\n$ITEM|Y$花费$ITEM_COST|2Y$£production_cost ，这表示我们的产量是$PERTIMEPERIOD$。\\n",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OUTPUT_EXPLAIN_NAVAL:0",
+        "original": "Our $FACTORIES|Y$ £naval_factory_icon  Naval Dockyards contribute £navprod_cost $OUTPUT|Y$.\\n$ITEM|Y$ has a cost of $ITEM_COST|2Y$ £navprod_cost , which means we can produce $PERTIMEPERIOD$.\\n",
+        "translation": "我们的$FACTORIES|Y$£naval_factory_icon 海军船坞提供$OUTPUT|Y$ £navprod_cost 。\\n$ITEM|Y$花费$ITEM_COST|2Y$ £navprod_cost ，这表示我们的产量是$PERTIMEPERIOD$。\\n",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_UNITS_PER_DAY:0",
+        "original": "$UNITS|Y$ units per day",
+        "translation": "$UNITS|Y$单位/日",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_UNITS_PER_WEEK:0",
+        "original": "$UNITS|Y$ units per week",
+        "translation": "$UNITS|Y$单位/周",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_UNITS_PER_MONTH:0",
+        "original": "$UNITS|Y$ units per month",
+        "translation": "$UNITS|Y$单位/月",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_UNITS_PER_YEAR:0",
+        "original": "$UNITS|Y$ units per year",
+        "translation": "$UNITS|Y$单位/年",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FACTORY_ASSIGN_DESC:1",
+        "original": "Click to assign £factory_item $FACTORIES|Y$ §YMilitary Factories§! to this Production Line. This would give a base production output of £production_cost $OUTPUT|Y$ per day.\\nThe total output will be affected by §YResources§!, §YProduction Efficiency§! and other §YProduction modifiers§!.",
+        "translation": "点击分配£factory_item $FACTORIES|Y$§Y军用工厂§!到该生产线。这将使总产量£production_cost 变为$OUTPUT|Y$/日。\\n总产出会受到§Y资源§!、§Y生产效率§!和其他§Y生产修正§!的影响。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_DOCKYARD_ASSIGN_DESC:1",
+        "original": "Click to assign £naval_factory_icon $FACTORIES|Y$ §YNaval Dockyards§! to this Production Line. This will give a base production output of £navprod_cost $OUTPUT|Y$ per day. \\nThe total output will be affected by §YResources§! and other §YProduction modifiers§!.",
+        "translation": "点击分配£naval_factory_icon $FACTORIES|Y$§Y海军船坞§!到该生产线。这将使总产量£navprod_cost 变为$OUTPUT|Y$/天。\\n总产出会受到§Y资源§!和其他§Y生产修正§!的影响。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_BASE_OUTPUT:0",
+        "original": "Base output: $VALUE|Y$ x $MUL|Y$",
+        "translation": "基础产量：$VALUE|Y$ x $MUL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EFF_GAIN_HINT:0",
+        "original": "§YEfficiency gain speed modified by:§!",
+        "translation": "§Y效率增长速度修正：§!",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_COMPOSITION_TITLE:0",
+        "original": "Set the default composition of Air Wings for this Carrier",
+        "translation": "设定该航母空军部队的默认编组",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_UNDER:0",
+        "original": "$COUNT|Y$/$LIMIT$",
+        "translation": "$COUNT|Y$/$LIMIT$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_MATCH:0",
+        "original": "$COUNT|G$/$LIMIT$",
+        "translation": "$COUNT|G$/$LIMIT$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_OVER:0",
+        "original": "$COUNT|R$/$LIMIT$",
+        "translation": "$COUNT|R$/$LIMIT$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_DESC:0",
+        "original": "Airplanes/Carrier capacity",
+        "translation": "飞机/航母载机容量",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_DESC_UNDER:0",
+        "original": "§YThe capacity of this carrier won't be fully used§!",
+        "translation": "§Y该航母的载机容量没有完全利用§!",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_LIMIT_DESC_OVER:0",
+        "original": "§RThe capacity of this Carrier will be exceeded and the Air Wings stationed there will suffer a penalty§!",
+        "translation": "§R超过该航母载机容量。驻扎其中的空军部队将会遭受惩罚§!",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_INCREASE:0",
+        "original": "Increase amount\\n§GCtrl+click to increase by§! §H5§!\\n§GShift+click to increase by§! §H10§!",
+        "translation": "增加空军部队数量\\n§GCtrl+点击增加§! §H5§!\\n§GShift+点击增加§! §H10§!",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_AIR_WING_DECREASE:0",
+        "original": "Decrease amount\\n§GCtrl+click to decrease by§! §H5§!\\n§GShift+click to decrease by§! §H10§!",
+        "translation": "减少空军部队数量\\n§GCtrl+点击减少§! §H5§!\\n§GShift+点击减少§! §H10§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ENTRY_NEW:0",
+        "original": "§GNEW§!",
+        "translation": "§G全新§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ENTRY_OUTDATED:0",
+        "original": "§HOUTDATED§!",
+        "translation": "§H过时§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CHANGE:0",
+        "original": "§GClick to §Hchange§! the produced equipment.\\nYou will retain some of the Efficiency if you switch to a newer version of the same equipment.\\n§!§RYou will lose all progress for this line.§!",
+        "translation": "§G点击§H改变§!生产的装备。\\n如果你转而生产同一装备的新型号，将会保留一些生产效率。\\n§!§R但你会失去该生产线当前的所有进度§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CHANGE_NAVAL:0",
+        "original": "§GClick to §Hchange§! the produced equipment.\\n§!§RYou will lose all progress for this line.§!",
+        "translation": "§G点击§H改变§!生产的装备。\\n§!§R你将失去这条生产线上全部的进度。§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EQUIPMENT_FILTER:0",
+        "original": "Infantry & Artillery Equipment",
+        "translation": "步兵和炮兵装备",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ARMOR_FILTER:0",
+        "original": "Armored Vehicles",
+        "translation": "装甲车辆",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_AIR_FILTER:0",
+        "original": "Aircraft",
+        "translation": "飞行器",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CAPITAL_SHIPS_FILTER:0",
+        "original": "Capital Ships",
+        "translation": "主力舰",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SCREEN_SHIPS_FILTER:0",
+        "original": "Screen Ships",
+        "translation": "屏卫舰",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OTHER_SHIPS_FILTER:0",
+        "original": "Other Ships",
+        "translation": "其他舰种",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LACKING_RESOURCES_FILTER:0",
+        "original": "Fulfilled Resources",
+        "translation": "资源充足",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_STOCKPILING_FILTER:0",
+        "original": "Stockpiling",
+        "translation": "增加库存",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_REINFORCING_FILTER:0",
+        "original": "Reinforcing",
+        "translation": "用于增援",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_UPGRADING_FILTER:0",
+        "original": "Upgrading",
+        "translation": "用于升级",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_OUTDATED_FILTER:0",
+        "original": "Up to date models",
+        "translation": "最新型号",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_CLICK_TO_HIDE:0",
+        "original": "§GClick§! to §Rhide§! all of this category.",
+        "translation": "§G点击§!§R隐藏§!此类别。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_CLICK_TO_SHOW:0",
+        "original": "§GClick§! to §Gshow§! all of this category.",
+        "translation": "§G点击§!§G显示§!此类别。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_SHIFTCLICK:1",
+        "original": "\\n§GShift+Click§! to §Rhide§! everything else.",
+        "translation": "\\n§GShift+点击§!§R隐藏§!所有其他类别。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_SHIFTCLICK_AGAIN:0",
+        "original": "\\n§GShift+Click§! to §Gshow§! everything again.",
+        "translation": "\\n§GShift+点击§!重新§G显示§!所有其他类别。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_RIGHTCLICK:0",
+        "original": "\\n§GRight Click§! to toggle collapsing all of this category.",
+        "translation": "\\n§G右键点击§!展开/收起此类别。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_ARMS_FACTORIES:0",
+        "original": "Military Factories used",
+        "translation": "军用工厂使用",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FILTER_DOCKYARDS:0",
+        "original": "Naval Dockyards used",
+        "translation": "海军船坞使用",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_DRAG_N_DROP:0",
+        "original": "§GDrag and drop§! to change the §Ypriority§!.",
+        "translation": "§G拖拽§!改变§Y优先度§!。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_COLLAPSE:0",
+        "original": "§GClick§! to §Ycollapse§!.",
+        "translation": "§G点击§!§Y收起§!。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_EXPAND:0",
+        "original": "§GClick§! to §Yexpand§!.",
+        "translation": "§G点击§!§Y展开§!。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FACTORY_SCALE_UP:0",
+        "original": "§GClick§! to scale up to §Y$SCALE$x§! view.",
+        "translation": "§G点击§!以§Y$SCALE$倍§!单位查看。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_FACTORY_SCALE_DOWN:0",
+        "original": "§GClick§! again to scale down to §Y1x§! view.",
+        "translation": "§G点击§!恢复§Y1倍§!单位查看。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_ADD_FACTORIES_CLICK:0",
+        "original": "§GClick§! to add §Y+1§!\\n§GCtrl + Click§! to add §Y+5§!\\n§GShift + Click§! to add §Y+10§!",
+        "translation": "§G点击§!§Y+1§!\\n§GCtrl+点击§!§Y+5§!\\n§GShift+点击§!§Y+10§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_SUB_FACTORIES_CLICK:0",
+        "original": "§GClick§! to substract §Y-1§!\\n§GCtrl + Click§! to substract §Y-5§!\\n§GShift + Click§! to substract §Y-10§!",
+        "translation": "§G点击§!§Y-1§!\\n§GCtrl+点击§!§Y-5§!\\n§GShift+点击§!§Y-10§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_CLICK_TO_APPEND_OR_INSERT:0",
+        "original": "§GClick§! to append new production line at the end.\\n§GShift + Click§! to put a new production line at the top.",
+        "translation": "§G点击§!在队尾增加新的生产线。\\n§GShift+点击§!在队首插入新的生产线。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_NAVAL_DEPLOYMENT_STATE_NAME:0",
+        "original": "$STATE$ ($LVL|Y$)",
+        "translation": "$STATE$ ($LVL|Y$)",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_NO_EQUIPMENT_IN_STOCK:0",
+        "original": "§RCurrently there is no equipment in stock that we could use to convert into: $VARIANT|H$§!",
+        "translation": "§R我们的储备目前没有装备可以改装为：$VARIANT|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_HEADER:0",
+        "original": "Convert from Stockpile",
+        "translation": "从储备中改装",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION:0",
+        "original": "Order of conversion:",
+        "translation": "改装顺序：",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_ENTRY:0",
+        "original": "\\n  $NUM|Y2$ of $VARIANT|G$ (§H$TYPE$§!) with cost: ",
+        "translation": "\\n  $NUM|Y2$$VARIANT|G$(§H$TYPE$§!)花费：",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_ORDER_OF_CONVERSION_FREE_ENTRY:0",
+        "original": "\\n  $NUM|Y2$ of $VARIANT|G$ (§H$TYPE$§!)",
+        "translation": "\\n  $NUM|Y2$$VARIANT|G$(§H$TYPE$§!)",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_RESOURCE_COST_ENTRY:0",
+        "original": "§H$NUM$§!£resources_strip|$FRAME$ ",
+        "translation": "§H$NUM$§!£resources_strip|$FRAME$ ",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_DESC:1",
+        "original": "Convert from stockpile will use §Houtdated equipment§! or §Hcaptured equipment§! within the stockpile and convert them into modified vehicles requested from the current production line at a reduced cost. This will continue until the stockpile is empty.",
+        "translation": "从储备中改装会将储备中的§H过时的装备§!或者§H缴获的装备§!改装成当前生产线所指定的型号。这会一直持续到储备耗尽。",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_SPEED_TOTAL:1",
+        "original": "Conversion speed: §G+§!$SPD|G%0$",
+        "translation": "改装速度：§G+§!$SPD|G%0$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_SPEED_BASE:0",
+        "original": "Base: $VAL|Y0%$",
+        "translation": "基础值：$VAL|Y0%$",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_RES_NEED:0",
+        "original": "Resources needed to convert from $NAME|Y$:",
+        "translation": "从$NAME|Y$进行改装需要以下战略资源：",
+        "stage": 1
+    },
+    {
+        "key": "PRODUCTION_LINE_CONVERT_RES_NEED_ENTRY:0",
+        "original": "\\n   £resources_strip|$FRAME$: ($NEW|Y0$-$OLD|G0$)=$SUM|R0$",
+        "translation": "\\n   £resources_strip|$FRAME$：($NEW|Y0$-$OLD|G0$)=$SUM|R0$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE:0",
+        "original": "§HLicense production§!: $VALUE|+%$",
+        "translation": "§H许可装备生产速度§!：$VALUE|+%$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL:0",
+        "original": "§HLicense production factory output§!\\nTotal: $VALUE|+%$\\nBreakdown:",
+        "translation": "§H许可装备工厂产出§!\\n总量：$VALUE|+%$\\n详细：",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION:1",
+        "original": "§YLicense technology difference§!:\\n Base: $BASE|+%$\\n Modified total: $TOTAL|+%$",
+        "translation": "§Y许可装备科技差§!：\\n 基础值：$BASE|+%$\\n 修正后合计：$TOTAL|+%$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER:1",
+        "original": "§YLicense modifier§!:\\n Base: $BASE|+%$\\n Modified total: $TOTAL|+%$",
+        "translation": "§Y生产许可修正§!：\\n 基础值：$BASE|+%$\\n 修正后合计：$TOTAL|+%$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION:0",
+        "original": "§YNot in faction with licensor§!: $VALUE|+%$",
+        "translation": "§Y与许可者不在同一阵营§!：$VALUE|+%$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE:0",
+        "original": "§YNo active license§!: $VALUE|+%$",
+        "translation": "§Y没有使用中的生产许可§!：$VALUE|+%$",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_PURCHASE_CIC_COST:1",
+        "original": "§YThis license costs§!: £civ_factory $AMOUNT|Y$",
+        "translation": "§Y这个生产许可花费§!：£civ_factory $AMOUNT|Y$",
+        "stage": 1
+    }
+]

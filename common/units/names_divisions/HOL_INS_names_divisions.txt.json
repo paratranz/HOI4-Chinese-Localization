@@ -1,0 +1,878 @@
+[
+    {
+        "key": "HOL_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_INF_01|fallback_name",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|1#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|2#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|3#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|4#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|5#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|6#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|7#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|8#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|101#|Lichte Divisie",
+        "original": "Lichte Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|102#|Peel Divisie",
+        "original": "Peel Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|9#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|10#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|11#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|12#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|13#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|14#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|15#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|16#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|17#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|18#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|19#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_INF_01|ordered|20#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_CAV_01|fallback_name",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|1#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|2#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|3#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|4#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|5#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|6#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|7#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|8#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|9#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_CAV_01|ordered|10#|%de Huzaren te Paard",
+        "original": "%de Huzaren te Paard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MOT_01|fallback_name",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|101#|Lichte Divisie",
+        "original": "Lichte Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|1#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|2#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|3#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|4#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|5#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|6#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|7#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|8#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|9#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MOT_01|ordered|10#|%de Gemotoriseerde Huzaren",
+        "original": "%de Gemotoriseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MEC_01|fallback_name",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|101#|Lichte Divisie",
+        "original": "Lichte Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|1#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|2#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|3#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|4#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|5#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|6#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|7#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|8#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|9#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MEC_01|ordered|10#|%de Gemechaniseerde Huzaren",
+        "original": "%de Gemechaniseerde Huzaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_ARM_01|fallback_name",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|1#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|2#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|3#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|4#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|5#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|6#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|7#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|8#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|9#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_ARM_01|ordered|10#|%de Pantserdivisie",
+        "original": "%de Pantserdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_PAR_01|fallback_name",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|1#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|2#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|3#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|4#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|5#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|6#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|7#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|8#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|9#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_PAR_01|ordered|10#|%de Parachutistendivisie",
+        "original": "%de Parachutistendivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MAR_01|fallback_name",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|2#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|3#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|4#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|5#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|6#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|7#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|8#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|9#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MAR_01|ordered|10#|%de Mariniersdivisie",
+        "original": "%de Mariniersdivisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_MNT_01|fallback_name",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|1#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|2#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|3#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|4#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|5#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|6#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|7#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|8#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|9#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_MNT_01|ordered|10#|%de Divisie",
+        "original": "%de Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "HOL_GAR_01|fallback_name",
+        "original": "%de Vesting Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|102#|Peel Divisie",
+        "original": "Peel Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|103#|'Oostfront' Vesting Holland",
+        "original": "'Oostfront' Vesting Holland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|104#|'Westfront' Vesting Holland",
+        "original": "'Westfront' Vesting Holland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|105#|Divisie Spui",
+        "original": "Divisie Spui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|106#|Divisie Kil",
+        "original": "Divisie Kil",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|110#|Stelling Den Helder",
+        "original": "Stelling Den Helder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|111#|Stelling  Amsterdam",
+        "original": "Stelling  Amsterdam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|112#|Stelling Rotterdam ",
+        "original": "Stelling Rotterdam ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|113#|Stelling 's Gravenhage",
+        "original": "Stelling 's Gravenhage",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|114#|Stelling Utrecht",
+        "original": "Stelling Utrecht",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|HOL_GAR_01|ordered|115#|Stelling Soesterberg",
+        "original": "Stelling Soesterberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "INS_INF_01|name",
+        "original": "Colonial Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "INS_INF_01|fallback_name",
+        "original": "%se KNIL Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|1#|%se KNIL Divisie 'Java'",
+        "original": "%se KNIL Divisie 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|2#|%se KNIL Divisie 'Java'",
+        "original": "%se KNIL Divisie 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|3#|%se KNIL Divisie 'Java'",
+        "original": "%se KNIL Divisie 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|4#|%se KNIL Divisie 'Sumatra'",
+        "original": "%se KNIL Divisie 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|5#|%se KNIL Divisie 'Sumatra'",
+        "original": "%se KNIL Divisie 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|6#|%se KNIL Divisie 'Borneo'",
+        "original": "%se KNIL Divisie 'Borneo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|7#|%se KNIL Divisie 'Borneo'",
+        "original": "%se KNIL Divisie 'Borneo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|8#|%se KNIL Divisie 'Celebes'",
+        "original": "%se KNIL Divisie 'Celebes'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|9#|%se KNIL Divisie 'Sumatra'",
+        "original": "%se KNIL Divisie 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_INF_01|ordered|10#|%se KNIL Divisie 'Java'",
+        "original": "%se KNIL Divisie 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "INS_GAR_01|name",
+        "original": "Colonial Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "INS_GAR_01|fallback_name",
+        "original": "%se Territoriaal Commando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|1#|%se Territoriaal Commando 'Sumatra'",
+        "original": "%se Territoriaal Commando 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|2#|%se Territoriaal Commando 'Sumatra'",
+        "original": "%se Territoriaal Commando 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|3#|%se Territoriaal Commando 'Borneo'",
+        "original": "%se Territoriaal Commando 'Borneo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|4#|%se Territoriaal Commando 'Celebes'",
+        "original": "%se Territoriaal Commando 'Celebes'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|5#|%se Territoriaal Commando 'Sumatra'",
+        "original": "%se Territoriaal Commando 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|6#|%se Territoriaal Commando 'Borneo'",
+        "original": "%se Territoriaal Commando 'Borneo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|7#|%se Territoriaal Commando 'Java'",
+        "original": "%se Territoriaal Commando 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|8#|%se Territoriaal Commando 'Java'",
+        "original": "%se Territoriaal Commando 'Java'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|9#|%se Territoriaal Commando 'Sumatra'",
+        "original": "%se Territoriaal Commando 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|INS_GAR_01|ordered|10#|%se Territoriaal Commando 'Sumatra'",
+        "original": "%se Territoriaal Commando 'Sumatra'",
+        "translation": "",
+        "stage": 0
+    }
+]

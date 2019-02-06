@@ -1,0 +1,2906 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#######|name",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "1a Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|name",
+        "original": "Raggruppamento Verona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|name",
+        "original": "Alto Isonzo Gruppa d'Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|name",
+        "original": "Raggruppamento Dalmatia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Raggruppamento Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|name",
+        "original": "I Battaglione Sahariano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################|name",
+        "original": "Piazzafotre di Tobruch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################|division_template",
+        "original": "Divisione Autotrasportabile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################|name",
+        "original": "Gruppa Coloniale dell'Amhara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################|division_template",
+        "original": "Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################|name",
+        "original": "Gruppa Coloniale dello Scoia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|name",
+        "original": "Gruppa Coloniale dell'Gimma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|name",
+        "original": "1a Gruppa Coloniale dell'Mogadiscio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################|name",
+        "original": "2a Gruppa Coloniale dell'Mogadiscio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################|division_template",
+        "original": "Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "1a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "RM Zara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "RM Gorizia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "RM Fiume",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "RM Vittorio Alfieri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "RM Giosuè Carducci",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "RM Vincenzo Gioberti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "RM Alfredo Oriani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "4a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "RM Luigi Cadorna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "RM Armando Diaz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "RM Alberico da Barbiano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "RM Alberto da Giussano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "RM Antonio da Noli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "RM Ugolino Vivaldi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "RM Lanzerotto Malocello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "RM Leone Pancaldo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "RM Antonio Pigafetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "RM Alvise da Mosto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|name",
+        "original": "RM Giovanni da Verrazzano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|name",
+        "original": "RM Nicolò Zeno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "5a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "RM Conte di Cavour",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "RM Giulio Cesare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "RM Dardo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "RM Freccia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "RM Saetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "RM Strale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "RM Baleno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "RM Folgore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "RM Fulmine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "RM Lampo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "8a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "RM Duca degli Abruzzi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "RM Giuseppe Garibaldi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "RM Nicoloso da Recco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "RM Emanuele Pessagno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "RM Luca Tarigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "RM Antoniotto Usodimare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "2a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "RM Giovanni dalle Bande Nere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "RM Bartolomeo Colleoni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "RM Maestrale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "RM Grecale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "RM Libeccio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "RM Scirocco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "3a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "RM Bolzano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "RM Trento",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "RM Trieste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "RM Artigliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "RM Camicia Nera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "RM Aviere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "RM Geniere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "6a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "RM Pola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "RM Carabiniere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "RM Ascari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "RM Corazziere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship####|name",
+        "original": "RM Lanciere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "7a Squadra Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "RM Eugenio di Savoia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|equipment|light_cruiser_1|version_name",
+        "original": "Montecuccoli Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "RM Emanuele Filiberto Duca d'Aosta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Montecuccoli Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "RM Muzio Attendolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Montecuccoli Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "RM Raimondo Montecuccoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Montecuccoli Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|name",
+        "original": "RM Granatiere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####|name",
+        "original": "RM Fuciliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship######|name",
+        "original": "RM Bersagliere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#######|name",
+        "original": "RM Alpino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|name",
+        "original": "Squadra di Alto Tirreno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "RM Vega",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "RM Sagittario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "RM Perseo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "RM Sirio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|equipment|destroyer_1|version_name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "RM Calatafimi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "RM Castelfidardo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "RM Curtatone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "RM Monzambano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|name",
+        "original": "Squadra di Basso Tirreno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "RM Generale Marcello Prestinari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "RM Generale Antonio Cantore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "RM Giuseppe La Masa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|name",
+        "original": "RM Giacinto Carini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|name",
+        "original": "RM Procione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|name",
+        "original": "RM Orione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|name",
+        "original": "RM Orsa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#######|name",
+        "original": "RM Pegaso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "Comando Marittimo Sardegna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "RM Generale Achille Papa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "RM Generale Carlo Montanari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "RM Generale Antonino Cascino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "RM Generale Antonio Chinotto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "RM Antonio Mosto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "RM Fratelli Cairoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "RM Canopo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "RM Cassiopea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|name",
+        "original": "Comando Marittimo Sicilia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|name",
+        "original": "RM Calipso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|name",
+        "original": "RM Calliope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|name",
+        "original": "RM Circe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|name",
+        "original": "RM Clio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|name",
+        "original": "RM Pallade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|name",
+        "original": "RM Partenope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|name",
+        "original": "RM Pleiadi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|name",
+        "original": "RM Polluce",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|name",
+        "original": "RM Airone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|name",
+        "original": "RM Ariel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##########|name",
+        "original": "RM Aretusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###########|name",
+        "original": "RM Alcione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship############|name",
+        "original": "RM Aldebaran",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#############|name",
+        "original": "RM Altair",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##############|name",
+        "original": "RM Andromeda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###############|name",
+        "original": "RM Antares",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship################|name",
+        "original": "RM Giuseppe La Farina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#################|name",
+        "original": "RM Simone Schiaffino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##################|name",
+        "original": "RM Giuseppe Dezza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###################|name",
+        "original": "RM Giuseppe Cesare Abba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|name",
+        "original": "Squadra di Alto Adriatico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|name",
+        "original": "RM Palestro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|name",
+        "original": "RM Confienza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|name",
+        "original": "RM San Martino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###|name",
+        "original": "RM Solferino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|name",
+        "original": "Squadra di Basso Adriatico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship|name",
+        "original": "RM San Giorgio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#|name",
+        "original": "RM Taranto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##|name",
+        "original": "RM Bari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###|name",
+        "original": "RM Espero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship####|name",
+        "original": "RM Borea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#####|name",
+        "original": "RM Zeffiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#####|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship######|name",
+        "original": "RM Ostro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship######|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#######|name",
+        "original": "RM Rosolino Pilo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship########|name",
+        "original": "RM Giuseppe Missori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#########|name",
+        "original": "RM Francesco Stocco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##########|name",
+        "original": "RM Giuseppe Sirtori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###########|name",
+        "original": "RM Angelo Bassini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship############|name",
+        "original": "RM Enrico Cosenz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#############|name",
+        "original": "RM Giacomo Medici",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##############|name",
+        "original": "RM Nicola Fabrizi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###############|name",
+        "original": "RM Carlo Mirabello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship################|name",
+        "original": "RM Augusto Riboty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|name",
+        "original": "Comando Navale Egeo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship|name",
+        "original": "RM Francesco Crispi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#|name",
+        "original": "RM Quintino Sella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##|name",
+        "original": "RM Libra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship###|name",
+        "original": "RM Lince",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship####|name",
+        "original": "RM Lira",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#####|name",
+        "original": "RM Lupo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|name",
+        "original": "1° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship|name",
+        "original": "RM Pietro Calvi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#|name",
+        "original": "RM Giuseppe Finzi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##|name",
+        "original": "RM Enrico Tazzoli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###|name",
+        "original": "RM Ettore Fieramosca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####|name",
+        "original": "RM Veniero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####|name",
+        "original": "RM Mocenigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######|name",
+        "original": "RM Glauco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######|name",
+        "original": "RM Otaria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship########|name",
+        "original": "RM Berillo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#########|name",
+        "original": "RM Onice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##########|name",
+        "original": "RM Gemma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###########|name",
+        "original": "RM Iride",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship############|name",
+        "original": "RM Argo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#############|name",
+        "original": "RM Velella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##############|name",
+        "original": "RM Gondar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###############|name",
+        "original": "RM Neghelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship################|name",
+        "original": "RM Ascianghi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#################|name",
+        "original": "RM Scirè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##################|name",
+        "original": "RM H1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship###################|name",
+        "original": "RM H2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship####################|name",
+        "original": "RM H4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#####################|name",
+        "original": "RM H6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship######################|name",
+        "original": "RM H8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|name",
+        "original": "2° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship|name",
+        "original": "RM Dandolo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#|name",
+        "original": "RM Marcello",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##|name",
+        "original": "RM Provana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship###|name",
+        "original": "RM Barbarigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship###|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship####|name",
+        "original": "RM Emo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship####|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#####|name",
+        "original": "RM Morosini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#####|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship######|name",
+        "original": "RM Nani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship######|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|name",
+        "original": "3° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship|name",
+        "original": "RM Vettor Pisani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#|name",
+        "original": "RM Giovanni Bausan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship##|name",
+        "original": "RM Marcantonio Colonna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship###|name",
+        "original": "RM Des Geneys",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship####|name",
+        "original": "RM Fratelli Bandiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship####|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#####|name",
+        "original": "RM Luciano Manara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#####|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship######|name",
+        "original": "RM Ciro Menotti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship######|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#######|name",
+        "original": "RM Santorre Santarosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#######|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship########|name",
+        "original": "RM Goffredo Mameli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#########|name",
+        "original": "RM Pier Capponi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship##########|name",
+        "original": "RM Tito Speri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship###########|name",
+        "original": "RM Giovanni da Procida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship############|name",
+        "original": "RM Durbo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#############|name",
+        "original": "RM Tembien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship##############|name",
+        "original": "RM Beilul",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|name",
+        "original": "4° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship|name",
+        "original": "RM Balilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#|name",
+        "original": "RM Antonio Sciesa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship##|name",
+        "original": "RM Enrico Toti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship###|name",
+        "original": "RM Domenico Millelire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship####|name",
+        "original": "RM Brin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship####|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#####|name",
+        "original": "RM Luigi Settembrini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#####|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship######|name",
+        "original": "RM Ruggiero Settimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship######|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#######|name",
+        "original": "RM Anfitrite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship########|name",
+        "original": "RM Salpa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship########|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#########|name",
+        "original": "RM Serpente ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#########|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship##########|name",
+        "original": "RM Dagabur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship###########|name",
+        "original": "RM Dessiè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship############|name",
+        "original": "RM Uarsciek",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#############|name",
+        "original": "RM Uebi Scebeli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship##############|name",
+        "original": "RM Malacite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship###############|name",
+        "original": "RM Ambra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship################|name",
+        "original": "RM Rubino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship################|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#################|name",
+        "original": "RM Ondina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship#################|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|name",
+        "original": "5° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship|name",
+        "original": "RM Delfino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#|name",
+        "original": "RM Narvalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##|name",
+        "original": "RM Squalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###|name",
+        "original": "RM Tricheco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###|equipment|submarine_1|version_name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship####|name",
+        "original": "RM Jalea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship####|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#####|name",
+        "original": "RM Jantina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#####|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship######|name",
+        "original": "RM Ametista",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#######|name",
+        "original": "RM Zaffiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|name",
+        "original": "7° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship|name",
+        "original": "RM Adua",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#|name",
+        "original": "RM Alagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship##|name",
+        "original": "RM Aradam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship###|name",
+        "original": "RM Axum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship####|name",
+        "original": "RM Diaspro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#####|name",
+        "original": "RM Corallo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship######|name",
+        "original": "RM Turchese",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#######|name",
+        "original": "RM Medusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|name",
+        "original": "Comando Navale Libia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship|name",
+        "original": "RM Aquilone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#|name",
+        "original": "RM Euro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship##|name",
+        "original": "RM Nembo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship##|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship###|name",
+        "original": "RM Turbine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship###|equipment|destroyer_1|version_name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship####|name",
+        "original": "RM Castore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#####|name",
+        "original": "RM Centauro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship######|name",
+        "original": "RM Cigno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#######|name",
+        "original": "RM Climene",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|name",
+        "original": "Comando Navale Mar Rosso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship|name",
+        "original": "RM Francesco Nullo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#|name",
+        "original": "RM Nazario Sauro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship##|name",
+        "original": "RM Cesare Battisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship###|name",
+        "original": "RM Daniele Manin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship####|name",
+        "original": "RM Leone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#####|name",
+        "original": "RM Pantera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship######|name",
+        "original": "RM Tigre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#######|name",
+        "original": "RM Giovanni Acerbi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship########|name",
+        "original": "RM Vincenzo Giordano Orsini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|name",
+        "original": "6° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship|name",
+        "original": "RM Sirena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#|name",
+        "original": "RM Argonauta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##|name",
+        "original": "RM Fisalia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###|name",
+        "original": "RM Smeraldo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship####|name",
+        "original": "RM Naiade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship####|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#####|name",
+        "original": "RM Lafolè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship######|name",
+        "original": "RM Diamante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#######|name",
+        "original": "RM Topazio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#######|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|name",
+        "original": "RM Galatea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|name",
+        "original": "RM Nereide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|name",
+        "original": "8° Gruppo Sommergibili",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship|name",
+        "original": "RM Guglielmotti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#|name",
+        "original": "RM Galvani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship##|name",
+        "original": "RM Galileo Galilei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship##|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###|name",
+        "original": "RM Galileo Ferraris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###|equipment|submarine_1|version_name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship####|name",
+        "original": "RM Perla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#####|name",
+        "original": "RM Macallè",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship######|name",
+        "original": "RM Archimede",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship######|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#######|name",
+        "original": "RM Torricelli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#######|equipment|submarine_2|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production##########|equipment|version_name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    }
+]

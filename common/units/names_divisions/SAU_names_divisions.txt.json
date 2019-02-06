@@ -1,0 +1,1004 @@
+[
+    {
+        "key": "SAU_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_INF_01|fallback_name",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|1#|Alfurqat Ar Riyad",
+        "original": "Alfurqat Ar Riyad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|2#|Alfurqat Jiddah",
+        "original": "Alfurqat Jiddah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|3#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|4#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|5#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|6#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|7#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|8#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|9#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|10#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|12#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|13#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|14#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|15#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|16#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|17#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|18#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|19#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_INF_01|ordered|20#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_CAV_01|fallback_name",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|1#|Alfursan Almalika 'Medina'",
+        "original": "Alfursan Almalika 'Medina'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|2#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|3#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|4#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|5#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|6#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|7#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|8#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|9#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|10#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|11#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|12#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|13#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|14#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|15#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|16#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|17#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|18#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|19#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_CAV_01|ordered|20#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MOT_01|fallback_name",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|1#|Alfurqat Ar Riyad",
+        "original": "Alfurqat Ar Riyad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|2#|Alfurqat Jiddah",
+        "original": "Alfurqat Jiddah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|3#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|4#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|5#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|6#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|7#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|8#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|9#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|10#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|12#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|13#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|14#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|15#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|16#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|17#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|18#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|19#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MOT_01|ordered|20#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_ARM_01|fallback_name",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|1#|Alfursan Almalika 'Medina'",
+        "original": "Alfursan Almalika 'Medina'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|2#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|3#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|4#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|5#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|6#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|7#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|8#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|9#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|10#|Alfursan Almalika al-%di",
+        "original": "Alfursan Almalika al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|11#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|12#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|13#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|14#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|15#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|16#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|17#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|18#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|19#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_ARM_01|ordered|20#|Alfursan Almalika al-%dr",
+        "original": "Alfursan Almalika al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MEC_01|fallback_name",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|1#|Alfurqat Ar Riyad",
+        "original": "Alfurqat Ar Riyad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|2#|Alfurqat Jiddah",
+        "original": "Alfurqat Jiddah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|3#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|4#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|5#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|6#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|7#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|8#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|9#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|10#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|12#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|13#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|14#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|15#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|16#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|17#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|18#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|19#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MEC_01|ordered|20#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_GAR_01|fallback_name",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|1#|Alfurqat Ar Riyad",
+        "original": "Alfurqat Ar Riyad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|2#|Alfurqat Jiddah",
+        "original": "Alfurqat Jiddah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|3#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|4#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|5#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|6#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|7#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|8#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|9#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|10#|Alfurqat al-%di",
+        "original": "Alfurqat al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|12#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|13#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|14#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|15#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|16#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|17#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|18#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|19#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_GAR_01|ordered|20#|Alfurqat al-%dr",
+        "original": "Alfurqat al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MAR_01|fallback_name",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|20#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|21#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|22#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|23#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|24#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|25#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|26#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|27#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|28#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|29#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MAR_01|ordered|30#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_MTN_01|fallback_name",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|20#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|21#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|22#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|23#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|24#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|25#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|26#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|27#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|28#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|29#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_MTN_01|ordered|30#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SAU_PAR_01|fallback_name",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|20#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|21#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|22#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|23#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|24#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|25#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|26#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|27#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|28#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|29#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SAU_PAR_01|ordered|30#|al-Mushati al-%dr",
+        "original": "al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    }
+]

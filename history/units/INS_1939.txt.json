@@ -1,0 +1,56 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "KNIL Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "KNIL Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "KNIL Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "KNIL Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "KNIL Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    }
+]

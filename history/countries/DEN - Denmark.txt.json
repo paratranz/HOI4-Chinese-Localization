@@ -1,0 +1,32 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Thorvald Stauning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Frits Clausen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Aksel Larsen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Peter Rochegune Munch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Wilhelm Wain Prior",
+        "translation": "",
+        "stage": 0
+    }
+]

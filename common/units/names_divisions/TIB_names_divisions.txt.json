@@ -1,0 +1,1346 @@
+[
+    {
+        "key": "TIB_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_INF_01|fallback_name",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|1#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|2#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|3#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|4#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|5#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|6#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|7#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|8#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|9#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|10#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|12#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|14#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|15#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|17#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|19#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|21#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|22#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|25#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|28#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|29#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|30#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|35#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|38#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|40#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|42#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|46#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|47#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|49#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|50#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|51#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|57#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|58#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|61#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|62#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|63#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|64#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|65#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|66#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_INF_01|ordered|69#|Di'%d Shi",
+        "original": "Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_CAV_01|fallback_name",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|1#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|2#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|3#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|4#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|5#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|6#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|7#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|8#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|9#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_CAV_01|ordered|10#|Qibing Di'%d Shi",
+        "original": "Qibing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MOT_01|fallback_name",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|1#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|2#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|3#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|4#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|5#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|6#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|7#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|8#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|9#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|10#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|12#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|14#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|15#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|17#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|19#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|21#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|22#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|25#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|28#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|29#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|30#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|35#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|38#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|40#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|42#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|46#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|47#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|49#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|50#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|51#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|57#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|58#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|61#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|62#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|63#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|64#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|65#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|66#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MOT_01|ordered|69#|Motuohua Bubing Di'%d Shi",
+        "original": "Motuohua Bubing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_ARM_01|fallback_name",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|1#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|2#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|3#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|4#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|5#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|6#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|7#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|8#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|9#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_ARM_01|ordered|10#|Zhuangjiabing Di'%d Shi",
+        "original": "Zhuangjiabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MEC_01|fallback_name",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|1#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|2#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|3#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|4#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|5#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|6#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|7#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|8#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|9#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|10#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|12#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|14#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|15#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|17#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|19#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|21#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|22#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|25#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|28#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|29#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|30#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|35#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|38#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|40#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|42#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|46#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|47#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|49#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|50#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|51#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|57#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|58#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|61#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|62#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|63#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|64#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|65#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|66#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MEC_01|ordered|69#|Jixiehua Di'%d Shi",
+        "original": "Jixiehua Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_GAR_01|fallback_name",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|1#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|2#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|3#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|4#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|5#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|6#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|7#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|8#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|9#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_GAR_01|ordered|10#|Xi'zang Juntuan %d",
+        "original": "Xi'zang Juntuan %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MAR_01|fallback_name",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|1#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|2#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|3#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|4#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|5#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|6#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|7#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|8#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|9#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MAR_01|ordered|10#|Luzhan Dui Di'%d Shi",
+        "original": "Luzhan Dui Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_MTN_01|fallback_name",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|1#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|2#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|3#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|4#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|5#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|6#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|7#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|8#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|9#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|10#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|12#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|14#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|15#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|17#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|19#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|21#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|22#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|25#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|28#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|29#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|30#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|35#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|38#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|40#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|42#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|46#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|47#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|49#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|50#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|51#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|57#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|58#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|61#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|62#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|63#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|64#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|65#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|66#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_MTN_01|ordered|69#|Pabing Di'%d Shi",
+        "original": "Pabing Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TIB_PAR_01|fallback_name",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|1#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|2#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|3#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|4#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|5#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|6#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|7#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|8#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|9#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|TIB_PAR_01|ordered|10#|Jiangluo Sanbu Di'%d Shi",
+        "original": "Jiangluo Sanbu Di'%d Shi",
+        "translation": "",
+        "stage": 0
+    }
+]

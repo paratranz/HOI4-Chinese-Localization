@@ -1,0 +1,1094 @@
+[
+    {
+        "key": "BRENGL_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_INF_01|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|17#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|18#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|19#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INF_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_INFB_01|name",
+        "original": "Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_INFB_01|fallback_name",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|1#|%dst Infantry Brigade",
+        "original": "%dst Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|2#|%dnd Infantry Brigade",
+        "original": "%dnd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|3#|%drd Infantry Brigade",
+        "original": "%drd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|4#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|5#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|6#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|7#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|8#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|9#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|10#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|11#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|12#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|13#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|14#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|15#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|16#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|17#|%dst Infantry Brigade",
+        "original": "%dst Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|18#|%dnd Infantry Brigade",
+        "original": "%dnd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|19#|%drd Infantry Brigade",
+        "original": "%drd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|20#|%dth Infantry Brigade",
+        "original": "%dth Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|21#|%dst Infantry Brigade",
+        "original": "%dst Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|22#|%dnd Infantry Brigade",
+        "original": "%dnd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_INFB_01|ordered|23#|%drd Infantry Brigade",
+        "original": "%drd Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_CAV_01|fallback_name",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|1#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|2#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|4#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|5#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|6#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|7#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|8#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|9#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_CAV_01|ordered|10#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MOT_01|name",
+        "original": "Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MOT_01|fallback_name",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|1#|%dst Motorised Division",
+        "original": "%dst Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|2#|%dnd Motorised Division",
+        "original": "%dnd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|3#|%drd Motorised Division",
+        "original": "%drd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|4#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|5#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|6#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|7#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|8#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|9#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MOT_01|ordered|10#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_MOT_01|fallback_name",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|1#|%dst Motorized Division",
+        "original": "%dst Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|2#|%dnd Motorized Division",
+        "original": "%dnd Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|3#|%drd Motorized Division",
+        "original": "%drd Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|4#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|5#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|6#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|7#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|8#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|9#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MOT_01|ordered|10#|%dth Motorized Division",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MEC_01|name",
+        "original": "Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MEC_01|fallback_name",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|1#|%dst Mechanised Division",
+        "original": "%dst Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|2#|%dnd Mechanised Division",
+        "original": "%dnd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|3#|%drd Mechanised Division",
+        "original": "%drd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|4#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|5#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|6#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|7#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|8#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|9#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MEC_01|ordered|10#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_MEC_01|fallback_name",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|1#|%dst Mechanized Division",
+        "original": "%dst Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|2#|%dnd Mechanized Division",
+        "original": "%dnd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|3#|%drd Mechanized Division",
+        "original": "%drd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|4#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|5#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|6#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|7#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|8#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|9#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_MEC_01|ordered|10#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_ARM_01|name",
+        "original": "Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_ARM_01|fallback_name",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|1#|%dst Armoured Division",
+        "original": "%dst Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|2#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|3#|%drd Armoured Division",
+        "original": "%drd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|4#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|5#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|6#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|7#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|8#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|9#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_ARM_01|ordered|10#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AMENGL_ARM_01|fallback_name",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|1#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|2#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|3#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|4#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|5#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|6#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|7#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|8#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|9#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AMENGL_ARM_01|ordered|10#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_PAR_01|fallback_name",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_PAR_01|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MAR_01|fallback_name",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|1#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|2#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|3#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|4#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|5#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|6#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|7#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|8#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|9#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MAR_01|ordered|10#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_MNT_01|fallback_name",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|1#|%dst Mountain Division",
+        "original": "%dst Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|2#|%dnd Mountain Division",
+        "original": "%dnd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|3#|%drd Mountain Division",
+        "original": "%drd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|4#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|5#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|6#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|7#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|8#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|9#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_MNT_01|ordered|10#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BRENGL_GAR_01|fallback_name",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|1#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|2#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|3#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|4#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|5#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|6#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|7#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|8#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|9#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BRENGL_GAR_01|ordered|10#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    }
+]

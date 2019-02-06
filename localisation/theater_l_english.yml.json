@@ -1,0 +1,458 @@
+[
+    {
+        "key": "ALERT_LOW_SUPPLY:0",
+        "original": "§RSupply shortage!§!",
+        "translation": "§R补给不足!§!",
+        "stage": 1
+    },
+    {
+        "key": "ACTIVATE_PHASE:0",
+        "original": "Activate phase",
+        "translation": "启动阶段",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_DETACH:0",
+        "original": "Split up advance",
+        "translation": "分兵推进",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_DEFENSIVE_LINE:0",
+        "original": "Assign Front Line",
+        "translation": "指定前线",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_OFFENSIVE_LINE:0",
+        "original": "Offensive Line",
+        "translation": "进攻态势线",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PARADROP:0",
+        "original": "Paradrop",
+        "translation": "空投",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_AREA_DEFENSE:0",
+        "original": "Area Defense",
+        "translation": "区域防御",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_INVASION:0",
+        "original": "Naval Invasion",
+        "translation": "登陆作战",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_BOMB:0",
+        "original": "Tactical Bombing",
+        "translation": "战术轰炸",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_BLITZ:0",
+        "original": "Blitz Advance",
+        "translation": "闪电突进",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_AIR_SUPPORT:0",
+        "original": "Air Support",
+        "translation": "空中支援",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_REMOVE:0",
+        "original": "Cancel selected operation",
+        "translation": "取消已选的行动",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_PARADROP_SOURCE:0",
+        "original": "§GClick§! to select the §Yparadrop source§!.\\n§gLocation must have an airbase with some Transport Planes in it.§!",
+        "translation": "§G点击§!选择§Y空投来源地§!。\\n§g所选地点必须拥有一个停着运输机的空军基地。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_PARADROP_TARGET:0",
+        "original": "§GRight-click§! to select the §Yparadrop destination§!.\\n§gLocation must be within the Transport Plane range.\\nUnits will be dropped only if they have rights to access that location.§!",
+        "translation": "§G右键点击§!选择§Y空投目的地§!。\\n§g所选地点必须处于运输机航程之内。\\n部队只有在有权进入所选地点时才会进行空投。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_AREA_DEFENSE_STATE_VALID:0",
+        "original": "§GClick§! to §Yadd§! state to area defense order.",
+        "translation": "§G点击§!向地区§Y下达§!区域防御命令。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_AREA_DEFENSE_STATE_SELECTED:0",
+        "original": "§GClick§! to §Yremove§! state from area defense order.",
+        "translation": "§G点击§!§Y取消§!地区的区域防御命令。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_AREA_DEFENSE_STATE_INVALID:0",
+        "original": "§RState cannot be added area defense order.§!",
+        "translation": "§R无法向地区下达区域防御命令§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_FALLBACK_LINE:0",
+        "original": "- §GRight-click§! and drag around to paint the defensive order.\\nThis type of defensive order is a §YSingle Use order§!, and it may be used to §Yguard the coast§!, or designate the §Yfallback line§! for your troops.",
+        "translation": "- §G右键点击§!并拖动选择防御区域。\\n这种类型的防御命令是§Y一次性命令§!，可以用来§Y保卫海岸§!，或为你的部队指定§Y撤退后的防线§!。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE:0",
+        "original": "- §GClick§! to make the §YDefensive Line§! on the entire border.\\n- §GRight-click§! and drag to draw the §YDefensive Line§! along this border.",
+        "translation": "- §G点击§!在整个边界上设定§Y防线§! 。\\n- §G右键点击§!并拖动在这条边界上设定§Y防线§! 。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_ARMY_GROUP:0",
+        "original": " - §GClick§! to make the §YDefensive Line§! on the entire border.\\n - §GShift + Click§! to make the §YDefensive Line§! on the entire border without sub-army lines.\\n - §GRight-click§! and drag to draw the §YDefensive Line§! along this border.\\n - §GShift + Right-click§! and drag to draw the §YDefensive Line§! along this border without sub-army lines. ",
+        "translation": " - §G点击§!将整个边界设成§Y防线§!。\\n - §GShift+点击§!将整个边界设成§Y防线§!，同时不影响下属集团军的线。\\n - §G右键点击§!可在边界上拖动§Y防线§!。\\n - §GShift+右键点击§!可在边界上拖动§Y防线§!，同时不影响下属集团军的线。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_CANT:0",
+        "original": "§RYou cannot draw Front Line here.§!\\nPlease move your mouse over one of the highlighted fronts.",
+        "translation": "§R你无法在这里设定前线。§!\\n请将你的鼠标移动至一条高亮的前线上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_EDIT:1",
+        "original": "§GRight-click§! and drag to edit this §YDefensive Line§!",
+        "translation": "§G右键点击§!并拖动调整这条§Y防线§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_LINK:0",
+        "original": "§GClick§! to §Ylink§! this §YDefensive Line§!",
+        "translation": "§G点击§!§Y连接§!这条§Y防线§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_UNLINK:0",
+        "original": "§GClick§! to §Yunlink§! this §YDefensive Line§!",
+        "translation": "§G点击§!§Y断开§!这条§Y防线§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_FALLBACK_LINE_EDIT:1",
+        "original": "§GRight-click§! and drag to edit this §YFallback Line§!",
+        "translation": "§G右键点击§!并拖动调整这条§Y撤退后的防线§!。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_FALLBACK_LINE_CANT:0",
+        "original": "§RYou cannot draw Fallback Line here.§!\\nPlease move your mouse over one of the highlighted territories.",
+        "translation": "§R你无法在这里设定撤退后的防线。§!\\n请将你的鼠标移动至一块高亮的领土上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_THIS_LINE_EDIT:0",
+        "original": "\\n§GRight-click§! and drag to edit this §YLine§!",
+        "translation": "\\n§G右键点击§!并拖动调整这条§Y阵线§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_WRONG_LINE_ERR:0",
+        "original": "§RYou cannot expand the line here.§!\\nPlease create a separate §Ydefensive order§! to cover that area.",
+        "translation": "§R你无法在这里扩大阵线。§!\\n请下达一条单独的§Y防御命令§!来覆盖这片区域。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_OFFENSIVE_LINE:0",
+        "original": "§GRight-click and drag to draw the §YOffensive Line§! on this territory.§!",
+        "translation": "§G右键点击并拖动将§Y进攻态势线§!设置在这片领土上。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_CANT:0",
+        "original": "§RYou cannot draw Offensive Line here.§!\\nPlease move your mouse over the highlighted territory.",
+        "translation": "§R你无法在这里设定进攻态势线。§!\\n请将你的鼠标移动至一个高亮的领土上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_EDIT:0",
+        "original": "§GRight-click and drag to edit this §YOffensive Line§!",
+        "translation": "§G右键点击并拖动调整这条§Y进攻态势线§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_INVALID_PROV:0",
+        "original": "§RThis is not a valid province for the invasion.§!\\nPlease move the mouse cursor over the marked area, or existing §Yinvasion plans§!.",
+        "translation": "§R这不是一个可以有效入侵的省份。§!\\n请将鼠标移动到标记区域或现有的§Y入侵计划§!上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV:0",
+        "original": "§RThis is not a valid province for the paradrop.§!\\nPlease move the mouse cursor over the marked area, or existing §Yparadrop plans§!.",
+        "translation": "§R这不是一个可以有效空降的省份。§!\\n请将鼠标移动到标记区域或现有的§Y空降计划§!上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_SOURCE:0",
+        "original": "§GClick§! to select the §Yinvasion source§!.",
+        "translation": "§G点击§!选择§Y入侵出发点§!。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_TARGET:0",
+        "original": "§GRight-click§! to select the §Yinvasion destination§!.\\n§gIt is possible to select a few landing points, but they all must have common sea zone.§!",
+        "translation": "§G右键点击§!选择§Y入侵目的地§!。\\n§g可以同时选择多个登陆点，但是这些登陆点都必须与同一块海域相连接。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_PARADROP_CANCEL:0",
+        "original": "\\n§GESCAPE§! to delete order (if drawn any) and cancel.",
+        "translation": "\\n点击§G不执行§!删除并取消命令（如果已经选择的话）。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_PARADROP_CONFIRM:0",
+        "original": "\\n§GRETURN§! to confirm order.",
+        "translation": "\\n点击§G返回§!确认命令。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_INVASION_CLICK_TO_EDIT:0",
+        "original": "§GClick§! on this §YInvasion§! order to edit it.",
+        "translation": "§G点击§!该§Y入侵§!命令，对其进行调整。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_PARADROP_CLICK_TO_EDIT:0",
+        "original": "§GClick§! on this §YParadrop§! order to edit it.",
+        "translation": "§G点击§!该§Y空降§!命令，对其进行调整。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE:0",
+        "original": "§HUnits assignment mode§!\\nPlease move the mouse cursor over one of the blinking orders to assign currently selected units there.",
+        "translation": "§H单位分配模式§!\\n请将鼠标移动至一个闪烁的命令上，以分配当前选中的单位。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE_ARMY_GROUP:0",
+        "original": "§HUnits assignment mode§!\\nPlease move the mouse cursor over one of the blinking orders to assign currently selected armies there.",
+        "translation": "§H单位分配模式§!\\n请将鼠标移动至一个闪烁的命令上，以分配当前选中的单位。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT:0",
+        "original": "§HUnits assignment mode§!\\n§RYou cannot assign the selected units to this order.§!",
+        "translation": "§H单位分配模式§!\\n§R你无法分配选中单位去执行该命令。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT_ARMY_GROUP:0",
+        "original": "§HUnits assignment mode§!\\n§RYou cannot assign the selected armies to this order.§!",
+        "translation": "§H单位分配模式§!\\n§R你无法分配选中单位去执行该命令。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN_PARATROOPERS:0",
+        "original": "\\nNotice that, if a unit has at least one non-paratrooper division, it cannot be assigned to the transport orders.",
+        "translation": "\\n请注意，如果一个单位包含了至少一个不属于伞兵的师，那么它就不能被分配执行运输命令。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_UNIT_ASSIGN:0",
+        "original": "§HUnits assignment mode.§!\\n",
+        "translation": "§H单位分配模式。§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_RESHAPE_HEADER:0",
+        "original": "§HEdit mode§!",
+        "translation": "§H调整模式§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_RESHAPE_NO_ARROW_UNDER_MOUSE:0",
+        "original": "\\n§RPlease move the mouse cursor over one of the highlighted provinces to reshape them, or over the blinking orders.§!",
+        "translation": "\\n§R如果想调整形状，请将鼠标移动至一个高亮的省份或闪烁的命令上。§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_RESHAPE_NEW_MIDPOINT:0",
+        "original": "\\n§GClick§! and drag your mouse around to §Gadd§! the new §YControl Point§!",
+        "translation": "\\n§G点击§!并拖动§G添加§!新的§Y控制点§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_RESHAPE_EXISTING_MIDPOINT:0",
+        "original": "\\n§GClick§! and drag your mouse around to §Gedit§! this §YControl Point§!\\n§GRight-click§! to §Rdelete§! this §YControl Point§!",
+        "translation": "\\n§G点击§!并拖动§G调整§!该§Y控制点§!\\n§G右键点击§!§R取消§!这个§Y控制点§!",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_PROV_TOOLTIP_RESHAPE_INFO:0",
+        "original": "Reshaping the Advancement Arrow gives you the ability to fix the spots that could be missed when the front advances.\\nIt is also possible to §Yreconnect§! the Advancement Arrow with different orders to change their hierarchy, simply by dragging the §YControl Point§! over the desired order.",
+        "translation": "你可以通过调整推进箭头来修复因前线推移而漏掉的地方。\\n另外把§Y控制点§!拖动到希望的命令上，也可以把推进箭头§Y重新连向§!不同的命令来改变他们的层级。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_CONNECT_TOOLTIP_INFO:0",
+        "original": "\\n§GRight-click§! to begin the §Yfree drawing of the Advancement Arrow§!.\\nThe arrow must end on another order to which connection is allowed.",
+        "translation": "\\n§G右键点击§!开始§Y自由拖动推进箭头§!。\\n箭头终点必须连接到另一个可连接的命令上。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_CONNECT_CANT_CONNECT_HERE:0",
+        "original": "§RMove the mouse cursor over the order that connection is allowed to.§!",
+        "translation": "§R移动鼠标至可连接的命令上。§!",
+        "stage": 1
+    },
+    {
+        "key": "EDIT_MODE_CLICK_TO_EDIT_INVASION:0",
+        "original": "\\n§GClick§! to edit this §YNaval invasion§!",
+        "translation": "\\n§G点击§!调整这次§Y海军入侵§!",
+        "stage": 1
+    },
+    {
+        "key": "EDIT_MODE_CLICK_TO_EDIT_PARADROP:0",
+        "original": "\\n§GClick§! to edit this §YParadrop order§!",
+        "translation": "\\n§G点击§!调整这个§Y空降命令§!",
+        "stage": 1
+    },
+    {
+        "key": "UNITS_ASSIGNED_TO_ORDER_HEADER:0",
+        "original": "§HDivisions assigned to this order:§!\\n",
+        "translation": "§H分配至该命令的师：§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "NO_UNITS_ASSIGNED_TO_ORDER:0",
+        "original": "§RThere are no units assigned to this order.§!",
+        "translation": "§R没有单位被分配至这个命令。§!",
+        "stage": 1
+    },
+    {
+        "key": "ASSIGN_UNITS_TO_FALLBACK_AG_ORDER:0",
+        "original": "Select a full army group and §GCtrl + Click§! to assign all units without Army orders to assign them to this order.",
+        "translation": "选中整个集团军之后§GCtrl+点击§!将所有没有命令的集团军分配至该命令。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_ASSIGN_TO_ORDER_HINT:0",
+        "original": "§GCtrl + Click§! to assign selected units to this order.",
+        "translation": "§GCtrl+点击§!将选中单位分配至该命令。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_ASSIGN_TO_ORDER_HINT_ARMY_GROUP:0",
+        "original": "§GCtrl + Click§! to assign selected armies to this order.",
+        "translation": "§GCtrl+点击§!将选中的集团军分配至该命令。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_SELECT_ASSIGNED_HINT:0",
+        "original": "\\n§GCtrl + Right Click§! to select units assigned to this order.",
+        "translation": "\\n§GCtrl+右键点击§!选择执行该命令的单位。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_DELETE_SINGLE_ORDER_HINT:0",
+        "original": "\\n§GRight Click§! to delete only army group front without deleting army fronts.",
+        "translation": "\\n§G右键点击§!只删除集团军群的前线但不删除集团军的前线。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_HOTKEY_TO_CANCEL:0",
+        "original": "\\n§GEscape§! while drawing to cancel.",
+        "translation": "\\n按下§GEsc键§!并拖动鼠标取消。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_HOTKEY_TO_CYCLE_CONNECTIONS:0",
+        "original": "\\n§GTab§! while drawing to cycle connections.",
+        "translation": "\\n按下§GTab键§!并拖动鼠标设置循环连接。",
+        "stage": 1
+    },
+    {
+        "key": "HIGH_PRIORITY:0",
+        "original": "§THigh priority§!",
+        "translation": "§T高优先权§!",
+        "stage": 1
+    },
+    {
+        "key": "MEDIUM_PRIORITY:0",
+        "original": "§TMedium priority§!",
+        "translation": "§T中优先权§!",
+        "stage": 1
+    },
+    {
+        "key": "LOW_PRIORITY:0",
+        "original": "§TLow priority§!",
+        "translation": "§T低优先权§!",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_PRIORITY_DESC:0",
+        "original": "Theater priority decides which one will first get replacement resources and manpower shipped.",
+        "translation": "战区优先权将决定哪支部队会首先得到运输来的资源和人力。",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_PIN_AREA:0",
+        "original": "Pin area",
+        "translation": "标记区域",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_PIN_AREA_DESC:0",
+        "original": "Pinning an area or theater means it sticks around even when not selected for quick access.",
+        "translation": "标记一个区域或战区意味着它的标记牌会一直出现在频幕右上方，以便你迅速访问。",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_DESC_DESC:0",
+        "original": "Selecting a theater shows the commands groups active in this theater.",
+        "translation": "选择战区将显示该战区内的指挥层。",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_THEATRE:0",
+        "original": "Theater: §Y$NAME$§!",
+        "translation": "战区：§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_STRAT_AREA:0",
+        "original": "Strategic area: §Y$NAME$§!",
+        "translation": "战略区域：§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_UNIT:0",
+        "original": "The theater has §Y1§! division",
+        "translation": "该战区包含了§Y1§!师",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_UNITS:0",
+        "original": "The theater has $N|Y$ divisions",
+        "translation": "该战区拥有$N|Y$个师",
+        "stage": 1
+    },
+    {
+        "key": "THEATRE_GROUP_UNASSIGNED:0",
+        "original": "Unassigned",
+        "translation": "未分配",
+        "stage": 1
+    },
+    {
+        "key": "CAN_ONLY_HAVE_ONE_INVASION_PER_PORT:0",
+        "original": "§RCan only create a single invasion order from any given port§!",
+        "translation": "§R只能对任意选定港口下达一个单独的入侵命令。§!",
+        "stage": 1
+    }
+]

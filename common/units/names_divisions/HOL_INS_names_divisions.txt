@@ -1,0 +1,573 @@
+HOL_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    HOL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%de Divisie"
+  ordered = {
+    1 = {
+      "%de Divisie"
+    }
+    2 = {
+      "%de Divisie"
+    }
+    3 = {
+      "%de Divisie"
+    }
+    4 = {
+      "%de Divisie"
+    }
+    5 = {
+      "%de Divisie"
+    }
+    6 = {
+      "%de Divisie"
+    }
+    7 = {
+      "%de Divisie"
+    }
+    8 = {
+      "%de Divisie"
+    }
+    101 = {
+      "Lichte Divisie"
+    }
+    102 = {
+      "Peel Divisie"
+    }
+    9 = {
+      "%de Divisie"
+    }
+    10 = {
+      "%de Divisie"
+    }
+    11 = {
+      "%de Divisie"
+    }
+    12 = {
+      "%de Divisie"
+    }
+    13 = {
+      "%de Divisie"
+    }
+    14 = {
+      "%de Divisie"
+    }
+    15 = {
+      "%de Divisie"
+    }
+    16 = {
+      "%de Divisie"
+    }
+    17 = {
+      "%de Divisie"
+    }
+    18 = {
+      "%de Divisie"
+    }
+    19 = {
+      "%de Divisie"
+    }
+    20 = {
+      "%de Divisie"
+    }
+  }
+}
+HOL_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%de Huzaren te Paard"
+  ordered = {
+    1 = {
+      "%de Huzaren te Paard"
+    }
+    2 = {
+      "%de Huzaren te Paard"
+    }
+    3 = {
+      "%de Huzaren te Paard"
+    }
+    4 = {
+      "%de Huzaren te Paard"
+    }
+    5 = {
+      "%de Huzaren te Paard"
+    }
+    6 = {
+      "%de Huzaren te Paard"
+    }
+    7 = {
+      "%de Huzaren te Paard"
+    }
+    8 = {
+      "%de Huzaren te Paard"
+    }
+    9 = {
+      "%de Huzaren te Paard"
+    }
+    10 = {
+      "%de Huzaren te Paard"
+    }
+  }
+}
+HOL_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    HOL_INF_01
+  }
+  fallback_name = "%de Gemotoriseerde Huzaren"
+  ordered = {
+    101 = {
+      "Lichte Divisie"
+    }
+    1 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    2 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    3 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    4 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    5 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    6 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    7 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    8 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    9 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+    10 = {
+      "%de Gemotoriseerde Huzaren"
+    }
+  }
+}
+HOL_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    HOL_INF_01
+  }
+  fallback_name = "%de Gemechaniseerde Huzaren"
+  ordered = {
+    101 = {
+      "Lichte Divisie"
+    }
+    1 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    2 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    3 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    4 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    5 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    6 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    7 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    8 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    9 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+    10 = {
+      "%de Gemechaniseerde Huzaren"
+    }
+  }
+}
+HOL_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%de Pantserdivisie"
+  ordered = {
+    1 = {
+      "%de Pantserdivisie"
+    }
+    2 = {
+      "%de Pantserdivisie"
+    }
+    3 = {
+      "%de Pantserdivisie"
+    }
+    4 = {
+      "%de Pantserdivisie"
+    }
+    5 = {
+      "%de Pantserdivisie"
+    }
+    6 = {
+      "%de Pantserdivisie"
+    }
+    7 = {
+      "%de Pantserdivisie"
+    }
+    8 = {
+      "%de Pantserdivisie"
+    }
+    9 = {
+      "%de Pantserdivisie"
+    }
+    10 = {
+      "%de Pantserdivisie"
+    }
+  }
+}
+HOL_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%de Parachutistendivisie"
+  ordered = {
+    1 = {
+      "%de Parachutistendivisie"
+    }
+    2 = {
+      "%de Parachutistendivisie"
+    }
+    3 = {
+      "%de Parachutistendivisie"
+    }
+    4 = {
+      "%de Parachutistendivisie"
+    }
+    5 = {
+      "%de Parachutistendivisie"
+    }
+    6 = {
+      "%de Parachutistendivisie"
+    }
+    7 = {
+      "%de Parachutistendivisie"
+    }
+    8 = {
+      "%de Parachutistendivisie"
+    }
+    9 = {
+      "%de Parachutistendivisie"
+    }
+    10 = {
+      "%de Parachutistendivisie"
+    }
+  }
+}
+HOL_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%de Mariniersdivisie"
+  ordered = {
+    1 = {
+      "%de Mariniersdiv. 'Zwarte Duivels'"
+    }
+    2 = {
+      "%de Mariniersdivisie"
+    }
+    3 = {
+      "%de Mariniersdivisie"
+    }
+    4 = {
+      "%de Mariniersdivisie"
+    }
+    5 = {
+      "%de Mariniersdivisie"
+    }
+    6 = {
+      "%de Mariniersdivisie"
+    }
+    7 = {
+      "%de Mariniersdivisie"
+    }
+    8 = {
+      "%de Mariniersdivisie"
+    }
+    9 = {
+      "%de Mariniersdivisie"
+    }
+    10 = {
+      "%de Mariniersdivisie"
+    }
+  }
+}
+HOL_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    HOL_INF_01
+  }
+  fallback_name = "%de Divisie"
+  ordered = {
+    1 = {
+      "%de Divisie"
+    }
+    2 = {
+      "%de Divisie"
+    }
+    3 = {
+      "%de Divisie"
+    }
+    4 = {
+      "%de Divisie"
+    }
+    5 = {
+      "%de Divisie"
+    }
+    6 = {
+      "%de Divisie"
+    }
+    7 = {
+      "%de Divisie"
+    }
+    8 = {
+      "%de Divisie"
+    }
+    9 = {
+      "%de Divisie"
+    }
+    10 = {
+      "%de Divisie"
+    }
+  }
+}
+HOL_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    HOL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    HOL_INF_01
+  }
+  fallback_name = "%de Vesting Divisie"
+  ordered = {
+    102 = {
+      "Peel Divisie"
+    }
+    103 = {
+      "'Oostfront' Vesting Holland"
+    }
+    104 = {
+      "'Westfront' Vesting Holland"
+    }
+    105 = {
+      "Divisie Spui"
+    }
+    106 = {
+      "Divisie Kil"
+    }
+    107 = {
+      "Territoriaal Bevel. Overijssel"
+    }
+    108 = {
+      "Territoriaal Bevel. Friesland"
+    }
+    109 = {
+      "Territoriaal Bevel. Zuid-Limburg"
+    }
+    110 = {
+      "Stelling Den Helder"
+    }
+    111 = {
+      "Stelling  Amsterdam"
+    }
+    112 = {
+      "Stelling Rotterdam "
+    }
+    113 = {
+      "Stelling 's Gravenhage"
+    }
+    114 = {
+      "Stelling Utrecht"
+    }
+    115 = {
+      "Stelling Soesterberg"
+    }
+  }
+}
+INS_INF_01 = {
+  name = "Colonial Division"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%se KNIL Divisie"
+  ordered = {
+    1 = {
+      "%se KNIL Divisie 'Java'"
+    }
+    2 = {
+      "%se KNIL Divisie 'Java'"
+    }
+    3 = {
+      "%se KNIL Divisie 'Java'"
+    }
+    4 = {
+      "%se KNIL Divisie 'Sumatra'"
+    }
+    5 = {
+      "%se KNIL Divisie 'Sumatra'"
+    }
+    6 = {
+      "%se KNIL Divisie 'Borneo'"
+    }
+    7 = {
+      "%se KNIL Divisie 'Borneo'"
+    }
+    8 = {
+      "%se KNIL Divisie 'Celebes'"
+    }
+    9 = {
+      "%se KNIL Divisie 'Sumatra'"
+    }
+    10 = {
+      "%se KNIL Divisie 'Java'"
+    }
+  }
+}
+INS_GAR_01 = {
+  name = "Colonial Garrison"
+  for_countries = {
+    HOL
+    INS
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%se Territoriaal Commando"
+  ordered = {
+    1 = {
+      "%se Territoriaal Commando 'Sumatra'"
+    }
+    2 = {
+      "%se Territoriaal Commando 'Sumatra'"
+    }
+    3 = {
+      "%se Territoriaal Commando 'Borneo'"
+    }
+    4 = {
+      "%se Territoriaal Commando 'Celebes'"
+    }
+    5 = {
+      "%se Territoriaal Commando 'Sumatra'"
+    }
+    6 = {
+      "%se Territoriaal Commando 'Borneo'"
+    }
+    7 = {
+      "%se Territoriaal Commando 'Java'"
+    }
+    8 = {
+      "%se Territoriaal Commando 'Java'"
+    }
+    9 = {
+      "%se Territoriaal Commando 'Sumatra'"
+    }
+    10 = {
+      "%se Territoriaal Commando 'Sumatra'"
+    }
+  }
+}

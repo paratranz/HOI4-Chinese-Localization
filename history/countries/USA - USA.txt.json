@@ -1,0 +1,230 @@
+[
+    {
+        "key": "1939.1.1|create_equipment_variant|name",
+        "original": "Martin M166",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader|name",
+        "original": "Franklin Delano Roosevelt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "William Dudley Pelley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Earl Browder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Omar Bradley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Geoffrey Keyes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Lucian Truscott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Mark Clark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Douglas MacArthur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "Walter Krueger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######|name",
+        "original": "Lloyd Fredendall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######|name",
+        "original": "Leslie McNair",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########|name",
+        "original": "Jonathan Wainwright",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########|name",
+        "original": "Russell Hartle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########|name",
+        "original": "Leonard Gerow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########|name",
+        "original": "Edward Brooks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############|name",
+        "original": "Clarence Huebner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############|name",
+        "original": "Alexander Patch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##############|name",
+        "original": "William Simpson",
+        "translation": "威廉 辛普森",
+        "stage": 1
+    },
+    {
+        "key": "create_corps_commander################|name",
+        "original": "Courtney Hodges",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#################|name",
+        "original": "Joseph Stilwell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##################|name",
+        "original": "Oscar Griswold",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###################|name",
+        "original": "Maurice Rose",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Ernest King",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Frank Jack Fletcher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#####|name",
+        "original": "Harold Rainsford Stark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader######|name",
+        "original": "Arleigh Burke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Pennsylvania Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant####|name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#####|name",
+        "original": "Colorado Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant######|name",
+        "original": "Yorktown Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant|name",
+        "original": "Salmon Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant#|name",
+        "original": "Benson & Gleaves Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant##|name",
+        "original": "Wasp Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant###|name",
+        "original": "F2A Buffalo",
+        "translation": "",
+        "stage": 0
+    }
+]

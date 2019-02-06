@@ -1,0 +1,626 @@
+[
+    {
+        "key": "HUN_treaty_of_triannon:0",
+        "original": "Treaty of Trianon",
+        "translation": "特里亚农条约",
+        "stage": 1
+    },
+    {
+        "key": "HUN_treaty_of_triannon_desc:0",
+        "original": "The Treaty of Trianon is, in many ways, similar to the Treaty of Versailles, crippling our military and preventing rearmament. Seeing it altered or abolished must be our premier goal. We can do this by seeking a Rapprochement with the Little Entente, proposing the Bled Agreement, or by renouncing it altogether. The last option will be widely considered as very aggressive and may provoke a strong response.",
+        "translation": "特里亚农条约在很多方面与凡尔赛条约相似，削弱了我们的军事力量，并防止我们重整军备。改变或废除它一定是我们的首要目标。我们可以通过寻求与小协约国和解，提出布莱德协议，或干脆撕毁条约来实现这一目标。最后一个选项将被广泛认为是非常激进的，可能会激起强烈的反应。",
+        "stage": 1
+    },
+    {
+        "key": "HUN_treaty_of_triannon_2:0",
+        "original": "Revised Treaty of Trianon",
+        "translation": "修正特里亚农条约",
+        "stage": 1
+    },
+    {
+        "key": "HUN_treaty_of_triannon_3:0",
+        "original": "Bled Agreement",
+        "translation": "布莱德协议",
+        "stage": 1
+    },
+    {
+        "key": "HUN_war_preparation:0",
+        "original": "War Preparations",
+        "translation": "战争准备",
+        "stage": 1
+    },
+    {
+        "key": "HUN_hungarian_monarchy:0",
+        "original": "Hungarian Monarchy",
+        "translation": "匈牙利君主制",
+        "stage": 1
+    },
+    {
+        "key": "HUN_hungarian_monarchy_2:0",
+        "original": "Hungarian Monarchy",
+        "translation": "匈牙利君主制",
+        "stage": 1
+    },
+    {
+        "key": "HUN_hungarian_monarchy_democratic:0",
+        "original": "Hungarian Monarchy",
+        "translation": "匈牙利君主制",
+        "stage": 1
+    },
+    {
+        "key": "HUN_hungarian_monarchy_fascism:0",
+        "original": "Hungarian Monarchy",
+        "translation": "匈牙利君主制",
+        "stage": 1
+    },
+    {
+        "key": "HUN_his_majestys_government:0",
+        "original": "His Majesty's Government",
+        "translation": "国王陛下政府",
+        "stage": 1
+    },
+    {
+        "key": "HUN_charles_v:0",
+        "original": "Carl V Wilhelm",
+        "translation": "卡尔五世·威廉",
+        "stage": 1
+    },
+    {
+        "key": "HUN_dynastic_ties:0",
+        "original": "Dynastic Ties",
+        "translation": "王朝纽带",
+        "stage": 1
+    },
+    {
+        "key": "HUN_dynastic_ties_desc:0",
+        "original": "A Swedish king on the Hungarian throne means closer ties between the two countries. They may come to each other's aid during war time, and the Swedish government may be more willing to grant production licenses to Hungary.",
+        "translation": "一个瑞典国王拥有匈牙利王位意味着两国之间的紧密联系。在战争期间，他们可能会互相帮助，瑞典政府可能更愿意向匈牙利发放生产许可证。",
+        "stage": 1
+    },
+    {
+        "key": "HUN_habsburg_restored:0",
+        "original": "Habsburg Restored",
+        "translation": "哈布斯堡王朝复辟",
+        "stage": 1
+    },
+    {
+        "key": "HUN_interventionism:0",
+        "original": "Interventionism",
+        "translation": "干涉主义",
+        "stage": 1
+    },
+    {
+        "key": "HUN_interventionism_2:0",
+        "original": "Interventionism",
+        "translation": "干涉主义",
+        "stage": 1
+    },
+    {
+        "key": "HUN_interventionism_communism:0",
+        "original": "Interventionism",
+        "translation": "干涉主义",
+        "stage": 1
+    },
+    {
+        "key": "HUN_license_foreign:0",
+        "original": "Foreign License Focus",
+        "translation": "重视外国许可证",
+        "stage": 1
+    },
+    {
+        "key": "HUN_joint_tank_development_group:0",
+        "original": "Joint Tank Development",
+        "translation": "联合坦克研发",
+        "stage": 1
+    },
+    {
+        "key": "HUN_joint_air_development_group:0",
+        "original": "Joint Aircraft Development",
+        "translation": "联合空军研发",
+        "stage": 1
+    },
+    {
+        "key": "HUN_gusztav_gratz:0",
+        "original": "Gusztáv Gratz",
+        "translation": "古斯塔夫·格拉茨",
+        "stage": 1
+    },
+    {
+        "key": "ROM_coastal_defense_navy_designer:1",
+        "original": "Galati Shipyard",
+        "translation": "加拉茨造船厂",
+        "stage": 1
+    },
+    {
+        "key": "ROM_black_sea_dominance_designer:1",
+        "original": "Braila Shipyards",
+        "translation": "布勒伊拉造船厂",
+        "stage": 1
+    },
+    {
+        "key": "ROM_leonidas_works:0",
+        "original": "Leonidas Works",
+        "translation": "利奥尼达斯工业",
+        "stage": 1
+    },
+    {
+        "key": "ROM_flexible_foreign_policy_2:0",
+        "original": "Flexible Foreign Policy",
+        "translation": "灵活的外交政策",
+        "stage": 1
+    },
+    {
+        "key": "ROM_coastal_defense_ships_2:0",
+        "original": "Coastal Defense Ships",
+        "translation": "岸防舰艇",
+        "stage": 1
+    },
+    {
+        "key": "ROM_war_preparation:0",
+        "original": "War Preparations",
+        "translation": "战争准备",
+        "stage": 1
+    },
+    {
+        "key": "ROM_a_deal_with_the_devil_2:0",
+        "original": "A Deal With the Devil",
+        "translation": "与恶魔的交易",
+        "stage": 1
+    },
+    {
+        "key": "ROM_figurehead_king_michael:0",
+        "original": "Figurehead King Michael",
+        "translation": "有名无实的国王米哈伊",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_hedonist:0",
+        "original": "King Carol II's Lifestyle",
+        "translation": "国王卡罗尔二世的生活方式",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_hedonist_desc:0",
+        "original": "King Carol II is well known for his expensive tastes and his willingness to indulge the even more lavish tastes of his mistress. He has caused considerable scandals in the past, and will likely continue to do so unless he is replaced or shown the error of his ways.",
+        "translation": "国王卡罗尔二世以其奢靡的作风而闻名，而他更是纵容他情妇更加挥霍的行为。他在过去造就了相当多的丑闻，而且很有可能依然这样做，除非有人向他展示他生活方式的错误或是将他替换掉。",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_consumer_penalty:1",
+        "original": "Supplementary Budget",
+        "translation": "追加预算",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_factory_penalty:0",
+        "original": "Embezzlement Scandal",
+        "translation": "贪污丑闻",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_paid_with_pp:1",
+        "original": "Royal Household Accounts",
+        "translation": "皇室资金",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_factory_paid_with_pp:0",
+        "original": "Procurement Reform",
+        "translation": "政府采购改革",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_ii_handled:0",
+        "original": "King Carol II",
+        "translation": "国王卡罗尔二世",
+        "stage": 1
+    },
+    {
+        "key": "ROM_hedonist_king:0",
+        "original": "Hedonist King",
+        "translation": "享乐主义的国王",
+        "stage": 1
+    },
+    {
+        "key": "ROM_iar:0",
+        "original": "IAR",
+        "translation": "罗马尼亚航空工业IAR",
+        "stage": 1
+    },
+    {
+        "key": "ROM_ICAR:0",
+        "original": "ICAR",
+        "translation": "罗马尼亚航空设计集团ICAR",
+        "stage": 1
+    },
+    {
+        "key": "ROM_SET:0",
+        "original": "SET",
+        "translation": "航空技术发展协会SET",
+        "stage": 1
+    },
+    {
+        "key": "ROM_ROMLOC:0",
+        "original": "ROMLOC",
+        "translation": "汽车工厂ROMLOC",
+        "stage": 1
+    },
+    {
+        "key": "ROM_acquire_tanks:0",
+        "original": "Romanian Tank Purchase Commission",
+        "translation": "罗马尼亚坦克采购委员会",
+        "stage": 1
+    },
+    {
+        "key": "ROM_cugir:0",
+        "original": "Cugir Small Arms",
+        "translation": "库吉尔轻武器工厂",
+        "stage": 1
+    },
+    {
+        "key": "ROM_resita:0",
+        "original": "Resita Works",
+        "translation": "雷希察工业",
+        "stage": 1
+    },
+    {
+        "key": "ROM_vauxhall:0",
+        "original": "Vauxhall Romania",
+        "translation": "沃克斯豪尔罗马尼亚公司",
+        "stage": 1
+    },
+    {
+        "key": "ROM_ford:0",
+        "original": "Atelierele Ford Bucuresti",
+        "translation": "福特布加勒斯特分公司",
+        "stage": 1
+    },
+    {
+        "key": "ROM_opel:0",
+        "original": "Opel Abt. Rumänien",
+        "translation": "欧宝罗马尼亚公司",
+        "stage": 1
+    },
+    {
+        "key": "ENG_mot_chosen:0",
+        "original": "Invited British Motor Company",
+        "translation": "邀请英国机动车公司",
+        "stage": 1
+    },
+    {
+        "key": "GER_mot_chosen:0",
+        "original": "Invited German Motor Company",
+        "translation": "邀请德国机动车公司",
+        "stage": 1
+    },
+    {
+        "key": "USA_mot_chosen:0",
+        "original": "Invited American Motor Company",
+        "translation": "邀请美国机动车公司",
+        "stage": 1
+    },
+    {
+        "key": "ROM_king_carol_emptied_accounts:0",
+        "original": "King Carol Emptied Accounts",
+        "translation": "国王卡罗尔的空账户",
+        "stage": 1
+    },
+    {
+        "key": "ROM_the_sentinel_of_the_motherland:0",
+        "original": "The Sentinel of the Motherland",
+        "translation": "祖国的哨兵",
+        "stage": 1
+    },
+    {
+        "key": "ROM_the_sentinel_of_the_motherland_2:0",
+        "original": "The Sentinel of the Motherland",
+        "translation": "祖国的哨兵",
+        "stage": 1
+    },
+    {
+        "key": "ROM_nicolae_malaxa:0",
+        "original": "Nicolae Malaxa",
+        "translation": "尼古拉·马拉夏",
+        "stage": 1
+    },
+    {
+        "key": "CZE_german_millitary_cooperation_focus:0",
+        "original": "Germany Military Cooperation",
+        "translation": "德国军事合作",
+        "stage": 1
+    },
+    {
+        "key": "CZE_war_college_idea:0",
+        "original": "War College",
+        "translation": "战争学院",
+        "stage": 1
+    },
+    {
+        "key": "CZE_air_focus:0",
+        "original": "Air is our Sea",
+        "translation": "天空就是我们的海洋",
+        "stage": 1
+    },
+    {
+        "key": "CZE_naval_focus:1",
+        "original": "Shipbuilding Legacy",
+        "translation": "造船遗产",
+        "stage": 1
+    },
+    {
+        "key": "CZE_export_focus1:1",
+        "original": "Limited Arms Exports",
+        "translation": "有限的武器出口",
+        "stage": 1
+    },
+    {
+        "key": "CZE_export_focus2:1",
+        "original": "Arms Exports",
+        "translation": "额外的武器出口",
+        "stage": 1
+    },
+    {
+        "key": "CZE_export_focus3:1",
+        "original": "Extensive Arms Exports",
+        "translation": "大批量武器出口",
+        "stage": 1
+    },
+    {
+        "key": "CZE_fortification_focus:0",
+        "original": "Fortification focus",
+        "translation": "着重筑垒",
+        "stage": 1
+    },
+    {
+        "key": "CZE_fortification_focus2:0",
+        "original": "Fortification focus",
+        "translation": "着重筑垒",
+        "stage": 1
+    },
+    {
+        "key": "CZE_fortification_focus3:0",
+        "original": "Fortification focus",
+        "translation": "着重筑垒",
+        "stage": 1
+    },
+    {
+        "key": "CZE_fortification_focus4:0",
+        "original": "Fortification focus",
+        "translation": "着重筑垒",
+        "stage": 1
+    },
+    {
+        "key": "CZE_skoda_works:0",
+        "original": "Skoda Works",
+        "translation": "斯柯达",
+        "stage": 1
+    },
+    {
+        "key": "CZE_divided_nation:0",
+        "original": "Divided Nation",
+        "translation": "分离的国家",
+        "stage": 1
+    },
+    {
+        "key": "CZE_czech_fascism_idea:0",
+        "original": "Czech Fascism",
+        "translation": "捷克法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "CZE_national_fascism_idea:0",
+        "original": "National Fascism",
+        "translation": "国家法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "CZE_industrial_legacy_idea:0",
+        "original": "Industrial Legacy",
+        "translation": "工业遗产",
+        "stage": 1
+    },
+    {
+        "key": "CZE_planning_bonus:0",
+        "original": "Entente joint planning",
+        "translation": "加入捷克斯洛伐克的小协约国",
+        "stage": 1
+    },
+    {
+        "key": "little_entente_research_group_name:0",
+        "original": "Pact of Organization",
+        "translation": "联合协定",
+        "stage": 1
+    },
+    {
+        "key": "YUG_SOV_research_group:0",
+        "original": "Yugo-Soviet Research group",
+        "translation": "南斯拉夫-苏联研究团队",
+        "stage": 1
+    },
+    {
+        "key": "YUG_air_research_group:0",
+        "original": "Yugoslavian Air Group",
+        "translation": "南斯拉夫空军研究团队",
+        "stage": 1
+    },
+    {
+        "key": "YUG_naval_research_group:0",
+        "original": "Yugoslavian Naval Group",
+        "translation": "南斯拉夫海军研究团队",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_serbian_general_staff:0",
+        "original": "Serbian General Staff",
+        "translation": "塞尔维亚总参谋部",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_yugoslavian_general_staff:0",
+        "original": "Yugoslavian General Staff",
+        "translation": "南斯拉夫总参谋部",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_federal_defense_council:0",
+        "original": "Federal Defense Council",
+        "translation": "联邦国防议会",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_local_self_management:0",
+        "original": "Local self-management",
+        "translation": "地方自主管理",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_central_management:0",
+        "original": "Central Management",
+        "translation": "集中管理",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_peasant_councils:0",
+        "original": "Peasant Councils",
+        "translation": "农民议会",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_empowered_peasant_councils:0",
+        "original": "Empowered Peasant Councils",
+        "translation": "高阶农民议会",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_very_empowered_peasant_councils:0",
+        "original": "Supreme Peasant Councils",
+        "translation": "最高农民议会",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_economic_aid:0",
+        "original": "Yugoslavian Economic Aid",
+        "translation": "南斯拉夫经济援助",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_foreign_capital:0",
+        "original": "Foreign Capital",
+        "translation": "引入外资",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_orthodox_church_support:0",
+        "original": "Orthodox Church Support",
+        "translation": "东正教会的支持",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_all_yugoslavian_regiments:0",
+        "original": "All-Yugoslavian Regiments",
+        "translation": "全南斯拉夫人民军团",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_croatian_opposition:0",
+        "original": "Croatian Opposition",
+        "translation": "克罗地亚反对派",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_croatian_opposition_desc:0",
+        "original": "The political representatives of Croatia have been pushing for a federal organization of the Kingdom. Unless their demands are met, they will continue to oppose every move by the central government. They might even launch an uprising if they believe the time is right.",
+        "translation": "克罗地亚的议会代表一直试图推动并建立基于王国的联邦组织。除非他们的要求得到满足，否则他们会持续抵制中央政府的每一个行动。他们甚至可能在某个‘适当’的时机发起一场政变。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_slovene_nationalism:0",
+        "original": "Slovene Nationalism",
+        "translation": "斯洛文尼亚民族主义者",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_slovene_nationalism_desc:0",
+        "original": "Slovenes have long since wanted their own state. Although they have accepted our rule, they are not particularly enthusiastic about it. Slovene industrialists rarely invest in local businesses and seem to prefer to spend their money abroad.",
+        "translation": "斯洛文尼亚人从很久以前就想获得他们自己的领地了。虽然他们接受了我们的政权，但他们并不是特别上心。斯洛文尼亚实业家很少投资当地企业，而更愿意向海外投资。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_slovene_nationalism_2:0",
+        "original": "Slovene Self-Government",
+        "translation": "斯洛文尼亚自治政府",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_slovene_nationalism_2_desc:0",
+        "original": "The devolved Government of Slovenia is much more willing to work with us to rebuild our military, but the concessions made to them mean that we have less control over how their factories are run.",
+        "translation": "向斯洛文尼亚自治政府下放权力会使其更愿意与我们协作重建军事力量，然而对他们的让步意味着我们失去了对其下工厂运作的部分控制权。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_croats_suppressed:0",
+        "original": "Croat Nationalism Suppressed",
+        "translation": "已镇压克罗地亚民族主义者",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_religious_freedoms_guaranteed:0",
+        "original": "Freedom of Religion Guaranteed",
+        "translation": "已保障宗教自由",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_macedonian_opposition:0",
+        "original": "Macedonian Opposition",
+        "translation": "马其顿反对派",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_macedonian_opposition_desc:0",
+        "original": "The Macedonians have not quite accepted their identity as Serbs and keep demanding special rights. Political support from Bulgaria no doubt plays a role.",
+        "translation": "马其顿人还没有接受自己作为塞尔维亚人的身份并一直要求获得特权。毫无疑问，保加利亚铁定提供了政治支持。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_local_militias:0",
+        "original": "Local Militias",
+        "translation": "地方民兵",
+        "stage": 1
+    },
+    {
+        "key": "YUG_air_payment:0",
+        "original": "Yugoslavian Aircraft Purchase",
+        "translation": "南斯拉夫购入外国产飞机",
+        "stage": 1
+    },
+    {
+        "key": "YUG_fighter_production_diverted:0",
+        "original": "Diverted Fighter Production",
+        "translation": "转向战斗机生产",
+        "stage": 1
+    },
+    {
+        "key": "YUG_bomber_production_diverted:0",
+        "original": "Diverted Bomber Production",
+        "translation": "转向轰炸机生产",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_expanded_mining_industry:0",
+        "original": "Expanded Mining Industry",
+        "translation": "拓展采矿业",
+        "stage": 1
+    },
+    {
+        "key": "YUG_idea_tank_conversions:0",
+        "original": "Tank Conversions",
+        "translation": "转换战车用途",
+        "stage": 1
+    },
+    {
+        "key": "YUG_western_license:0",
+        "original": "Yugoslavian Purchasing Commission",
+        "translation": "南斯拉夫购买许可",
+        "stage": 1
+    }
+]

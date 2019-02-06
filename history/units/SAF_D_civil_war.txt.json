@@ -1,0 +1,92 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Democratic Defense Brigade I",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "Democratic Defense Brigade VII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "Democratic Defense Brigade VII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Democratic Defense Brigade VII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|name",
+        "original": "Democratic Defense Brigade VIII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|name",
+        "original": "Democratic Defense Brigade IX",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "Democratic Defense Brigade X",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Democratic Defense Brigade",
+        "translation": "",
+        "stage": 0
+    }
+]

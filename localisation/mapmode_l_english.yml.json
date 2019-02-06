@@ -1,0 +1,146 @@
+[
+    {
+        "key": "MAPMODE_FABRICATE_WRONG_COUNTRY:0",
+        "original": "Country is not $COUNTRY|Y$",
+        "translation": "该国家不是 $COUNTRY|Y$",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FABRICATE_UNSELECT:0",
+        "original": "Unselect $STATE|Y$",
+        "translation": "未选择 $STATE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FABRICATE_HAS_CLAIM:0",
+        "original": "Already has a claim on $STATE|Y$",
+        "translation": "在 $STATE|Y$ 已经有了一个领土主张",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FABRICATE_IS_CORE:0",
+        "original": "Already has a claim on $STATE|Y$",
+        "translation": "在 $STATE|Y$ 已经有了一个领土主张",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FABRICATE_IS_FABRICATING:0",
+        "original": "Already justifying a claim on $STATE|Y$",
+        "translation": "已经为对 $STATE|Y$ 的领土主张作出辩护",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FABRICATE_SELECT:0",
+        "original": "Select $STATE|Y$",
+        "translation": "选择 $STATE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FACTIONS:0",
+        "original": "§YFactions§! mapmode.",
+        "translation": "§Y阵营§!地图模式。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_FACTIONS_DESCRIPTION:0",
+        "original": "Shows which countries have joined which factions.",
+        "translation": "展示哪个国家已经加入哪个阵营",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_DEFAULT:0",
+        "original": "§HDefault§! map mode",
+        "translation": "§H默认§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_DEFAULT_DESCRIPTION:0",
+        "original": "Country view and land combat.\\nA province will be colored according to who is currently controlling it.\\nUseful for following the progression of war, and creating and executing war plans.",
+        "translation": "在国家视图和陆地战斗模式下。\\n省份将会被染色以便显示当前实际控制者。\\n这对观察战争进程很有用，并且可以创建和执行战争计划",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STATES:0",
+        "original": "§HStates§! map mode",
+        "translation": "§H地区§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STATES_DESCRIPTION:0",
+        "original": "States map and state types.",
+        "translation": "地区地图和地区类型。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_DIPLOMACY:0",
+        "original": "§HDiplomacy§! map mode",
+        "translation": "§H外交§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_DIPLOMACY_DESCRIPTION:0",
+        "original": "Shows diplomatic relations and attitudes towards the currently selected country.",
+        "translation": "展示外交关系和对当前选择的国家的态度。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_SUPPLY_AREAS:0",
+        "original": "§HSupply Areas§! map mode",
+        "translation": "§H补给区域§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_SUPPLY_AREAS_DESCRIPTION:0",
+        "original": "Shows supply areas and information about the flow of supply. It allows you to identify problem areas and bottlenecks.",
+        "translation": "展示补给区域和补给运输信息。这可以让你找到问题区域和运输瓶颈",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STRATEGIC_NAVY:0",
+        "original": "§HStrategic Navy§! map mode",
+        "translation": "§H海军战略§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STRATEGIC_NAVY_DESCRIPTION:0",
+        "original": "Shows strategic areas and allows you to see what naval operations are being performed by your fleets. \\nRegions where you have naval supremacy are shown with a §Ggreen§! outline. \\nAreas striped §Rred§! are outside the operational range of the currently selected fleet.",
+        "translation": "展示战略区域并让你看到有哪些海军行动将通过你的舰队执行。\\n你的海军在哪片区域里占到优势将通过§G绿色§!轮廓显示。\\n当前在§R红色§!条纹区域外徘徊着被挑选出来的舰队可以随时使用。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STRATEGIC_AIR:0",
+        "original": "§HStrategic Air§! map mode",
+        "translation": "§H空军战略§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_STRATEGIC_AIR_DESCRIPTION:0",
+        "original": "Shows strategic areas and allows you to see what air operations are being performed by your planes. \\n§GGreen regions§! have friendly air superiority, §Rred regions§! have enemy air superiority. \\nAirfields with your planes based in them are highlighted.",
+        "translation": "展示战略区域并让你看到有哪些空军行动将通过你的空军部队执行。\\n§G绿色地区§!是友军空军占有优势的地区，§R红色地区§!是敌军空军占有优势的地区。\\n在这些区域中你的机场和空军部队将以高亮显示。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_RESOURCES:0",
+        "original": "§HResource§! map mode",
+        "translation": "§H战略资源§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_RESOURCES_DESCRIPTION:0",
+        "original": "Shows resource production by state.",
+        "translation": "展示在地区中能够生产哪些战略资源。",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_RESISTANCE:0",
+        "original": "§HResistance§! map mode",
+        "translation": "§H抵抗§!地图模式",
+        "stage": 1
+    },
+    {
+        "key": "MAPMODE_RESISTANCE_DESCRIPTION:0",
+        "original": "Displays local resistance in occupied areas. Shows you trouble spots where you should garrison more troops or consider changing your occupation policy.",
+        "translation": "显示在占领区当地人的抵抗程度。 展示你所遇到的麻烦以让你找到哪里必须驻守更多的部队或者考虑改变你的占领政策。",
+        "stage": 1
+    }
+]

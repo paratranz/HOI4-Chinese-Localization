@@ -1,0 +1,248 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Tetrágono Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Tetrágono Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Merarchía Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Tetrágono Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Tetrágono Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Trigonikó Pezikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Vasilikó Polemikó Naftikó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "RHS Georgios Averof",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "RHS Elli",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "RHS Vasilefs Georgios I",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "RHS Vasilissa Olga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "RHS Aetos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "RHS Ierax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "RHS Leon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "RHS Panthir",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "RHS Kountouriotis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|equipment|destroyer_1|version_name",
+        "original": "Hydra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "RHS Hydra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|equipment|destroyer_1|version_name",
+        "original": "Hydra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "RHS Psara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|equipment|destroyer_1|version_name",
+        "original": "Hydra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|name",
+        "original": "RHS Spetsai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|equipment|destroyer_1|version_name",
+        "original": "Hydra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Stolískou Ypovrychíon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "RHS Katsonis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "RHS Papanikolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "RHS Protefs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "RHS Nirefs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "RHS Triton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "RHS Glafkos",
+        "translation": "",
+        "stage": 0
+    }
+]

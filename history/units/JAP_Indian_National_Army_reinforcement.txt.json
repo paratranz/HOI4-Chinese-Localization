@@ -1,0 +1,32 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "1 Azad Hind Fauj",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "2 Azad Hind Fauj",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    }
+]

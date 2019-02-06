@@ -1,0 +1,56 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Agustín Pedro Justo",
+        "translation": "奥古斯丁·佩德罗·胡思托",
+        "stage": 1
+    },
+    {
+        "key": "1939.1.1#|create_country_leader|name",
+        "original": "Roberto María Ortiz",
+        "translation": "罗伯托·玛利亚·奥尔蒂斯",
+        "stage": 1
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Nimo de Anquín",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Fanny Jabcovsky",
+        "translation": "范尼·贾布科夫斯基",
+        "stage": 1
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Arturo Rawson",
+        "translation": "阿图罗·劳森",
+        "stage": 1
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Juan Pistarini",
+        "translation": "胡安·皮斯塔里尼",
+        "stage": 1
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Alberto Teisaire",
+        "translation": "阿尔贝托·特希尔",
+        "stage": 1
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Cervantes Class",
+        "translation": "塞万提斯级",
+        "stage": 1
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Veinticinco de Mayo Class",
+        "translation": "五月二十五日城级",
+        "stage": 1
+    }
+]

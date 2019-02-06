@@ -1,0 +1,26 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "David Ben-Gurion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Itzhak Gaster",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Rudolf Szabó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Shmuel Mikunis",
+        "translation": "",
+        "stage": 0
+    }
+]

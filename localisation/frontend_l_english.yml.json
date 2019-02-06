@@ -1,0 +1,1112 @@
+[
+    {
+        "key": "MATCHMAKING_FILTER_NOPASSWORD:0",
+        "original": "No password",
+        "translation": "无密码",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_NOTFULL:0",
+        "original": "Not Full",
+        "translation": "未满",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_HASPLAYERS:0",
+        "original": "Has Players",
+        "translation": "已有玩家",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_MOD:0",
+        "original": "MOD",
+        "translation": "模组",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_VERSION:0",
+        "original": "Version",
+        "translation": "版本",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_FILTER_NAME:0",
+        "original": "Name",
+        "translation": "名称",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_FILTER_SEARCH:0",
+        "original": "Tags",
+        "translation": "标签",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVERS_DOSEARCH:0",
+        "original": "Search",
+        "translation": "搜索",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVERS_DOFILTERS:0",
+        "original": "Filter",
+        "translation": "筛选",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_QUICK_REFRESH:0",
+        "original": "Quick refresh",
+        "translation": "快速刷新",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_REFRESH_LAN:0",
+        "original": "Refresh LAN",
+        "translation": "刷新局域网",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_REFRESH_LAN_STOP:0",
+        "original": "Stop",
+        "translation": "停止",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_REFRESH_INTERNET:0",
+        "original": "Refresh Internet",
+        "translation": "刷新互联网",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_JOIN_SERVER:0",
+        "original": "Join",
+        "translation": "加入游戏",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_HOST_SERVER:0",
+        "original": "Host",
+        "translation": "建立主机",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_PASSWORD:0",
+        "original": "Password",
+        "translation": "密码",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_NAME:0",
+        "original": "Name",
+        "translation": "名称",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_SLOTS:0",
+        "original": "Slots",
+        "translation": "空位",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_VERSION:0",
+        "original": "Version",
+        "translation": "版本",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_TAGS:0",
+        "original": "Tags",
+        "translation": "标签",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_HOST_TAGS:0",
+        "original": "Server Tags",
+        "translation": "主机标签",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_HOST_TITLE:0",
+        "original": "Host Server",
+        "translation": "主机",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_MOD:0",
+        "original": "MOD",
+        "translation": "模组",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_STATUS:0",
+        "original": "Status",
+        "translation": "状态",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_CLIENT_STATUS:0",
+        "original": "Status:",
+        "translation": "状态：",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_CLIENT_STATUS_IDLE:0",
+        "original": "Idle",
+        "translation": "闲置",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_CLIENT_STATUS_SCAN:0",
+        "original": "Scanning...",
+        "translation": "搜索中……",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_DESC:0",
+        "original": "Server Description",
+        "translation": "服务器描述",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_CONNECT_TITLE:0",
+        "original": "Connect to Server ID",
+        "translation": "连接已知ID的主机",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_CONNECT_ADDRESS:0",
+        "original": "Server ID",
+        "translation": "主机ID",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_TITLE:0",
+        "original": "Multiplayer",
+        "translation": "多人游戏",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVERS:0",
+        "original": "Servers",
+        "translation": "主机",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_COMMUNITY:0",
+        "original": "Community",
+        "translation": "社区",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_STATUS_STARTING:0",
+        "original": "Starting",
+        "translation": "开始中",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_STATUS_RUNNING:0",
+        "original": "Running",
+        "translation": "运行中",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_STATUS_STOPPED:0",
+        "original": "Stopped",
+        "translation": "已停止",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVERS_NOSERVERS:0",
+        "original": "No servers found.",
+        "translation": "未发现主机。",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVERS_SEARCHING:0",
+        "original": "Searching...",
+        "translation": "搜索中……",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_KICKED:0",
+        "original": "Kicked from server.",
+        "translation": "被主机踢出。",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_BANNED:0",
+        "original": "Banned from server.",
+        "translation": "被主机禁入。",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_BADVERSION:0",
+        "original": "The host has another version of the game",
+        "translation": "主机玩家正使用游戏的另一版本",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_HOTJOIN_DECLINED:0",
+        "original": "Server has declined the join request",
+        "translation": "主机拒绝了加入请求",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_NAME_TAKEN:0",
+        "original": "Your name is already taken.",
+        "translation": "你的名字已有人使用。",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_PASSWORD:0",
+        "original": "Sort by Password",
+        "translation": "按有无密码分类",
+        "stage": 1
+    },
+    {
+        "key": "SORT_BY_NAME:0",
+        "original": "Sort by Name",
+        "translation": "按名称分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_MOD:0",
+        "original": "Sort by MOD",
+        "translation": "按模组分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_VERSION:0",
+        "original": "Sort by Version",
+        "translation": "按版本分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_TAGS:0",
+        "original": "Sort by Tags",
+        "translation": "按标签分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_SLOTS:0",
+        "original": "Sort by Slots",
+        "translation": "按有无空位分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SORT_BY_STATUS:0",
+        "original": "Sort by Status",
+        "translation": "按状态分类",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_NAMES:0",
+        "original": "Filter by name",
+        "translation": "按名称过滤",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FILTER_TAGS:0",
+        "original": "Filter by tags",
+        "translation": "按标签过滤",
+        "stage": 1
+    },
+    {
+        "key": "SM_OPTIONS:0",
+        "original": "Options",
+        "translation": "选项",
+        "stage": 1
+    },
+    {
+        "key": "SM_GAME:0",
+        "original": "Game",
+        "translation": "游戏",
+        "stage": 1
+    },
+    {
+        "key": "SM_VIDEO:0",
+        "original": "Video",
+        "translation": "视频",
+        "stage": 1
+    },
+    {
+        "key": "SM_AUDIO:0",
+        "original": "Audio",
+        "translation": "音频",
+        "stage": 1
+    },
+    {
+        "key": "SM_CONTROLS:0",
+        "original": "Controls",
+        "translation": "控制",
+        "stage": 1
+    },
+    {
+        "key": "SM_MASTER_VOLUME:0",
+        "original": "Master Volume",
+        "translation": "主音量",
+        "stage": 1
+    },
+    {
+        "key": "SM_EFFECT_VOLUME:0",
+        "original": "Effect Volume",
+        "translation": "音效音量",
+        "stage": 1
+    },
+    {
+        "key": "SM_MUSIC_VOLUME:0",
+        "original": "Music Volume",
+        "translation": "音乐音量",
+        "stage": 1
+    },
+    {
+        "key": "SM_SCROLL_SPEED:0",
+        "original": "Scroll Speed",
+        "translation": "滚动速度",
+        "stage": 1
+    },
+    {
+        "key": "SM_ZOOM_SPEED:0",
+        "original": "Zoom Speed",
+        "translation": "缩放速度",
+        "stage": 1
+    },
+    {
+        "key": "SM_MOUSE_SPEED:0",
+        "original": "Mouse Speed",
+        "translation": "滑鼠速度",
+        "stage": 1
+    },
+    {
+        "key": "SM_MODE:0",
+        "original": "Mode",
+        "translation": "模式",
+        "stage": 1
+    },
+    {
+        "key": "SM_RESOLUTION:0",
+        "original": "Resolution",
+        "translation": "分辨率",
+        "stage": 1
+    },
+    {
+        "key": "SM_REFRESH_RATE:0",
+        "original": "Refresh Rate",
+        "translation": "刷新率",
+        "stage": 1
+    },
+    {
+        "key": "SM_GAMMA:0",
+        "original": "Gamma",
+        "translation": "伽马值",
+        "stage": 1
+    },
+    {
+        "key": "SM_GAMMA_TOOLTIP:2",
+        "original": "Enabled in fullscreen mode",
+        "translation": "全屏模式下启用",
+        "stage": 1
+    },
+    {
+        "key": "SM_SHADOWS:0",
+        "original": "Shadows",
+        "translation": "阴影",
+        "stage": 1
+    },
+    {
+        "key": "SM_WINDOWED:0",
+        "original": "Windowed",
+        "translation": "窗口化",
+        "stage": 1
+    },
+    {
+        "key": "SM_FULLSCREEN:0",
+        "original": "Fullscreen",
+        "translation": "全屏",
+        "stage": 1
+    },
+    {
+        "key": "SM_BORDERLESS:0",
+        "original": "Borderless",
+        "translation": "无边框",
+        "stage": 1
+    },
+    {
+        "key": "SM_NATIVE:0",
+        "original": "Desktop",
+        "translation": "桌面",
+        "stage": 1
+    },
+    {
+        "key": "SM_TREES:0",
+        "original": "3D Trees",
+        "translation": "3D植被",
+        "stage": 1
+    },
+    {
+        "key": "SM_SKIP_SETUP:0",
+        "original": "Skip simple setup",
+        "translation": "跳过简易设置",
+        "stage": 1
+    },
+    {
+        "key": "SM_DECORATIVE_MAPITEMS:0",
+        "original": "Decorative Map Items",
+        "translation": "地图装饰物",
+        "stage": 1
+    },
+    {
+        "key": "SM_DIFFICULTY:0",
+        "original": "Difficulty",
+        "translation": "难度",
+        "stage": 1
+    },
+    {
+        "key": "SM_AUTOSAVE_INTERVAL:0",
+        "original": "Autosave Interval",
+        "translation": "自动保存间隔",
+        "stage": 1
+    },
+    {
+        "key": "SM_APPLY:0",
+        "original": "Apply",
+        "translation": "应用",
+        "stage": 1
+    },
+    {
+        "key": "SM_ALERT:0",
+        "original": "Alert",
+        "translation": "提醒",
+        "stage": 1
+    },
+    {
+        "key": "SM_RESTART:0",
+        "original": "You need to restart for the change to take effect.",
+        "translation": "需重启游戏以使之生效。",
+        "stage": 1
+    },
+    {
+        "key": "SM_WP:0",
+        "original": "Error writing to the settings-file. Check that the file is not write protected and try again",
+        "translation": "写入设置文件出错。检查该文件是否可写入并重试",
+        "stage": 1
+    },
+    {
+        "key": "SM_MULTISAMPLE:0",
+        "original": "Multisample Level",
+        "translation": "多重采样",
+        "stage": 1
+    },
+    {
+        "key": "SM_AMBIENT_OBJECTS:0",
+        "original": "Ambient Objects",
+        "translation": "环境对象",
+        "stage": 1
+    },
+    {
+        "key": "SM_VOICE_VOLUME:0",
+        "original": "Voice Volume",
+        "translation": "语音音量",
+        "stage": 1
+    },
+    {
+        "key": "SM_VSYNC:0",
+        "original": "VSync",
+        "translation": "垂直同步",
+        "stage": 1
+    },
+    {
+        "key": "SM_WEATHER:0",
+        "original": "Weather",
+        "translation": "天气效果",
+        "stage": 1
+    },
+    {
+        "key": "SM_WATER_REFL:0",
+        "original": "Reflections",
+        "translation": "水面反射",
+        "stage": 1
+    },
+    {
+        "key": "SM_TEX_QUALITY:0",
+        "original": "Texture Quality",
+        "translation": "纹理品质",
+        "stage": 1
+    },
+    {
+        "key": "SM_TEX_QUALITY_LOW:0",
+        "original": "Low",
+        "translation": "低",
+        "stage": 1
+    },
+    {
+        "key": "SM_TEX_QUALITY_MEDIUM:0",
+        "original": "Medium",
+        "translation": "中",
+        "stage": 1
+    },
+    {
+        "key": "SM_TEX_QUALITY_HIGH:0",
+        "original": "High",
+        "translation": "高",
+        "stage": 1
+    },
+    {
+        "key": "SM_UI_SCALING:0",
+        "original": "UI Scaling (Experimental)",
+        "translation": "界面缩放(实验性功能)",
+        "stage": 1
+    },
+    {
+        "key": "SM_CITIES:0",
+        "original": "Cities",
+        "translation": "城市模型",
+        "stage": 1
+    },
+    {
+        "key": "SM_UNITS:0",
+        "original": "3D Units",
+        "translation": "3D兵模",
+        "stage": 1
+    },
+    {
+        "key": "SM_BUILDINGS:0",
+        "original": "3D Buildings",
+        "translation": "3D建筑",
+        "stage": 1
+    },
+    {
+        "key": "SM_RIVERS:0",
+        "original": "Rivers",
+        "translation": "河流",
+        "stage": 1
+    },
+    {
+        "key": "SM_HIGH_GFX_SHADERS:0",
+        "original": "High quality pixel shaders",
+        "translation": "高质量像素着色器",
+        "stage": 1
+    },
+    {
+        "key": "SM_FULL_MAP_RES:0",
+        "original": "Full rendering resolution",
+        "translation": "全渲染分辨率",
+        "stage": 1
+    },
+    {
+        "key": "RESTART_REQ:0",
+        "original": "Restart Required",
+        "translation": "需要重启游戏",
+        "stage": 1
+    },
+    {
+        "key": "RESTART_REQ_DESC:0",
+        "original": "You must restart the game for these changes to take effect.",
+        "translation": "需要重启游戏以使之生效。",
+        "stage": 1
+    },
+    {
+        "key": "NEVER:0",
+        "original": "Never",
+        "translation": "没有",
+        "stage": 1
+    },
+    {
+        "key": "MONTHLY:0",
+        "original": "Monthly",
+        "translation": "每月",
+        "stage": 1
+    },
+    {
+        "key": "HALFYEAR:0",
+        "original": "Half Year",
+        "translation": "每半年",
+        "stage": 1
+    },
+    {
+        "key": "YEARLY:0",
+        "original": "Yearly",
+        "translation": "每年",
+        "stage": 1
+    },
+    {
+        "key": "FE_HOTJOIN_LABEL:0",
+        "original": "Hotjoin",
+        "translation": "热加入",
+        "stage": 1
+    },
+    {
+        "key": "FE_COOP_LABEL:0",
+        "original": "Cooperative",
+        "translation": "合作模式",
+        "stage": 1
+    },
+    {
+        "key": "FE_COOP_LABEL_DESC:0",
+        "original": "Enables multiple players controlling 1 nation",
+        "translation": "允许多名玩家控制同一国家",
+        "stage": 1
+    },
+    {
+        "key": "FE_HOTJOIN_TOOLTIP:0",
+        "original": "Allow players to hotjoin",
+        "translation": "允许玩家热加入",
+        "stage": 1
+    },
+    {
+        "key": "FE_COOP_TOOLTIP:0",
+        "original": "Allow players to play the same country",
+        "translation": "允许玩家以同一国家进行游戏",
+        "stage": 1
+    },
+    {
+        "key": "HINTS_ACTIVE:0",
+        "original": "Hints Active",
+        "translation": "开启提示",
+        "stage": 1
+    },
+    {
+        "key": "NATO_COUNTERS:0",
+        "original": "Use NATO symbols",
+        "translation": "使用北约兵牌",
+        "stage": 1
+    },
+    {
+        "key": "PAUSE_ON_POPUPS:0",
+        "original": "Pause on notifications",
+        "translation": "提示时暂停",
+        "stage": 1
+    },
+    {
+        "key": "PAUSE_ON_POPUPS_DESC:0",
+        "original": "Pause on popup notifications. Will not affect events.",
+        "translation": "弹出提示时暂停。不影响事件。",
+        "stage": 1
+    },
+    {
+        "key": "EXTERNAL_BROWSER:0",
+        "original": "Use external web browser",
+        "translation": "使用外部浏览器",
+        "stage": 1
+    },
+    {
+        "key": "HOME_WIKI:0",
+        "original": "Use offline wiki as default",
+        "translation": "默认使用离线百科",
+        "stage": 1
+    },
+    {
+        "key": "BAD_SERVER_PASSWORD:0",
+        "original": "Password incorrect",
+        "translation": "密码错误",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_BANNED:0",
+        "original": "$NAME$ was banned by the host.",
+        "translation": "$NAME$ 被主机禁入。",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_KICKED:0",
+        "original": "$NAME$ was kicked by the host.",
+        "translation": "$NAME$ 被主机踢出。",
+        "stage": 1
+    },
+    {
+        "key": "FE_START:0",
+        "original": "START",
+        "translation": "开始",
+        "stage": 1
+    },
+    {
+        "key": "FE_YES:0",
+        "original": "Yes",
+        "translation": "是",
+        "stage": 1
+    },
+    {
+        "key": "FE_NO:0",
+        "original": "No",
+        "translation": "否",
+        "stage": 1
+    },
+    {
+        "key": "YES:0",
+        "original": "Yes",
+        "translation": "是",
+        "stage": 1
+    },
+    {
+        "key": "NO:0",
+        "original": "No",
+        "translation": "否",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_CUSTOM:0",
+        "original": "Custom Settings",
+        "translation": "自定义设置",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_CUSTOM_BTN:0",
+        "original": "Custom",
+        "translation": "自定义",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY:0",
+        "original": "Difficulty",
+        "translation": "难度",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_VERY_EASY:0",
+        "original": "Civilian",
+        "translation": "平民",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_VERY_EASY_TOOLTIP:0",
+        "original": "§L\"We Can Do It!\"§!",
+        "translation": "§L“我们能做到！”§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_EASY:1",
+        "original": "Recruit",
+        "translation": "征召",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_EASY_TOOLTIP:0",
+        "original": "§L\"I have full confidence in your courage, devotion to duty, and skill in battle. We will accept nothing less than full victory. Good Luck!\"§!",
+        "translation": "§L“我对你们的勇敢、责任心和作战技巧充满了信心，我们迎接的只会是彻底的胜利。祝你们好运！”§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_NORMAL:1",
+        "original": "Regular",
+        "translation": "常规",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_NORMAL_TOOLTIP:0",
+        "original": "§L\"For the enemy is strong. He may hurl back our forces. Success may not come with rushing speed, but we shall return again and again.\"§!",
+        "translation": "§L”敌强如斯，能如奔涛般击溃我军。我们或许不会马上成功，但将屡败屡战，百战不饶。”§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_HARD:1",
+        "original": "Veteran",
+        "translation": "老兵",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_HARD_TOOLTIP:1",
+        "original": "§L\"Thirty years from now when you're sitting by your fireside with your grandson on your knee and he asks, 'What did you do in the great World War Two?' you won't have to cough and say, 'Well, your granddaddy shoveled shit in Louisiana.'\"§!",
+        "translation": "§L“三十年之后，当你坐在壁炉边，你膝盖上的孙子问你：‘你在那场伟大的第二次世界大战期间都干了什么？’你不用咳嗽一声说：‘这个嘛，你爷爷在路易斯安那州铲粪。’”§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_VERY_HARD:0",
+        "original": "Elite",
+        "translation": "王牌",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_VERY_HARD_TOOLTIP:1",
+        "original": "§L\"I have nothing to offer but blood, toil, tears, and sweat.\"§!",
+        "translation": "§L“我能尽心奉献的别无他物，只有热血、辛劳、眼泪和汗水。”§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_UNKNOWN:0",
+        "original": "Secret Difficulty",
+        "translation": "隐藏难度",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP:0",
+        "original": "\\n\\nPlayer:\\n$PLAYERMOD$",
+        "translation": "\\n\\n玩家：\\n$PLAYERMOD$",
+        "stage": 1
+    },
+    {
+        "key": "FE_DIFFICULTY_MODIFIER_AI_TOOLTIP:0",
+        "original": "\\n\\nAI:\\n$AIMOD$",
+        "translation": "\\n\\nAI：\\n$AIMOD$",
+        "stage": 1
+    },
+    {
+        "key": "FE_IRONMAN_MP_BLOCKED:0",
+        "original": "§RIronman mode cannot be played in multiplayer.§!",
+        "translation": "§R多人游戏无法使用铁人模式。§!",
+        "stage": 1
+    },
+    {
+        "key": "FE_CUSTOM_DIFFICULTY_TOOLTIP:0",
+        "original": "Applied to: $COUNTRIES$\\n$MODIFIER$",
+        "translation": "$COUNTRIES$\\n$MODIFIER$",
+        "stage": 1
+    },
+    {
+        "key": "FE_RESET:0",
+        "original": "Reset All",
+        "translation": "全部重置",
+        "stage": 1
+    },
+    {
+        "key": "DAILY:0",
+        "original": "Daily",
+        "translation": "每日",
+        "stage": 1
+    },
+    {
+        "key": "WEEKLY:0",
+        "original": "Weekly",
+        "translation": "每周",
+        "stage": 1
+    },
+    {
+        "key": "GAMESETUP_SELECT_SCENARIO:0",
+        "original": "Select a Scenario or Load a game",
+        "translation": "选择剧本或载入存档",
+        "stage": 1
+    },
+    {
+        "key": "INTERESTING_COUNTRIES_OTHER_COUNTRIES:0",
+        "original": "Other countries",
+        "translation": "其他国家",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_WHISPER_TO:0",
+        "original": "To $NAME|H$",
+        "translation": "对 $NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_SYSTEM:0",
+        "original": "System Message",
+        "translation": "系统信息",
+        "stage": 1
+    },
+    {
+        "key": "CHAT_ERROR_UNKNOWNUSER:0",
+        "original": "Unknown User.",
+        "translation": "未知玩家。",
+        "stage": 1
+    },
+    {
+        "key": "FE_CHANGE_SCENARIO_ONLY_SERVER:0",
+        "original": "§RMay only be changed by the host§!",
+        "translation": "§R仅可由主机玩家更改§!",
+        "stage": 1
+    },
+    {
+        "key": "ACHIEVEMENTS_CHEATS:0",
+        "original": "No cheats or modified game/save",
+        "translation": "没有作弊或游戏改动或存档改动",
+        "stage": 1
+    },
+    {
+        "key": "ACHIEVEMENTS_DIFFICULTY:0",
+        "original": "Regular or higher difficulty",
+        "translation": "常规或以上难度",
+        "stage": 1
+    },
+    {
+        "key": "ACHIEVEMENTS_OK:0",
+        "original": "§HCan get Achievements!§!",
+        "translation": "§H能够获得成就！§!",
+        "stage": 1
+    },
+    {
+        "key": "ACHIEVEMENTS_NOT_OK:0",
+        "original": "§RCan not currently get Achievements.§!",
+        "translation": "§R当前无法获得成就。§!",
+        "stage": 1
+    },
+    {
+        "key": "diff_strong_ai_generic:0",
+        "original": "Stronger AI",
+        "translation": "加强AI",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_ger:0",
+        "original": "Strengthen Germany",
+        "translation": "加强德国",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_ita:0",
+        "original": "Strengthen Italy",
+        "translation": "加强意大利",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_sov:0",
+        "original": "Strengthen Soviet",
+        "translation": "加强苏联",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_fra:0",
+        "original": "Strengthen France",
+        "translation": "加强法国",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_eng:0",
+        "original": "Strengthen United Kingdom",
+        "translation": "加强英国",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_usa:0",
+        "original": "Strengthen USA",
+        "translation": "加强美国",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_jap:0",
+        "original": "Strengthen Japan",
+        "translation": "加强日本",
+        "stage": 1
+    },
+    {
+        "key": "custom_diff_strong_chi:0",
+        "original": "Strengthen China",
+        "translation": "加强中国",
+        "stage": 1
+    },
+    {
+        "key": "achievement_has_joined_faction:0",
+        "original": "Has joined a faction",
+        "translation": "加入派系",
+        "stage": 1
+    },
+    {
+        "key": "achievement_has_dropped_nuke:0",
+        "original": "Has used a nuclear bomb",
+        "translation": "使用核弹",
+        "stage": 1
+    },
+    {
+        "key": "achievement_france_surrender:0",
+        "original": "France has surrendered",
+        "translation": "法国投降",
+        "stage": 1
+    },
+    {
+        "key": "achievement_won_spanish_civil_war:0",
+        "original": "Won the Spanish Civil War",
+        "translation": "西班牙内战取胜",
+        "stage": 1
+    },
+    {
+        "key": "achievement_failed_sunset_invasion:0",
+        "original": "Did not follow the Sunset Invasion rules",
+        "translation": "不遵守日落入侵规则",
+        "stage": 1
+    },
+    {
+        "key": "achievement_has_nuked_california:0",
+        "original": "Has dropped a nuclear bomb in California",
+        "translation": "核爆加州",
+        "stage": 1
+    },
+    {
+        "key": "achievement_med_plutonium:0",
+        "original": "Has dropped a nuclear bomb on Denmark.",
+        "translation": "核爆丹麦",
+        "stage": 1
+    },
+    {
+        "key": "POL_vojtek_commander:0",
+        "original": "Discovered how to trigger this achievement.",
+        "translation": "发现如何触发这个成就",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_ANG:0",
+        "original": "Released Angola",
+        "translation": "释放安哥拉",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_MZB:0",
+        "original": "Released Mozambique",
+        "translation": "释放莫桑比克",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_BOT:0",
+        "original": "Released Botswana",
+        "translation": "释放博兹瓦纳",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_ZIM:0",
+        "original": "Released Zimbabwe",
+        "translation": "释放津巴布韦",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_KEN:0",
+        "original": "Released Kenya",
+        "translation": "释放肯尼亚",
+        "stage": 1
+    },
+    {
+        "key": "SAF_released_COG:0",
+        "original": "Released Congo",
+        "translation": "释放刚果",
+        "stage": 1
+    },
+    {
+        "key": "achievement_AST_nuke_self:0",
+        "original": "Has dropped nuke on Australian core territory.",
+        "translation": "核爆澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "achievement_EGY_colony:0",
+        "original": "Reached Colony Status",
+        "translation": "达到殖民地状态",
+        "stage": 1
+    },
+    {
+        "key": "achievement_EGY_dominion:0",
+        "original": "Reached Dominion Status",
+        "translation": "达到自治领状态",
+        "stage": 1
+    },
+    {
+        "key": "achievement_EGY_free:0",
+        "original": "Reached Freedom Status",
+        "translation": "达到自由状态",
+        "stage": 1
+    },
+    {
+        "key": "ROM_lost_starting_state:0",
+        "original": "Romania lost one of its starting states",
+        "translation": "罗马尼亚失去任何初始地区",
+        "stage": 1
+    },
+    {
+        "key": "YUG_delcared_war_on_axis_allies:0",
+        "original": "Declared war on Axis or Allies while in either Axis or Allies",
+        "translation": "加入轴心国或者同盟国之后向轴心国或者同盟国宣战",
+        "stage": 1
+    },
+    {
+        "key": "achievement_carol_II_is_leader:0",
+        "original": "§YCarol II§! is the current country leader",
+        "translation": "§Y卡罗尔二世§!是国家元首",
+        "stage": 1
+    }
+]

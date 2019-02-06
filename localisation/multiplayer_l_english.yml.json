@@ -1,0 +1,860 @@
+[
+    {
+        "key": "MULTIPLAYER_LOBBY:0",
+        "original": "Multiplayer Lobby",
+        "translation": "多人游戏大厅",
+        "stage": 1
+    },
+    {
+        "key": "START:0",
+        "original": "Start",
+        "translation": "开始",
+        "stage": 1
+    },
+    {
+        "key": "ABANDON_GAME:0",
+        "original": "Abandon Game",
+        "translation": "放弃游戏",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_IS_UP:0",
+        "original": "§GServer is up.§!",
+        "translation": "§G服务器开始运行。§!",
+        "stage": 1
+    },
+    {
+        "key": "SYSTEM_PLAYER_LEFT:0",
+        "original": "§G§Y$NAME$§! left the game.§!",
+        "translation": "§G§Y$NAME$§!离开了游戏。§!",
+        "stage": 1
+    },
+    {
+        "key": "SYSTEM_PLAYER_LOST:0",
+        "original": "§G§Y$NAME$§! lost the connection.§!",
+        "translation": "§G§Y$NAME$§!丢失了连接。§!",
+        "stage": 1
+    },
+    {
+        "key": "SYSTEM_PLAYER_KICKED:0",
+        "original": "§G§Y$NAME$§! was kicked from the game.§!",
+        "translation": "§G§Y$NAME$§!被踢出了游戏。§!",
+        "stage": 1
+    },
+    {
+        "key": "SYSTEM_PLAYER_BANNED:0",
+        "original": "§G§Y$NAME$§! was banned from the game.§!",
+        "translation": "§G§Y$NAME$§!被禁止加入游戏。§!",
+        "stage": 1
+    },
+    {
+        "key": "SYSTEM_PLAYER_ARRIVED:0",
+        "original": "§G§Y$NAME$§! joined the game.§!",
+        "translation": "§G§Y$NAME$§!加入了游戏。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONNECTED:0",
+        "original": "§GConnected.§!",
+        "translation": "§G已连接§!",
+        "stage": 1
+    },
+    {
+        "key": "NAME_TAKEN:0",
+        "original": "Your name is taken. Please leave and select another.",
+        "translation": "你的名字已经有人使用，请离开并选择其他名字。",
+        "stage": 1
+    },
+    {
+        "key": "CONNECTING:0",
+        "original": "Connecting...",
+        "translation": "连接中…",
+        "stage": 1
+    },
+    {
+        "key": "BANNED:0",
+        "original": "You have been banned from this game",
+        "translation": "你被禁止加入游戏",
+        "stage": 1
+    },
+    {
+        "key": "YOUKICKED_TITLE:0",
+        "original": "Kicked from server",
+        "translation": "从游戏中被踢出",
+        "stage": 1
+    },
+    {
+        "key": "YOUKICKED:0",
+        "original": "You were kicked by the host.",
+        "translation": "你被主机踢出了游戏。",
+        "stage": 1
+    },
+    {
+        "key": "YOUBANNED_TITLE:0",
+        "original": "Banned from server",
+        "translation": "禁止加入游戏",
+        "stage": 1
+    },
+    {
+        "key": "YOUBANNED:0",
+        "original": "You were banned by the host.",
+        "translation": "你被主机禁了。",
+        "stage": 1
+    },
+    {
+        "key": "HOST_LOADING_SAVEGAME:0",
+        "original": "Host started loading savegame: $NAME|Y$.",
+        "translation": "主机开始读取存档：$NAME|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "CONNECTION_FAILED:0",
+        "original": "§RConnection failed!§!",
+        "translation": "§R连接失败！§!",
+        "stage": 1
+    },
+    {
+        "key": "GAME_NOT_FOUND:0",
+        "original": "Game not found.",
+        "translation": "没有找到游戏。",
+        "stage": 1
+    },
+    {
+        "key": "WAITING_FOR_PLAYERS:0",
+        "original": "Waiting for players...",
+        "translation": "等待玩家…",
+        "stage": 1
+    },
+    {
+        "key": "LOOKING_FOR_HOST:0",
+        "original": "Looking for host...",
+        "translation": "寻找主机…",
+        "stage": 1
+    },
+    {
+        "key": "LOST_PLAYER:0",
+        "original": "A player was lost...",
+        "translation": "有玩家掉线…",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_LOST:0",
+        "original": "The server was lost.",
+        "translation": "丢失主机。",
+        "stage": 1
+    },
+    {
+        "key": "HOST_BUTTON:0",
+        "original": "Host",
+        "translation": "建立主机",
+        "stage": 1
+    },
+    {
+        "key": "JOIN_BUTTON:0",
+        "original": "Join",
+        "translation": "加入",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_ID:0",
+        "original": "Server ID: $ID|H$",
+        "translation": "服务器ID：$ID|H$",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_ID_COPY:0",
+        "original": "Right-click to copy Server ID to clipboard.",
+        "translation": "右键点击复制服务器ID到剪贴板。",
+        "stage": 1
+    },
+    {
+        "key": "VERSION:0",
+        "original": "Version: $VERSION|H$",
+        "translation": "版本：$VERSION|H$",
+        "stage": 1
+    },
+    {
+        "key": "NUM_PLAYERS:0",
+        "original": "Number of Players: $NUM|H$",
+        "translation": "玩家数量：$NUM|H$",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_LOST_TITLE:0",
+        "original": "Player disconnected.",
+        "translation": "玩家断开连接。",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_LOST_DESC:0",
+        "original": "Player(s) $playername$ disconnected. Choose your action.",
+        "translation": "玩家$playername$连接丢失，请选择如何处理。",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_LOST_TITLE:0",
+        "original": "Server Lost!",
+        "translation": "丢失主机！",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_LOST_DESC:0",
+        "original": "Lost connection to the server. Choose your action.",
+        "translation": "丢失主机连接，请选择如何处理。",
+        "stage": 1
+    },
+    {
+        "key": "CONNECT_TO_IP:0",
+        "original": "Connect to Server ID",
+        "translation": "连接到服务器ID",
+        "stage": 1
+    },
+    {
+        "key": "FE_PLAYERS:0",
+        "original": "Players",
+        "translation": "玩家",
+        "stage": 1
+    },
+    {
+        "key": "LEDGER_COUNTRY:0",
+        "original": "Country",
+        "translation": "国家",
+        "stage": 1
+    },
+    {
+        "key": "FE_ACCEPT:0",
+        "original": "Accept",
+        "translation": "接受",
+        "stage": 1
+    },
+    {
+        "key": "FE_CONFIRM:0",
+        "original": "Confirm",
+        "translation": "确定",
+        "stage": 1
+    },
+    {
+        "key": "FE_DECLINE:0",
+        "original": "Decline",
+        "translation": "拒绝",
+        "stage": 1
+    },
+    {
+        "key": "FE_CANCEL:0",
+        "original": "Cancel",
+        "translation": "取消",
+        "stage": 1
+    },
+    {
+        "key": "TIP_MUTE:0",
+        "original": "Mute",
+        "translation": "禁言",
+        "stage": 1
+    },
+    {
+        "key": "TIP_KICK:0",
+        "original": "Kick",
+        "translation": "踢人",
+        "stage": 1
+    },
+    {
+        "key": "TIP_BAN:0",
+        "original": "Ban",
+        "translation": "禁人",
+        "stage": 1
+    },
+    {
+        "key": "LOBBY:0",
+        "original": "Lobby",
+        "translation": "大厅",
+        "stage": 1
+    },
+    {
+        "key": "CONTINUE:0",
+        "original": "Continue",
+        "translation": "继续",
+        "stage": 1
+    },
+    {
+        "key": "OBSERVE:0",
+        "original": "Observe",
+        "translation": "观察者模式",
+        "stage": 1
+    },
+    {
+        "key": "SAVE:0",
+        "original": "Save",
+        "translation": "储存",
+        "stage": 1
+    },
+    {
+        "key": "QUIT:0",
+        "original": "Quit",
+        "translation": "退出",
+        "stage": 1
+    },
+    {
+        "key": "MP_FEW_PLAYERS:0",
+        "original": "§RNeeds more than one player§!",
+        "translation": "§R需要至少两名玩家§!",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_CONTROLLER:0",
+        "original": "$PLAYER|H$ is the main controller of $COUNTRY|H$.",
+        "translation": "$PLAYER|H$是$COUNTRY|H$的主要控制者。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_CO_PLAYER:0",
+        "original": "$PLAYER|H$ will be co-playing $COUNTRY|H$.",
+        "translation": "$PLAYER|H$将合作控制$COUNTRY|H$。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_PROMOTE:0",
+        "original": "§GClick§! to promote $PLAYER|H$ to be the main controller of $COUNTRY|H$.",
+        "translation": "§G点击§!将$PLAYER|H$提升为$COUNTRY|H$的主要控制者。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_PROMOTE_HINT:0",
+        "original": "$PLAYER|H$ can promote you to be the main controller of $COUNTRY|H$.",
+        "translation": "$PLAYER|H$可以将你提升为$COUNTRY|H$的主要控制者。",
+        "stage": 1
+    },
+    {
+        "key": "SAVE_PROG:0",
+        "original": "$VALUE|%0$",
+        "translation": "$VALUE|%0$",
+        "stage": 1
+    },
+    {
+        "key": "START_FILE_TRANSFER:0",
+        "original": "Sending savegame to $NAME|H$.",
+        "translation": "发送存档给$NAME|H$。",
+        "stage": 1
+    },
+    {
+        "key": "SAVEGAME_LOADED:0",
+        "original": "§GLoaded§!",
+        "translation": "§G读取完毕§!",
+        "stage": 1
+    },
+    {
+        "key": "NOT_ALLOWED_TO_CHANGE_COUNTRY:0",
+        "original": "§RYou're not allowed to change country yet.§!",
+        "translation": "§R你现在还不能更改所选国家。§!",
+        "stage": 1
+    },
+    {
+        "key": "OOS_TITLE:0",
+        "original": "Your game is no longer in synch",
+        "translation": "游戏同步丢失",
+        "stage": 1
+    },
+    {
+        "key": "OOS_DESC:1",
+        "original": "$WHO|H$ does no longer have the correct gamestate.\\nError code: $CODE|R$ \\n($CODE_DESC$) \\n \\n The host can no longer guarantee that all players has a correct gamestate. Possible solutions: \\n 1. The server can resync the game. \\n 2. The player can leave the game and then reconnect if hotjoin is enabled.\\n 3. The server can rehost the game. \\n 4. Continue playing with a corrupt gamestate. (Not recommended. Will most likely result in a crash later on.)",
+        "translation": "$WHO|H$失去了正确的游戏状态。\\n错误代码：$CODE|R$ \\n($CODE_DESC$) \\n \\n 主机无法继续确保所有玩家处于正确的游戏状态。可能的解决方案：\\n 1. 主机可以重新同步游戏。\\n 2. 如果热加入有启用的话，玩家可以离开游戏后重连。\\n 3. 主机可以重建游戏。\\n 4. 继续游戏。 (不推荐。通常会在之后导致游戏崩溃)",
+        "stage": 1
+    },
+    {
+        "key": "OOS_ERROR_CODE:0",
+        "original": "Error code: $CODE$",
+        "translation": "错误代码：$CODE$",
+        "stage": 1
+    },
+    {
+        "key": "GAME_IS_OOS:0",
+        "original": "Games is out of sync. Error code: $CODE$, Description: $LONG$",
+        "translation": "游戏同步丢失。错误代码：$CODE$。错误描述：$LONG$",
+        "stage": 1
+    },
+    {
+        "key": "OOS_0:0",
+        "original": "Random seed",
+        "translation": "随机数种子",
+        "stage": 1
+    },
+    {
+        "key": "OOS_1:0",
+        "original": "Random count",
+        "translation": "随机数总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_2:1",
+        "original": "Gamestate checksum",
+        "translation": "游戏状态校验码",
+        "stage": 1
+    },
+    {
+        "key": "OOS_3:0",
+        "original": "Number of Armies",
+        "translation": "集团军总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_4:0",
+        "original": "Number of Leaders",
+        "translation": "指挥官总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_5:0",
+        "original": "Army Score",
+        "translation": "陆军分数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_6:0",
+        "original": "Navy Score",
+        "translation": "海军分数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_7:0",
+        "original": "Air Score",
+        "translation": "空军分数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_8:0",
+        "original": "Army Experience",
+        "translation": "陆军经验",
+        "stage": 1
+    },
+    {
+        "key": "OOS_9:0",
+        "original": "Navy Experience",
+        "translation": "海军经验",
+        "stage": 1
+    },
+    {
+        "key": "OOS_10:0",
+        "original": "Air Experience",
+        "translation": "空军经验",
+        "stage": 1
+    },
+    {
+        "key": "OOS_11:0",
+        "original": "Total ship strength",
+        "translation": "总舰船力量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_12:0",
+        "original": "Total Civilian Factories",
+        "translation": "民用工厂总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_13:0",
+        "original": "Available Civilian Factories",
+        "translation": "空闲民用工厂总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_14:0",
+        "original": "Total Military Factories",
+        "translation": "军用工厂总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_15:0",
+        "original": "Available Military Factories",
+        "translation": "空闲军用工厂总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_16:0",
+        "original": "Total Naval Dockyards",
+        "translation": "海军船坞总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_17:0",
+        "original": "Available Naval Dockyards",
+        "translation": "空闲海军船坞总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_18:0",
+        "original": "Progress for Civilian Productions",
+        "translation": "民用生产进度",
+        "stage": 1
+    },
+    {
+        "key": "OOS_19:0",
+        "original": "Progress for Military Productions",
+        "translation": "军事生产进度",
+        "stage": 1
+    },
+    {
+        "key": "OOS_20:0",
+        "original": "Progress for Naval Productions",
+        "translation": "海军生产进度",
+        "stage": 1
+    },
+    {
+        "key": "OOS_21:0",
+        "original": "Number of Buildings",
+        "translation": "建筑数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_22:0",
+        "original": "Number of Fronts",
+        "translation": "战线数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_23:0",
+        "original": "Number of Provinces in Fronts",
+        "translation": "战线省份数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_24:0",
+        "original": "Enemy for Fronts",
+        "translation": "战线敌方",
+        "stage": 1
+    },
+    {
+        "key": "OOS_25:0",
+        "original": "Number of Theaters",
+        "translation": "战区数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_26:0",
+        "original": "Best Province in Theater",
+        "translation": "战区内最好省份",
+        "stage": 1
+    },
+    {
+        "key": "OOS_27:0",
+        "original": "Reinforcement Priority",
+        "translation": "增援优先级",
+        "stage": 1
+    },
+    {
+        "key": "OOS_28:0",
+        "original": "Country Modifiers",
+        "translation": "国家修正",
+        "stage": 1
+    },
+    {
+        "key": "OOS_29:0",
+        "original": "State Modifiers",
+        "translation": "地区修正",
+        "stage": 1
+    },
+    {
+        "key": "OOS_30:0",
+        "original": "Temperature",
+        "translation": "温度",
+        "stage": 1
+    },
+    {
+        "key": "OOS_31:0",
+        "original": "Number of controller areas",
+        "translation": "控制区域数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_32:0",
+        "original": "Provinces in controller areas",
+        "translation": "控制区域省份总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_33:0",
+        "original": "Size of controller areas",
+        "translation": "控制区域大小",
+        "stage": 1
+    },
+    {
+        "key": "OOS_34:0",
+        "original": "Number of owner areas",
+        "translation": "拥有区域数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_35:0",
+        "original": "Provinces in owner areas",
+        "translation": "拥有区域省份总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_36:0",
+        "original": "Size of owner areas",
+        "translation": "拥有区域大小",
+        "stage": 1
+    },
+    {
+        "key": "OOS_37:0",
+        "original": "Produced resources",
+        "translation": "生产资源",
+        "stage": 1
+    },
+    {
+        "key": "OOS_38:0",
+        "original": "Imported resources",
+        "translation": "进口资源",
+        "stage": 1
+    },
+    {
+        "key": "OOS_39:0",
+        "original": "Consumed resources",
+        "translation": "消耗资源",
+        "stage": 1
+    },
+    {
+        "key": "OOS_40:0",
+        "original": "Exported resources",
+        "translation": "出口资源",
+        "stage": 1
+    },
+    {
+        "key": "OOS_41:0",
+        "original": "Produced resources pool",
+        "translation": "生产资源池",
+        "stage": 1
+    },
+    {
+        "key": "OOS_42:0",
+        "original": "Produced resources pool",
+        "translation": "生产资源池",
+        "stage": 1
+    },
+    {
+        "key": "OOS_43:0",
+        "original": "Number of provinces in theaters",
+        "translation": "战区省份总数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_44:0",
+        "original": "Total timed activity progress",
+        "translation": "所有定时行为总进度",
+        "stage": 1
+    },
+    {
+        "key": "OOS_45:0",
+        "original": "Total political power",
+        "translation": "总政治点数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_46:0",
+        "original": "AI Countries",
+        "translation": "AI国家",
+        "stage": 1
+    },
+    {
+        "key": "OOS_47:0",
+        "original": "Orders Groups",
+        "translation": "命令组",
+        "stage": 1
+    },
+    {
+        "key": "OOS_48:0",
+        "original": "Armies in combat",
+        "translation": "战斗中的部队",
+        "stage": 1
+    },
+    {
+        "key": "OOS_49:0",
+        "original": "Completed focuses",
+        "translation": "完成的国策",
+        "stage": 1
+    },
+    {
+        "key": "OOS_50:0",
+        "original": "Naval mission coverage",
+        "translation": "海军任务范围",
+        "stage": 1
+    },
+    {
+        "key": "OOS_51:0",
+        "original": "Regions in naval missions",
+        "translation": "海军任务的海域",
+        "stage": 1
+    },
+    {
+        "key": "OOS_52:0",
+        "original": "Command Power",
+        "translation": "指挥点数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_53:0",
+        "original": "Allocated Command Power",
+        "translation": "维持用指挥点数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_54:0",
+        "original": "Total Command Power",
+        "translation": "总指挥点数",
+        "stage": 1
+    },
+    {
+        "key": "OOS_55:0",
+        "original": "Next ID",
+        "translation": "下一个ID",
+        "stage": 1
+    },
+    {
+        "key": "OOS_56:0",
+        "original": "Number of Army Leaders",
+        "translation": "陆军指挥官数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_57:0",
+        "original": "Number of Naval Leaders",
+        "translation": "海军指挥官数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_58:0",
+        "original": "Number of convoys used",
+        "translation": "运输船使用数量",
+        "stage": 1
+    },
+    {
+        "key": "OOS_59:0",
+        "original": "Number of free convoys",
+        "translation": "闲置运输船数量",
+        "stage": 1
+    },
+    {
+        "key": "MULTIPLAYER_PLAYERS:0",
+        "original": "$NUM$",
+        "translation": "$NUM$",
+        "stage": 1
+    },
+    {
+        "key": "MULTIPLAYER_MESSAGES:0",
+        "original": "$NUM$",
+        "translation": "$NUM$",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FRIEND_STATUS_PLAYING_THIS:0",
+        "original": "§GAlready Playing§!",
+        "translation": "§G已在游戏中§!",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FRIEND_STATUS_PLAYING_OTHER:0",
+        "original": "§YIn other game§!",
+        "translation": "§Y在其他游戏中§!",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_FRIEND_STATUS_ONLINE:0",
+        "original": "§GOnline§!",
+        "translation": "§G在线§!",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_CONNECTING:0",
+        "original": "Connecting",
+        "translation": "连接中",
+        "stage": 1
+    },
+    {
+        "key": "MATCHMAKING_SERVER_DENIED:0",
+        "original": "Connection timed out",
+        "translation": "连接超时",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_NAME:0",
+        "original": "Server name: $NAME$",
+        "translation": "服务器名：$NAME$",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_PASSWORD:0",
+        "original": "Password: $PASSWORD$",
+        "translation": "密码：$PASSWORD$",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_BOOKMARK:0",
+        "original": "Bookmark: $BOOKMARK$",
+        "translation": "剧本：$BOOKMARK$",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_START_DATE:0",
+        "original": "Start date: $DATE$",
+        "translation": "开始时间：$DATE$",
+        "stage": 1
+    },
+    {
+        "key": "SERVER_LAUNCHING_MP:0",
+        "original": "*** Launching MULTIPLAYER-game ***",
+        "translation": "*** 开始多人游戏 ***",
+        "stage": 1
+    },
+    {
+        "key": "OOS_CHECKS:0",
+        "original": "§GServer sets the following oos checks: $CHECKS|Y$.§!",
+        "translation": "§G服务器设置了如下同步检查：$CHECKS|Y$。§!",
+        "stage": 1
+    },
+    {
+        "key": "ACTIVATE_OBSERVER_MODE:0",
+        "original": "Activate Observer Mode",
+        "translation": "激活观察者模式",
+        "stage": 1
+    },
+    {
+        "key": "DEACTIVATE_OBSERVER_MODE:0",
+        "original": "Deactivate Observer Mode",
+        "translation": "关闭观察者模式",
+        "stage": 1
+    },
+    {
+        "key": "OBSERVER_MODE_DESC:0",
+        "original": "Observer Mode allows you to view the game from any other player's perspective but not interact with anything",
+        "translation": "观察者模式允许你以其他玩家的视角观看游戏，但是无法控制任何东西。",
+        "stage": 1
+    },
+    {
+        "key": "USER_NAME:0",
+        "original": "Username: $USER|Y$",
+        "translation": "用户名：$USER|Y$",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_REMOVED_TITLE:0",
+        "original": "$PLAYER$ has left",
+        "translation": "$PLAYER$退出了",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_REMOVED_DESC:0",
+        "original": "$PLAYER|Y$ has unfortunately left the game.\\nDo you want $COUNTRY|Y$ to become AI controlled?",
+        "translation": "$PLAYER|Y$不幸退出了游戏。\\n你希望$COUNTRY|Y$由AI接替控制么？",
+        "stage": 1
+    },
+    {
+        "key": "MULTIPLAYER_RESYC:1",
+        "original": "Resync",
+        "translation": "重新同步",
+        "stage": 1
+    },
+    {
+        "key": "FAILED_TO_CONNECT:0",
+        "original": "Failed to connect",
+        "translation": "连接失败",
+        "stage": 1
+    }
+]

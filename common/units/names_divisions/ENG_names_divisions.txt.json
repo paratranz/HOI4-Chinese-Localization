@@ -1,0 +1,3614 @@
+[
+    {
+        "key": "ENG_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_INF_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|42#|%dnd (East Lancashire) Infantry Division",
+        "original": "%dnd (East Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|43#|%drd (Wessex) Infantry Division",
+        "original": "%drd (Wessex) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|44#|%dth (Home Counties) Division",
+        "original": "%dth (Home Counties) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|48#|%dth (South Midlands) Infantry Division",
+        "original": "%dth (South Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|49#|%dth (West Riding) Infantry Division",
+        "original": "%dth (West Riding) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|50#|%dth (Northumbrian) Infantry Division",
+        "original": "%dth (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|51#|%dst (Highland) Infantry Division",
+        "original": "%dst (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|52#|%dnd (Lowland) Infantry Division",
+        "original": "%dnd (Lowland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|53#|%drd (Welsh) Infantry Division",
+        "original": "%drd (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|54#|%dth (East Anglia) Infantry Division",
+        "original": "%dth (East Anglia) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|55#|%dth (West Lancashire) Infantry Division",
+        "original": "%dth (West Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|9#|%dth (Highland) Infantry Division",
+        "original": "%dth (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|15#|%dth (Scottish) Infantry Division",
+        "original": "%dth (Scottish) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|38#|%dth (Welsh) Infantry Division",
+        "original": "%dth (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|59#|%dth (Staffordshire) Infantry Division",
+        "original": "%dth (Staffordshire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|66#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|12#|%dth (Eastern) Infantry Division",
+        "original": "%dth (Eastern) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|23#|%drd (Northumbrian) Infantry Division",
+        "original": "%drd (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|46#|%dth (North Midlands) Infantry Division",
+        "original": "%dth (North Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|11#|%dth (East Africa) Infantry Division",
+        "original": "%dth (East Africa) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|812#|12th (West Africa) Infantry Division",
+        "original": "12th (West Africa) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|47#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|56#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|70#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|76#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|77#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|78#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|80#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|81#|%dst (West Africa) Infantry Division",
+        "original": "%dst (West Africa) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|82#|%dnd (West Africa) Infantry Division",
+        "original": "%dnd (West Africa) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|801#|Guards Infantry Division",
+        "original": "Guards Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|58#|%dth (2/1st London) Infantry Division",
+        "original": "%dth (2/1st London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|60#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|62#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|63#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|67#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|68#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|69#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|71#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|72#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|73#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|74#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|75#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|97#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|98#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|99#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|100#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|101#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|102#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|103#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|104#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|106#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|108#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|109#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|110#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|111#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|112#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|113#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|114#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|115#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|116#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|117#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|118#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|119#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|120#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|121#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|122#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|123#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|124#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|125#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|126#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|127#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|128#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|129#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|130#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|131#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|132#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|133#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|134#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|135#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|136#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|137#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|138#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|139#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|140#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|142#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|143#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|144#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|145#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|146#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|147#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|148#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|149#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_INF_01|ordered|150#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_CAV_01|fallback_name",
+        "original": "%d Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|18#|%dth Hussars Division",
+        "original": "%dth Hussars Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|1#|%dst Cavalry Division (King's Own)",
+        "original": "%dst Cavalry Division (King's Own)",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|2#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|4#|%dth Cavalry Division (Queen's Own)",
+        "original": "%dth Cavalry Division (Queen's Own)",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|5#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|6#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|7#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|8#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|9#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|10#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|11#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|12#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|13#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|14#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|15#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|16#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|17#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|19#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_01|ordered|20#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_CAV_02|name",
+        "original": "Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_CAV_02|fallback_name",
+        "original": "%d Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|1#|%dst Cavalry Brigade",
+        "original": "%dst Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|2#|%dnd Cavalry Brigade",
+        "original": "%dnd Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|3#|%drd Cavalry Brigade",
+        "original": "%drd Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|4#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|5#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|6#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|7#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|8#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|9#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|10#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|11#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|12#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|13#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|14#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|15#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|16#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|17#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|19#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_CAV_02|ordered|20#|%dth Cavalry Brigade",
+        "original": "%dth Cavalry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MOT_01|name",
+        "original": "Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MOT_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|50#|%dth (Northumbrian) Infantry Division",
+        "original": "%dth (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|55#|%dth (West Lancashire) Infantry Division",
+        "original": "%dth (West Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|59#|%dth (Staffordshire) Infantry Division",
+        "original": "%dth (Staffordshire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|23#|%drd (Northumbrian) Infantry Division",
+        "original": "%drd (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|47#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|56#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|42#|%dnd (East Lancashire) Infantry Division",
+        "original": "%dnd (East Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|43#|%drd (Wessex) Infantry Division",
+        "original": "%drd (Wessex) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|44#|%dth (Home Counties) Infantry Division",
+        "original": "%dth (Home Counties) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|48#|%dth (South Midlands) Infantry Division",
+        "original": "%dth (South Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|49#|%dth (West Riding) Infantry Division",
+        "original": "%dth (West Riding) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|51#|%dst (Highland) Infantry Division",
+        "original": "%dst (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|52#|%dnd (Lowland) Infantry Division",
+        "original": "%dnd (Lowland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|53#|%drd (Welsh) Infantry Division",
+        "original": "%drd (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|54#|%dth (East Anglia) Infantry Division",
+        "original": "%dth (East Anglia) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|9#|%dth (Highland) Infantry Division",
+        "original": "%dth (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|15#|%dth (Scottish) Infantry Division",
+        "original": "%dth (Scottish) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|38#|%dth (Welsh) Infantry Division",
+        "original": "%dth (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|66#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|12#|%dth (Eastern) Infantry Division",
+        "original": "%dth (Eastern) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|46#|%dth (North Midlands) Infantry Division",
+        "original": "%dth (North Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|801#|Guards Infantry Division",
+        "original": "Guards Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|58#|%dth (2/1st London) Infantry Division",
+        "original": "%dth (2/1st London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|100#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|101#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|102#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|103#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|104#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|106#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|108#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|109#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|110#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|111#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|112#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|113#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|114#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|115#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|116#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|117#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|118#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|119#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|120#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|121#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|122#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|123#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|124#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|125#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|126#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|127#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|128#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|129#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|130#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|131#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|132#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|133#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|134#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|135#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|136#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|137#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|138#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|139#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|140#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|142#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|143#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|144#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|145#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|146#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|147#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|148#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|149#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MOT_01|ordered|150#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MEC_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|50#|%dth (Northumbrian) Infantry Division",
+        "original": "%dth (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|55#|%dth (West Lancashire) Infantry Division",
+        "original": "%dth (West Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|59#|%dth (Staffordshire) Infantry Division",
+        "original": "%dth (Staffordshire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|23#|%drd (Northumbrian) Infantry Division",
+        "original": "%drd (Northumbrian) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|47#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|56#|%dth (London) Infantry Division",
+        "original": "%dth (London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|42#|%dnd (East Lancashire) Infantry Division",
+        "original": "%dnd (East Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|43#|%drd (Wessex) Infantry Division",
+        "original": "%drd (Wessex) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|44#|%dth (Home Counties) Infantry Division",
+        "original": "%dth (Home Counties) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|48#|%dth (South Midlands) Infantry Division",
+        "original": "%dth (South Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|49#|%dth (West Riding) Infantry Division",
+        "original": "%dth (West Riding) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|51#|%dst (Highland) Infantry Division",
+        "original": "%dst (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|52#|%dnd (Lowland) Infantry Division",
+        "original": "%dnd (Lowland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|53#|%drd (Welsh) Infantry Division",
+        "original": "%drd (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|54#|%dth (East Anglia) Infantry Division",
+        "original": "%dth (East Anglia) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|9#|%dth (Highland) Infantry Division",
+        "original": "%dth (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|15#|%dth (Scottish) Infantry Division",
+        "original": "%dth (Scottish) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|38#|%dth (Welsh) Infantry Division",
+        "original": "%dth (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|66#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|12#|%dth (Eastern) Infantry Division",
+        "original": "%dth (Eastern) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|46#|%dth (North Midlands) Infantry Division",
+        "original": "%dth (North Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|801#|Guards Infantry Division",
+        "original": "Guards Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|58#|%dth (2/1st London) Infantry Division",
+        "original": "%dth (2/1st London) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|100#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|101#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|102#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|103#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|104#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|106#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|108#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|109#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|110#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|111#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|112#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|113#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|114#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|115#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|116#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|117#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|118#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|119#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|120#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|121#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|122#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|123#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|124#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|125#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|126#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|127#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|128#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|129#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|130#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|131#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|132#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|133#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|134#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|135#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|136#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|137#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|138#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|139#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|140#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|142#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|143#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|144#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|145#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|146#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|147#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|148#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|149#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MEC_01|ordered|150#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_ARM_01|name",
+        "original": "Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_ARM_01|fallback_name",
+        "original": "%d Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|2#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|6#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|8#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|9#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|31#|Guards Armoured Division",
+        "original": "Guards Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|10#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|11#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|42#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|79#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|5#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|3#|%drd Armoured Division",
+        "original": "%drd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|4#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|12#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|13#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|14#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|15#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|16#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|17#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|18#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|19#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|20#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|21#|%dst Armoured Division",
+        "original": "%dst Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|22#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|23#|%drd Armoured Division",
+        "original": "%drd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|24#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|25#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|26#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|27#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|28#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|29#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_01|ordered|30#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_ARM_02|name",
+        "original": "Armoured Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_ARM_02|fallback_name",
+        "original": "%d Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|1#|%dst Army Tank Brigade",
+        "original": "%dst Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|2#|1st Heavy Armoured Brigade",
+        "original": "1st Heavy Armoured Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|21#|%dst Army Tank Brigade",
+        "original": "%dst Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|22#|%dnd Army Tank Brigade",
+        "original": "%dnd Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|23#|%drd Army Tank Brigade",
+        "original": "%drd Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|24#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|25#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|3#|%drd Army Tank Brigade",
+        "original": "%drd Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|6#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|8#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|9#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|10#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|11#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|32#|%dnd Army Tank Brigade",
+        "original": "%dnd Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|31#|%dst Army Tank Brigade",
+        "original": "%dst Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|5#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|7#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|4#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|12#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|13#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|14#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|15#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|16#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|17#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|18#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|19#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|20#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|26#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|27#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|28#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|29#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_ARM_02|ordered|30#|%dth Army Tank Brigade",
+        "original": "%dth Army Tank Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_PAR_01|fallback_name",
+        "original": "%d Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|11#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|12#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|13#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|14#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|15#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|16#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|17#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|18#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|19#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_PAR_01|ordered|20#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MAR_01|fallback_name",
+        "original": "%d Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|1#|%dst Royal Marines Division",
+        "original": "%dst Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|2#|%dnd Royal Marines Division",
+        "original": "%dnd Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|3#|%drd Royal Marines Division",
+        "original": "%drd Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|4#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|5#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|6#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|7#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|8#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|9#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|10#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|11#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|12#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|13#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|14#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|15#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|16#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|17#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|18#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|19#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MAR_01|ordered|20#|%dth Royal Marines Division",
+        "original": "%dth Royal Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_MNT_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|52#|%dnd (Lowland) Infantry Division",
+        "original": "%dnd (Lowland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|9#|%dth (Highland) Infantry Division",
+        "original": "%dth (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|15#|%dth (Scottish) Infantry Division",
+        "original": "%dth (Scottish) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|51#|%dst (Highland) Infantry Division",
+        "original": "%dst (Highland) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|801#|Guards Infantry Division",
+        "original": "Guards Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|46#|%dth (North Midlands) Infantry Division",
+        "original": "%dth (North Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|38#|%dth (Welsh) Infantry Division",
+        "original": "%dth (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|66#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|62#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|63#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|67#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|68#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|69#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|12#|%dth (Eastern) Infantry Division",
+        "original": "%dth (Eastern) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|42#|%dnd (East Lancashire) Infantry Division",
+        "original": "%dnd (East Lancashire) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|43#|%drd (Wessex) Infantry Division",
+        "original": "%drd (Wessex) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|44#|%dth (Home Counties) Infantry Division",
+        "original": "%dth (Home Counties) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|48#|%dth (South Midlands) Infantry Division",
+        "original": "%dth (South Midlands) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|49#|%dth (West Riding) Infantry Division",
+        "original": "%dth (West Riding) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|53#|%drd (Welsh) Infantry Division",
+        "original": "%drd (Welsh) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|54#|%dth (East Anglia) Infantry Division",
+        "original": "%dth (East Anglia) Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|127#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|128#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|129#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|130#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|131#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|132#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|133#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|134#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|135#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|136#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|137#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|138#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|139#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|140#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_MNT_01|ordered|142#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_GAR_01|fallback_name",
+        "original": "%d Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|202#|Dorset County Division",
+        "original": "Dorset County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|204#|West Sussex County Division",
+        "original": "West Sussex County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|205#|Hampshire County Division",
+        "original": "Hampshire County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|206#|Lincolnshire County Division",
+        "original": "Lincolnshire County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|207#|Norfolk County Division",
+        "original": "Norfolk County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|208#|Northumberland County Division",
+        "original": "Northumberland County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|209#|Yorkshire County Division",
+        "original": "Yorkshire County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|210#|Essex County Division",
+        "original": "Essex County Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|100#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|101#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|102#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|103#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|104#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|106#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|108#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|109#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|110#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|111#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|112#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|113#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|114#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|115#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|116#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|117#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|118#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|119#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|120#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|121#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|122#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|123#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|124#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|125#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|126#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|127#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|128#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|129#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|130#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|131#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|132#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|133#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|134#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|135#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|136#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|137#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|138#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|139#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|140#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|142#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|143#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|144#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|145#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|146#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|147#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|148#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|149#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_GAR_01|ordered|150#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_COL_01|name",
+        "original": "Colonial Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ENG_COL_01|fallback_name",
+        "original": "%d (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|11#|%dth (East Africa) Division",
+        "original": "%dth (East Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|812#|12th (West Africa) Division",
+        "original": "12th (West Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|81#|%dst (West Africa) Division",
+        "original": "%dst (West Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|82#|%dnd (West Africa) Division",
+        "original": "%dnd (West Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|501#|1st Sudanese Colonials",
+        "original": "1st Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|502#|2nd Sudanese Colonials",
+        "original": "2nd Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|503#|3rd Sudanese Colonials",
+        "original": "3rd Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|521#|1st Ugandan Colonials",
+        "original": "1st Ugandan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|522#|2nd Ugandan Colonials",
+        "original": "2nd Ugandan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|541#|1st Kenyan Colonials",
+        "original": "1st Kenyan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|542#|2nd Kenyan Colonials",
+        "original": "2nd Kenyan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|561#|1st Tanzanian Colonials",
+        "original": "1st Tanzanian Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|562#|2nd Tanzanian Colonials",
+        "original": "2nd Tanzanian Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|581#|1st King's Arms Rifles",
+        "original": "1st King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|582#|2nd King's Arms Rifles",
+        "original": "2nd King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|583#|3rd King's Arms Rifles",
+        "original": "3rd King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|584#|4th King's Arms Rifles",
+        "original": "4th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|585#|5th King's Arms Rifles",
+        "original": "5th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|586#|6th King's Arms Rifles",
+        "original": "6th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|587#|7th King's Arms Rifles",
+        "original": "7th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|588#|8th King's Arms Rifles",
+        "original": "8th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|589#|9th King's Arms Rifles",
+        "original": "9th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|590#|10th King's Arms Rifles",
+        "original": "10th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|83#|%drd (Africa) Division",
+        "original": "%drd (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|84#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|85#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|86#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|87#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|88#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|89#|%dth (Africa) Division",
+        "original": "%dth (Africa) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|543#|3rd Kenyan Colonials",
+        "original": "3rd Kenyan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|544#|4th Kenyan Colonials",
+        "original": "4th Kenyan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|545#|5th Kenyan Colonials",
+        "original": "5th Kenyan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|504#|3rd Sudanese Colonials",
+        "original": "3rd Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|505#|4th Sudanese Colonials",
+        "original": "4th Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|506#|5th Sudanese Colonials",
+        "original": "5th Sudanese Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|523#|3rd Ugandan Colonials",
+        "original": "3rd Ugandan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|524#|4th Ugandan Colonials",
+        "original": "4th Ugandan Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|563#|3rd Tanzanian Colonials",
+        "original": "3rd Tanzanian Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|564#|4th Tanzanian Colonials",
+        "original": "4th Tanzanian Colonials",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|591#|11th King's Arms Rifles",
+        "original": "11th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|592#|12th King's Arms Rifles",
+        "original": "12th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|593#|13th King's Arms Rifles",
+        "original": "13th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|594#|14th King's Arms Rifles",
+        "original": "14th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ENG_COL_01|ordered|595#|15th King's Arms Rifles",
+        "original": "15th King's Arms Rifles",
+        "translation": "",
+        "stage": 0
+    }
+]

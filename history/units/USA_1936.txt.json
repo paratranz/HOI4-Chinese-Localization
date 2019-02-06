@@ -1,0 +1,2120 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Puerto Rico Department",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "Panama Canal Force",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|name",
+        "original": "Alaska Defense Command",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|name",
+        "original": "Attu Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|name",
+        "original": "Hawaiian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "Midway Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|name",
+        "original": "Wake Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|name",
+        "original": "Guam Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|name",
+        "original": "Christmas Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "Jarvis Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|name",
+        "original": "Palmyra Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|name",
+        "original": "Phoenix Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|name",
+        "original": "Johnston Island Garrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Garrison Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|name",
+        "original": "Philippine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Battleship Division 1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "USS Nevada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|equipment|battleship_1|version_name",
+        "original": "Pennsylvania Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "USS Arizona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|battleship_1|version_name",
+        "original": "Pennsylvania Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "USS Pennsylvania",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|battleship_1|version_name",
+        "original": "Pennsylvania Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Battleship Division 2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "USS Oklahoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|equipment|battleship_1|version_name",
+        "original": "Pennsylvania Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "USS Tennessee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|equipment|battleship_1|version_name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "USS California",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|equipment|battleship_1|version_name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Battleship Division 4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "USS Colorado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|equipment|battleship_1|version_name",
+        "original": "Colorado Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "USS West Virginia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|equipment|battleship_1|version_name",
+        "original": "Colorado Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "USS Maryland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|equipment|battleship_1|version_name",
+        "original": "Colorado Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Carrier Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "USS Lexington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "USS Saratoga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "Cruiser Division 3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "USS Richmond",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "USS Trenton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "USS Concord",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "Cruiser Division 4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "USS Pensacola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "USS Salt Lake City",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "USS Chicago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "USS Indianapolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "Cruiser Division 5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "USS Northampton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "USS Chester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "USS Louisville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "USS Portland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "Cruiser Division 6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "USS New Orleans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "USS Astoria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "USS Minneapolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "USS San Francisco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|name",
+        "original": "Destroyer Flotilla  1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "USS Raleigh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "USS Dewey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "USS Hull",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "USS MacDonough",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "USS Worden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "USS Farragut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "USS Dale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "USS Monaghan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|name",
+        "original": "USS Aylwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|equipment|destroyer_1|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|name",
+        "original": "USS Rathburne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|name",
+        "original": "USS Talbot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###########|name",
+        "original": "USS Waters",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship############|name",
+        "original": "USS Dent",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#############|name",
+        "original": "USS Ballard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##############|name",
+        "original": "USS Thornton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###############|name",
+        "original": "USS Litchfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship################|name",
+        "original": "USS Zane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#################|name",
+        "original": "USS Wasmuth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|name",
+        "original": "Destroyer Flotilla  5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "USS Detroit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "USS Hatfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "USS Brooks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|name",
+        "original": "USS Gilmer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|name",
+        "original": "USS Fox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|name",
+        "original": "USS Kane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|name",
+        "original": "USS Allen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#######|name",
+        "original": "USS Schley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship########|name",
+        "original": "USS Chew",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#########|name",
+        "original": "USS Ward",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##########|name",
+        "original": "USS Humphreys",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###########|name",
+        "original": "USS King",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship############|name",
+        "original": "USS Sands",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#############|name",
+        "original": "USS Lawrence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##############|name",
+        "original": "USS Crane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###############|name",
+        "original": "USS Kilty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship################|name",
+        "original": "USS Kennison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#################|name",
+        "original": "USS Crosby",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "4th Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "USS S-18",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "USS S-23",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "USS S-27",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "USS S-28",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "USS S-34",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "USS S-35",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "USS Argonaut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "USS Narwhal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|name",
+        "original": "USS Nautilus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|name",
+        "original": "USS Dolphin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|name",
+        "original": "USS Cachalot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###########|name",
+        "original": "USS Cuttlefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship############|name",
+        "original": "USS Porpoise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#############|name",
+        "original": "USS Pike",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##############|name",
+        "original": "USS Shark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|name",
+        "original": "6th Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|name",
+        "original": "USS R-11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|name",
+        "original": "USS R-13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|name",
+        "original": "USS R-14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|name",
+        "original": "USS R-20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|name",
+        "original": "USS S-46",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|name",
+        "original": "USS S-47",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|name",
+        "original": "USS S-48",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|name",
+        "original": "USS O-9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|name",
+        "original": "USS R-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|name",
+        "original": "USS R-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##########|name",
+        "original": "USS S-25",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###########|name",
+        "original": "USS S-26",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship############|name",
+        "original": "USS S-32",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|name",
+        "original": "Asiatic Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|name",
+        "original": "USS Houston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|name",
+        "original": "USS Marblehead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|name",
+        "original": "USS Paul Jones",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###|name",
+        "original": "USS Alden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship####|name",
+        "original": "USS John D Edwards",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#####|name",
+        "original": "USS Whipple",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship######|name",
+        "original": "USS Edsall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#######|name",
+        "original": "USS Barker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship########|name",
+        "original": "USS Parrott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#########|name",
+        "original": "USS Bulmer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##########|name",
+        "original": "USS Stewart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###########|name",
+        "original": "USS Pope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship############|name",
+        "original": "USS Peary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#############|name",
+        "original": "USS Pillsbury",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##############|name",
+        "original": "USS John D Ford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|name",
+        "original": "2nd Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship|name",
+        "original": "USS S-36",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#|name",
+        "original": "USS S-37",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##|name",
+        "original": "USS S-38",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###|name",
+        "original": "USS S-39",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship####|name",
+        "original": "USS S-40",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#####|name",
+        "original": "USS S-41",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship######|name",
+        "original": "USS R-12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#######|name",
+        "original": "USS R-15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship########|name",
+        "original": "USS R-16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#########|name",
+        "original": "USS R-17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##########|name",
+        "original": "USS R-18",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###########|name",
+        "original": "USS R-19",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|name",
+        "original": "Battleship Division 3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship|name",
+        "original": "USS New Mexico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship|equipment|battleship_1|version_name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#|name",
+        "original": "USS Mississippi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#|equipment|battleship_1|version_name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##|name",
+        "original": "USS Idaho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##|equipment|battleship_1|version_name",
+        "original": "New Mexico Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|name",
+        "original": "Battleship Division 5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship|name",
+        "original": "USS Arkansas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship#|name",
+        "original": "USS New York",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###############|ship##|name",
+        "original": "USS Texas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|name",
+        "original": "Cruiser Division 2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship|name",
+        "original": "USS Omaha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship#|name",
+        "original": "USS Milwaukee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship##|name",
+        "original": "USS Cincinnati",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy################|ship###|name",
+        "original": "USS Memphis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|name",
+        "original": "Cruiser Division 7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship|name",
+        "original": "USS Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#|name",
+        "original": "USS Tuscaloosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#################|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|name",
+        "original": "USS Ranger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##################|ship|name",
+        "original": "USS Ranger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|name",
+        "original": "Destroyer Flotilla  3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship|name",
+        "original": "USS Clemson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#|name",
+        "original": "USS Chandler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##|name",
+        "original": "USS Southard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###|name",
+        "original": "USS Hovey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship####|name",
+        "original": "USS Long",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#####|name",
+        "original": "USS Little",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship######|name",
+        "original": "USS Gregory",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#######|name",
+        "original": "USS Stringham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship########|name",
+        "original": "USS Colhoun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#########|name",
+        "original": "USS Goldsborough",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##########|name",
+        "original": "USS McFarland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###########|name",
+        "original": "USS Reuben James",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship############|name",
+        "original": "USS Hopkins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#############|name",
+        "original": "USS Belknap",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##############|name",
+        "original": "USS Osmond Ingram",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###############|name",
+        "original": "USS Bancroft",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship################|name",
+        "original": "USS Gillis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#################|name",
+        "original": "USS Greene",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##################|name",
+        "original": "USS McKean",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###################|name",
+        "original": "USS Dorsey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship####################|name",
+        "original": "USS Boggs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#####################|name",
+        "original": "USS Hamilton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship######################|name",
+        "original": "USS Elliot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#######################|name",
+        "original": "USS MacLeish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship########################|name",
+        "original": "USS Sturtevant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#########################|name",
+        "original": "USS Overton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##########################|name",
+        "original": "USS Bainbridge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship###########################|name",
+        "original": "USS Broome",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship############################|name",
+        "original": "USS Simpson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship#############################|name",
+        "original": "USS McCormick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###################|ship##############################|name",
+        "original": "USS Truxtun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|name",
+        "original": "Destroyer Flotilla  4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship|name",
+        "original": "USS Decatur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#|name",
+        "original": "USS Badger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship##|name",
+        "original": "USS Babbitt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship###|name",
+        "original": "USS Leary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship####|name",
+        "original": "USS Schenck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#####|name",
+        "original": "USS Jacob Jones",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship######|name",
+        "original": "USS Roper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#######|name",
+        "original": "USS Dickerson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship########|name",
+        "original": "USS Herbert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#########|name",
+        "original": "USS Dallas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship##########|name",
+        "original": "USS Du Pont",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship###########|name",
+        "original": "USS Bernadou",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship############|name",
+        "original": "USS Ellis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#############|name",
+        "original": "USS Cole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship##############|name",
+        "original": "USS Lea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship###############|name",
+        "original": "USS Tarbell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship################|name",
+        "original": "USS Upshur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####################|ship#################|name",
+        "original": "USS Greer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|name",
+        "original": "Destroyer Flotilla  6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship|name",
+        "original": "USS Trever",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#|name",
+        "original": "USS Perry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship##|name",
+        "original": "USS Hulbert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship###|name",
+        "original": "USS Noa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship####|name",
+        "original": "USS William B Preston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#####|name",
+        "original": "USS Palmer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship######|name",
+        "original": "USS Hogan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship#######|name",
+        "original": "USS Howard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####################|ship########|name",
+        "original": "USS Stansbury",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|name",
+        "original": "1st Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship|name",
+        "original": "USS O-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#|name",
+        "original": "USS O-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship##|name",
+        "original": "USS O-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship###|name",
+        "original": "USS O-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship####|name",
+        "original": "USS O-7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#####|name",
+        "original": "USS O-8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship######|name",
+        "original": "USS O-10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#######|name",
+        "original": "USS R-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship########|name",
+        "original": "USS R-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#########|name",
+        "original": "USS R-5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship##########|name",
+        "original": "USS R-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship###########|name",
+        "original": "USS R-7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship############|name",
+        "original": "USS R-9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######################|ship#############|name",
+        "original": "USS R-10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|name",
+        "original": "3rd Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship|name",
+        "original": "USS S-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#|name",
+        "original": "USS S-11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##|name",
+        "original": "USS S-12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship###|name",
+        "original": "USS S-13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship####|name",
+        "original": "USS S-14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#####|name",
+        "original": "USS S-15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship######|name",
+        "original": "USS S-16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#######|name",
+        "original": "USS S-17",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|name",
+        "original": "USS Barracuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|name",
+        "original": "USS Bass",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship#########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##########|name",
+        "original": "USS Bonita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######################|ship##########|equipment|submarine_1|version_name",
+        "original": "Barracuda Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|name",
+        "original": "5th Submarine Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship|name",
+        "original": "USS S-20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#|name",
+        "original": "USS S-21",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship##|name",
+        "original": "USS S-22",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###|name",
+        "original": "USS S-24",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship####|name",
+        "original": "USS S-29",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#####|name",
+        "original": "USS S-30",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship######|name",
+        "original": "USS S-31",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#######|name",
+        "original": "USS S-33",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship########|name",
+        "original": "USS S-42",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship#########|name",
+        "original": "USS S-43",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship##########|name",
+        "original": "USS S-44",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########################|ship###########|name",
+        "original": "USS S-45",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|name",
+        "original": "Caribbean Fleet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship|name",
+        "original": "USS Borie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#|name",
+        "original": "USS Breckinridge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship##|name",
+        "original": "USS Barney",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship###|name",
+        "original": "USS Blakeley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship####|name",
+        "original": "USS Biddle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#####|name",
+        "original": "USS Tattnall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship######|name",
+        "original": "USS J Fred Talbott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#######|name",
+        "original": "USS Dahlgren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship########|name",
+        "original": "USS Goff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########################|ship#########|name",
+        "original": "USS Barry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production####|equipment|version_name",
+        "original": "Farragut Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production######|equipment|version_name",
+        "original": "Portland Class",
+        "translation": "",
+        "stage": 0
+    }
+]

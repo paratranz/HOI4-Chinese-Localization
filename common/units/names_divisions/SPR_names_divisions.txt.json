@@ -1,0 +1,1028 @@
+[
+    {
+        "key": "SPR_INF_01|name",
+        "original": "Republican Infantry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_INF_01|fallback_name",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|1#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|2#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|3#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|4#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|5#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|6#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|7#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|8#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|9#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|10#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|11#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|12#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|13#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|14#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|15#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|16#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|17#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|18#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|19#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_INF_01|ordered|20#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_CAV_01|fallback_name",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|1#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|2#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|3#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|4#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|5#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|6#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|7#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|8#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|9#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_CAV_01|ordered|10#|%da División de Caballería",
+        "original": "%da División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MOT_01|fallback_name",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|1#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|2#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|3#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|4#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|5#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|6#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|7#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|8#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|9#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MOT_01|ordered|10#|%da División Motorizada",
+        "original": "%da División Motorizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MEC_01|fallback_name",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|1#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|2#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|3#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|4#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|5#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|6#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|7#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|8#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|9#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MEC_01|ordered|10#|%da División Mecanizada",
+        "original": "%da División Mecanizada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_ARM_01|fallback_name",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|2#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|3#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|4#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|5#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|6#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|7#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|8#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|9#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_ARM_01|ordered|10#|%da División Blindada",
+        "original": "%da División Blindada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_PAR_01|fallback_name",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|1#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|2#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|3#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|4#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|5#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|6#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|7#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|8#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|9#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_PAR_01|ordered|10#|%da División Aerotransportada",
+        "original": "%da División Aerotransportada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_MNT_01|fallback_name",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|1#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|2#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|3#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|4#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|5#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|6#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|7#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|8#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|9#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_MNT_01|ordered|10#|%da División de Montaña",
+        "original": "%da División de Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPR_GAR_01|fallback_name",
+        "original": "%da División de Guarnición",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|1#|Comandancia de Baleares",
+        "original": "Comandancia de Baleares",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|2#|Comandancia de Canarias",
+        "original": "Comandancia de Canarias",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|3#|Circunscripción Morocco",
+        "original": "Circunscripción Morocco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|4#|Circunscripción Maestrazgo",
+        "original": "Circunscripción Maestrazgo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|5#|Comandancia de Madrid",
+        "original": "Comandancia de Madrid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|6#|Comandancia de Sevilla",
+        "original": "Comandancia de Sevilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|7#|Comandancia de Galacia",
+        "original": "Comandancia de Galacia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|8#|Comandancia de Barcelona",
+        "original": "Comandancia de Barcelona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|9#|Comandancia de Valencia",
+        "original": "Comandancia de Valencia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|10#|Comandancia de Cádiz",
+        "original": "Comandancia de Cádiz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|11#|Comandancia de Coruna",
+        "original": "Comandancia de Coruna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|12#|Comandancia de Cartagena",
+        "original": "Comandancia de Cartagena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|13#|Comandancia de Burgos",
+        "original": "Comandancia de Burgos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|14#|Comandancia de Zaragosa",
+        "original": "Comandancia de Zaragosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|15#|Comandancia de Melilla",
+        "original": "Comandancia de Melilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|16#|Comandancia de Ceuta",
+        "original": "Comandancia de Ceuta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|17#|Comandancia de Bilbao",
+        "original": "Comandancia de Bilbao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPR_GAR_01|ordered|18#|Comandancia de Valladolid",
+        "original": "Comandancia de Valladolid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPA_INF_01|name",
+        "original": "Nationalist Infantry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPA_INF_01|fallback_name",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|11#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|12#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|21#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|22#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|31#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|32#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|41#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|42#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|51#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|52#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|61#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|62#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|71#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|72#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|81#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|82#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|91#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|92#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|101#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|102#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|13#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|23#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|43#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|33#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|53#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|63#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|73#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|83#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|93#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|103#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|14#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|24#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|44#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|34#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|54#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|64#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|74#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|84#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|15#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|25#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|45#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|35#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|55#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|65#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|75#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|85#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|94#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|104#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|16#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|26#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|46#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|36#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|56#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|66#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPA_INF_01|ordered|76#|%da División de Infantería",
+        "original": "%da División de Infantería",
+        "translation": "",
+        "stage": 0
+    }
+]

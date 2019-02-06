@@ -1,0 +1,254 @@
+[
+    {
+        "key": "ABILITY_TOOLTIP_NAME:0",
+        "original": "$NAME|H$",
+        "translation": "$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_NAME_CANCEL:0",
+        "original": "§RCancel: $NAME|H$§!",
+        "translation": "§R取消：$NAME|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_COST:0",
+        "original": "Command Power Cost: $VALUE|H$",
+        "translation": "指挥点数花费：$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_DETAILED_COST:0",
+        "original": "    - Base cost: $VALUE|H2$ (each for $UNITS|H0$ battalions)",
+        "translation": "    - 基础花费：$VALUE|H2$ (每一营数值，共计$UNITS|H0$个营)",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_DAILY_COST:0",
+        "original": "Command Power Daily Cost: $VALUE|H2$",
+        "translation": "指挥点数每日花费：$VALUE|H2$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_ALLOCATION:0",
+        "original": "Command Power Allocation: $VALUE|H2$",
+        "translation": "指挥点数划拨：$VALUE|H2$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_NOT_ENOUGH_CP:0",
+        "original": "§RNot enough command power.§!",
+        "translation": "§R没有足够的指挥点数。§!",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_IS_ALREADY_ACTIVE:0",
+        "original": "§RAbility is already active.§!",
+        "translation": "§R能力已经激活。§!",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_IS_IN_COOLDOWN:0",
+        "original": "§RAbility is in cooldown.§!",
+        "translation": "§R能力正在冷却中。§!",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_LEADER_CANNOT_USE_ABILITIES:1",
+        "original": "§RUnit Leader sick or wounded and cannot use abilities.§!",
+        "translation": "§R部队将领生病或受伤时不能使用能力。§!",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_DURATION:0",
+        "original": "Duration: $VALUE|H$",
+        "translation": "持续时间：$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_TOOLTIP_COOLDOWN:0",
+        "original": "Cooldown: $VALUE|H$",
+        "translation": "冷却时间：$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "ALLOCATED_CP_ENTRY:0",
+        "original": "$NAME$ ($DURATION$)",
+        "translation": "$NAME$ ($DURATION$)",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_DUR_HOURS:0",
+        "original": "$num|H$ hours",
+        "translation": "$num|H$小时",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_DUR_DAYS:0",
+        "original": "$num|H$ days",
+        "translation": "$num|H$天",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_LAST_STAND:0",
+        "original": "Last Stand",
+        "translation": "背水一战",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_LAST_STAND_TOOLTIP:0",
+        "original": "Last Stand ($LEADER$)",
+        "translation": "背水一战 ($LEADER$)",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_LAST_STAND_DESC:0",
+        "original": "Your armies will get a defensive bonus at the expense of some disadvantages.",
+        "translation": "你的部队将会获得防御加成，并以一些不利条件为代价。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_FORCE_ATTACK:0",
+        "original": "Force Attack",
+        "translation": "强制攻击",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_FORCE_ATTACK_TOOLTIP:0",
+        "original": "Force Attack ($LEADER$)",
+        "translation": "强制攻击 ($LEADER$)",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_FORCE_ATTACK_DESC:0",
+        "original": "Your armies will get an offensive bonus at the expense of some disadvantages.",
+        "translation": "你的部队将会获得进攻加成，并以一些不利条件为代价。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_STAFF_OFFICE_PLAN:0",
+        "original": "Staff Office Plan",
+        "translation": "参谋部计划",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_STAFF_OFFICE_PLAN_DESC:0",
+        "original": "Your units will get a major boost to their planning speed.",
+        "translation": "你的部队将会在计划速度上获得大量加成。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_STAFF_MORE_GROUND_CREWS:0",
+        "original": "More Ground Crews",
+        "translation": "更多地勤人员",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_STAFF_MORE_GROUND_CREWS_DESC:0",
+        "original": "You will get an efficiency boost for a strategic region.",
+        "translation": "你将在一个战略区域获得效率加成。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_SIEGE_ARTILLERY:0",
+        "original": "Siege Artillery",
+        "translation": "围攻火炮",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_SIEGE_ARTILLERY_DESC:1",
+        "original": "Specialized siege artillery will cause heavy damage to forts and provide a fort attack bonus.",
+        "translation": "专门的围攻火炮将对要塞造成严重伤害并给予攻击要塞加成。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_GLIDER_PLANES_ARTILLERY:0",
+        "original": "Glider Planes",
+        "translation": "滑翔飞机",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_GLIDER_PLANES_ARTILLERY_DESC:1",
+        "original": "Assigning glider planes will increase the transport capacity for paratrooper orders.",
+        "translation": "部署滑翔飞机将增加伞兵运输命令的运输能力。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_FASTER_NAVAL_PLANNING:0",
+        "original": "Naval Assault Plan",
+        "translation": "海上突袭计划",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_FASTER_NAVAL_PLANNING_DESC:1",
+        "original": "Requsition additional landing craft and resources for a naval invasion.",
+        "translation": "为海面入侵征用额外的登陆艇和资源。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_PROBING_ATTACK:0",
+        "original": "Probing Attack",
+        "translation": "火力侦察",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_PROBING_ATTACK_DESC:1",
+        "original": "Divisions do not lose their entrenchment bonus when attacking, but do not fully commit to battle.",
+        "translation": "部队师在攻击时不会失去堑壕值加成，其并没有完全投入战斗。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_MAKESHIFT_BRIDGES:0",
+        "original": "Makeshift Bridges",
+        "translation": "临时桥梁",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_MAKESHIFT_BRIDGES_DESC:1",
+        "original": "Building makeshift bridges will reduce river crossing penalties in combat.",
+        "translation": "建造临时桥梁会减少战斗时的跨河惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_EXTRA_SUPLIES:1",
+        "original": "Extra Supplies",
+        "translation": "额外补给",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_EXTRA_SUPLIES_DESC:1",
+        "original": "Extra supplies are acquired for the troops.",
+        "translation": "部队需要额外补给。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_REQUISITION_WINTER_GEAR:0",
+        "original": "Requisition Winter Gear",
+        "translation": "征用冬季装备",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_REQUISITION_WINTER_GEAR_DESC:1",
+        "original": "Winter gear will provide a bonus to cold weather acclimatization.",
+        "translation": "冬季装备会给寒冷气候适应带来加成。",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_ON_ADD:0",
+        "original": "On Execute:",
+        "translation": "执行中：",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_ON_HOURLY:0",
+        "original": "On Each Hour:",
+        "translation": "每一小时中：",
+        "stage": 1
+    },
+    {
+        "key": "ABILITY_ON_DAILY:0",
+        "original": "On Each Day:",
+        "translation": "每一天中：",
+        "stage": 1
+    }
+]

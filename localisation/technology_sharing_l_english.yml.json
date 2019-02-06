@@ -1,0 +1,224 @@
+[
+    {
+        "key": "commonwealth_research_name:0",
+        "original": "Commonwealth Research",
+        "translation": "英联邦科研",
+        "stage": 1
+    },
+    {
+        "key": "commonwealth_research_desc:0",
+        "original": "Reduced research time for technologies researched by other Commonwealth countries.",
+        "translation": "减少其他英联邦国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "comintern_research_name:0",
+        "original": "Comintern Research",
+        "translation": "共产国际科研",
+        "stage": 1
+    },
+    {
+        "key": "comintern_research_desc:0",
+        "original": "Reduced research time for technologies researched by other Comintern countries.",
+        "translation": "减少其他共产国际国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "tizard_mission_name:0",
+        "original": "Tizard Mission",
+        "translation": "蒂泽德代表团",
+        "stage": 1
+    },
+    {
+        "key": "tizard_mission_desc:0",
+        "original": "Electronics research exchanged between England and the US.",
+        "translation": "美英的电子科技共享计划。",
+        "stage": 1
+    },
+    {
+        "key": "axis_research_name:0",
+        "original": "Axis Research",
+        "translation": "轴心国科研",
+        "stage": 1
+    },
+    {
+        "key": "axis_research_desc:0",
+        "original": "Reduced research time for technologies researched by other Axis countries.",
+        "translation": "减少其他轴心国国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "japanese_research_name:0",
+        "original": "Japanese Research",
+        "translation": "日本科研",
+        "stage": 1
+    },
+    {
+        "key": "japanese_research_desc:0",
+        "original": "Reduced research time for technologies researched by Japan.",
+        "translation": "减少日本已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "us_research_name:0",
+        "original": "US Research",
+        "translation": "美国科研",
+        "stage": 1
+    },
+    {
+        "key": "us_research_desc:0",
+        "original": "Reduced research time for technologies researched by the US.",
+        "translation": "减少美国已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "swpi_research_name:0",
+        "original": "SWPI Research",
+        "translation": "西南太平洋倡议科研",
+        "stage": 1
+    },
+    {
+        "key": "swpi_research_desc:0",
+        "original": "Reduced research time for technologies researched by other countries in the South-West Pacific Initative.",
+        "translation": "减少其他西南太平洋倡议国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_FACTOR_PER_COUNTRY:0",
+        "original": "\\n\\nEach member with a tech reduces time by $VALUE|+%0$:\\n",
+        "translation": "\\n\\n每个拥有科技的国家减少$VALUE|+%0$研究时间：\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_FACTOR_BASE:0",
+        "original": "Base: $VALUE|0%Y$\\n",
+        "translation": "基础：$VALUE|0%Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_COUNTRY_BONUS:0",
+        "original": "Bonus: $VALUE|0%Y$\\n",
+        "translation": "加成：$VALUE|0%Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_FACTOR_EXTRA_DESC:0",
+        "original": "\\nEffective Technology Sharing modified to $VALUE|-%0$ due to:\\n",
+        "translation": "\\n科技共享效果修正为$VALUE|-%0$，因为：\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_RESEARCH_OPPORTUNITIES:0",
+        "original": "\\nResearch Opportunities:",
+        "translation": "\\n潜在科技：",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0",
+        "original": "\\n@$TAG$$COUNTRY|H$: §Y$VALUE$§! technologies",
+        "translation": "\\n@$TAG$$COUNTRY|H$：§Y$VALUE$§!个科技",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_GROUP_CATEGORIE_LIMIT:0",
+        "original": "\\n\\nLimited to: $LIST|Y$.",
+        "translation": "\\n\\n受限于：$LIST|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_DESCRIPTION_DELAYED:0",
+        "original": "A Technology Sharing group get stronger the more nations are in it. For each member that has researched a certain Technology it will speed up researching of that Technology for someone in the group lacking it.",
+        "translation": "科技共享组织成员国越多越强大。任何一个成员国所研发的科技都可以加速其他没有这个科技的成员国的科研。",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0",
+        "original": "Technology Sharing: $VALUE|Y%0$\\n",
+        "translation": "科技共享：$VALUE|Y%0$\\n",
+        "stage": 1
+    },
+    {
+        "key": "LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0",
+        "original": "Licensed production: $VALUE|Y%0$\\n",
+        "translation": "生产许可：$VALUE|Y%0$\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0",
+        "original": "\\n$NAME|H$ membership provides $VALUE|G%0$ bonus (max $MAX|H%0$) from countries:",
+        "translation": "\\n作为$NAME|H$的成员国从以下国家得到$VALUE|G%0$加成 (最大$MAX|H%0$) ：",
+        "stage": 1
+    },
+    {
+        "key": "TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0",
+        "original": "\\n@$TAG$$COUNTRY|H$",
+        "translation": "\\n@$TAG$$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "continuous_tech_share_group_name:0",
+        "original": "Faction Research",
+        "translation": "阵营科研",
+        "stage": 1
+    },
+    {
+        "key": "continuous_tech_share_group_desc:0",
+        "original": "Reduced research time by nations in your faction because of your active Continuous Focus.",
+        "translation": "因为你的持续性国策减少阵营内其他国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "NO_OTHER_SHARING_GROUPS:0",
+        "original": "Is not part of a technology sharing group",
+        "translation": "不是科技共享组织成员",
+        "stage": 1
+    },
+    {
+        "key": "little_entente_research_group_desc:0",
+        "original": "Reduced research time for technologies researched by countries in the Czech-led Little Entente.",
+        "translation": "减少捷克协约国家已研发科技的研究时间。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_SOV_research_group_desc:0",
+        "original": "Reduced research time for technologies researched by the Soviet Union and Yugoslavia.",
+        "translation": "减少苏联和南斯拉夫已研发科技的研究时间。 ",
+        "stage": 1
+    },
+    {
+        "key": "YUG_air_research_group_desc:0",
+        "original": "Plane technology shared between Britain and Yugoslavia.",
+        "translation": "英国和南斯拉夫共享的飞机科技。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_naval_research_group_desc:0",
+        "original": "Italian naval experts aid Yugoslavia in developing its navy.",
+        "translation": "意大利海军专家援助南斯拉夫发展海军。",
+        "stage": 1
+    },
+    {
+        "key": "HUN_joint_tank_development_group_desc:0",
+        "original": "Hungary and its allies cooperate in developing new tanks.",
+        "translation": "匈牙利和盟友们合作研发新型坦克。",
+        "stage": 1
+    },
+    {
+        "key": "HUN_joint_air_development_group_desc:0",
+        "original": "Hungary and its allies cooperate in developing new planes.",
+        "translation": "匈牙利和盟友们合作研发新型飞行器。",
+        "stage": 1
+    },
+    {
+        "key": "ger_dem_research_name:0",
+        "original": "Central European Research",
+        "translation": "中欧同盟科研",
+        "stage": 1
+    },
+    {
+        "key": "ger_dem_research_desc:0",
+        "original": "Reduced research time for technologies researched by other Central European Alliance countries.",
+        "translation": "减少其他中欧同盟国家已研发科技的研究时间。",
+        "stage": 1
+    }
+]

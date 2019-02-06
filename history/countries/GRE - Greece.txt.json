@@ -1,0 +1,38 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Ioannis Metaxas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Markos Vafiadis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Konstantinos Tsaldaris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Georgios Kosmidis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Markos Drakos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Hydra Class",
+        "translation": "",
+        "stage": 0
+    }
+]

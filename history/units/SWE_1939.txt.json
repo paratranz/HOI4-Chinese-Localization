@@ -1,0 +1,416 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Kavalleribrigaden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": " Pansarregemente",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "Södra Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Norra Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|name",
+        "original": "Västra Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "Kavalleribrigaden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Kavalleribrigaden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|name",
+        "original": "Östra Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Arméfördelning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "Övre Norrland Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "Gotlands Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Militärområde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Kustflottan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HMS Dristigheten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HMS Örnen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "HMS Jacob Bagge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "1a Eskadern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "HMS Sverige",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "HMS Drottning Victoria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "HMS Gustaf V",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "HMS Gotland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "HMS Klas Horn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "HMS Klas Uggla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "HMS Ehrensköld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "HMS Nordenskjöld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Ålandshavseskader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "HMS Äran",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "HMS Tapperheten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Karlskrona Avdelningen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "HMS Wasa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "HMS Manligheten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "HMS Göteborg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "HMS Stockholm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "HMS Malmö",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "HMS Draken",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "HMS Gripen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "HMS Ulven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|name",
+        "original": "HMS Delfinen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|name",
+        "original": "HMS Nordkaparen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|name",
+        "original": "HMS Springaren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|equipment|submarine_1|version_name",
+        "original": "Draken Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "Göteborgs Eskadern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "HMS Oscar II",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "HMS Fylgia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "HMS Sjölejonet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "HMS Sjöbjörnen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "HMS Hajen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "HMS Sälen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|name",
+        "original": "HMS Valrossen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|name",
+        "original": "HMS Bävern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship########|name",
+        "original": "HMS Illern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#########|name",
+        "original": "HMS Uttern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##########|name",
+        "original": "HMS Valen",
+        "translation": "",
+        "stage": 0
+    }
+]

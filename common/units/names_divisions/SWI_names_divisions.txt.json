@@ -1,0 +1,770 @@
+[
+    {
+        "key": "SWI_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_INF_01|fallback_name",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|1#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|2#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|3#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|4#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|5#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|6#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|7#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|8#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|9#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|10#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|11#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|12#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|13#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|14#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|15#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|16#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|17#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|18#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|19#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_INF_01|ordered|20#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_CAV_01|fallback_name",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|1#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|2#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|3#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|4#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|5#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|6#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|7#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|8#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|9#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_CAV_01|ordered|10#|Leichte-Brigade %d",
+        "original": "Leichte-Brigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MOT_01|fallback_name",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|1#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|2#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|3#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|4#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|5#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|6#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|7#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|8#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|9#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MOT_01|ordered|10#|Motorfeld-Division %d",
+        "original": "Motorfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MEC_01|fallback_name",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|1#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|2#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|3#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|4#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|5#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|6#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|7#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|8#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|9#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MEC_01|ordered|10#|Grenadierfeld-Division %d",
+        "original": "Grenadierfeld-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_ARM_01|fallback_name",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|1#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|2#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|3#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|4#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|5#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|6#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|7#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|8#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|9#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_ARM_01|ordered|10#|Panzer-Division %d",
+        "original": "Panzer-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_PAR_01|fallback_name",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|1#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|2#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|3#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|4#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|5#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|6#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|7#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|8#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|9#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_PAR_01|ordered|10#|Fallschirmjäger-Division %d",
+        "original": "Fallschirmjäger-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MAR_01|fallback_name",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|1#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|2#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|3#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|4#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|5#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|6#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|7#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|8#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|9#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MAR_01|ordered|10#|Marineinfanterie-Division %d",
+        "original": "Marineinfanterie-Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_MNT_01|fallback_name",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|1#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|2#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|3#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|4#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|5#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|6#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|7#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|8#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|9#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|10#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|11#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|12#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|13#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|14#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|15#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|16#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|17#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|18#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|19#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_MNT_01|ordered|20#|Division %d",
+        "original": "Division %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWI_GAR_01|fallback_name",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|1#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|2#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|3#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|4#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|5#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|6#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|7#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|8#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|9#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWI_GAR_01|ordered|10#|Grenzbrigade %d",
+        "original": "Grenzbrigade %d",
+        "translation": "",
+        "stage": 0
+    }
+]

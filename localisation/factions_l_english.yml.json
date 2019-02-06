@@ -1,0 +1,212 @@
+[
+    {
+        "key": "FACTION_LEADER:0",
+        "original": "Faction leader: §Y$COUNTRY$§!",
+        "translation": "阵营领导者：§Y$COUNTRY$§!",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_MEMBER:0",
+        "original": "Faction member: §Y$COUNTRY$§!",
+        "translation": "阵营成员：§Y$COUNTRY$§!",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_CREATED_UNDER_MASTER_TITLE:0",
+        "original": "Joined Master's Faction",
+        "translation": "加入宗主国的阵营",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_CREATED_UNDER_MASTER_MESSAGE:0",
+        "original": "We have joined $FACTION|H$ faction together under our master",
+        "translation": "宗主国带着我国加入了$FACTION|H$阵营",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_NAME_GER_fascism:0",
+        "original": "Axis",
+        "translation": "轴心国",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_NAME_GER_none:0",
+        "original": "Axis",
+        "translation": "轴心国",
+        "stage": 1
+    },
+    {
+        "key": "FACTION_NAME_IDEOLOGY_DEFAULT:0",
+        "original": "Supporters of $IDEOLOGY$",
+        "translation": "$IDEOLOGY$支持者",
+        "stage": 1
+    },
+    {
+        "key": "french_alliance:0",
+        "original": "French Alliance",
+        "translation": "法国同盟",
+        "stage": 1
+    },
+    {
+        "key": "the_berlin_moscow_axis:0",
+        "original": "The Berlin-Moscow Axis",
+        "translation": "柏林-莫斯科轴心",
+        "stage": 1
+    },
+    {
+        "key": "domination_francaise:0",
+        "original": "Domination Française",
+        "translation": "法国领地",
+        "stage": 1
+    },
+    {
+        "key": "french_entente_alliance:0",
+        "original": "French-Entente Alliance",
+        "translation": "法国挚诚同盟",
+        "stage": 1
+    },
+    {
+        "key": "daitoa_kyoeiken:0",
+        "original": "Daitoa Kyoeiken",
+        "translation": "大东亚共荣圈",
+        "stage": 1
+    },
+    {
+        "key": "italy_empire_faction:0",
+        "original": "Novus Imperium Romanum",
+        "translation": "新罗马帝国",
+        "stage": 1
+    },
+    {
+        "key": "chinese_united_front:0",
+        "original": "Chinese United Front",
+        "translation": "中国统一战线",
+        "stage": 1
+    },
+    {
+        "key": "miedzymorze_faction:0",
+        "original": "Międzymorze",
+        "translation": "海间联邦",
+        "stage": 1
+    },
+    {
+        "key": "Allies:0",
+        "original": "Allies",
+        "translation": "同盟国",
+        "stage": 1
+    },
+    {
+        "key": "Axis:0",
+        "original": "Axis",
+        "translation": "轴心国",
+        "stage": 1
+    },
+    {
+        "key": "Comintern:0",
+        "original": "Comintern",
+        "translation": "共产国际",
+        "stage": 1
+    },
+    {
+        "key": "western_pacific_sphere:0",
+        "original": "Western Pacific Sphere",
+        "translation": "西太平洋圈",
+        "stage": 1
+    },
+    {
+        "key": "south_west_pacific_initiative:0",
+        "original": "The South-West Pacific Initiative",
+        "translation": "西南太平洋倡议",
+        "stage": 1
+    },
+    {
+        "key": "north_american_alliance:0",
+        "original": "North-American Alliance",
+        "translation": "北美同盟",
+        "stage": 1
+    },
+    {
+        "key": "northern_sovereignty_coalition:0",
+        "original": "Northern Sovereignty Coalition",
+        "translation": "北方主权共同阵线",
+        "stage": 1
+    },
+    {
+        "key": "SAF_faction_uotap:0",
+        "original": "African People's Union",
+        "translation": "非洲人民联合",
+        "stage": 1
+    },
+    {
+        "key": "ROM_BALKAN_FACTION:0",
+        "original": "Bucharest Accords",
+        "translation": "布加勒斯特协定",
+        "stage": 1
+    },
+    {
+        "key": "HUN_BALKAN_FACTION:0",
+        "original": "Balkan Pact",
+        "translation": "巴尔干公约",
+        "stage": 1
+    },
+    {
+        "key": "HUN_PACT_OF_ROME_FACTION:0",
+        "original": "Pact of Rome",
+        "translation": "罗马公约",
+        "stage": 1
+    },
+    {
+        "key": "ROM_CORDON_SANITAIRE_FACTION:0",
+        "original": "Cordon Sanitaire",
+        "translation": "隔离线",
+        "stage": 1
+    },
+    {
+        "key": "BALKAN_ENTENTE_FACTION:0",
+        "original": "Balkan Entente",
+        "translation": "巴尔干协约",
+        "stage": 1
+    },
+    {
+        "key": "CZE_little_entente:0",
+        "original": "Czech Entente",
+        "translation": "捷克协约",
+        "stage": 1
+    },
+    {
+        "key": "GER_central_powers_faction:0",
+        "original": "Central Powers",
+        "translation": "旧同盟国",
+        "stage": 1
+    },
+    {
+        "key": "GER_anti_communist_bloc:0",
+        "original": "Anti-Communist Bloc",
+        "translation": "反共产主义集团",
+        "stage": 1
+    },
+    {
+        "key": "JAP_the_old_alliance:0",
+        "original": "The Old Alliance",
+        "translation": "老同盟",
+        "stage": 1
+    },
+    {
+        "key": "JAP_the_new_international:0",
+        "original": "The New International",
+        "translation": "新共产国际",
+        "stage": 1
+    },
+    {
+        "key": "CHI_the_peoples_front:0",
+        "original": "The People's Front",
+        "translation": "人民阵线",
+        "stage": 1
+    },
+    {
+        "key": "PRC_mao_faction:0",
+        "original": "Mutual Assistance Bloc",
+        "translation": "互助集团",
+        "stage": 1
+    }
+]

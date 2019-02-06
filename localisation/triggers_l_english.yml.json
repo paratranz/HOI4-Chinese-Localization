@@ -1,0 +1,3080 @@
+[
+    {
+        "key": "TRIGGER_HAS_COMBAT_MODIFIER:0",
+        "original": "Has combat modifier: $MODIFIER|H$",
+        "translation": "受下列战斗修正影响：$MODIFIER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_FRONTAGE_FULL:0",
+        "original": "Frontage filled",
+        "translation": "前线已满",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_FRONTAGE_FULL:0",
+        "original": "Frontage not filled",
+        "translation": "前线未满",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_RESERVES:0",
+        "original": "Has reserves",
+        "translation": "有预备队",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DOES_NOT_HAVE_RESERVES:0",
+        "original": "Does not have reserves",
+        "translation": "没有预备队",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HARDNESS_GREATER_THAN:0",
+        "original": "Hardness over $VALUE|H%$",
+        "translation": "装甲率高于$VALUE|H%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HARDNESS_LESS_THAN:0",
+        "original": "Hardness under $VALUE|H%$",
+        "translation": "装甲率低于$VALUE|H%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_GREATER_THAN:0",
+        "original": "Skill over $VALUE|H$",
+        "translation": "技能点高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_LESS_THAN:0",
+        "original": "Skill under $VALUE|H$",
+        "translation": "技能低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_ADVANTAGE_GREATER_THEN:0",
+        "original": "Skill advantage over $VALUE|H$",
+        "translation": "技能优势大于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_ADVANTAGE_LESS_THEN:0",
+        "original": "Skill advantage under $VALUE|H$",
+        "translation": "技能优势小于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TRAIT:0",
+        "original": "Has trait $NAME|H$",
+        "translation": "拥有$NAME|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TRAIT:0",
+        "original": "Does not have trait $NAME|H$",
+        "translation": "未拥有$NAME|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CAN_SELECT_TRAIT_TRAIT:0",
+        "original": "Can select trait $NAME|H$",
+        "translation": "能够选择$NAME|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CANNOT_SELECT_TRAIT_TRAIT:0",
+        "original": "Cannot select trait $NAME|H$",
+        "translation": "不能选择$NAME|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FULLFILLED_PREFIX:0",
+        "original": "£trigger_yes£",
+        "translation": "£trigger_yes£",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_UNFULLFILLED_PREFIX:0",
+        "original": "£trigger_no£",
+        "translation": "£trigger_no£",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_LIST_ENTRY:0",
+        "original": "$FLAG$",
+        "translation": "$FLAG$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_LIST_ENTRY:0",
+        "original": "$STATE|H$",
+        "translation": "$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MODIFIER_LIST_ENTRY:0",
+        "original": "$MODIFIER|H$",
+        "translation": "$MODIFIER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_IS:0",
+        "original": "Country is §Y$NAME$§!",
+        "translation": "国家是§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_IS_NOT:0",
+        "original": "Country is not §Y$NAME$§!",
+        "translation": "国家不是§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALWAYS_TRUE:0",
+        "original": "Always true",
+        "translation": "始终为真",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALWAYS_FALSE:0",
+        "original": "Always false",
+        "translation": "始终为非",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_COUNTRY:0",
+        "original": "Does not have national spirit $IDEA|H$",
+        "translation": "没有国家精神：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_COUNTRY:0",
+        "original": "Has national spirit $IDEA|H$",
+        "translation": "拥有国家精神：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_MOBILIZATION_LAWS:0",
+        "original": "Does not have conscription law $IDEA|H$",
+        "translation": "没有征兵法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_MOBILIZATION_LAWS:0",
+        "original": "Has conscription law $IDEA|H$",
+        "translation": "拥有征兵法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_TRADE_LAWS:0",
+        "original": "Does not have trade law $IDEA|H$",
+        "translation": "没有贸易法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_TRADE_LAWS:0",
+        "original": "Has trade law $IDEA|H$",
+        "translation": "拥有贸易法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_ECONOMY:0",
+        "original": "Does not have economy law $IDEA|H$",
+        "translation": "没有经济法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_ECONOMY:0",
+        "original": "Has economy law $IDEA|H$",
+        "translation": "拥有经济法律：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_POLITICAL_ADVISOR:0",
+        "original": "Does not have political advisor $IDEA|H$",
+        "translation": "没有政治顾问：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_POLITICAL_ADVISOR:0",
+        "original": "Has political advisor $IDEA|H$",
+        "translation": "拥有政治顾问：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_TANK_MANUFACTURER:0",
+        "original": "Does not have tank designer $IDEA|H$",
+        "translation": "没有装甲制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_TANK_MANUFACTURER:0",
+        "original": "Has tank designer $IDEA|H$",
+        "translation": "拥有装甲制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_NAVAL_MANUFACTURER:0",
+        "original": "Does not have ship designer $IDEA|H$",
+        "translation": "没有舰艇制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_NAVAL_MANUFACTURER:0",
+        "original": "Has ship designer $IDEA|H$",
+        "translation": "拥有舰艇制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_AIRCRAFT_MANUFACTURER:0",
+        "original": "Does not have aircraft designer $IDEA|H$",
+        "translation": "没有飞行器制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_AIRCRAFT_MANUFACTURER:0",
+        "original": "Has aircraft designer $IDEA|H$",
+        "translation": "拥有飞行器制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_MATERIEL_MANUFACTURER:0",
+        "original": "Does not have material designer $IDEA|H$",
+        "translation": "没有军备制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_MATERIEL_MANUFACTURER:0",
+        "original": "Has material designer $IDEA|H$",
+        "translation": "拥有军备制造商：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_INDUSTRIAL_CONCERN:0",
+        "original": "Does not have industrial concern $IDEA|H$",
+        "translation": "没有工业重点：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_INDUSTRIAL_CONCERN:0",
+        "original": "Has industrial concern $IDEA|H$",
+        "translation": "拥有工业重点：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_THEORIST:0",
+        "original": "Does not have theorist $IDEA|H$",
+        "translation": "没有军事理论家：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_THEORIST:0",
+        "original": "Has theorist $IDEA|H$",
+        "translation": "拥有军事理论家：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_ARMY_CHIEF:0",
+        "original": "Does not have chief of army $IDEA|H$",
+        "translation": "没有陆军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_ARMY_CHIEF:0",
+        "original": "Has chief of army $IDEA|H$",
+        "translation": "拥有陆军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_NAVY_CHIEF:0",
+        "original": "Does not have chief of navy $IDEA|H$",
+        "translation": "没有海军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_NAVY_CHIEF:0",
+        "original": "Has chief of navy $IDEA|H$",
+        "translation": "拥有海军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_AIR_CHIEF:0",
+        "original": "Does not have chief of airforce $IDEA|H$",
+        "translation": "没有空军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_AIR_CHIEF:0",
+        "original": "Has chief of airforce $IDEA|H$",
+        "translation": "拥有空军总司令：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_HIGH_COMMAND:0",
+        "original": "Does not have millitary high command $IDEA|H$",
+        "translation": "没有军事统帅部成员：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_HIGH_COMMAND:0",
+        "original": "Has millitary high command $IDEA|H$",
+        "translation": "拥有军事统帅部成员：$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_FALLBACK:0",
+        "original": "Does not have $IDEA|H$",
+        "translation": "没有$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_FALLBACK:0",
+        "original": "Has $IDEA|H$",
+        "translation": "拥有$IDEA|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TECH:0",
+        "original": "Has not technology $TECH|H$",
+        "translation": "未掌握$TECH|H$科技",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TECH:0",
+        "original": "Has technology $TECH|H$",
+        "translation": "掌握$TECH|H$科技",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ROLE_TEMPLATE:0",
+        "original": "Does not have template for role $ROLE|H$",
+        "translation": "没有编制可以$ROLE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ROLE_TEMPLATE:0",
+        "original": "Has template for role $ROLE|H$",
+        "translation": "有编制可以$ROLE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ROLE_DIVISION:0",
+        "original": "Does not have divisions for role $ROLE|H$",
+        "translation": "没有陆军师可以$ROLE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ROLE_DIVISION:0",
+        "original": "Has divisions for role $ROLE|H$",
+        "translation": "有陆军师可以$ROLE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEA_WITH_TRAIT:0",
+        "original": "No part of government has trait $TRAIT|H$",
+        "translation": "企业或顾问拥有$TRAIT|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEA_WITH_TRAIT:0",
+        "original": "Part of government has trait $TRAIT|H$",
+        "translation": "企业或顾问拥有$TRAIT|H$特质",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_COMPLETED_GOAL:0",
+        "original": "Has not completed goal $GOAL|H$",
+        "translation": "尚未完成$GOAL|H$的目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_COMPLETED_FOCUS:0",
+        "original": "Has completed focus $FOCUS|H$",
+        "translation": "完成$FOCUS|H$的国策",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_COMPLETED_FOCUS:0",
+        "original": "Has not completed focus $FOCUS|H$",
+        "translation": "尚未完成国策：$FOCUS|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_DIVISIONS_IN_STATE:0",
+        "original": "At least $AMOUNT|H$ divisions in $STATE|H$",
+        "translation": "在$STATE|H$地区至少驻扎$AMOUNT|H$个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_DIVISIONS_IN_STATE:0",
+        "original": "At most $AMOUNT|H$ divisions in $STATE|H$",
+        "translation": "在$STATE|H$地区最多驻扎$AMOUNT|H$个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_DIVISIONS_OF_TYPE_IN_STATE:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ divisions in $STATE|H$",
+        "translation": "在$STATE|H$地区至少驻扎$AMOUNT|H$个$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_DIVISIONS_OF_TYPE_IN_STATE:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ divisions in $STATE|H$",
+        "translation": "在$STATE|H$地区最多驻扎$AMOUNT|H$个$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_DIVISIONS_IN_STATE_AGAINST:0",
+        "original": "At least $AMOUNT|H$ divisions in $STATE|H$ against border of $STATE_2|H$",
+        "translation": "至少$AMOUNT|H$个师部署于$STATE|H$抵御$STATE_2|H$的边境",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_DIVISIONS_IN_STATE_AGAINST:0",
+        "original": "At most $AMOUNT|H$ divisions in $STATE|H$ against border of $STATE_2|H$",
+        "translation": "最多$AMOUNT|H$个师部署于$STATE|H$抵御$STATE_2|H$的边境",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_DIVISIONS_OF_TYPE_IN_STATE_AGAINST:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ divisions in $STATE|H$ against border of $STATE_2|H$",
+        "translation": "至少$AMOUNT|H$个$TYPE|H$师部署于$STATE|H$抵御$STATE_2|H$的边境",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_DIVISIONS_OF_TYPE_IN_STATE_AGAINST:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ divisions in $STATE|H$ against border of $STATE_2|H$",
+        "translation": "最多$AMOUNT|H$个$TYPE|H$师部署于$STATE|H$抵御$STATE_2|H$的边境",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_HAS_EQUIPMENT:0",
+        "original": "At least $AMOUNT|H$ of $TYPE|H$ stored in stockpile",
+        "translation": "仓储中至少有$AMOUNT|H$件$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_HAS_EQUIPMENT:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ stored in stockpile",
+        "translation": "仓储中至多有$AMOUNT|H$件$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_SHIPS_IN_AREA:0",
+        "original": "At least $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$至少停驻$AMOUNT|H$艘舰只 ",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_SHIPS_IN_AREA:0",
+        "original": "At most $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$最多停驻$AMOUNT|H$艘舰只",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_SHIPS_OF_TYPE_IN_AREA:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$至少停驻$AMOUNT|H$艘$TYPE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_SHIPS_OF_TYPE_IN_AREA:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$最多停驻$AMOUNT|H$艘$TYPE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_SHIPS_IN_STATE:0",
+        "original": "At least $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$至少停泊$AMOUNT|H$艘舰只",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_SHIPS_IN_STATE:0",
+        "original": "Less than $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$有少于$AMOUNT|H$的舰船",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_SHIPS_IN_STATE:0",
+        "original": "At most $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$最多停泊$AMOUNT|H$艘舰只",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_SHIPS_IN_STATE:0",
+        "original": "More than $AMOUNT|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$有多于$AMOUNT|H$的舰船",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_SHIPS_OF_TYPE_IN_STATE:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$至少停泊$AMOUNT|H$艘$TYPE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_SHIPS_OF_TYPE_IN_STATE:0",
+        "original": "Less than $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$有少于$AMOUNT|H$$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_SHIPS_OF_TYPE_IN_STATE:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$最多停驻$AMOUNT|H$艘$TYPE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_SHIPS_OF_TYPE_IN_STATE:0",
+        "original": "More than $AMOUNT|H$ $TYPE|H$ ships in $AREA|H$",
+        "translation": "在$AREA|H$有多于$AMOUNT|H$$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_SIZE_AT_LEAST:0",
+        "original": "Army combat strength is at least $AMOUNT|H$ regular divisions",
+        "translation": "至少有$AMOUNT|H$个现役单位",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_SIZE_AT_MOST:0",
+        "original": "Army combat strength is at most $AMOUNT|H$ regular divisions",
+        "translation": "不多于$AMOUNT|H$个现役单位",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_SIZE_OF_TYPE_AT_LEAST:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ divisions",
+        "translation": "至少有$AMOUNT|H$个$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_SIZE_OF_TYPE_AT_MOST:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ divisions",
+        "translation": "不多于$AMOUNT|H$个$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST:0",
+        "original": "At least $AMOUNT|*2H$ manpower in divisions in the field",
+        "translation": "陆军现役兵力至少为$AMOUNT|*2H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_MANPOWER_AT_MOST:0",
+        "original": "At most $AMOUNT|*2H$ manpower in divisions in the field",
+        "translation": "陆军现役兵力不超过$AMOUNT|*2H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_LEAST:0",
+        "original": "At least $AMOUNT|*2H$ manpower in $TYPE|H$ divisions",
+        "translation": "至少有$AMOUNT|*2H$人服役于$TYPE|H$ ",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_MOST:0",
+        "original": "At most $AMOUNT|*2H$ manpower in $TYPE|H$ divisions",
+        "translation": "不超过$AMOUNT|*2H$人服役于$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NAVY_SIZE_AT_LEAST:0",
+        "original": "At least $AMOUNT|H$ ships",
+        "translation": "至少有$AMOUNT|H$条现役舰只",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NAVY_SIZE_AT_MOST:0",
+        "original": "At most $AMOUNT|H$ ships",
+        "translation": "现役舰只不超过$AMOUNT|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NAVY_SIZE_OF_TYPE_AT_LEAST:0",
+        "original": "At least $AMOUNT|H$ $TYPE|H$ ships",
+        "translation": "至少有$AMOUNT|H$条现役$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NAVY_SIZE_OF_TYPE_AT_MOST:0",
+        "original": "At most $AMOUNT|H$ $TYPE|H$ ships",
+        "translation": "现役$TYPE|H$不超过$AMOUNT|H$条",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_LEAST:0",
+        "original": "Has deployed at least $AMOUNT|H$ aircraft",
+        "translation": "至少部署了$AMOUNT|H$架战机",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_MOST:0",
+        "original": "Has deployed at most $AMOUNT|H$ aircraft",
+        "translation": "部署不超过$AMOUNT|H$架战机",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST:0",
+        "original": "In any active war with at least $VALUE|H$§H%§! war score",
+        "translation": "在当前战争中至少取得$VALUE|H$§H%§! 战争分数",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST:0",
+        "original": "In any active war with at most $VALUE|H$H%§! war score",
+        "translation": "在当前战争中的战争分数不多于$VALUE|H$H%§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_LEAST:0",
+        "original": "Has at least $VALUE|H$ researched land doctrine level",
+        "translation": "至少研发了$VALUE|H$级陆战学说",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_MOST:0",
+        "original": "Has at most $VALUE|H$ researched land doctrine level",
+        "translation": "已研发的陆战学说不超过$VALUE|H$级",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_BUILT:0",
+        "original": "Build $MISSING|H$ more $TYPE|H$",
+        "translation": "建造$MISSING|H$数量的$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_OF_TYPE_AT_LEAST:0",
+        "original": "Has deployed at least $AMOUNT|H$ $TYPE|H$ aircraft",
+        "translation": "至少部署了$AMOUNT|H$架$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_OF_TYPE_AT_MOST:0",
+        "original": "Has deployed at most $AMOUNT|H$ $TYPE|H$ aircraft",
+        "translation": "部署的$TYPE|H$不超过$AMOUNT|H$架",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_VOLUNTEERS_MORE_THAN:0",
+        "original": "Has $VALUE|H$ volunteers or more from $COUNTRY2|H$",
+        "translation": "拥有多于$VALUE|H$来自$COUNTRY2|H$的志愿军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_VOLUNTEERS_LESS_THAN:0",
+        "original": "Has less than $VALUE|H$ volunteers from $COUNTRY2|H$",
+        "translation": "来自$COUNTRY2|H$的志愿军少于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_MORE_THAN:0",
+        "original": "$COUNTRY2|H$ is estimated to have maximum armor of $VALUE|H$ or more based on intel",
+        "translation": "情报显示$COUNTRY2|H$的最大装甲厚度不低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ESTIMATED_MAX_ARMOR_INTEL_LESS_THAN:0",
+        "original": "$COUNTRY2|H$ is estimated to have maximum armor of $VALUE|H$ or less based on intel",
+        "translation": "情报显示$COUNTRY2|H$的最大装甲厚度不高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_MORE_THAN:0",
+        "original": "$COUNTRY2|H$ is estimated to have maximum piercing of $VALUE|H$ or more based on intel",
+        "translation": "情报显示$COUNTRY2|H$的最大穿甲深度不低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ESTIMATED_MAX_PIERCING_INTEL_LESS_THAN:0",
+        "original": "$COUNTRY2|H$ is estimated to have maximum piercing of $VALUE|H$ or less based on intel",
+        "translation": "情报显示$COUNTRY2|H$的最大穿甲深度不高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STRENGTH_RATIO_MORE_THAN:1",
+        "original": "Estimated army strength ratio of $VALUE|H0%$ or more compared to $COUNTRY2$",
+        "translation": "与$COUNTRY2$的陆军实力之比估计不低于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STRENGTH_RATIO_LESS_THAN:1",
+        "original": "Estimated army strength ratio of $VALUE|H0%$ or less compared to $COUNTRY2$",
+        "translation": "与$COUNTRY2$的陆军实力之比估计不高于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ENEMIES_STRENGTH_RATIO_MORE_THAN:0",
+        "original": "Estimated enemies strength ratio of $VALUE|H0%$ or more compared to our army",
+        "translation": "敌国与我国的陆军实力之比估计不低于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ENEMIES_STRENGTH_RATIO_LESS_THAN:0",
+        "original": "Estimated enemies strength ratio of $VALUE|H0%$ or less compared to our army",
+        "translation": "敌国与我国的陆军实力之比估计不高于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_WAR:0",
+        "original": "At peace",
+        "translation": "处于和平",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR:0",
+        "original": "At war",
+        "translation": "处于战时",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_OFFENSIVE_WAR:0",
+        "original": "Not in an offensive war",
+        "translation": "不是战争中的进攻方",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OFFENSIVE_WAR:0",
+        "original": "In an offensive war",
+        "translation": "是战争中的进攻方",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_DEFENSIVE_WAR:0",
+        "original": "Not in a defensive war",
+        "translation": "不是战争中的防守方",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEFENSIVE_WAR:0",
+        "original": "In a defensive war",
+        "translation": "是战争中的防守方",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_WAR_WITH:0",
+        "original": "At peace with @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$处于和平",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR_WITH:0",
+        "original": "Is at war with @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$处于战争中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_WAR_TOGETHER_WITH:0",
+        "original": "Not fighting war on same side as @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$没有在战争同一方共同作战",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR_TOGETHER_WITH:0",
+        "original": "Fighting war on same side as @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$在战争同一方共同作战",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR_WITH_AMOUNT:0",
+        "original": "Is at war with @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$处于战争中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR_WITH_MORE_THAN:0",
+        "original": "At war with more than $AMOUNT|Y$ countries",
+        "translation": "与至少$AMOUNT|Y$个国家开战",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WAR_WITH_LESS_THAN:0",
+        "original": "At war with less than $AMOUNT|Y$ countries",
+        "translation": "与不超过$AMOUNT|Y$个国家开战",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OFFENSIVE_WAR_WITH:0",
+        "original": "Is at offensive war with @$TAG$§Y$COUNTRY$§!",
+        "translation": "正在进攻 @$TAG$§Y$COUNTRY$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_DEFENSIVE_WAR_WITH:0",
+        "original": "At peace with @$TAG$§Y$COUNTRY$§!",
+        "translation": "与 @$TAG$§Y$COUNTRY$§!处于和平",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DEFENSIVE_WAR_WITH:0",
+        "original": "Is at defensive war with @$TAG$§Y$COUNTRY$§!",
+        "translation": "正在防御 @$TAG$§Y$COUNTRY$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_OWNED_BY:0",
+        "original": "Not owned by $COUNTRY|H$",
+        "translation": "不属于$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_OWNED_BY:0",
+        "original": "Owned by $COUNTRY|H$",
+        "translation": "属于$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_CONTROLLED_BY:0",
+        "original": "Not controlled by $COUNTRY|H$",
+        "translation": "不在$COUNTRY|H$控制下",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_CONTROLLED_BY:0",
+        "original": "Controlled by $COUNTRY|H$",
+        "translation": "受$COUNTRY|H$控制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_OWNED_AND_CONTROLLED_BY:0",
+        "original": "Not owned and controlled by $COUNTRY|H$",
+        "translation": "不属于$COUNTRY|H$也不处于其控制下",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_CONTROLLED_BY_AN_ENEMY_OF:0",
+        "original": "Controlled by an enemy of $COUNTRY|H$ ($CONTROLLER_COUNTRY|H$)",
+        "translation": "受$COUNTRY|H$的敌军控制 ($CONTROLLER_COUNTRY|H$)",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_CONTROLLED_BY_AN_ENEMY_OF:0",
+        "original": "Not controlled by an enemy of $COUNTRY|H$ ($CONTROLLER_COUNTRY|H$)",
+        "translation": "未被$COUNTRY|H$的敌军控制 ($CONTROLLER_COUNTRY|H$)",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_OWNED_AND_CONTROLLED_BY:0",
+        "original": "Owned and controlled by $COUNTRY|H$",
+        "translation": "属于$COUNTRY|H$并处于其控制下",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CONTROLS_STATE:0",
+        "original": "Controls $STATE|H$",
+        "translation": "控制$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_CONTROLS_STATE:0",
+        "original": "Does not control $STATE|H$",
+        "translation": "未控制$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FULL_CONTROLS_STATE:0",
+        "original": "Has full control of $STATE|H$",
+        "translation": "完全控制$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_FULL_CONTROLS_STATE:0",
+        "original": "Is not in full control of $STATE|H$",
+        "translation": "没有完全控制$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_OWNS_STATE:0",
+        "original": "Owns $STATE|H$",
+        "translation": "拥有$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_OWNS_STATE:0",
+        "original": "Does not own $STATE|H$",
+        "translation": "未拥有$STATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_IDEOLOGY2:0",
+        "original": "Current ruling party is $IDEOLOGY|H$.",
+        "translation": "当前执政党是$IDEOLOGY|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_IDEOLOGY2:0",
+        "original": "Current ruling party is not $IDEOLOGY|H$.",
+        "translation": "当前执政党不属于$IDEOLOGY|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_OPINION_MODIFIER:0",
+        "original": "Has not $OPINION|H$",
+        "translation": "未达到$OPINION|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OPINION_MODIFIER:0",
+        "original": "Has $OPINION|H$",
+        "translation": "有$OPINION|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OPINION_AT_LEAST:0",
+        "original": "Opinion of $COUNTRY|H$ at least $VALUE|H$",
+        "translation": "关于$COUNTRY|H$的评价至少$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OPINION_AT_MOST:0",
+        "original": "Opinion of $COUNTRY|H$ at most $VALUE|H$",
+        "translation": "关于$COUNTRY|H$的评价最多$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AND_STARTS:0",
+        "original": "All of the following must be true",
+        "translation": "需要以下全部",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_OR_STARTS:0",
+        "original": "One of the following must be true",
+        "translation": "需要其中之一",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_COUNTRY_STARTS:0",
+        "original": "Any country",
+        "translation": "任意一个国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_OTHER_COUNTRY_STARTS:0",
+        "original": "Any other country",
+        "translation": "任意其他国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_COUNTRY_STARTS:0",
+        "original": "All countries",
+        "translation": "所有国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_OTHER_COUNTRY_STARTS:0",
+        "original": "All other countries",
+        "translation": "所有其他国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_enemy_COUNTRY_STARTS:0",
+        "original": "Any enemy country",
+        "translation": "任意一敌国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_enemy_COUNTRY_STARTS:0",
+        "original": "All enemy countries",
+        "translation": "所有敌国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_FLAG_NOT_SET:0",
+        "original": "Not:",
+        "translation": "没有：",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_FLAG_SET:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_FLAG_NOT_SET:0",
+        "original": "Not:",
+        "translation": "没有：",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_FLAG_SET:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "TRIGGER_GLOBAL_FLAG_NOT_SET:0",
+        "original": "Not:",
+        "translation": "没有：",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_GLOBAL_FLAG_SET:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "TRIGGER_UNIT_LEADER_FLAG_NOT_SET:0",
+        "original": "Not:",
+        "translation": "未满足：",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_UNIT_LEADER_HAS_ABILITY:0",
+        "original": "$LEADER|H$ has ability: $ABILITY|H$",
+        "translation": "$LEADER|H$拥有技能：$ABILITY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_UNIT_LEADER_FLAG_SET:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "TRIGGER_DOES_NOT_EXIST:0",
+        "original": "Does not exist",
+        "translation": "不存在",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_EXISTS:0",
+        "original": "Exists",
+        "translation": "存在",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_DOES_NOT_EXIST:0",
+        "original": "$COUNTRY|H$ does not exist",
+        "translation": "$COUNTRY|H$不存在",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNTRY_EXISTS:0",
+        "original": "$COUNTRY|H$ exists",
+        "translation": "$COUNTRY|H$存在",
+        "stage": 1
+    },
+    {
+        "key": "ORIGINAL_TAG_IS_NOT:0",
+        "original": "Original country is not $COUNTRY|H$",
+        "translation": "原本不是$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "ORIGINAL_TAG_IS:0",
+        "original": "Original country is $COUNTRY|H$",
+        "translation": "原本是$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "CIVILWAR_TARGET_IS_NOT:0",
+        "original": "Civilwar Target is not $COUNTRY|H$",
+        "translation": "内战对象不是$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "CIVILWAR_TARGET_IS:0",
+        "original": "Civilwar Target is $COUNTRY|H$",
+        "translation": "内战对象是$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_X_BUILDINGS:0",
+        "original": "At least $AMOUNT|H$ $BUILDING|H$",
+        "translation": "至少$AMOUNT|H$ $BUILDING|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_X_BUILDINGS:0",
+        "original": "At most $AMOUNT|H$ $BUILDING|H$",
+        "translation": "最多$AMOUNT|H$ $BUILDING|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_X_RESOURCES:0",
+        "original": "At least $AMOUNT|H$ $RESOURCE|H$",
+        "translation": "至少$AMOUNT|H$ $RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_X_RESOURCES:0",
+        "original": "At most $AMOUNT|H$ $RESOURCE|H$",
+        "translation": "最多$AMOUNT|H$ $RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DATE_BEFORE:0",
+        "original": "Before $DATE|H$",
+        "translation": "在$DATE|H$之前",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DATE_AFTER:0",
+        "original": "After $DATE|H$",
+        "translation": "在$DATE|H$之后",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_MILITARY_FACTORIES_MORE_THAN:0",
+        "original": "More Military Factories than $NUMBER|H$",
+        "translation": "军用工厂多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_MILITARY_FACTORIES_LESS_THAN:0",
+        "original": "Less Military Factories than $NUMBER|H$",
+        "translation": "军用工厂少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_NAVAL_FACTORIES_MORE_THAN:0",
+        "original": "More Naval Factories than $NUMBER|H$",
+        "translation": "海军船坞多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_NAVAL_FACTORIES_LESS_THAN:0",
+        "original": "Less Naval Factories than $NUMBER|H$",
+        "translation": "海军船坞少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CIVILIAN_FACTORIES_MORE_THAN:0",
+        "original": "More Civilian Factories than $NUMBER|H$",
+        "translation": "民用工厂多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CIVILIAN_FACTORIES_LESS_THAN:0",
+        "original": "Less Civilian Factories than $NUMBER|H$",
+        "translation": "民用工厂少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CIVILIAN_FACTORIES_FOR_TRIGGERS_MORE_THAN:0",
+        "original": "More Civilian Factories than $NUMBER|H$ can be used for projects",
+        "translation": "多于$NUMBER|H$座民用工厂可用于计划工程",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CIVILIAN_FACTORIES_FOR_TRIGGERS_LESS_THAN:0",
+        "original": "Less Civilian Factories than $NUMBER|H$ can be used for projects",
+        "translation": "少于$NUMBER|H$座民用工厂可用于计划工程",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_MILITARY_FACTORIES_MORE_THAN:0",
+        "original": "More available Military Factories than $NUMBER|H$",
+        "translation": "可用军用工厂多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_MILITARY_FACTORIES_LESS_THAN:0",
+        "original": "Less available Military Factories than $NUMBER|H$",
+        "translation": "可用军用工厂少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_NAVAL_FACTORIES_MORE_THAN:0",
+        "original": "More available Naval Factories than $NUMBER|H$",
+        "translation": "可用海军船坞多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_NAVAL_FACTORIES_LESS_THAN:0",
+        "original": "Less available Naval Factories than $NUMBER|H$",
+        "translation": "可用海军船坞少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_CIVILIAN_FACTORIES_MORE_THAN:0",
+        "original": "More available Civilian Factories than $NUMBER|H$",
+        "translation": "可用民用工厂多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_AVAILABLE_CIVILIAN_FACTORIES_LESS_THAN:0",
+        "original": "Less available Civilian Factories than $NUMBER|H$",
+        "translation": "可用民用工厂少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_TOTAL_FACTORIES_MORE_THAN:0",
+        "original": "More Factories than $NUMBER|H$",
+        "translation": "工业高于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_TOTAL_FACTORIES_LESS_THAN:0",
+        "original": "Less Factories than $NUMBER|H$",
+        "translation": "工业低于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_NUKES_MORE_THAN:0",
+        "original": "More Nukes than $NUMBER|H$",
+        "translation": "核武器多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_NUKES_LESS_THAN:0",
+        "original": "Less Nukes than $NUMBER|H$",
+        "translation": "核武器少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CONTROLLED_STATES_MORE_THAN:0",
+        "original": "More controlled states than $NUMBER|H$",
+        "translation": "控制的地区多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_CONTROLLED_STATES_LESS_THAN:0",
+        "original": "Less controlled states than $NUMBER|H$",
+        "translation": "控制的地区少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_MANPOWER_MORE_THAN:0",
+        "original": "More Manpower than $NUMBER|*H$",
+        "translation": "人力高于$NUMBER|*H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_MANPOWER_LESS_THAN:0",
+        "original": "Less Manpower than $NUMBER|*H$",
+        "translation": "人力低于$NUMBER|*H$",
+        "stage": 1
+    },
+    {
+        "key": "STABILITY_TRIGGER:0",
+        "original": "Stability",
+        "translation": "稳定度",
+        "stage": 1
+    },
+    {
+        "key": "WAR_SUPPORT_TRIGGER:0",
+        "original": "War Support",
+        "translation": "战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_POLITICAL_POWER_MORE_THAN:0",
+        "original": "More Political Power than $NUMBER|H$",
+        "translation": "政治点数多于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_POLITICAL_POWER_LESS_THAN:0",
+        "original": "Less Political Power than $NUMBER|H$",
+        "translation": "政治点数少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NATIONAL_UNITY_MORE_THAN:0",
+        "original": "More National Unity than $NUMBER|H$",
+        "translation": "国家凝聚力高于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NATIONAL_UNITY_LESS_THAN:0",
+        "original": "Less National Unity than $NUMBER|H$",
+        "translation": "国家凝聚力少于$NUMBER|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_SUPPORT_FOR_PARTY:0",
+        "original": "More than $PERCENTAGE|%Y0$ support for $PARTY$",
+        "translation": "$PARTY$支持率高于$PERCENTAGE|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_SUPPORT_FOR_PARTY:0",
+        "original": "Less than $PERCENTAGE|%Y0$ support for $PARTY$",
+        "translation": "$PARTY$支持率低于$PERCENTAGE|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_GUARANTEED_BY:0",
+        "original": "Is not guaranteed by $COUNTRY|H$",
+        "translation": "没有被$COUNTRY|H$保障独立",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_GUARANTEED_BY:0",
+        "original": "Is guaranteed by $COUNTRY|H$",
+        "translation": "被$COUNTRY|H$保障独立",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_GUARANTEED:0",
+        "original": "Has not guaranteed $COUNTRY|H$",
+        "translation": "$COUNTRY|H$没有被保障独立",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_GUARANTEED:0",
+        "original": "Has guaranteed $COUNTRY|H$",
+        "translation": "$COUNTRY|H$被保障独立",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_MILITARY_ACCESS_TO:0",
+        "original": "Has not military access to $COUNTRY|H$",
+        "translation": "在$COUNTRY|H$没有军事通行",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_MILITARY_ACCESS_TO:0",
+        "original": "Has military access to $COUNTRY|H$",
+        "translation": "在$COUNTRY|H$拥有军事通行",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NAP_WITH:0",
+        "original": "Has non-aggression pact with $COUNTRY|H$",
+        "translation": "与$COUNTRY|H$有互不侵犯条约",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_NAP_WITH:0",
+        "original": "Does not have non-aggression pact with $COUNTRY|H$",
+        "translation": "$COUNTRY|H$没有互不侵犯条约",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_GIVES_NOT_MILITARY_ACCESS_TO:0",
+        "original": "Does not give military access to $COUNTRY|H$",
+        "translation": "拒绝$COUNTRY|H$的军事通行",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_GIVES_MILITARY_ACCESS_TO:0",
+        "original": "Gives military access to $COUNTRY|H$",
+        "translation": "给与$COUNTRY|H$的军事通行",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_NEIGHBOR_OF:0",
+        "original": "Is not neighbor of $COUNTRY|H$",
+        "translation": "与$COUNTRY|H$不相邻",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NEIGHBOR_OF:0",
+        "original": "Is neighbor of $COUNTRY|H$",
+        "translation": "与$COUNTRY|H$相邻",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IN_CIVIL_WAR:0",
+        "original": "Is not in a civil war",
+        "translation": "没有内战 ",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_CIVIL_WAR:0",
+        "original": "Is in a civil war",
+        "translation": "内战中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IN_FACTION:0",
+        "original": "Is not in Faction",
+        "translation": "无阵营",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_FACTION:0",
+        "original": "Is in Faction",
+        "translation": "在阵营中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IN_FACTION_WITH:0",
+        "original": "Is not in Faction with @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$不在同一阵营",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_FACTION_WITH:0",
+        "original": "Is in Faction with @$TAG$$COUNTRY|H$",
+        "translation": "与@$TAG$$COUNTRY|H$在同一阵营中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_FACTION_LEADER:0",
+        "original": "Is not Faction leader",
+        "translation": "不是阵营领导者",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_FACTION_LEADER:0",
+        "original": "Is Faction leader",
+        "translation": "是阵营领导者",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_STATE_STARTS:0",
+        "original": "Any state",
+        "translation": "任意一个地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_STATE_STARTS:0",
+        "original": "All states",
+        "translation": "所有地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_OWNED_STATE_STARTS:0",
+        "original": "Any owned state",
+        "translation": "任意一个拥有地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_OWNED_STATE_STARTS:0",
+        "original": "All owned states",
+        "translation": "所有拥有地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_NEIGHBOR_STATE_STARTS:0",
+        "original": "Any neighbor state",
+        "translation": "任意一个相邻地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_NEIGHBOR_STATE_STARTS:0",
+        "original": "All neighbor states",
+        "translation": "所有相邻地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_NEIGHBOR_COUNTRY_STARTS:0",
+        "original": "Any neighbor country",
+        "translation": "任意一个相邻国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_HOME_AREA_NEIGHBOR_COUNTRY_STARTS:0",
+        "original": "Any neighbor country in the home area",
+        "translation": "任意一个与本土相邻的国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_NEIGHBOR_COUNTRY_STARTS:0",
+        "original": "All neighbor countries",
+        "translation": "所有相邻国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_ALLIED_COUNTRY_STARTS:0",
+        "original": "Any allied country",
+        "translation": "任意一个同盟国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_ALLIED_COUNTRY_STARTS:0",
+        "original": "All allied countries",
+        "translation": "所有同盟国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_ENEMY_COUNTRY_STARTS:0",
+        "original": "Any enemy country",
+        "translation": "任意一个敌国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_ENEMY_COUNTRY_STARTS:0",
+        "original": "All enemy countries",
+        "translation": "所有敌国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_ALLIED_WITH_STARTS:0",
+        "original": "Is not allied with $COUNTRY|H$",
+        "translation": "没有与$COUNTRY|H$结盟",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_ALLIED_WITH_STARTS:0",
+        "original": "Is allied with $COUNTRY|H$",
+        "translation": "与$COUNTRY|H$结盟",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_SURRENDER_PROGRESS:0",
+        "original": "More than $PERCENTAGE|%Y0$ surrender progress",
+        "translation": "投降倾向高于$PERCENTAGE|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_SURRENDER_PROGRESS:0",
+        "original": "Less than $PERCENTAGE|%Y0$ surrender progress",
+        "translation": "投降倾向低于$PERCENTAGE|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_THREAT:0",
+        "original": "More than $THREAT|%Y0$ World Tension",
+        "translation": "全球紧张度高于$THREAT|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_THREAT:0",
+        "original": "Less than $THREAT|%Y0$ World Tension",
+        "translation": "全球紧张度低于$THREAT|%Y0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_THREAT_ADDED:0",
+        "original": "Caused more than $THREAT|%H0$ World Tension",
+        "translation": "引发多于$THREAT|%H0$的全球紧张度",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_THREAT_ADDED:0",
+        "original": "Caused less than $THREAT|%H0$ World Tension",
+        "translation": "引发少于$THREAT|%H0$的全球紧张度",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STRAT_REGION_ID:0",
+        "original": "State is in strategic area $NAME|H$",
+        "translation": "地区处于$NAME|H$战略区域",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_ID:0",
+        "original": "State is $NAME|H$",
+        "translation": "是$NAME|H$地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IRONMAN:0",
+        "original": "Game is in Ironman mode.",
+        "translation": "游戏是铁人模式。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IRONMAN:0",
+        "original": "Game is not in Ironman mode.",
+        "translation": "游戏是非铁人模式。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_START_DATE_GREATER_THAN:0",
+        "original": "Game initially started after $DATE|H$",
+        "translation": "游戏最初于$DATE|H$之后开始",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_START_DATE_LESS_THAN:0",
+        "original": "Game initially started before $DATE|H$",
+        "translation": "游戏最初于$DATE|H$之前开始",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_START_DATE_EQUALS:0",
+        "original": "Game initially started $DATE|H$",
+        "translation": "游戏开始时间$DATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_AVAILABLE_IDEA_WITH_TRAITS:0",
+        "original": "Has not more than $LIMIT|H$ ideas with $TRAITS|H$ traits.",
+        "translation": "拥有$TRAITS|H$特质的企业或顾问等不超过$LIMIT|H$个。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_AVAILABLE_IDEA_WITH_TRAITS:0",
+        "original": "Has at least $LIMIT|H$ ideas with $TRAITS|H$ traits.",
+        "translation": "拥有$TRAITS|H$特质的企业或顾问等至少$LIMIT|H$个。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_NOT_CLAIMED_BY_COUNTRY:1",
+        "original": "Is not claimed by $COUNTRY|H$.",
+        "translation": "没有来自于$COUNTRY|H$的领土宣称。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_CLAIMED_BY_COUNTRY:1",
+        "original": "Is claimed by $COUNTRY|H$.",
+        "translation": "有来自于$COUNTRY|H$的领土宣称。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_NOT_CORE_OF_COUNTRY:1",
+        "original": "Is not a core of $COUNTRY|H$.",
+        "translation": "不是$COUNTRY|H$的核心领土。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STATE_CORE_OF_COUNTRY:1",
+        "original": "Is a core of $COUNTRY|H$.",
+        "translation": "是$COUNTRY|H$的核心领土。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_AI:0",
+        "original": "$COUNTRY|H$ is not AI controlled.",
+        "translation": "$COUNTRY|H$不是电脑控制的。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_AI:0",
+        "original": "$COUNTRY|H$ is AI controlled.",
+        "translation": "$COUNTRY|H$是电脑控制的。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_OPEN_BUILDING_SLOTS:0",
+        "original": "Can build $TARGET|H$ more $TYPE$",
+        "translation": "有位置能建造$TARGET|H$个$TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DOESNOT_HAVE_OPEN_BUILDING_SLOTS:0",
+        "original": "Cannot build $TARGET|H$ more $TYPE$",
+        "translation": "没有位置建造$TARGET|H$个$TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_DEMILITARIZED:0",
+        "original": "$STATE|H$ is demilitarized.",
+        "translation": "$STATE|H$现在是非军事区。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_DEMILITARIZED:0",
+        "original": "$STATE|H$ is not demilitarized.",
+        "translation": "$STATE|H$现在不是非军事区。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_BORDER_CONFLICT:0",
+        "original": "$STATE|H$ is in border conflict.",
+        "translation": "$STATE|H$现在处于边境冲突状态。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_BORDER_CONFLICT:0",
+        "original": "$STATE|H$ is not in border conflict.",
+        "translation": "$STATE|H$现在没有处于边境冲突状态。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_PUPPET:1",
+        "original": "$COUNTRY|H$ is the subject of another country.",
+        "translation": "$COUNTRY|H$是其他国家的附庸。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_PUPPET:1",
+        "original": "$COUNTRY|H$ is fully independent.",
+        "translation": "$COUNTRY|H$完全独立。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_PUPPET_OF:3",
+        "original": "Is not a puppet of $MASTER|H$",
+        "translation": "不是$MASTER|H$的傀儡国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_PUPPET_OF:3",
+        "original": "Is a puppet of $MASTER|H$",
+        "translation": "是$MASTER|H$的傀儡国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_SUBJECT:1",
+        "original": "$COUNTRY|H$ is a subject of another country.",
+        "translation": "$COUNTRY|H$是其他国家的附庸。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_SUBJECT:1",
+        "original": "$COUNTRY|H$ is fully independent.",
+        "translation": "$COUNTRY|H$完全独立。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_SUBJECT_OF:1",
+        "original": "Is not a subject of $MASTER|H$",
+        "translation": "不是$MASTER|H$的附庸",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_SUBJECT_OF:1",
+        "original": "Is a subject of $MASTER|H$",
+        "translation": "是$MASTER|H$的附庸",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_COASTAL:0",
+        "original": "Is coastal.",
+        "translation": "是沿海地区。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_COASTAL:0",
+        "original": "Is not coastal.",
+        "translation": "不是沿海地区。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_CLAIM:0",
+        "original": "Active or generating war goals related to $COUNTRY|H$.",
+        "translation": "存在或正在制造对$COUNTRY|H$的战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_PROGRESSED_FOCUS:0",
+        "original": "Has completed $PROGRESS|%0H$ of $FOCUS|H$",
+        "translation": "已经完成$PROGRESS|%0H$的$FOCUS|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_PROGRESSED_FOCUS:0",
+        "original": "Has completed less than $PROGRESS|%0H$ of $FOCUS|H$",
+        "translation": "完成少于$PROGRESS|%0H$的$FOCUS|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_STARTED_FOCUS:0",
+        "original": "Has started $FOCUS|H$",
+        "translation": "已经开始$FOCUS|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_STARTED_FOCUS:0",
+        "original": "Has not started $FOCUS|H$",
+        "translation": "还没有开始$FOCUS|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_OWNER:0",
+        "original": "Owner",
+        "translation": "拥有国",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CONTROLLER:0",
+        "original": "Controller",
+        "translation": "控制国",
+        "stage": 1
+    },
+    {
+        "key": "or_clarification_tooltip:0",
+        "original": "If §Yneither§! of the above is true",
+        "translation": "如果以上§Y没有一个§!是真的",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_ON_CONTINENT:0",
+        "original": "Is in $CONTINENT|H $",
+        "translation": "在$CONTINENT|H $",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_ON_CONTINENT:0",
+        "original": "Is not in $CONTINENT|H $",
+        "translation": "不在$CONTINENT|H $",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_MAX_PLANNING:0",
+        "original": "Has maximal planning bonus",
+        "translation": "拥有最大的计划加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DOES_NOT_HAVE_MAX_PLANNING:0",
+        "original": "Does not have maximal planning bonus",
+        "translation": "没有最大的计划加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_RESERVES_MORE_THAN:0",
+        "original": "More reserves than $VALUE|H$",
+        "translation": "预备队超过$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_OF_RESERVES_LESS_THAN:0",
+        "original": "Less reserves than $VALUE|H$",
+        "translation": "预备队少于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_WIDTH_THAN_OPPONENT:0",
+        "original": "Has less Combat Width than the enemy",
+        "translation": "拥有小于敌军的战场宽度",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_LESS_WIDTH_THAN_OPPONENT:0",
+        "original": "Has not less Combat Width than the enemy",
+        "translation": "拥有不小于敌军的战场宽度",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_FLANKED_OPPONENT:0",
+        "original": "Has flanked enemy.",
+        "translation": "侧翼包抄敌人。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_FLANKED_OPPONENT:0",
+        "original": "Has not flanked enemy.",
+        "translation": "没有侧翼包抄敌人。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_FIGHTING_AIR_UNITS:0",
+        "original": "Is fighting Air Units.",
+        "translation": "正与敌机战斗。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_FIGHTING_AIR_UNITS:0",
+        "original": "Is not fighting Air Units.",
+        "translation": "未与敌机战斗。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_CARRIER_AIRWINGS_ON_MISSION:0",
+        "original": "Has Carrier with Air Wings on a mission",
+        "translation": "任务中有搭载飞机的航母",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_CARRIER_AIRWINGS_ON_MISSION:0",
+        "original": "Has not Carrier with Air Wings on a mission",
+        "translation": "任务中没有搭载飞机的航母",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IC_RATIO_LESS_THAN:0",
+        "original": "Has less than $VALUE|%0Y$ of $COUNTRY$'s total number of factories.",
+        "translation": "拥有少于$VALUE|%0Y$的$COUNTRY$的全部工厂。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IC_RATIO_MORE_THAN:0",
+        "original": "Has more than $VALUE|%0Y$ of $COUNTRY$'s total number of factories.",
+        "translation": "拥有超过$VALUE|%0Y$的$COUNTRY$的全部工厂。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CAN_NOT_RESEARCH:0",
+        "original": "Cannot research $TECH|Y$.",
+        "translation": "不能研究$TECH|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CAN_RESEARCH:0",
+        "original": "Can research $TECH|Y$.",
+        "translation": "能够研究$TECH|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_RECRUIT_HAS_MANPOWER:0",
+        "original": "Free Manpower at least $NUMBER|*H$",
+        "translation": "剩余人力至少$NUMBER|*H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_HAVE_ANNEX_WAR_GOAL:0",
+        "original": "$COUNTRY|Y$ does not have annex war goal against $ENEMY|Y$.",
+        "translation": "$COUNTRY|Y$没有吞并$ENEMY|Y$的战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAVE_ANNEX_WAR_GOAL:0",
+        "original": "$COUNTRY|Y$ has annex war goal against $ENEMY|Y$.",
+        "translation": "$COUNTRY|Y$有吞并$ENEMY|Y$的战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_WARGOAL_AGAINST:0",
+        "original": "Has a war goal against @$TAG$$COUNTRY|H$",
+        "translation": "有针对@$TAG$$COUNTRY|H$的战争目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_WARGOAL_AGAINST:0",
+        "original": "Does not have a war goal against @$TAG$$COUNTRY|H$",
+        "translation": "没有针对@$TAG$$COUNTRY|H$的战争目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_JUSTIFYING_WARGOAL_AGAINST:0",
+        "original": "Is justifying war goal against @$TAG$$COUNTRY|H$",
+        "translation": "正在正当化对@$TAG$$COUNTRY|H$的战争目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_JUSTIFYING_WARGOAL_AGAINST:0",
+        "original": "Is not justifying war goal against @$TAG$$COUNTRY|H$",
+        "translation": "没有在正当化对@$TAG$$COUNTRY|H$的战争目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TEMPLATE_CONTAINING_UNIT:0",
+        "original": "Does not have a division template containing $UNIT|H$",
+        "translation": "没有包含$UNIT|H$的陆军师编制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TEMPLATE_CONTAINING_UNIT:0",
+        "original": "Has a division template containing $UNIT|H$",
+        "translation": "有包含$UNIT|H$的陆军师编制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_MAJOR:0",
+        "original": "Is considered a major",
+        "translation": "被认为是主要国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_MAJOR:0",
+        "original": "Is not considered a major",
+        "translation": "没有被认为是主要国家",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_IRRATIONALITY:0",
+        "original": "Is more irrational than $IRRATIONALITY|Y$",
+        "translation": "较$IRRATIONALITY|Y$还要不合理",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_IRRATIONALITY:0",
+        "original": "Is less irrational than $IRRATIONALITY|Y$",
+        "translation": "没有$IRRATIONALITY|Y$不合理",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_HOME_AREA:0",
+        "original": "Is connected to the owner's capital",
+        "translation": "与拥有者的首都相连",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_POPULATION:0",
+        "original": "Has more than $POPULATION$ state population",
+        "translation": "地区拥有超过$POPULATION$的人口",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_POPULATION:0",
+        "original": "Has less than $POPULATION$ state population",
+        "translation": "地区拥有少于$POPULATION$的人口",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_CAPITULATED:0",
+        "original": "Has capitulated",
+        "translation": "停止抵抗",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_CAPITULATED:0",
+        "original": "Has not capitulated",
+        "translation": "没有停止抵抗",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_CLAIMED_STATE_IN_PEACE_CONFERENCE:0",
+        "original": "$COUNTRY|Y$ has claimed $STATE|Y$ in the peace conference.",
+        "translation": "$COUNTRY|Y$已经在和谈中要求$STATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_CLAIMED_STATE_IN_PEACE_CONFERENCE:0",
+        "original": "$COUNTRY|Y$ has not claimed $STATE|Y$ in the peace conference.",
+        "translation": "$COUNTRY|Y$没有在和谈中要求$STATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IN_PEACE_CONFERENCE:0",
+        "original": "Is not in a peace conference",
+        "translation": "不在和谈中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_PEACE_CONFERENCE:0",
+        "original": "Is in a peace conference",
+        "translation": "在和谈中",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_NUM_OWNED_NEIGHBOUR_STATES:0",
+        "original": "$COUNTRY|Y$ owns more than $NUM|Y$ neighboring states of $STATE|Y$",
+        "translation": "$COUNTRY|Y$拥有超过$NUM|Y$个$STATE|Y$的相邻地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_NUM_OWNED_NEIGHBOUR_STATES:0",
+        "original": "$COUNTRY|Y$ owns less than $NUM|Y$ neighboring states of $STATE|Y$",
+        "translation": "$COUNTRY|Y$拥有少于$NUM|Y$个$STATE|Y$的相邻地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_NUM_CLAIMED_NEIGHBOUR_STATES:0",
+        "original": "$COUNTRY|Y$ has claimed more than $NUM|Y$ neighboring states of $STATE|Y$",
+        "translation": "$COUNTRY|Y$对超过$NUM|Y$个$STATE|Y$的相邻地区拥有宣称",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_NUM_CLAIMED_NEIGHBOUR_STATES:0",
+        "original": "$COUNTRY|Y$ has claimed less than $NUM|Y$ neighboring states of $STATE|Y$",
+        "translation": "$COUNTRY|Y$对少于$NUM|Y$个$STATE|Y$的相邻地区拥有宣称",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ELECTIONS:0",
+        "original": "Does not have elections",
+        "translation": "没有选举",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ELECTIONS:0",
+        "original": "Has elections",
+        "translation": "有选举",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_CUSTOM_DIFFICULTY_ON:0",
+        "original": "Using custom difficulty: $DIFFICULTY$",
+        "translation": "使用自定义难度：$DIFFICULTY$",
+        "stage": 1
+    },
+    {
+        "key": "PLAYER_HAS_CUSTOM_DIFFICULTY_ON:0",
+        "original": "Player using custom difficulty: $DIFFICULTY$",
+        "translation": "玩家使用自定义难度：$DIFFICULTY$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALLIANCE_STRENGTH_RATIO_MORE_THAN:0",
+        "original": "Estimated army strength ratio of $VALUE|H0%$ or more compared to enemies.",
+        "translation": "与敌国的路军实力之比估计不低于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALLIANCE_STRENGTH_RATIO_LESS_THAN:0",
+        "original": "Estimated army strength ratio of $VALUE|H0%$ or less compared to enemies.",
+        "translation": "与敌国的路军实力之比估计不高于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_UNIT_LEADER:0",
+        "original": "Has unit leader with ID: $ID|Y$",
+        "translation": "拥有ID为$ID|Y$的指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_UNIT_LEADER:0",
+        "original": "Does not have unit leader with ID: $ID|Y$",
+        "translation": "没有ID为$ID|Y$的指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FACTION_HAS_AT_LEAST_MEMBERS:0",
+        "original": "In a faction with at least $AMOUNT|Y$ members",
+        "translation": "属于一个至少拥有$AMOUNT|Y$个成员的阵营",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FACTION_HAS_LESS_MEMBERS:0",
+        "original": "In a faction with less than $AMOUNT|Y$ members",
+        "translation": "属于一个少于$AMOUNT|Y$个成员的阵营",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_RESEARCHING_TECHNOLOGY:0",
+        "original": "Is currently researching the technology: $TECHNOLOGY|Y$",
+        "translation": "正在研究科技：$TECHNOLOGY|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_RESEARCHING_TECHNOLOGY_COUNTRY_SPECIFIC_NAME:0",
+        "original": "Is currently researching the technology: §Y$BASENAME$ - $TECHNOLOGY$§!",
+        "translation": "正在研究科技：§Y$BASENAME$ - $TECHNOLOGY$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_IN_TECHNOLOGY_SHARING_GROUP:0",
+        "original": "Is member of $GROUPNAME|Y$",
+        "translation": "是$GROUPNAME|Y$成员",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_IN_TECHNOLOGY_SHARING_GROUP:0",
+        "original": "Is not member of $GROUPNAME|Y$",
+        "translation": "不是$GROUPNAME|Y$成员",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_AUTONOMY_STATE:0",
+        "original": "Is $NAME|Y$",
+        "translation": "是$NAME|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_AUTONOMY_STATE:0",
+        "original": "Is not $NAME|Y$",
+        "translation": "不是$NAME|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AUTONOMY_STATE_GREATER_THAN:0",
+        "original": "Is more autonomous than $NAME|H$",
+        "translation": "自治度高于$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AUTONOMY_STATE_LESS_THAN:1",
+        "original": "Is less autonomous than $NAME|H%$",
+        "translation": "自治度低于$NAME|H%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AUTONOMY_STATE_RATIO_GREATER_THAN:0",
+        "original": "Autonomy progress over $VALUE|H%$",
+        "translation": "自治度进程超过$VALUE|H%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN:0",
+        "original": "Autonomy progres under $VALUE|H%$",
+        "translation": "自治度进程不足$VALUE|H%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_SUBJECTS:0",
+        "original": "More than $COUNT|Y$ Subject nations",
+        "translation": "拥有超过$COUNT|Y$个附庸",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_SUBJECTS:0",
+        "original": "Less than $COUNT|Y$ Subject nations",
+        "translation": "拥有少于$COUNT|Y$个附庸",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TECH_GROUPS_MORE_THAN:0",
+        "original": "Member of more than $AMOUNT|Y$ Technology sharing groups",
+        "translation": "是超过$AMOUNT|Y$个科技共享组织的成员",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TECH_GROUPS_LESS_THAN:0",
+        "original": "Member of less than $AMOUNT|Y$ Technology sharing groups",
+        "translation": "是少于$AMOUNT|Y$个科技共享组织的成员",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TEMPLATE:0",
+        "original": "Has $TEMPLATE|Y$ division template",
+        "translation": "有$TEMPLATE|Y$师编制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TEMPLATE:0",
+        "original": "Does not have $TEMPLATE|Y$ division template",
+        "translation": "无$TEMPLATE|Y$师编制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DIFFICULTY_HIGHER:0",
+        "original": "Difficulty is higher than $DIFFICULTY|H$",
+        "translation": "游戏难度高于$DIFFICULTY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DIFFICULTY_LOWER:0",
+        "original": "Difficulty is lower than $DIFFICULTY|H$",
+        "translation": "游戏难度低于$DIFFICULTY|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_STATE_CATEGORY:0",
+        "original": "Is NOT a $CATEGORY|Y$ type of state",
+        "translation": "不是$CATEGORY|Y$类型地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_STATE_CATEGORY:0",
+        "original": "Is a $CATEGORY|Y$ type of state",
+        "translation": "是$CATEGORY|Y$类型地区",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_GREATER_THEN:0",
+        "original": "Has suffered more than $VALUE|Y$ casualties in the current wars",
+        "translation": "在当前战争中的伤亡超过$VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CASUALTIES_LESS_THEN:0",
+        "original": "Has suffered less than $VALUE|Y$ casualties in the current wars",
+        "translation": "在当前战争中的伤亡不足$VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NO_DAMAGED_BUILDINGS:0",
+        "original": "Has no damaged buildings",
+        "translation": "没有受损建筑",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DAMAGED_BUILDINGS:0",
+        "original": "Has damaged buildings",
+        "translation": "有受损建筑",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_X_OCCUPIED_STATES:0",
+        "original": "More than $COUNT|Y$ occupied enemy states",
+        "translation": "占领超过$COUNT|Y$个敌国地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_X_OCCUPIED_STATES:0",
+        "original": "Less than $COUNT|Y$ occupied enemy states",
+        "translation": "占领不足$COUNT|Y$个敌国地区",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_MORE_THAN_DAYS:0",
+        "original": "More than $DAYS|H$ days ago.",
+        "translation": "$DAYS|H$天前。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_LESS_THAN_DAYS:0",
+        "original": "Less than $DAYS|H$ days ago.",
+        "translation": "$DAYS|H$天内。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_DATE_BEFORE:0",
+        "original": "Before $DATE|H$.",
+        "translation": "在$DATE|H$之前。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_DATE_AFTER:0",
+        "original": "After $DATE|H$.",
+        "translation": "在$DATE|H$之后。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_VALUE_MORE_THAN:0",
+        "original": "Value more than $VALUE|H$.",
+        "translation": "价值超过$VALUE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_VALUE_LESS_THAN:0",
+        "original": "Value less than $VALUE|H$.",
+        "translation": "价值不足$VALUE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FLAG_SET_VALUE_EQUALS:0",
+        "original": "Value is $VALUE|H$.",
+        "translation": "价值为$VALUE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_RESOURCES:0",
+        "original": "At least $AMOUNT|H$ $RESOURCE|H$.",
+        "translation": "至少$AMOUNT|H$$RESOURCE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_RESOURCES:0",
+        "original": "Less than $AMOUNT|H$ $RESOURCE|H$.",
+        "translation": "$AMOUNT|H$以下$RESOURCE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_RESOURCES:0",
+        "original": "At most $AMOUNT|H$ $RESOURCE|H$.",
+        "translation": "至多$AMOUNT|H$ $RESOURCE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_RESOURCES:0",
+        "original": "More than $AMOUNT|H$ $RESOURCE|H$.",
+        "translation": "$AMOUNT|H$以上$RESOURCE|H$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST_RESOURCES_IN_STATE:0",
+        "original": "At least $AMOUNT|H$ $RESOURCE|H$ in $STATE|H$",
+        "translation": "$STATE|H$至少产出$AMOUNT|H$ $RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_RESOURCES_IN_STATE:0",
+        "original": "Less than $AMOUNT|H$ $RESOURCE|H$ in $STATE|H$",
+        "translation": "$STATE|H$产出$AMOUNT|H$以下$RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST_RESOURCES_IN_STATE:0",
+        "original": "At most $AMOUNT|H$ $RESOURCE|H$ in $STATE|H$",
+        "translation": "$STATE|H$至多产出$AMOUNT|H$ $RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_RESOURCES_IN_STATE:0",
+        "original": "More than $AMOUNT|H$ $RESOURCE|H$ in $STATE|H$",
+        "translation": "$STATE|H$产出$AMOUNT|H$以上$RESOURCE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TECH_BONUS:0",
+        "original": "No technology bonus for $TECH|H$",
+        "translation": "无$TECH|H$研究加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TECH_BONUS:0",
+        "original": "Has technology bonus for $TECH|H$",
+        "translation": "有$TECH|H$研究加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_TECH_CATEGORY_BONUS:0",
+        "original": "No technology bonus for $CATEGORY|H$ category",
+        "translation": "无$CATEGORY|H$类研究加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_TECH_CATEGORY_BONUS:0",
+        "original": "Has technology bonus for $CATEGORY|H$ category",
+        "translation": "有$CATEGORY|H$类研究加成",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_COUNTRY_LEADER:0",
+        "original": "$NAME|H$ is not a leader $COUNTRY|H$",
+        "translation": "$NAME|H$不是$COUNTRY|H$的领袖",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_COUNTRY_LEADER:0",
+        "original": "$NAME|H$ is a leader of $COUNTRY|H$",
+        "translation": "$NAME|H$是$COUNTRY|H$的领袖",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_RULING_COUNTRY_LEADER:0",
+        "original": "$NAME|H$ is not the current country leader",
+        "translation": "$NAME|H$不是现任国家领袖",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_RULING_COUNTRY_LEADER:0",
+        "original": "$NAME|H$ is the current country leader",
+        "translation": "$NAME|H$是现任国家领袖",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_ORIGINAL_RESEARCH_SLOTS:0",
+        "original": "Starts with more than $VALUE|H$ research slots",
+        "translation": "以大于$VALUE|H$个科研槽数开始",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_ORIGINAL_RESEARCH_SLOTS:0",
+        "original": "Starts with less than $VALUE|H$ research slots",
+        "translation": "以小于$VALUE|H$个科研槽数开始",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_COMPARISON_VALUE2_TYPE:0",
+        "original": "$COMPARISON$ $VALUE|2H$ $TYPE|H$",
+        "translation": "$COMPARISON$ $VALUE|2H$ $TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN:0",
+        "original": "more than",
+        "translation": "大于",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN:0",
+        "original": "less than",
+        "translation": "小于",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_MOST:0",
+        "original": "at most",
+        "translation": "至多",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AT_LEAST:0",
+        "original": "at least",
+        "translation": "至少",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DIVISIONS_MORE_THAN:0",
+        "original": "Has more than $AMOUNT|H$ divisions",
+        "translation": "拥有大于$AMOUNT|H$个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DIVISIONS_LESS_THAN:0",
+        "original": "Has at least $AMOUNT|H$ divisions",
+        "translation": "拥有至少$AMOUNT|H$个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COUNT_TRIGGERS:0",
+        "original": "At least $AMOUNT|Y$ of the following must be true",
+        "translation": "以下至少$AMOUNT|Y$项为真",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_TARGET_OF_COUP:0",
+        "original": "Is the target of a coup",
+        "translation": "是策划政变目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_TARGET_OF_COUP:0",
+        "original": "Is not the target of a coup",
+        "translation": "不是策划政变目标",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_STAGING_COUP:0",
+        "original": "Is staging a coup",
+        "translation": "正在被策划政变",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_STAGING_COUP:0",
+        "original": "Is not staging a coup",
+        "translation": "没有正在被策划政变",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_FOCUS_TREE:0",
+        "original": "Has $TREE|Y$",
+        "translation": "拥有$TREE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_FOCUS_TREE:0",
+        "original": "Does not have $TREE|Y$",
+        "translation": "没有$TREE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ANY_LICENSE:0",
+        "original": "Has foreign production license",
+        "translation": "有外国生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ANY_LICENSE:0",
+        "original": "Does not have foreign production license",
+        "translation": "没有外国生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_LICENSE_FROM:0",
+        "original": "Is licensing $EQUIPMENT|H$ from $COUNTRY|H$",
+        "translation": "有$COUNTRY|H$$EQUIPMENT|H$的生产许可 ",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_LICENSE_FROM:0",
+        "original": "Is not licensing $EQUIPMENT|H$ from $COUNTRY|H$",
+        "translation": "没有$COUNTRY|H$$EQUIPMENT|H$的生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_RELATION_MODIFIER:0",
+        "original": "Does not have $MODIFIER|Y$ when dealing with $COUNTRY|Y$",
+        "translation": "对$COUNTRY|Y$没有$MODIFIER|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_RELATION_MODIFIER:0",
+        "original": "Has $MODIFIER|Y$ when dealing with $COUNTRY|Y$",
+        "translation": "对$COUNTRY|Y$有$MODIFIER|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_LICENSING_ANY_TO:0",
+        "original": "Is not licensing to $COUNTRY|Y$",
+        "translation": "没有发给$COUNTRY|Y$生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_LICENSING_ANY_TO:0",
+        "original": "Is licensing to $COUNTRY|Y$",
+        "translation": "有发给$COUNTRY|Y$生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_LICENSING_TO:0",
+        "original": "Is not licensing $EQUIPMENT|H$ to $COUNTRY|H$",
+        "translation": "没有发给$COUNTRY|H$$EQUIPMENT|H$的生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_LICENSING_TO:0",
+        "original": "Is licensing $EQUIPMENT|H$ to $COUNTRY|H$",
+        "translation": "有发给$COUNTRY|H$$EQUIPMENT|H$的生产许可",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_COMPARISON_AMOUNT_TYPE:0",
+        "original": "$COMPARISON$ $AMOUNT|H$ $TYPE$",
+        "translation": "$COMPARISON$ $AMOUNT|H$ $TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_COMPARISON_AMOUNT_TYPE_NO_HIGHLIGHT:0",
+        "original": "$COMPARISON$ $AMOUNT|H$ $TYPE$",
+        "translation": "$COMPARISON$ $AMOUNT|H$ $TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_PROVINCE:0",
+        "original": "Any province: ",
+        "translation": "任何省份：",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_PROVINCE:0",
+        "original": "All provinces: ",
+        "translation": "所有省份：",
+        "stage": 1
+    },
+    {
+        "key": "POLITICAL_POWER_GROWTH:0",
+        "original": "Political power growth per day",
+        "translation": "每日政治点数增长",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_RESEARCH_SLOTS_PLURAL:0",
+        "original": "research slots",
+        "translation": "科研槽",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_RESEARCH_SLOTS_SINGULAR:0",
+        "original": "research slot",
+        "translation": "科研槽",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MANPOWER_PER_FACTORY:0",
+        "original": "manpower per military factory",
+        "translation": "人力/工厂",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IDEAS_SELECTED:0",
+        "original": "selected from §YGovernment§!, §YResearch & Production§! or §YMilitary Staff§!",
+        "translation": "选择来自§Y政府§!、§Y科研公司和制造商§!或者§Y军事参谋§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IDEAS_SELECTED_IN_CAT_GROUP:0",
+        "original": "selected from $CAT_GROUP|H$",
+        "translation": "选择来自$CAT_GROUP|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_CARRIER_AIRWINGS_IN_OWN_COMBAT_MISSION:0",
+        "original": "Carrier does not have Air Wings in combat it is a part of.",
+        "translation": "航空母舰没有舰载机联队在所在舰队的战斗中。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_CARRIER_AIRWINGS_IN_OWN_COMBAT_MISSION:0",
+        "original": "Carrier has Air Wings in combat it is a part of.",
+        "translation": "航空母舰有舰载机联队在所在舰队的战斗中。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALLIANCE_NAVAL_STRENGTH_RATIO_LESS_THAN:0",
+        "original": "Estimated navy strength ratio of $VALUE|H0%$ or less compared to enemies.",
+        "translation": "与敌国的海军实力之比估计不高于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALLIANCE_NAVAL_STRENGTH_RATIO_MORE_THAN:0",
+        "original": "Estimated navy strength ratio of $VALUE|H0%$ or more compared to enemies.",
+        "translation": "与敌国的海军实力之比估计不低于$VALUE|H0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ENEMIES_NAVAL_STRENGTH_RATIO_LESS_THAN:0",
+        "original": "Estimated enemies strength ratio of $VALUE|H0%$ or less compared to our navy",
+        "translation": "敌国与我国的海军实力之比估计不高于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ENEMIES_NAVAL_STRENGTH_RATIO_MORE_THAN:0",
+        "original": "Estimated enemies strength ratio of $VALUE|H0%$ or more compared to our navy",
+        "translation": "敌国与我国的海军实力之比估计不低于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NAVAL_STRENGTH_RATIO_LESS_THAN:0",
+        "original": "Estimated navy strength ratio of $VALUE|H0%$ or less compared to $COUNTRY2$",
+        "translation": "与$COUNTRY2$的海军实力之比估计不高于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NAVAL_STRENGTH_RATIO_MORE_THAN:0",
+        "original": "Estimated navy strength ratio of $VALUE|H0%$ or more compared to $COUNTRY2$",
+        "translation": "与$COUNTRY2$的海军实力之比估计不低于$VALUE|H0%$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_UNIT_LEADER_STARTS:0",
+        "original": "All Unit Leaders",
+        "translation": "所有部队指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_UNIT_LEADER_STARTS:0",
+        "original": "Any Unit Leader",
+        "translation": "任何部队指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_ARMY_LEADER_STARTS:0",
+        "original": "All Army Leaders",
+        "translation": "所有陆军指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_ARMY_LEADER_STARTS:0",
+        "original": "Any Army Leader",
+        "translation": "任何陆军指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ALL_NAVY_LEADER_STARTS:0",
+        "original": "All Navy Leaders",
+        "translation": "所有海军指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ANY_NAVY_LEADER_STARTS:0",
+        "original": "Any Navy Leader",
+        "translation": "任何海军指挥官",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_ASSIGNED_ARMY:0",
+        "original": "Is commanding an army",
+        "translation": "正在指挥陆军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_IS_ASSIGNED_ARMY:0",
+        "original": "Is not commanding an army",
+        "translation": "未在指挥陆军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_ASSIGNED_NAVY:0",
+        "original": "Is commanding a navy",
+        "translation": "正在指挥海军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_IS_ASSIGNED_NAVY:0",
+        "original": "Is not commanding a navy",
+        "translation": "未在指挥海军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_UNITS_DIVISION:0",
+        "original": "Division",
+        "translation": "个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_UNITS_DIVISIONS:0",
+        "original": "Divisions",
+        "translation": "个师",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_UNITS_SHIP:0",
+        "original": "Ship",
+        "translation": "艘舰船",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NUM_UNITS_SHIPS:0",
+        "original": "Ships",
+        "translation": "艘舰船",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_FIELD_MARSHALL:0",
+        "original": "Is a §HField Marshall§!",
+        "translation": "是§H陆军元帅§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_FIELD_MARSHALL:0",
+        "original": "Is not a §HField Marshall§!",
+        "translation": "不是§H陆军元帅§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_TAG_UNITLEADER:0",
+        "original": "Is $COUNTRYADJ$",
+        "translation": "属于$COUNTRYADJ$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_TAG_NOT_UNITLEADER:0",
+        "original": "Is not $COUNTRYADJ$",
+        "translation": "不属于$COUNTRYADJ$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COMPARE_LEVEL:0",
+        "original": "§HSkill level§!",
+        "translation": "§H技能等级§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_TYPE_COMPARISON_VALUE:0",
+        "original": "$TYPE$ $COMPARISON$ $VALUE|H$",
+        "translation": "$TYPE$ $COMPARISON$ $VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_DECISION:0",
+        "original": "Has not selected $DECISION$",
+        "translation": "没有选择$DECISION$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_DECISION:0",
+        "original": "Has selected $DECISION|H$",
+        "translation": "选择了$DECISION|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ACTIVE_MISSION:0",
+        "original": "$MISSION|H$ is not active",
+        "translation": "$MISSION|H$未生效",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ACTIVE_MISSION:0",
+        "original": "$MISSION|H$ is active",
+        "translation": "$MISSION|H$生效",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COMMAND_POWER:0",
+        "original": "§HCommand Power§!",
+        "translation": "§H指挥点数§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_COMMAND_POWER_DAILY:0",
+        "original": "§HCommand Power Daily§!",
+        "translation": "§H每日指挥点数§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_POLITICAL_POWER_DAILY:0",
+        "original": "§HPolitical Power Daily§!",
+        "translation": "§H每日政治点数§!",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_NOT_FULLY_CONTROLLED_BY:0",
+        "original": "Not fully controlled by $COUNTRY|H$",
+        "translation": "未被$COUNTRY|H$完全控制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FULLY_CONTROLLED_BY:0",
+        "original": "Fully controlled by $COUNTRY|H$",
+        "translation": "被$COUNTRY|H$完全控制",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ID:0",
+        "original": "Does not have ID: $ID|H$",
+        "translation": "没有ID：$ID|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ID:0",
+        "original": "Has ID: $ID|H$",
+        "translation": "拥有ID：$ID|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_EVENT_TARGET:0",
+        "original": "$NAME$ is set",
+        "translation": "$NAME$已赋值",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_EVENT_TARGET:0",
+        "original": "$NAME$ is not set",
+        "translation": "$NAME$未赋值",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_BORDER_WAR:0",
+        "original": "Has border war between $STATE1|H$ and $STATE2|H$",
+        "translation": "$STATE1|H$和$STATE2|H$间正在进行边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_BORDER_WAR:0",
+        "original": "Has not border war between $STATE1|H$ and $STATE2|H$",
+        "translation": "$STATE1|H$和$STATE2|H$间未在进行边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_BORDER_WAR:0",
+        "original": "Is border war",
+        "translation": "属于边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_BORDER_WAR:0",
+        "original": "Is not border war",
+        "translation": "不属于边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ANY_BORDER_WAR:0",
+        "original": "$NAME|H$ has any border war",
+        "translation": "$NAME|H$有边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ANY_BORDER_WAR:0",
+        "original": "$NAME|H$ does not have any border war",
+        "translation": "$NAME|H$没有边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_BORDER_WAR_WITH:0",
+        "original": "$NAME1|H$ has a border war with $NAME2|H$",
+        "translation": "$NAME1|H$和$NAME2|H$间正在进行边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_BORDER_WAR_WITH:0",
+        "original": "$NAME1|H$ does not have a border war with $NAME2|H$",
+        "translation": "$NAME1|H$和$NAME2|H$间未在进行边境战争",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN:0",
+        "original": "Average stats under $VALUE|H$",
+        "translation": "平均数据低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN:0",
+        "original": "Average stats over $VALUE|H$",
+        "translation": "平均数据高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_LEVEL_LESS_THAN:0",
+        "original": "Skill level under $VALUE|H$",
+        "translation": "技能等级低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_SKILL_LEVEL_MORE_THAN:0",
+        "original": "Skill level over $VALUE|H$",
+        "translation": "技能等级高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ATTACK_LEVEL_LESS_THAN:0",
+        "original": "Attack skill level under $VALUE|H$",
+        "translation": "进攻技能等级低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_ATTACK_LEVEL_MORE_THAN:0",
+        "original": "Attack skill level over $VALUE|H$",
+        "translation": "进攻技能等级高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DEFENSE_LEVEL_LESS_THAN:0",
+        "original": "Defense skill level under $VALUE|H$",
+        "translation": "防御技能等级低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_DEFENSE_LEVEL_MORE_THAN:0",
+        "original": "Defense skill level over $VALUE|H$",
+        "translation": "防御技能等级高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_PLANNING_LEVEL_LESS_THAN:0",
+        "original": "Planning skill level under $VALUE|H$",
+        "translation": "计划技能等级低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_PLANNING_LEVEL_MORE_THAN:0",
+        "original": "Planning skill level over $VALUE|H$",
+        "translation": "计划技能等级高于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LOGISTICS_LEVEL_LESS_THAN:0",
+        "original": "Logistics skill level under $VALUE|H$",
+        "translation": "后勤技能等级低于$VALUE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_LEADING_ARMY:0",
+        "original": "Is leading army",
+        "translation": "正在指挥军队",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_LEADING_ARMY:0",
+        "original": "Is not leading army",
+        "translation": "未在指挥军队",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_LEADING_ARMY_GROUP:0",
+        "original": "Is leading army group",
+        "translation": "正在指挥集团军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_LEADING_ARMY_GROUP:0",
+        "original": "Is not leading army group",
+        "translation": "未在指挥集团军",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ATTACHE:0",
+        "original": "Has no Attaches from other countries",
+        "translation": "没有其他国家的军事顾问",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ATTACHE:0",
+        "original": "Has Attache from another country",
+        "translation": "拥有其他国家的军事顾问",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_NOT_ATTACHE_FROM:0",
+        "original": "Does not have Attache from $COUNTRY|H$",
+        "translation": "没有来自$COUNTRY|H$的军事顾问",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_HAS_ATTACHE_FROM:0",
+        "original": "Has Attache from $COUNTRY|H$",
+        "translation": "有来自$COUNTRY|H$的军事顾问",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_AMPHIBIOUS_INVASION:0",
+        "original": "Is doing amphibious invasion: $VAL|H$",
+        "translation": "正在进行登陆作战：$VAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MORE_THAN_TEMPERATURE:0",
+        "original": "Temperature more than $NUM|H0$",
+        "translation": "温度高于$NUM|H0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_LESS_THAN_TEMPERATURE:0",
+        "original": "Temperature less than $NUM|H0$",
+        "translation": "温度低于$NUM|H0$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_FIGHTING_ON_TERRAIN:0",
+        "original": "Fighting on terrain: $TYPE|H$",
+        "translation": "在此地形作战：$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_CAPITAL:0",
+        "original": "Is a capital state",
+        "translation": "是首都省份",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_IS_NOT_CAPITAL:0",
+        "original": "Is not a capital state",
+        "translation": "非首都省份",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE:0",
+        "original": "manpower in deployment queue",
+        "translation": "部署队列中的人力",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STOCKPILE_RATIO_LESS_THAN:0",
+        "original": "Has less than $VALUE|%0Y$ of fielded $EQUIPMENT$ in stockpile.",
+        "translation": "已列装的$EQUIPMENT$的库存量低于$VALUE|%0Y$。",
+        "stage": 1
+    },
+    {
+        "key": "TRIGGER_STOCKPILE_MORE_THAN:0",
+        "original": "Has more than $VALUE|%0Y$ of fielded $EQUIPMENT$ in stockpile.",
+        "translation": "已列装的$EQUIPMENT$的库存量高于$VALUE|%0Y$。",
+        "stage": 1
+    }
+]

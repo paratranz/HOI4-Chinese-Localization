@@ -1,0 +1,68 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Władysław Sikorski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Ignacy Mościcki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Władysław Gomułka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Wincenty Witos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader####|name",
+        "original": "Bolesław Piasecki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Władysław Sikorski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Władysław Bortnowski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Stanisław Kopański",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Władysław Anders",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Roman Abraham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Wincenty Kowalski",
+        "translation": "",
+        "stage": 0
+    }
+]

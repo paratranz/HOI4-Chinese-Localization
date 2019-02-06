@@ -1,0 +1,669 @@
+BEL_INF_01 = {
+  name = "步兵师"  # Infantry Division
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "第%d步兵师"  # %dème Division d'Infanterie
+  ordered = {
+    1 = {
+      "%dère Division d'Infanterie"
+    }
+    2 = {
+      "%dème Division d'Infanterie"
+    }
+    3 = {
+      "%dème Division d'Infanterie"
+    }
+    4 = {
+      "%dème Division d'Infanterie"
+    }
+    5 = {
+      "%dème Division d'Infanterie"
+    }
+    6 = {
+      "%dème Division d'Infanterie"
+    }
+    101 = {
+      "1ère Div. de Chasseurs Ardennais"
+    }
+    102 = {
+      "2ème Div. de Chasseurs Ardennais"
+    }
+    7 = {
+      "%dème Division d'Infanterie"
+    }
+    8 = {
+      "%dème Division d'Infanterie"
+    }
+    9 = {
+      "%dème Division d'Infanterie"
+    }
+    10 = {
+      "%dème Division d'Infanterie"
+    }
+    11 = {
+      "%dème Division d'Infanterie"
+    }
+    12 = {
+      "%dème Division d'Infanterie"
+    }
+    13 = {
+      "%dème Division d'Infanterie"
+    }
+    14 = {
+      "%dème Division d'Infanterie"
+    }
+    15 = {
+      "%dème Division d'Infanterie"
+    }
+    16 = {
+      "%dème Division d'Infanterie"
+    }
+    17 = {
+      "%dème Division d'Infanterie"
+    }
+    18 = {
+      "%dème Division d'Infanterie"
+    }
+    103 = {
+      "3ème Div. de Chasseurs Ardennais"
+    }
+    104 = {
+      "4ème Div. de Chasseurs Ardennais"
+    }
+    105 = {
+      "5ème Div. de Chasseurs Ardennais"
+    }
+    19 = {
+      "%dème Division d'Infanterie"
+    }
+    20 = {
+      "%dème Division d'Infanterie"
+    }
+    21 = {
+      "%dème Division d'Infanterie"
+    }
+    22 = {
+      "%dème Division d'Infanterie"
+    }
+    23 = {
+      "%dème Division d'Infanterie"
+    }
+    24 = {
+      "%dème Division d'Infanterie"
+    }
+    25 = {
+      "%dème Division d'Infanterie"
+    }
+    26 = {
+      "%dème Division d'Infanterie"
+    }
+    27 = {
+      "%dème Division d'Infanterie"
+    }
+    28 = {
+      "%dème Division d'Infanterie"
+    }
+    106 = {
+      "6ème Div. de Chasseurs Ardennais"
+    }
+    107 = {
+      "7ème Div. de Chasseurs Ardennais"
+    }
+    29 = {
+      "%dème Division d'Infanterie"
+    }
+    30 = {
+      "%dème Division d'Infanterie"
+    }
+    31 = {
+      "%dème Division d'Infanterie"
+    }
+    32 = {
+      "%dème Division d'Infanterie"
+    }
+    33 = {
+      "%dème Division d'Infanterie"
+    }
+    34 = {
+      "%dème Division d'Infanterie"
+    }
+    35 = {
+      "%dème Division d'Infanterie"
+    }
+    36 = {
+      "%dème Division d'Infanterie"
+    }
+    108 = {
+      "8ème Div. de Chasseurs Ardennais"
+    }
+    109 = {
+      "9ème Div. de Chasseurs Ardennais"
+    }
+    37 = {
+      "%dème Division d'Infanterie"
+    }
+    38 = {
+      "%dème Division d'Infanterie"
+    }
+    39 = {
+      "%dème Division d'Infanterie"
+    }
+    40 = {
+      "%dème Division d'Infanterie"
+    }
+  }
+}
+BEL_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dème Division de Cavalerie"
+  ordered = {
+    1 = {
+      "%dère Division de Cavalerie"
+    }
+    2 = {
+      "%dème Division de Cavalerie"
+    }
+    3 = {
+      "%dème Division de Cavalerie"
+    }
+    4 = {
+      "%dème Division de Cavalerie"
+    }
+    5 = {
+      "%dème Division de Cavalerie"
+    }
+    6 = {
+      "%dème Division de Cavalerie"
+    }
+    7 = {
+      "%dème Division de Cavalerie"
+    }
+    8 = {
+      "%dème Division de Cavalerie"
+    }
+    9 = {
+      "%dème Division de Cavalerie"
+    }
+    10 = {
+      "%dème Division de Cavalerie"
+    }
+  }
+}
+BEL_MOT_01 = {
+  name = "Motorized Cavalry"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  fallback_name = "%dème Div. de Cavalerie Motorisée"
+  ordered = {
+    1 = {
+      "%dère Div. de Cavalerie Motorisée"
+    }
+    2 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    3 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    4 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    5 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    6 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    7 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    8 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    9 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+    10 = {
+      "%dème Div. de Cavalerie Motorisée"
+    }
+  }
+}
+BEL_MEC_01 = {
+  name = "Mechanized Cavalry"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    BEL_MOT_01
+  }
+  fallback_name = "%dème Div. de Cavalerie Mécanisée"
+  ordered = {
+    1 = {
+      "%dère Div. de Cavalerie Mécanisée"
+    }
+    2 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    3 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    4 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    5 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    6 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    7 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    8 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    9 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+    10 = {
+      "%dème Div. de Cavalerie Mécanisée"
+    }
+  }
+}
+BEL_ARM_01 = {
+  name = "Tank Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dème Division de Chars"
+  ordered = {
+    1 = {
+      "%dère Division de Chars"
+    }
+    2 = {
+      "%dème Division de Chars"
+    }
+    3 = {
+      "%dème Division de Chars"
+    }
+    4 = {
+      "%dème Division de Chars"
+    }
+    5 = {
+      "%dème Division de Chars"
+    }
+    6 = {
+      "%dème Division de Chars"
+    }
+    7 = {
+      "%dème Division de Chars"
+    }
+    8 = {
+      "%dème Division de Chars"
+    }
+    9 = {
+      "%dème Division de Chars"
+    }
+    10 = {
+      "%dème Division de Chars"
+    }
+  }
+}
+BEL_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dème Division de Paracommando"
+  ordered = {
+    1 = {
+      "%dère Division de Paracommando"
+    }
+    2 = {
+      "%dème Division de Paracommando"
+    }
+    3 = {
+      "%dème Division de Paracommando"
+    }
+    4 = {
+      "%dème Division de Paracommando"
+    }
+    5 = {
+      "%dème Division de Paracommando"
+    }
+    6 = {
+      "%dème Division de Paracommando"
+    }
+    7 = {
+      "%dème Division de Paracommando"
+    }
+    8 = {
+      "%dème Division de Paracommando"
+    }
+    9 = {
+      "%dème Division de Paracommando"
+    }
+    10 = {
+      "%dème Division de Paracommando"
+    }
+  }
+}
+BEL_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dème Div. d'Infanterie de Marine"
+  ordered = {
+    1 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    2 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    3 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    4 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    5 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    6 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    7 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    8 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    9 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+    10 = {
+      "%dème Div. d'Infanterie de Marine"
+    }
+  }
+}
+BEL_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    BEL_INF_01
+  }
+  fallback_name = "%dème Division d'Infanterie"
+  ordered = {
+    101 = {
+      "1ère Div. de Chasseurs Ardennais"
+    }
+    102 = {
+      "2ème Div. de Chasseurs Ardennais"
+    }
+    103 = {
+      "3ème Div. de Chasseurs Ardennais"
+    }
+    104 = {
+      "4ème Div. de Chasseurs Ardennais"
+    }
+    105 = {
+      "5ème Div. de Chasseurs Ardennais"
+    }
+    106 = {
+      "6ème Div. de Chasseurs Ardennais"
+    }
+    107 = {
+      "7ème Div. de Chasseurs Ardennais"
+    }
+    108 = {
+      "8ème Div. de Chasseurs Ardennais"
+    }
+    109 = {
+      "9ème Div. de Chasseurs Ardennais"
+    }
+    1 = {
+      "%dère Division d'Infanterie"
+    }
+    2 = {
+      "%dème Division d'Infanterie"
+    }
+    3 = {
+      "%dème Division d'Infanterie"
+    }
+    4 = {
+      "%dème Division d'Infanterie"
+    }
+    5 = {
+      "%dème Division d'Infanterie"
+    }
+    6 = {
+      "%dème Division d'Infanterie"
+    }
+    7 = {
+      "%dème Division d'Infanterie"
+    }
+    8 = {
+      "%dème Division d'Infanterie"
+    }
+    9 = {
+      "%dème Division d'Infanterie"
+    }
+    10 = {
+      "%dème Division d'Infanterie"
+    }
+    11 = {
+      "%dème Division d'Infanterie"
+    }
+    12 = {
+      "%dème Division d'Infanterie"
+    }
+    13 = {
+      "%dème Division d'Infanterie"
+    }
+    14 = {
+      "%dème Division d'Infanterie"
+    }
+    15 = {
+      "%dème Division d'Infanterie"
+    }
+    16 = {
+      "%dème Division d'Infanterie"
+    }
+    17 = {
+      "%dème Division d'Infanterie"
+    }
+    18 = {
+      "%dème Division d'Infanterie"
+    }
+    19 = {
+      "%dème Division d'Infanterie"
+    }
+    20 = {
+      "%dème Division d'Infanterie"
+    }
+    21 = {
+      "%dème Division d'Infanterie"
+    }
+    22 = {
+      "%dème Division d'Infanterie"
+    }
+    23 = {
+      "%dème Division d'Infanterie"
+    }
+    24 = {
+      "%dème Division d'Infanterie"
+    }
+    25 = {
+      "%dème Division d'Infanterie"
+    }
+    26 = {
+      "%dème Division d'Infanterie"
+    }
+    27 = {
+      "%dème Division d'Infanterie"
+    }
+    28 = {
+      "%dème Division d'Infanterie"
+    }
+    29 = {
+      "%dème Division d'Infanterie"
+    }
+    30 = {
+      "%dème Division d'Infanterie"
+    }
+    31 = {
+      "%dème Division d'Infanterie"
+    }
+    32 = {
+      "%dème Division d'Infanterie"
+    }
+    33 = {
+      "%dème Division d'Infanterie"
+    }
+    34 = {
+      "%dème Division d'Infanterie"
+    }
+    35 = {
+      "%dème Division d'Infanterie"
+    }
+    36 = {
+      "%dème Division d'Infanterie"
+    }
+  }
+}
+BEL_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    BEL
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    BEL_INF_01
+  }
+  fallback_name = "%dème Division Statique"
+  ordered = {
+    1 = {
+      "%dème Division Statique"
+    }
+    2 = {
+      "%dème Division Statique"
+    }
+    3 = {
+      "%dème Division Statique"
+    }
+    4 = {
+      "%dème Division Statique"
+    }
+    5 = {
+      "%dème Division Statique"
+    }
+    6 = {
+      "%dème Division Statique"
+    }
+    7 = {
+      "%dème Division Statique"
+    }
+    8 = {
+      "%dème Division Statique"
+    }
+    9 = {
+      "%dème Division Statique"
+    }
+    10 = {
+      "%dème Division Statique"
+    }
+    11 = {
+      "%dème Division Statique"
+    }
+    12 = {
+      "%dème Division Statique"
+    }
+    13 = {
+      "%dème Division Statique"
+    }
+    14 = {
+      "%dème Division Statique"
+    }
+    15 = {
+      "%dème Division Statique"
+    }
+    16 = {
+      "%dème Division Statique"
+    }
+    17 = {
+      "%dème Division Statique"
+    }
+    18 = {
+      "%dème Division Statique"
+    }
+    19 = {
+      "%dème Division Statique"
+    }
+    20 = {
+      "%dème Division Statique"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "John Curtin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Eric Campbell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Richard Dixon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Earle Page",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader####|name",
+        "original": "Rod Hull",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Leslie Morshead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Thomas Blamey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Henry Wynter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Alan Vasey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Horace Robertson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "John Northcott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Harold Farncomb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Victor Crutchley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Sydney Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Canberra Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant|name",
+        "original": "Arunta Class",
+        "translation": "",
+        "stage": 0
+    }
+]

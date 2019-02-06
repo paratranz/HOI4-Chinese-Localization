@@ -1,0 +1,38 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Aisin Gioro Puyi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Aisin Gioro Puyi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Zhang Haipeng",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Zhang Jinghui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Aisin Gioro Xiqia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Yoshiko Kawashima",
+        "translation": "",
+        "stage": 0
+    }
+]

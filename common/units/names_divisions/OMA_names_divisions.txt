@@ -1,0 +1,576 @@
+OMA_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alquwwat Almusallahat Alssultan"
+    }
+    2 = {
+      "Omani al-Mushati al-%di"
+    }
+    3 = {
+      "Omani al-Mushati al-%di"
+    }
+    4 = {
+      "Omani al-Mushati al-%di"
+    }
+    5 = {
+      "Omani al-Mushati al-%di"
+    }
+    6 = {
+      "Omani al-Mushati al-%di"
+    }
+    7 = {
+      "Omani al-Mushati al-%di"
+    }
+    8 = {
+      "Omani al-Mushati al-%di"
+    }
+    9 = {
+      "Omani al-Mushati al-%di"
+    }
+    10 = {
+      "Omani al-Mushati al-%di"
+    }
+    12 = {
+      "Omani al-Mushati al-%dr"
+    }
+    13 = {
+      "Omani al-Mushati al-%dr"
+    }
+    14 = {
+      "Omani al-Mushati al-%dr"
+    }
+    15 = {
+      "Omani al-Mushati al-%dr"
+    }
+    16 = {
+      "Omani al-Mushati al-%dr"
+    }
+    17 = {
+      "Omani al-Mushati al-%dr"
+    }
+    18 = {
+      "Omani al-Mushati al-%dr"
+    }
+    19 = {
+      "Omani al-Mushati al-%dr"
+    }
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "Omani Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Omani Sipahis al-%di"
+    }
+    2 = {
+      "Omani Sipahis al-%di"
+    }
+    3 = {
+      "Omani Sipahis al-%di"
+    }
+    4 = {
+      "Omani Sipahis al-%di"
+    }
+    5 = {
+      "Omani Sipahis al-%di"
+    }
+    6 = {
+      "Omani Sipahis al-%di"
+    }
+    7 = {
+      "Omani Sipahis al-%di"
+    }
+    8 = {
+      "Omani Sipahis al-%di"
+    }
+    9 = {
+      "Omani Sipahis al-%di"
+    }
+    10 = {
+      "Omani Sipahis al-%di"
+    }
+    11 = {
+      "Omani Sipahis al-%dr"
+    }
+    12 = {
+      "Omani Sipahis al-%dr"
+    }
+    13 = {
+      "Omani Sipahis al-%dr"
+    }
+    14 = {
+      "Omani Sipahis al-%dr"
+    }
+    15 = {
+      "Omani Sipahis al-%dr"
+    }
+  }
+}
+OMA_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alquwwat Almusallahat Alssultan"
+    }
+    2 = {
+      "Omani al-Mushati al-%di"
+    }
+    3 = {
+      "Omani al-Mushati al-%di"
+    }
+    4 = {
+      "Omani al-Mushati al-%di"
+    }
+    5 = {
+      "Omani al-Mushati al-%di"
+    }
+    6 = {
+      "Omani al-Mushati al-%di"
+    }
+    7 = {
+      "Omani al-Mushati al-%di"
+    }
+    8 = {
+      "Omani al-Mushati al-%di"
+    }
+    9 = {
+      "Omani al-Mushati al-%di"
+    }
+    10 = {
+      "Omani al-Mushati al-%di"
+    }
+    12 = {
+      "Omani al-Mushati al-%dr"
+    }
+    13 = {
+      "Omani al-Mushati al-%dr"
+    }
+    14 = {
+      "Omani al-Mushati al-%dr"
+    }
+    15 = {
+      "Omani al-Mushati al-%dr"
+    }
+    16 = {
+      "Omani al-Mushati al-%dr"
+    }
+    17 = {
+      "Omani al-Mushati al-%dr"
+    }
+    18 = {
+      "Omani al-Mushati al-%dr"
+    }
+    19 = {
+      "Omani al-Mushati al-%dr"
+    }
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_ARM_01 = {
+  name = "Armoured Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    OMA_CAV_01
+  }
+  fallback_name = "Omani Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Omani Sipahis al-%di"
+    }
+    2 = {
+      "Omani Sipahis al-%di"
+    }
+    3 = {
+      "Omani Sipahis al-%di"
+    }
+    4 = {
+      "Omani Sipahis al-%di"
+    }
+    5 = {
+      "Omani Sipahis al-%di"
+    }
+    6 = {
+      "Omani Sipahis al-%di"
+    }
+    7 = {
+      "Omani Sipahis al-%di"
+    }
+    8 = {
+      "Omani Sipahis al-%di"
+    }
+    9 = {
+      "Omani Sipahis al-%di"
+    }
+    10 = {
+      "Omani Sipahis al-%di"
+    }
+    11 = {
+      "Omani Sipahis al-%dr"
+    }
+    12 = {
+      "Omani Sipahis al-%dr"
+    }
+    13 = {
+      "Omani Sipahis al-%dr"
+    }
+    14 = {
+      "Omani Sipahis al-%dr"
+    }
+    15 = {
+      "Omani Sipahis al-%dr"
+    }
+  }
+}
+OMA_MEC_01 = {
+  name = "Mechanised Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alquwwat Almusallahat Alssultan"
+    }
+    2 = {
+      "Omani al-Mushati al-%di"
+    }
+    3 = {
+      "Omani al-Mushati al-%di"
+    }
+    4 = {
+      "Omani al-Mushati al-%di"
+    }
+    5 = {
+      "Omani al-Mushati al-%di"
+    }
+    6 = {
+      "Omani al-Mushati al-%di"
+    }
+    7 = {
+      "Omani al-Mushati al-%di"
+    }
+    8 = {
+      "Omani al-Mushati al-%di"
+    }
+    9 = {
+      "Omani al-Mushati al-%di"
+    }
+    10 = {
+      "Omani al-Mushati al-%di"
+    }
+    12 = {
+      "Omani al-Mushati al-%dr"
+    }
+    13 = {
+      "Omani al-Mushati al-%dr"
+    }
+    14 = {
+      "Omani al-Mushati al-%dr"
+    }
+    15 = {
+      "Omani al-Mushati al-%dr"
+    }
+    16 = {
+      "Omani al-Mushati al-%dr"
+    }
+    17 = {
+      "Omani al-Mushati al-%dr"
+    }
+    18 = {
+      "Omani al-Mushati al-%dr"
+    }
+    19 = {
+      "Omani al-Mushati al-%dr"
+    }
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "Alquwwat Almusallahat Alssultan"
+    }
+    2 = {
+      "Omani al-Mushati al-%di"
+    }
+    3 = {
+      "Omani al-Mushati al-%di"
+    }
+    4 = {
+      "Omani al-Mushati al-%di"
+    }
+    5 = {
+      "Omani al-Mushati al-%di"
+    }
+    6 = {
+      "Omani al-Mushati al-%di"
+    }
+    7 = {
+      "Omani al-Mushati al-%di"
+    }
+    8 = {
+      "Omani al-Mushati al-%di"
+    }
+    9 = {
+      "Omani al-Mushati al-%di"
+    }
+    10 = {
+      "Omani al-Mushati al-%di"
+    }
+    12 = {
+      "Omani al-Mushati al-%dr"
+    }
+    13 = {
+      "Omani al-Mushati al-%dr"
+    }
+    14 = {
+      "Omani al-Mushati al-%dr"
+    }
+    15 = {
+      "Omani al-Mushati al-%dr"
+    }
+    16 = {
+      "Omani al-Mushati al-%dr"
+    }
+    17 = {
+      "Omani al-Mushati al-%dr"
+    }
+    18 = {
+      "Omani al-Mushati al-%dr"
+    }
+    19 = {
+      "Omani al-Mushati al-%dr"
+    }
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+    21 = {
+      "Omani al-Mushati al-%dr"
+    }
+    22 = {
+      "Omani al-Mushati al-%dr"
+    }
+    23 = {
+      "Omani al-Mushati al-%dr"
+    }
+    24 = {
+      "Omani al-Mushati al-%dr"
+    }
+    25 = {
+      "Omani al-Mushati al-%dr"
+    }
+    26 = {
+      "Omani al-Mushati al-%dr"
+    }
+    27 = {
+      "Omani al-Mushati al-%dr"
+    }
+    28 = {
+      "Omani al-Mushati al-%dr"
+    }
+    29 = {
+      "Omani al-Mushati al-%dr"
+    }
+    30 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+    21 = {
+      "Omani al-Mushati al-%dr"
+    }
+    22 = {
+      "Omani al-Mushati al-%dr"
+    }
+    23 = {
+      "Omani al-Mushati al-%dr"
+    }
+    24 = {
+      "Omani al-Mushati al-%dr"
+    }
+    25 = {
+      "Omani al-Mushati al-%dr"
+    }
+    26 = {
+      "Omani al-Mushati al-%dr"
+    }
+    27 = {
+      "Omani al-Mushati al-%dr"
+    }
+    28 = {
+      "Omani al-Mushati al-%dr"
+    }
+    29 = {
+      "Omani al-Mushati al-%dr"
+    }
+    30 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}
+OMA_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    OMA
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  link_numbering_with = {
+    OMA_INF_01
+  }
+  fallback_name = "Omani al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "Omani al-Mushati al-%dr"
+    }
+    21 = {
+      "Omani al-Mushati al-%dr"
+    }
+    22 = {
+      "Omani al-Mushati al-%dr"
+    }
+    23 = {
+      "Omani al-Mushati al-%dr"
+    }
+    24 = {
+      "Omani al-Mushati al-%dr"
+    }
+    25 = {
+      "Omani al-Mushati al-%dr"
+    }
+    26 = {
+      "Omani al-Mushati al-%dr"
+    }
+    27 = {
+      "Omani al-Mushati al-%dr"
+    }
+    28 = {
+      "Omani al-Mushati al-%dr"
+    }
+    29 = {
+      "Omani al-Mushati al-%dr"
+    }
+    30 = {
+      "Omani al-Mushati al-%dr"
+    }
+  }
+}

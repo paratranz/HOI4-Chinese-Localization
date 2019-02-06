@@ -1,0 +1,4574 @@
+[
+    {
+        "key": "STATE_1:0",
+        "original": "Corsica",
+        "translation": "科西嘉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_2:0",
+        "original": "Latium",
+        "translation": "拉丁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_3:0",
+        "original": "Switzerland",
+        "translation": "瑞士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_4:0",
+        "original": "Lower Austria",
+        "translation": "下奥地利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_5:0",
+        "original": "Ostpreussen",
+        "translation": "东普鲁士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_6:0",
+        "original": "Vlaanderen",
+        "translation": "佛兰德斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_7:0",
+        "original": "Holland",
+        "translation": "荷兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_8:0",
+        "original": "Luxemburg",
+        "translation": "卢森堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_9:0",
+        "original": "Bohemia",
+        "translation": "波希米亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_10:0",
+        "original": "Warszawa",
+        "translation": "华沙",
+        "stage": 1
+    },
+    {
+        "key": "STATE_11:0",
+        "original": "Kaunas",
+        "translation": "考纳斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_12:0",
+        "original": "Vidzeme",
+        "translation": "维泽梅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_13:0",
+        "original": "Harju",
+        "translation": "哈留",
+        "stage": 1
+    },
+    {
+        "key": "STATE_14:0",
+        "original": "Brittany",
+        "translation": "布列塔尼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_15:0",
+        "original": "Normandy",
+        "translation": "诺曼底",
+        "stage": 1
+    },
+    {
+        "key": "STATE_16:0",
+        "original": "Ile de France",
+        "translation": "法兰西岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_17:1",
+        "original": "Franche-Comte",
+        "translation": "弗朗什-孔泰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_18:0",
+        "original": "Champagne",
+        "translation": "香槟",
+        "stage": 1
+    },
+    {
+        "key": "STATE_19:0",
+        "original": "Aquitaine",
+        "translation": "阿基坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_20:0",
+        "original": "Rhone",
+        "translation": "罗纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_21:0",
+        "original": "Provence",
+        "translation": "普罗旺斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_22:0",
+        "original": "Languedoc",
+        "translation": "朗格多克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_23:0",
+        "original": "Poitou",
+        "translation": "普瓦图",
+        "stage": 1
+    },
+    {
+        "key": "STATE_24:0",
+        "original": "Centre",
+        "translation": "中央",
+        "stage": 1
+    },
+    {
+        "key": "STATE_25:0",
+        "original": "Limousin",
+        "translation": "利穆赞",
+        "stage": 1
+    },
+    {
+        "key": "STATE_26:0",
+        "original": "Auvergne",
+        "translation": "奥佛涅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_27:0",
+        "original": "Bourgogne",
+        "translation": "勃艮第",
+        "stage": 1
+    },
+    {
+        "key": "STATE_28:1",
+        "original": "Alsace-Lorraine",
+        "translation": "阿尔萨斯-洛林",
+        "stage": 1
+    },
+    {
+        "key": "STATE_29:0",
+        "original": "Pas de Calais",
+        "translation": "加莱海峡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_30:0",
+        "original": "Loire",
+        "translation": "卢瓦尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_31:0",
+        "original": "Midi Pyrenees",
+        "translation": "南部-比利牛斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_32:0",
+        "original": "Alpes",
+        "translation": "阿尔卑斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_33:0",
+        "original": "Centre-Sud",
+        "translation": "中南部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_34:0",
+        "original": "Wallonie",
+        "translation": "瓦隆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_35:0",
+        "original": "Brabant",
+        "translation": "布拉班特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_36:0",
+        "original": "Friesland",
+        "translation": "弗里斯兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_37:0",
+        "original": "Sjaelland",
+        "translation": "西兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_38:0",
+        "original": "Norrland",
+        "translation": "诺尔兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_39:0",
+        "original": "South Tyrol",
+        "translation": "南蒂罗尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_40:0",
+        "original": "Barnaul",
+        "translation": "巴尔瑙尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_41:0",
+        "original": "Madrid",
+        "translation": "马德里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_42:0",
+        "original": "Moselland",
+        "translation": "摩泽兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_43:0",
+        "original": "Northern Hungary",
+        "translation": "北匈牙利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_44:0",
+        "original": "Albania",
+        "translation": "阿尔巴尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_45:0",
+        "original": "Vojvodina",
+        "translation": "伏伊伏丁那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_46:0",
+        "original": "Muntenia",
+        "translation": "蒙特尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_47:0",
+        "original": "Thessaly",
+        "translation": "塞萨利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_48:0",
+        "original": "Sofia",
+        "translation": "索菲亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_49:0",
+        "original": "Ankara",
+        "translation": "安卡拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_50:0",
+        "original": "Württemberg",
+        "translation": "符腾堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_51:0",
+        "original": "Rhineland",
+        "translation": "莱茵兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_52:0",
+        "original": "Oberbayern",
+        "translation": "上巴伐利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_53:0",
+        "original": "Niederbayern",
+        "translation": "下巴伐利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_54:0",
+        "original": "Franken",
+        "translation": "弗兰肯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_55:0",
+        "original": "Hessen",
+        "translation": "黑森",
+        "stage": 1
+    },
+    {
+        "key": "STATE_56:0",
+        "original": "Weser-Ems",
+        "translation": "威悉-埃姆斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_57:0",
+        "original": "Westfalen",
+        "translation": "威斯特法伦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_58:0",
+        "original": "Schleswig-Holstein",
+        "translation": "石勒苏益格-荷尔斯泰因",
+        "stage": 1
+    },
+    {
+        "key": "STATE_59:0",
+        "original": "Hannover",
+        "translation": "汉诺威",
+        "stage": 1
+    },
+    {
+        "key": "STATE_60:0",
+        "original": "Thüringen",
+        "translation": "图林根",
+        "stage": 1
+    },
+    {
+        "key": "STATE_61:0",
+        "original": "Mecklenburg",
+        "translation": "梅克伦堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_62:0",
+        "original": "Pommern",
+        "translation": "波美拉尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_63:0",
+        "original": "Hinterpommern",
+        "translation": "后波美拉尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_64:0",
+        "original": "Brandenburg",
+        "translation": "勃兰登堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_65:0",
+        "original": "Sachsen",
+        "translation": "萨克森",
+        "stage": 1
+    },
+    {
+        "key": "STATE_66:0",
+        "original": "Niederschlesien",
+        "translation": "下西里西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_67:0",
+        "original": "Oberschlesien",
+        "translation": "上西里西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_68:0",
+        "original": "Ostmark",
+        "translation": "东勃兰登堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_69:0",
+        "original": "Sudetenland",
+        "translation": "苏台德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_70:0",
+        "original": "Western Slovakia",
+        "translation": "西斯洛伐克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_71:0",
+        "original": "Eastern Slovakia",
+        "translation": "东斯洛伐克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_72:0",
+        "original": "Zaolzie",
+        "translation": "外奥尔扎",
+        "stage": 1
+    },
+    {
+        "key": "STATE_73:0",
+        "original": "Carpathian Ruthenia",
+        "translation": "喀尔巴阡鲁塞尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_74:0",
+        "original": "Eastern Sudetenland",
+        "translation": "东苏台德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_75:0",
+        "original": "Moravia",
+        "translation": "摩拉维亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_76:0",
+        "original": "North Transylvania",
+        "translation": "北特兰西瓦尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_77:0",
+        "original": "Dobrudja",
+        "translation": "多布罗加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_78:0",
+        "original": "Bessarabia",
+        "translation": "比萨拉比亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_79:0",
+        "original": "Moldova",
+        "translation": "摩尔多瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_80:0",
+        "original": "Bucovina",
+        "translation": "布科维纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_81:0",
+        "original": "Oltenia",
+        "translation": "奥尔特尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_82:0",
+        "original": "Banat",
+        "translation": "巴纳特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_83:0",
+        "original": "Crisana",
+        "translation": "克里沙那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_84:0",
+        "original": "Transylvania",
+        "translation": "特兰西瓦尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_85:0",
+        "original": "Danzig",
+        "translation": "但泽",
+        "stage": 1
+    },
+    {
+        "key": "STATE_86:0",
+        "original": "Poznan",
+        "translation": "波兹南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_87:0",
+        "original": "Lodz",
+        "translation": "罗兹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_88:0",
+        "original": "Krakow",
+        "translation": "克拉科夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_89:0",
+        "original": "Stanislawow",
+        "translation": "斯坦尼斯拉沃夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_90:0",
+        "original": "Kielce",
+        "translation": "凯尔采",
+        "stage": 1
+    },
+    {
+        "key": "STATE_91:0",
+        "original": "Lwow",
+        "translation": "利沃夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_92:0",
+        "original": "Lublin",
+        "translation": "卢布林",
+        "stage": 1
+    },
+    {
+        "key": "STATE_93:0",
+        "original": "Wolyn",
+        "translation": "沃伦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_94:0",
+        "original": "Polesie",
+        "translation": "波莱谢",
+        "stage": 1
+    },
+    {
+        "key": "STATE_95:0",
+        "original": "Nowogrodek",
+        "translation": "新格鲁多克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_96:0",
+        "original": "Wilno",
+        "translation": "维尔诺",
+        "stage": 1
+    },
+    {
+        "key": "STATE_97:0",
+        "original": "Bialystok",
+        "translation": "比亚韦斯托克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_98:0",
+        "original": "Plock",
+        "translation": "普沃茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_99:0",
+        "original": "Jutland",
+        "translation": "日德兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_100:0",
+        "original": "Iceland",
+        "translation": "冰岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_101:0",
+        "original": "Greenland",
+        "translation": "格陵兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_102:0",
+        "original": "Slovenia",
+        "translation": "斯洛文尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_103:0",
+        "original": "Dalmatia",
+        "translation": "达尔马提亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_104:0",
+        "original": "Bosnia",
+        "translation": "波斯尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_105:0",
+        "original": "Montenegro",
+        "translation": "黑山",
+        "stage": 1
+    },
+    {
+        "key": "STATE_106:0",
+        "original": "Macedonia",
+        "translation": "马其顿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_107:0",
+        "original": "Serbia",
+        "translation": "塞尔维亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_108:0",
+        "original": "Morava",
+        "translation": "摩拉瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_109:0",
+        "original": "Croatia",
+        "translation": "克罗地亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_110:0",
+        "original": "Ostlandet",
+        "translation": "东挪威",
+        "stage": 1
+    },
+    {
+        "key": "STATE_111:0",
+        "original": "Uusimaa",
+        "translation": "新地",
+        "stage": 1
+    },
+    {
+        "key": "STATE_112:0",
+        "original": "Lisbon",
+        "translation": "里斯本",
+        "stage": 1
+    },
+    {
+        "key": "STATE_113:0",
+        "original": "Leinster",
+        "translation": "伦斯特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_114:0",
+        "original": "Sardinia",
+        "translation": "萨丁尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_115:0",
+        "original": "Sicily",
+        "translation": "西西里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_116:0",
+        "original": "Malta",
+        "translation": "马耳他",
+        "stage": 1
+    },
+    {
+        "key": "STATE_117:0",
+        "original": "Campania",
+        "translation": "坎帕尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_118:0",
+        "original": "Gibraltar",
+        "translation": "直布罗陀",
+        "stage": 1
+    },
+    {
+        "key": "STATE_119:0",
+        "original": "Northern Ireland",
+        "translation": "北爱尔兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_120:0",
+        "original": "Scottish Highlands",
+        "translation": "苏格兰高地",
+        "stage": 1
+    },
+    {
+        "key": "STATE_121:0",
+        "original": "Lothian",
+        "translation": "洛锡安",
+        "stage": 1
+    },
+    {
+        "key": "STATE_122:0",
+        "original": "Wales",
+        "translation": "威尔士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_123:0",
+        "original": "Cornwall",
+        "translation": "康沃尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_124:0",
+        "original": "Gotland",
+        "translation": "哥特兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_125:0",
+        "original": "East Anglia",
+        "translation": "东盎格利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_126:0",
+        "original": "Greater London Area",
+        "translation": "大伦敦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_127:0",
+        "original": "Sussex",
+        "translation": "萨塞克斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_128:0",
+        "original": "West Midlands",
+        "translation": "西米德兰兹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_129:0",
+        "original": "East Midlands",
+        "translation": "东米德兰兹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_130:0",
+        "original": "Yorkshire",
+        "translation": "约克郡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_131:0",
+        "original": "Northern England",
+        "translation": "北英格兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_132:0",
+        "original": "Lancashire",
+        "translation": "兰开夏郡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_133:0",
+        "original": "Lanark",
+        "translation": "拉纳克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_134:0",
+        "original": "Connaught",
+        "translation": "康诺特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_135:0",
+        "original": "Munster",
+        "translation": "芒斯特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_136:0",
+        "original": "Aberdeenshire",
+        "translation": "阿伯丁郡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_137:0",
+        "original": "Crimea",
+        "translation": "克里米亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_138:0",
+        "original": "Scania",
+        "translation": "斯堪尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_139:0",
+        "original": "Småland",
+        "translation": "斯莫兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_140:0",
+        "original": "Västergötland",
+        "translation": "西约特兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_141:0",
+        "original": "Svealand",
+        "translation": "斯韦阿兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_142:0",
+        "original": "Vestlandet",
+        "translation": "西挪威",
+        "stage": 1
+    },
+    {
+        "key": "STATE_143:0",
+        "original": "Trondelag",
+        "translation": "特伦德拉格",
+        "stage": 1
+    },
+    {
+        "key": "STATE_144:0",
+        "original": "Nord-Norge",
+        "translation": "北挪威",
+        "stage": 1
+    },
+    {
+        "key": "STATE_145:0",
+        "original": "Aland",
+        "translation": "奥兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_146:0",
+        "original": "Karjala",
+        "translation": "卡累利阿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_147:0",
+        "original": "Salla",
+        "translation": "萨拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_148:0",
+        "original": "Lappi",
+        "translation": "拉皮",
+        "stage": 1
+    },
+    {
+        "key": "STATE_149:0",
+        "original": "Pohjanmaa",
+        "translation": "博滕",
+        "stage": 1
+    },
+    {
+        "key": "STATE_150:0",
+        "original": "Savo",
+        "translation": "萨沃",
+        "stage": 1
+    },
+    {
+        "key": "STATE_151:0",
+        "original": "Eastern Switzerland",
+        "translation": "东瑞士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_152:0",
+        "original": "Upper Austria",
+        "translation": "上奥地利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_153:0",
+        "original": "Tyrol",
+        "translation": "蒂罗尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_154:0",
+        "original": "Alföld",
+        "translation": "匈牙利大平原",
+        "stage": 1
+    },
+    {
+        "key": "STATE_155:0",
+        "original": "Transdanubia",
+        "translation": "外多瑙河",
+        "stage": 1
+    },
+    {
+        "key": "STATE_156:0",
+        "original": "Calabria",
+        "translation": "卡拉布里亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_157:0",
+        "original": "Abruzzo",
+        "translation": "阿布鲁佐",
+        "stage": 1
+    },
+    {
+        "key": "STATE_158:0",
+        "original": "Piedmont",
+        "translation": "皮埃蒙特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_159:0",
+        "original": "Lombardy",
+        "translation": "伦巴第",
+        "stage": 1
+    },
+    {
+        "key": "STATE_160:0",
+        "original": "Veneto",
+        "translation": "威尼托",
+        "stage": 1
+    },
+    {
+        "key": "STATE_161:0",
+        "original": "Emilia Romagna",
+        "translation": "艾米利亚-罗马涅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_162:0",
+        "original": "Tuscany",
+        "translation": "托斯卡纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_163:0",
+        "original": "Zara",
+        "translation": "扎拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_164:0",
+        "original": "Dodecanese",
+        "translation": "十二群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_165:0",
+        "original": "Catalonia",
+        "translation": "加泰罗尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_166:0",
+        "original": "Aragon",
+        "translation": "阿拉贡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_167:0",
+        "original": "Valencia",
+        "translation": "巴伦西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_168:0",
+        "original": "Murcia",
+        "translation": "穆尔西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_169:0",
+        "original": "Andalusia",
+        "translation": "安达卢西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_170:0",
+        "original": "Extremadura",
+        "translation": "埃斯特雷马杜拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_171:0",
+        "original": "Galicia",
+        "translation": "加利西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_172:0",
+        "original": "Navarre",
+        "translation": "纳瓦拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_173:0",
+        "original": "Granada",
+        "translation": "格兰纳达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_174:0",
+        "original": "Leon",
+        "translation": "莱昂",
+        "stage": 1
+    },
+    {
+        "key": "STATE_175:0",
+        "original": "La Mancha",
+        "translation": "拉曼查",
+        "stage": 1
+    },
+    {
+        "key": "STATE_176:0",
+        "original": "Castille",
+        "translation": "卡斯提尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_177:0",
+        "original": "Balearic Islands",
+        "translation": "巴利阿里群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_178:0",
+        "original": "Canary islands",
+        "translation": "加那利群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_179:0",
+        "original": "Beja",
+        "translation": "贝雅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_180:0",
+        "original": "Porto",
+        "translation": "波尔图",
+        "stage": 1
+    },
+    {
+        "key": "STATE_181:0",
+        "original": "Guarda",
+        "translation": "瓜达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_182:0",
+        "original": "Crete",
+        "translation": "克里特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_183:0",
+        "original": "Cyprus",
+        "translation": "塞浦路斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_184:0",
+        "original": "Thrace",
+        "translation": "色雷斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_185:0",
+        "original": "Epirus",
+        "translation": "伊庇鲁斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_186:0",
+        "original": "Peloponnese",
+        "translation": "伯罗奔尼撒",
+        "stage": 1
+    },
+    {
+        "key": "STATE_187:0",
+        "original": "Aegean Islands",
+        "translation": "爱琴群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_188:0",
+        "original": "Memel",
+        "translation": "梅梅尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_189:1",
+        "original": "Siauliai",
+        "translation": "希奥利艾",
+        "stage": 1
+    },
+    {
+        "key": "STATE_190:0",
+        "original": "Kurzeme",
+        "translation": "库尔泽梅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_191:0",
+        "original": "Tartu",
+        "translation": "塔尔图",
+        "stage": 1
+    },
+    {
+        "key": "STATE_192:0",
+        "original": "Odessa",
+        "translation": "敖德萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_193:0",
+        "original": "Chernihiv",
+        "translation": "切尔尼戈夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_194:0",
+        "original": "Mozyr",
+        "translation": "莫济里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_195:0",
+        "original": "Leningrad",
+        "translation": "列宁格勒",
+        "stage": 1
+    },
+    {
+        "key": "STATE_196:0",
+        "original": "Kherson",
+        "translation": "赫尔松",
+        "stage": 1
+    },
+    {
+        "key": "STATE_197:0",
+        "original": "Mykolaiv",
+        "translation": "尼古拉耶夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_198:0",
+        "original": "Vinnytsia",
+        "translation": "文尼察",
+        "stage": 1
+    },
+    {
+        "key": "STATE_199:0",
+        "original": "Khmelnytskyi",
+        "translation": "赫梅利尼茨基",
+        "stage": 1
+    },
+    {
+        "key": "STATE_200:0",
+        "original": "Zaporozhe",
+        "translation": "扎波罗热",
+        "stage": 1
+    },
+    {
+        "key": "STATE_201:0",
+        "original": "Zhytomyr",
+        "translation": "日托米尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_202:0",
+        "original": "Kiev",
+        "translation": "基辅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_203:0",
+        "original": "Cherkasy",
+        "translation": "切尔卡瑟",
+        "stage": 1
+    },
+    {
+        "key": "STATE_204:0",
+        "original": "Bobruysk",
+        "translation": "博布鲁伊斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_205:0",
+        "original": "Kaluga",
+        "translation": "卡卢加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_206:0",
+        "original": "Minsk",
+        "translation": "明斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_207:0",
+        "original": "Vitebsk",
+        "translation": "维捷布斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_208:0",
+        "original": "Luga",
+        "translation": "卢加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_209:0",
+        "original": "Pskov",
+        "translation": "普斯科夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_210:0",
+        "original": "Nevel",
+        "translation": "涅韦尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_211:0",
+        "original": "Burgas",
+        "translation": "布尔加斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_212:0",
+        "original": "Plovdiv",
+        "translation": "普罗夫迪夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_213:0",
+        "original": "Murmansk",
+        "translation": "摩尔曼斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_214:0",
+        "original": "Arkhangelsk",
+        "translation": "阿尔汉格尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_215:0",
+        "original": "Onega",
+        "translation": "奥涅加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_216:0",
+        "original": "Olonets",
+        "translation": "奥洛涅茨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_217:0",
+        "original": "Stalingrad",
+        "translation": "斯大林格勒",
+        "stage": 1
+    },
+    {
+        "key": "STATE_218:0",
+        "original": "Rostov",
+        "translation": "罗斯托夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_219:0",
+        "original": "Moscow",
+        "translation": "莫斯科",
+        "stage": 1
+    },
+    {
+        "key": "STATE_220:0",
+        "original": "Kursk",
+        "translation": "库尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_221:0",
+        "original": "Kharkov",
+        "translation": "哈尔科夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_222:0",
+        "original": "Orel",
+        "translation": "奥廖尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_223:0",
+        "original": "Tula",
+        "translation": "图拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_224:0",
+        "original": "Bryansk",
+        "translation": "布良斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_225:0",
+        "original": "Sumy",
+        "translation": "苏梅",
+        "stage": 1
+    },
+    {
+        "key": "STATE_226:0",
+        "original": "Dnipropetrovsk",
+        "translation": "第聂伯罗彼得罗夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_227:0",
+        "original": "Stalino",
+        "translation": "斯大林诺",
+        "stage": 1
+    },
+    {
+        "key": "STATE_228:0",
+        "original": "Voroshilovgrad",
+        "translation": "伏罗希洛夫格勒",
+        "stage": 1
+    },
+    {
+        "key": "STATE_229:1",
+        "original": "Azerbaijan",
+        "translation": "阿塞拜疆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_230:0",
+        "original": "Armenia",
+        "translation": "亚美尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_231:0",
+        "original": "Georgia",
+        "translation": "格鲁吉亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_232:0",
+        "original": "Grozny",
+        "translation": "格罗兹尼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_233:0",
+        "original": "Caucasus Mountains",
+        "translation": "高加索山脉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_234:0",
+        "original": "Krasnodar",
+        "translation": "克拉斯诺达尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_235:0",
+        "original": "Stavropol",
+        "translation": "斯塔夫罗波尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_236:0",
+        "original": "Astrakhan",
+        "translation": "阿斯特拉罕",
+        "stage": 1
+    },
+    {
+        "key": "STATE_237:0",
+        "original": "Elista",
+        "translation": "埃利斯塔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_238:0",
+        "original": "Volgodonsk",
+        "translation": "伏尔加顿斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_239:0",
+        "original": "Saratov",
+        "translation": "萨拉托夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_240:0",
+        "original": "Belgorod",
+        "translation": "别尔哥罗德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_241:0",
+        "original": "Gomel",
+        "translation": "戈梅利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_242:0",
+        "original": "Smolensk",
+        "translation": "斯摩棱斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_243:0",
+        "original": "Roslavl",
+        "translation": "罗斯拉夫尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_244:0",
+        "original": "Volkhov",
+        "translation": "沃尔霍夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_245:0",
+        "original": "Millerovo",
+        "translation": "米列罗沃",
+        "stage": 1
+    },
+    {
+        "key": "STATE_246:0",
+        "original": "Rzhev",
+        "translation": "勒热夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_247:0",
+        "original": "Kalinin",
+        "translation": "加里宁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_248:0",
+        "original": "Yaroslavl",
+        "translation": "雅罗斯拉夫尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_249:0",
+        "original": "Kazan",
+        "translation": "喀山",
+        "stage": 1
+    },
+    {
+        "key": "STATE_250:0",
+        "original": "Ulyanovsky",
+        "translation": "乌里扬诺夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_251:0",
+        "original": "Kuibyshev",
+        "translation": "古比雪夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_252:0",
+        "original": "Gorki",
+        "translation": "高尔基",
+        "stage": 1
+    },
+    {
+        "key": "STATE_253:0",
+        "original": "Ivanovo",
+        "translation": "伊万诺沃",
+        "stage": 1
+    },
+    {
+        "key": "STATE_254:0",
+        "original": "Ryazan",
+        "translation": "梁赞",
+        "stage": 1
+    },
+    {
+        "key": "STATE_255:0",
+        "original": "Penza",
+        "translation": "奔萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_256:0",
+        "original": "Cheboksary",
+        "translation": "切博克萨雷",
+        "stage": 1
+    },
+    {
+        "key": "STATE_257:0",
+        "original": "Tambov",
+        "translation": "坦波夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_258:0",
+        "original": "Lipetsk",
+        "translation": "利佩茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_259:0",
+        "original": "Poltava",
+        "translation": "波尔塔瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_260:0",
+        "original": "Voronezh",
+        "translation": "沃罗涅日",
+        "stage": 1
+    },
+    {
+        "key": "STATE_261:0",
+        "original": "Ohio",
+        "translation": "俄亥俄",
+        "stage": 1
+    },
+    {
+        "key": "STATE_262:0",
+        "original": "Pechora",
+        "translation": "伯朝拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_263:0",
+        "original": "Novgorod",
+        "translation": "诺夫哥罗德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_264:0",
+        "original": "Tikhvin",
+        "translation": "季赫温",
+        "stage": 1
+    },
+    {
+        "key": "STATE_265:0",
+        "original": "Mikhaylovka",
+        "translation": "米哈伊洛夫卡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_266:0",
+        "original": "Tehran",
+        "translation": "德黑兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_267:0",
+        "original": "Kabul",
+        "translation": "喀布尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_268:0",
+        "original": "French Somaliland",
+        "translation": "法属索马里兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_269:0",
+        "original": "British Somaliland",
+        "translation": "英属索马里兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_270:0",
+        "original": "Pitcairn Island",
+        "translation": "皮特凯恩岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_271:0",
+        "original": "Ethiopia",
+        "translation": "埃塞俄比亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_272:0",
+        "original": "Senegal",
+        "translation": "塞内加尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_273:0",
+        "original": "Libyan Desert",
+        "translation": "利比亚沙漠",
+        "stage": 1
+    },
+    {
+        "key": "STATE_274:0",
+        "original": "Ghana",
+        "translation": "加纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_275:0",
+        "original": "Transvaal",
+        "translation": "德兰士瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_276:0",
+        "original": "Southern Ontario",
+        "translation": "南安大略",
+        "stage": 1
+    },
+    {
+        "key": "STATE_277:0",
+        "original": "Mexico City",
+        "translation": "墨西哥城",
+        "stage": 1
+    },
+    {
+        "key": "STATE_278:0",
+        "original": "Pampas",
+        "translation": "潘帕斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_279:0",
+        "original": "Santiago",
+        "translation": "圣地亚哥",
+        "stage": 1
+    },
+    {
+        "key": "STATE_280:0",
+        "original": "Mato Grosso",
+        "translation": "马托格罗索",
+        "stage": 1
+    },
+    {
+        "key": "STATE_281:0",
+        "original": "Maldives",
+        "translation": "马尔代夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_282:0",
+        "original": "Kanto",
+        "translation": "关东",
+        "stage": 1
+    },
+    {
+        "key": "STATE_283:0",
+        "original": "Gansu",
+        "translation": "甘肃",
+        "stage": 1
+    },
+    {
+        "key": "STATE_284:0",
+        "original": "North Island",
+        "translation": "北岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_285:0",
+        "original": "New South Wales",
+        "translation": "新南威尔士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_286:1",
+        "original": "Southern Indochina",
+        "translation": "南印度支那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_287:0",
+        "original": "Taklamakan",
+        "translation": "塔克拉玛干",
+        "stage": 1
+    },
+    {
+        "key": "STATE_288:0",
+        "original": "Burma",
+        "translation": "缅甸",
+        "stage": 1
+    },
+    {
+        "key": "STATE_289:0",
+        "original": "Siam",
+        "translation": "暹罗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_290:0",
+        "original": "Spanish Africa",
+        "translation": "西属非洲",
+        "stage": 1
+    },
+    {
+        "key": "STATE_291:0",
+        "original": "Baghdad",
+        "translation": "巴格达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_292:0",
+        "original": "Nejd",
+        "translation": "内志",
+        "stage": 1
+    },
+    {
+        "key": "STATE_293:0",
+        "original": "Yemen",
+        "translation": "也门",
+        "stage": 1
+    },
+    {
+        "key": "STATE_294:0",
+        "original": "Oman",
+        "translation": "阿曼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_295:0",
+        "original": "Leopoldville",
+        "translation": "利奥波德维尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_296:0",
+        "original": "Portuguese Guinea",
+        "translation": "葡属几内亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_297:0",
+        "original": "Equatorial Guinea",
+        "translation": "赤道几内亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_298:0",
+        "original": "Liberia",
+        "translation": "利比里亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_299:0",
+        "original": "Falkland Islands",
+        "translation": "福克兰群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_300:0",
+        "original": "Uruguay",
+        "translation": "乌拉圭",
+        "stage": 1
+    },
+    {
+        "key": "STATE_301:0",
+        "original": "Paraguay",
+        "translation": "巴拉圭",
+        "stage": 1
+    },
+    {
+        "key": "STATE_302:0",
+        "original": "La Paz",
+        "translation": "拉巴斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_303:0",
+        "original": "Lima",
+        "translation": "利马",
+        "stage": 1
+    },
+    {
+        "key": "STATE_304:0",
+        "original": "Panama",
+        "translation": "巴拿马",
+        "stage": 1
+    },
+    {
+        "key": "STATE_305:0",
+        "original": "Ecuador",
+        "translation": "厄瓜多尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_306:0",
+        "original": "Cundinamarca",
+        "translation": "昆迪纳马卡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_307:0",
+        "original": "Miranda",
+        "translation": "米兰达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_308:0",
+        "original": "Leeward Islands",
+        "translation": "背风群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_309:0",
+        "original": "Suriname",
+        "translation": "苏里南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_310:0",
+        "original": "French Guiana",
+        "translation": "法属圭亚那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_311:0",
+        "original": "British Mexico",
+        "translation": "英属洪都拉斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_312:0",
+        "original": "Honduras",
+        "translation": "洪都拉斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_313:0",
+        "original": "Guatemala",
+        "translation": "危地马拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_314:0",
+        "original": "El Salvador",
+        "translation": "萨尔瓦多",
+        "stage": 1
+    },
+    {
+        "key": "STATE_315:0",
+        "original": "Cuba",
+        "translation": "古巴",
+        "stage": 1
+    },
+    {
+        "key": "STATE_316:0",
+        "original": "Costa Rica",
+        "translation": "哥斯达黎加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_317:0",
+        "original": "Nicaragua",
+        "translation": "尼加拉瓜",
+        "stage": 1
+    },
+    {
+        "key": "STATE_318:0",
+        "original": "Haiti",
+        "translation": "海地",
+        "stage": 1
+    },
+    {
+        "key": "STATE_319:0",
+        "original": "Dominican Republic",
+        "translation": "多米尼加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_320:0",
+        "original": "French India",
+        "translation": "法属印度",
+        "stage": 1
+    },
+    {
+        "key": "STATE_321:0",
+        "original": "Goa",
+        "translation": "果阿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_322:1",
+        "original": "Nagqu",
+        "translation": "那曲",
+        "stage": 1
+    },
+    {
+        "key": "STATE_323:0",
+        "original": "Nepal",
+        "translation": "尼泊尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_324:0",
+        "original": "Bhutan",
+        "translation": "不丹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_325:0",
+        "original": "Yunnan",
+        "translation": "云南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_326:0",
+        "original": "Hong Kong",
+        "translation": "香港",
+        "stage": 1
+    },
+    {
+        "key": "STATE_327:0",
+        "original": "Manila",
+        "translation": "马尼拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_328:0",
+        "original": "Kirin",
+        "translation": "吉林",
+        "stage": 1
+    },
+    {
+        "key": "STATE_329:0",
+        "original": "Tannu Tuva",
+        "translation": "唐努图瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_330:0",
+        "original": "Mongolia",
+        "translation": "蒙古",
+        "stage": 1
+    },
+    {
+        "key": "STATE_331:0",
+        "original": "Newfoundland",
+        "translation": "纽芬兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_332:0",
+        "original": "Labrador",
+        "translation": "拉布拉多",
+        "stage": 1
+    },
+    {
+        "key": "STATE_333:1",
+        "original": "North Borneo",
+        "translation": "北婆罗洲",
+        "stage": 1
+    },
+    {
+        "key": "STATE_334:1",
+        "original": "Kalimantan",
+        "translation": "加里曼丹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_335:0",
+        "original": "Java",
+        "translation": "爪哇",
+        "stage": 1
+    },
+    {
+        "key": "STATE_336:0",
+        "original": "Singapore",
+        "translation": "新加坡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_337:0",
+        "original": "Faroe Islands",
+        "translation": "法罗群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_338:0",
+        "original": "Gloucestershire",
+        "translation": "格洛斯特郡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_339:0",
+        "original": "Izmir",
+        "translation": "伊兹密尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_340:0",
+        "original": "Bursa",
+        "translation": "布尔萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_341:0",
+        "original": "Istanbul",
+        "translation": "伊斯坦布尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_342:0",
+        "original": "Antalya",
+        "translation": "安塔利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_343:0",
+        "original": "Afyon",
+        "translation": "阿菲永",
+        "stage": 1
+    },
+    {
+        "key": "STATE_344:0",
+        "original": "Adana",
+        "translation": "阿达纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_345:0",
+        "original": "Mersin",
+        "translation": "梅尔辛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_346:0",
+        "original": "Konya",
+        "translation": "科尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_347:0",
+        "original": "Izmit",
+        "translation": "伊兹密特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_348:0",
+        "original": "Kayseri",
+        "translation": "开塞利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_349:0",
+        "original": "Sivas",
+        "translation": "锡瓦斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_350:0",
+        "original": "Malatya",
+        "translation": "马拉蒂亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_351:0",
+        "original": "Vologda",
+        "translation": "沃洛格达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_352:0",
+        "original": "Van",
+        "translation": "凡城",
+        "stage": 1
+    },
+    {
+        "key": "STATE_353:0",
+        "original": "Erzurum",
+        "translation": "埃尔祖鲁姆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_354:0",
+        "original": "Trabzon",
+        "translation": "特拉布宗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_355:0",
+        "original": "Samsun",
+        "translation": "萨姆松",
+        "stage": 1
+    },
+    {
+        "key": "STATE_356:0",
+        "original": "Kastamonu",
+        "translation": "卡斯塔莫努",
+        "stage": 1
+    },
+    {
+        "key": "STATE_357:0",
+        "original": "New England",
+        "translation": "新英格兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_358:0",
+        "original": "New York",
+        "translation": "纽约",
+        "stage": 1
+    },
+    {
+        "key": "STATE_359:0",
+        "original": "New Jersey",
+        "translation": "新泽西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_360:0",
+        "original": "Pennsylvania",
+        "translation": "宾夕法尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_361:0",
+        "original": "Maryland",
+        "translation": "马里兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_362:0",
+        "original": "Virginia",
+        "translation": "弗吉尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_363:0",
+        "original": "North Carolina",
+        "translation": "北卡罗莱纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_364:0",
+        "original": "South Carolina",
+        "translation": "南卡罗莱纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_365:0",
+        "original": "Georgia",
+        "translation": "乔治亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_366:0",
+        "original": "Florida",
+        "translation": "佛罗里达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_367:0",
+        "original": "Alabama",
+        "translation": "阿拉巴马",
+        "stage": 1
+    },
+    {
+        "key": "STATE_368:0",
+        "original": "Tennessee",
+        "translation": "田纳西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_369:0",
+        "original": "Kentucky",
+        "translation": "肯塔基",
+        "stage": 1
+    },
+    {
+        "key": "STATE_370:0",
+        "original": "Mississippi",
+        "translation": "密西西比",
+        "stage": 1
+    },
+    {
+        "key": "STATE_371:0",
+        "original": "Louisiana",
+        "translation": "路易斯安那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_372:0",
+        "original": "Arkansas",
+        "translation": "阿肯色",
+        "stage": 1
+    },
+    {
+        "key": "STATE_373:0",
+        "original": "Missouri",
+        "translation": "密苏里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_374:0",
+        "original": "Oklahoma",
+        "translation": "俄克拉荷马",
+        "stage": 1
+    },
+    {
+        "key": "STATE_375:0",
+        "original": "Texas",
+        "translation": "德克萨斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_376:0",
+        "original": "New Mexico",
+        "translation": "新墨西哥",
+        "stage": 1
+    },
+    {
+        "key": "STATE_377:0",
+        "original": "Arizona",
+        "translation": "亚利桑那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_378:0",
+        "original": "California",
+        "translation": "加利福尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_379:0",
+        "original": "Nevada",
+        "translation": "内华达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_380:0",
+        "original": "Utah",
+        "translation": "犹他",
+        "stage": 1
+    },
+    {
+        "key": "STATE_381:0",
+        "original": "Wyoming",
+        "translation": "怀俄明",
+        "stage": 1
+    },
+    {
+        "key": "STATE_382:0",
+        "original": "Colorado",
+        "translation": "科罗拉多",
+        "stage": 1
+    },
+    {
+        "key": "STATE_383:0",
+        "original": "Kansas",
+        "translation": "堪萨斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_384:0",
+        "original": "Nebraska",
+        "translation": "内布拉斯加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_385:0",
+        "original": "Oregon",
+        "translation": "俄勒冈",
+        "stage": 1
+    },
+    {
+        "key": "STATE_386:0",
+        "original": "Washington",
+        "translation": "华盛顿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_387:0",
+        "original": "Idaho",
+        "translation": "爱达荷",
+        "stage": 1
+    },
+    {
+        "key": "STATE_388:0",
+        "original": "Montana",
+        "translation": "蒙大拿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_389:0",
+        "original": "North Dakota",
+        "translation": "北达科他",
+        "stage": 1
+    },
+    {
+        "key": "STATE_390:0",
+        "original": "South Dakota",
+        "translation": "南达科他",
+        "stage": 1
+    },
+    {
+        "key": "STATE_391:0",
+        "original": "Minnesota",
+        "translation": "明尼苏达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_392:0",
+        "original": "Iowa",
+        "translation": "艾奥瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_393:0",
+        "original": "Michigan",
+        "translation": "密歇根",
+        "stage": 1
+    },
+    {
+        "key": "STATE_394:0",
+        "original": "Wisconsin",
+        "translation": "威斯康星",
+        "stage": 1
+    },
+    {
+        "key": "STATE_395:0",
+        "original": "Illinois",
+        "translation": "伊利诺伊",
+        "stage": 1
+    },
+    {
+        "key": "STATE_396:0",
+        "original": "Indiana",
+        "translation": "印第安纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_397:0",
+        "original": "Syktyvkar",
+        "translation": "瑟克特夫卡尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_398:0",
+        "original": "Perm",
+        "translation": "彼尔姆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_399:0",
+        "original": "Izhevsk",
+        "translation": "伊热夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_400:0",
+        "original": "Kirov",
+        "translation": "基洛夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_401:0",
+        "original": "Engels",
+        "translation": "恩格斯城",
+        "stage": 1
+    },
+    {
+        "key": "STATE_402:0",
+        "original": "Akhtubinsk",
+        "translation": "阿赫图宾斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_403:0",
+        "original": "Tyumen",
+        "translation": "秋明",
+        "stage": 1
+    },
+    {
+        "key": "STATE_404:0",
+        "original": "Kyzyl Orda",
+        "translation": "克孜勒奥尔达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_405:0",
+        "original": "Tashkent",
+        "translation": "塔什干",
+        "stage": 1
+    },
+    {
+        "key": "STATE_406:0",
+        "original": "Gurev",
+        "translation": "古里耶夫",
+        "stage": 1
+    },
+    {
+        "key": "STATE_407:0",
+        "original": "Uralsk",
+        "translation": "乌拉尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_408:0",
+        "original": "Vladivostok",
+        "translation": "符拉迪沃斯托克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_409:0",
+        "original": "Khabarovsk",
+        "translation": "哈巴罗夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_410:0",
+        "original": "Sistan",
+        "translation": "锡斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_411:0",
+        "original": "Isfahan",
+        "translation": "伊斯法罕",
+        "stage": 1
+    },
+    {
+        "key": "STATE_412:0",
+        "original": "Fars",
+        "translation": "法尔斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_413:0",
+        "original": "Khuzestan",
+        "translation": "胡齐斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_414:0",
+        "original": "Kerman",
+        "translation": "克尔曼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_415:0",
+        "original": "Herat",
+        "translation": "赫拉特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_416:0",
+        "original": "Khorasan",
+        "translation": "呼罗珊",
+        "stage": 1
+    },
+    {
+        "key": "STATE_417:0",
+        "original": "Hamadan",
+        "translation": "哈马丹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_418:0",
+        "original": "Semnan",
+        "translation": "塞姆南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_419:1",
+        "original": "Tibriz",
+        "translation": "大不里士",
+        "stage": 1
+    },
+    {
+        "key": "STATE_420:0",
+        "original": "Gilan",
+        "translation": "吉兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_421:0",
+        "original": "Kurdistan",
+        "translation": "库尔德斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_422:0",
+        "original": "Ceylon",
+        "translation": "锡兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_423:0",
+        "original": "Madurai",
+        "translation": "马杜赖",
+        "stage": 1
+    },
+    {
+        "key": "STATE_424:0",
+        "original": "Madras",
+        "translation": "马德拉斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_425:0",
+        "original": "Mysore",
+        "translation": "迈索尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_426:0",
+        "original": "Orissa",
+        "translation": "奥里萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_427:0",
+        "original": "Hyderabad",
+        "translation": "海德拉巴",
+        "stage": 1
+    },
+    {
+        "key": "STATE_428:0",
+        "original": "Gujarat",
+        "translation": "古吉拉特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_429:0",
+        "original": "Bombay",
+        "translation": "孟买",
+        "stage": 1
+    },
+    {
+        "key": "STATE_430:0",
+        "original": "East Bengal",
+        "translation": "东孟加拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_431:0",
+        "original": "West Bengal",
+        "translation": "西孟加拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_432:0",
+        "original": "Assam",
+        "translation": "阿萨姆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_433:0",
+        "original": "Rajahsthan",
+        "translation": "拉贾斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_434:0",
+        "original": "Arunachal Pradesh",
+        "translation": "阿鲁纳恰尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_435:0",
+        "original": "Bihar",
+        "translation": "比哈尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_436:0",
+        "original": "Jabalpur",
+        "translation": "贾巴尔普尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_437:0",
+        "original": "Indore",
+        "translation": "印多尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_438:0",
+        "original": "Lucknow",
+        "translation": "勒克瑙",
+        "stage": 1
+    },
+    {
+        "key": "STATE_439:0",
+        "original": "Delhi",
+        "translation": "德里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_440:0",
+        "original": "Punjab",
+        "translation": "旁遮普",
+        "stage": 1
+    },
+    {
+        "key": "STATE_441:0",
+        "original": "Kashmir",
+        "translation": "克什米尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_442:0",
+        "original": "Peshawar",
+        "translation": "白沙瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_443:0",
+        "original": "Sind",
+        "translation": "信德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_444:0",
+        "original": "Baluchistan",
+        "translation": "俾路支斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_445:0",
+        "original": "Quetta",
+        "translation": "奎达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_446:0",
+        "original": "Cairo",
+        "translation": "开罗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_447:0",
+        "original": "Alexandria",
+        "translation": "亚历山大港",
+        "stage": 1
+    },
+    {
+        "key": "STATE_448:0",
+        "original": "Tripoli",
+        "translation": "的黎波里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_449:0",
+        "original": "El Agheila",
+        "translation": "阿盖拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_450:0",
+        "original": "Benghasi",
+        "translation": "班加西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_451:0",
+        "original": "Derna",
+        "translation": "德尔纳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_452:0",
+        "original": "Marsa Matruh",
+        "translation": "马特鲁港",
+        "stage": 1
+    },
+    {
+        "key": "STATE_453:0",
+        "original": "Sinai",
+        "translation": "西奈",
+        "stage": 1
+    },
+    {
+        "key": "STATE_454:0",
+        "original": "Palestine",
+        "translation": "巴勒斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_455:0",
+        "original": "Jordan",
+        "translation": "约旦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_456:0",
+        "original": "Aswan",
+        "translation": "阿斯旺",
+        "stage": 1
+    },
+    {
+        "key": "STATE_457:1",
+        "original": "Eastern Desert",
+        "translation": "东部沙漠",
+        "stage": 1
+    },
+    {
+        "key": "STATE_458:0",
+        "original": "Tunisia",
+        "translation": "突尼西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_459:0",
+        "original": "Algiers",
+        "translation": "阿尔及尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_460:0",
+        "original": "Constantine",
+        "translation": "康斯坦丁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_461:0",
+        "original": "Casablanca",
+        "translation": "卡萨布兰卡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_462:0",
+        "original": "Marrakech",
+        "translation": "马拉喀什",
+        "stage": 1
+    },
+    {
+        "key": "STATE_463:0",
+        "original": "Alaska",
+        "translation": "阿拉斯加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_464:0",
+        "original": "Nova Scotia",
+        "translation": "新斯科舍",
+        "stage": 1
+    },
+    {
+        "key": "STATE_465:0",
+        "original": "New Brunswick",
+        "translation": "新不伦瑞克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_466:0",
+        "original": "Quebec",
+        "translation": "魁北克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_467:0",
+        "original": "Manitoba",
+        "translation": "马尼托巴",
+        "stage": 1
+    },
+    {
+        "key": "STATE_468:0",
+        "original": "Saint Lawrence",
+        "translation": "圣劳伦斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_469:0",
+        "original": "Saskatchewan",
+        "translation": "萨斯喀彻温",
+        "stage": 1
+    },
+    {
+        "key": "STATE_470:0",
+        "original": "Alberta",
+        "translation": "艾伯塔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_471:0",
+        "original": "Northwestern Canada",
+        "translation": "西北加拿大",
+        "stage": 1
+    },
+    {
+        "key": "STATE_472:0",
+        "original": "Northern Canada",
+        "translation": "北加拿大",
+        "stage": 1
+    },
+    {
+        "key": "STATE_473:0",
+        "original": "British Columbia",
+        "translation": "不列颠哥伦比亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_474:0",
+        "original": "Yucatan",
+        "translation": "尤卡坦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_475:0",
+        "original": "Chiapas",
+        "translation": "恰帕斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_476:0",
+        "original": "Oaxaca",
+        "translation": "瓦哈卡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_477:0",
+        "original": "Veracruz",
+        "translation": "韦拉克鲁斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_478:0",
+        "original": "Jalisco",
+        "translation": "哈利斯科",
+        "stage": 1
+    },
+    {
+        "key": "STATE_479:0",
+        "original": "Tamaulipas",
+        "translation": "塔毛利帕斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_480:0",
+        "original": "Coahuila",
+        "translation": "科阿韦拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_481:0",
+        "original": "Durango",
+        "translation": "杜兰戈",
+        "stage": 1
+    },
+    {
+        "key": "STATE_482:0",
+        "original": "Chihuahua",
+        "translation": "奇瓦瓦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_483:0",
+        "original": "Sonora",
+        "translation": "索诺拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_484:0",
+        "original": "Baja California",
+        "translation": "下加利福尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_485:0",
+        "original": "Guerrero",
+        "translation": "格雷罗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_486:0",
+        "original": "Meta",
+        "translation": "梅塔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_487:0",
+        "original": "Santa Cruz",
+        "translation": "圣克鲁斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_488:0",
+        "original": "Bolivar",
+        "translation": "玻利瓦尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_489:0",
+        "original": "Zulia",
+        "translation": "苏利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_490:0",
+        "original": "Pastaza",
+        "translation": "帕斯塔萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_491:0",
+        "original": "Loreto",
+        "translation": "洛雷托",
+        "stage": 1
+    },
+    {
+        "key": "STATE_492:0",
+        "original": "Arequipa",
+        "translation": "阿雷基帕",
+        "stage": 1
+    },
+    {
+        "key": "STATE_493:0",
+        "original": "La Libertad",
+        "translation": "解放城",
+        "stage": 1
+    },
+    {
+        "key": "STATE_494:0",
+        "original": "Ucayali",
+        "translation": "乌卡亚利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_495:0",
+        "original": "Amazonas",
+        "translation": "亚马逊",
+        "stage": 1
+    },
+    {
+        "key": "STATE_496:0",
+        "original": "Para",
+        "translation": "帕拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_497:0",
+        "original": "Maranhao",
+        "translation": "马拉尼昂",
+        "stage": 1
+    },
+    {
+        "key": "STATE_498:0",
+        "original": "Rio Grande",
+        "translation": "里奥格兰德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_499:0",
+        "original": "Bahia",
+        "translation": "巴伊亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_500:0",
+        "original": "Rio de Janeiro",
+        "translation": "里约热内卢",
+        "stage": 1
+    },
+    {
+        "key": "STATE_501:0",
+        "original": "Sao Paulo",
+        "translation": "圣保罗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_502:0",
+        "original": "Rio Grande Sul",
+        "translation": "南里奥格兰德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_503:0",
+        "original": "Santa Catarina",
+        "translation": "圣卡塔琳娜",
+        "stage": 1
+    },
+    {
+        "key": "STATE_504:0",
+        "original": "Iguacu",
+        "translation": "伊瓜苏",
+        "stage": 1
+    },
+    {
+        "key": "STATE_505:0",
+        "original": "Goias",
+        "translation": "戈亚斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_506:0",
+        "original": "Antofagasta",
+        "translation": "安托法加斯塔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_507:0",
+        "original": "Magallanes",
+        "translation": "麦哲伦",
+        "stage": 1
+    },
+    {
+        "key": "STATE_508:0",
+        "original": "Tucuman",
+        "translation": "图库曼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_509:0",
+        "original": "Chaco Austral",
+        "translation": "南查科",
+        "stage": 1
+    },
+    {
+        "key": "STATE_510:0",
+        "original": "Mesopotamia",
+        "translation": "美索不达米亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_511:0",
+        "original": "Mendoza",
+        "translation": "门多萨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_512:0",
+        "original": "Patagonia",
+        "translation": "巴塔哥尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_513:0",
+        "original": "Tlemcen",
+        "translation": "特莱姆森",
+        "stage": 1
+    },
+    {
+        "key": "STATE_514:0",
+        "original": "Algerian Desert",
+        "translation": "阿尔及利亚沙漠",
+        "stage": 1
+    },
+    {
+        "key": "STATE_515:0",
+        "original": "Southern Sahara",
+        "translation": "撒哈拉南部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_516:0",
+        "original": "Northwest Siberia",
+        "translation": "西伯利亚西北部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_517:0",
+        "original": "Victoria",
+        "translation": "维多利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_518:0",
+        "original": "Tasmania",
+        "translation": "塔斯马尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_519:0",
+        "original": "South Australia",
+        "translation": "南澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_520:0",
+        "original": "Northern Territory",
+        "translation": "北领地",
+        "stage": 1
+    },
+    {
+        "key": "STATE_521:0",
+        "original": "Queensland",
+        "translation": "昆士兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_522:0",
+        "original": "Western Australia",
+        "translation": "西澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_523:1",
+        "original": "Papua",
+        "translation": "巴布亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_524:0",
+        "original": "Taiwan",
+        "translation": "台湾",
+        "stage": 1
+    },
+    {
+        "key": "STATE_525:0",
+        "original": "South Korea",
+        "translation": "南朝鲜",
+        "stage": 1
+    },
+    {
+        "key": "STATE_526:0",
+        "original": "Okinawa",
+        "translation": "冲绳",
+        "stage": 1
+    },
+    {
+        "key": "STATE_527:0",
+        "original": "North Korea",
+        "translation": "北朝鲜",
+        "stage": 1
+    },
+    {
+        "key": "STATE_528:0",
+        "original": "Kyushu",
+        "translation": "九州",
+        "stage": 1
+    },
+    {
+        "key": "STATE_529:0",
+        "original": "Chugoku",
+        "translation": "中国",
+        "stage": 1
+    },
+    {
+        "key": "STATE_530:0",
+        "original": "Shikoku",
+        "translation": "四国",
+        "stage": 1
+    },
+    {
+        "key": "STATE_531:0",
+        "original": "Kansai",
+        "translation": "关西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_532:0",
+        "original": "Tokai",
+        "translation": "东海",
+        "stage": 1
+    },
+    {
+        "key": "STATE_533:0",
+        "original": "Tohoku",
+        "translation": "东北",
+        "stage": 1
+    },
+    {
+        "key": "STATE_534:0",
+        "original": "Hokuriku",
+        "translation": "北陆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_535:0",
+        "original": "Koshinetsu",
+        "translation": "甲信越",
+        "stage": 1
+    },
+    {
+        "key": "STATE_536:0",
+        "original": "Hokkaido",
+        "translation": "北海道",
+        "stage": 1
+    },
+    {
+        "key": "STATE_537:0",
+        "original": "South Sakhalin",
+        "translation": "南桦太",
+        "stage": 1
+    },
+    {
+        "key": "STATE_538:0",
+        "original": "Central Congo",
+        "translation": "刚果中部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_539:0",
+        "original": "Gabon",
+        "translation": "加蓬",
+        "stage": 1
+    },
+    {
+        "key": "STATE_540:0",
+        "original": "Angola",
+        "translation": "安哥拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_541:0",
+        "original": "South West Africa",
+        "translation": "西南非洲",
+        "stage": 1
+    },
+    {
+        "key": "STATE_542:0",
+        "original": "Bechuanaland",
+        "translation": "贝专纳兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_543:0",
+        "original": "Madagascar",
+        "translation": "马达加斯加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_544:0",
+        "original": "Mozambique",
+        "translation": "莫桑比克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_545:0",
+        "original": "Rhodesia",
+        "translation": "罗德西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_546:0",
+        "original": "Tanganyika",
+        "translation": "坦噶尼喀",
+        "stage": 1
+    },
+    {
+        "key": "STATE_547:0",
+        "original": "Kenya",
+        "translation": "肯尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_548:0",
+        "original": "Uganda",
+        "translation": "乌干达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_549:0",
+        "original": "Sudan",
+        "translation": "苏丹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_550:0",
+        "original": "Eritrea",
+        "translation": "厄立特里亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_551:0",
+        "original": "Khartoum",
+        "translation": "喀土穆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_552:0",
+        "original": "Western Desert",
+        "translation": "西部沙漠",
+        "stage": 1
+    },
+    {
+        "key": "STATE_553:0",
+        "original": "Lebanon",
+        "translation": "黎巴嫩",
+        "stage": 1
+    },
+    {
+        "key": "STATE_554:0",
+        "original": "Damascus",
+        "translation": "大马士革",
+        "stage": 1
+    },
+    {
+        "key": "STATE_555:0",
+        "original": "Kuril Islands",
+        "translation": "千岛群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_556:0",
+        "original": "French West Africa",
+        "translation": "法属西非",
+        "stage": 1
+    },
+    {
+        "key": "STATE_557:0",
+        "original": "Mauritania",
+        "translation": "毛里塔尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_558:0",
+        "original": "Nigeria",
+        "translation": "尼日利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_559:0",
+        "original": "Somaliland",
+        "translation": "索马里兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_560:0",
+        "original": "Nikolayevsk",
+        "translation": "尼古拉耶夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_561:0",
+        "original": "Amur",
+        "translation": "阿穆尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_562:0",
+        "original": "Okhotsk",
+        "translation": "鄂霍茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_563:0",
+        "original": "Chita",
+        "translation": "赤塔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_564:0",
+        "original": "Ulan Ude",
+        "translation": "乌兰乌德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_565:0",
+        "original": "Bodaybo",
+        "translation": "博代博",
+        "stage": 1
+    },
+    {
+        "key": "STATE_566:0",
+        "original": "Irkutsk",
+        "translation": "伊尔库茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_567:0",
+        "original": "Bratsk",
+        "translation": "布拉茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_568:0",
+        "original": "Krasnoyarsk",
+        "translation": "克拉斯诺亚尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_569:0",
+        "original": "Kemerovo",
+        "translation": "克麦罗沃",
+        "stage": 1
+    },
+    {
+        "key": "STATE_570:0",
+        "original": "Novosibirsk",
+        "translation": "新西伯利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_571:0",
+        "original": "Omsk",
+        "translation": "鄂木斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_572:0",
+        "original": "Chelyabinsk",
+        "translation": "车里雅宾斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_573:0",
+        "original": "Zlatoust",
+        "translation": "兹拉托乌斯特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_574:0",
+        "original": "Yakutsk",
+        "translation": "雅库茨克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_575:0",
+        "original": "Kirensk",
+        "translation": "基廉斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_576:0",
+        "original": "Yeniseisk",
+        "translation": "叶尼塞斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_577:0",
+        "original": "Surgut",
+        "translation": "苏尔古特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_578:0",
+        "original": "Tomsk",
+        "translation": "托木斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_579:0",
+        "original": "Salekhard",
+        "translation": "萨列哈尔德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_580:0",
+        "original": "Tobolsk",
+        "translation": "托博尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_581:0",
+        "original": "Northern Urals",
+        "translation": "北乌拉尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_582:0",
+        "original": "Magnitogorsk",
+        "translation": "马格尼托哥尔斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_583:0",
+        "original": "Kustanay",
+        "translation": "库斯塔奈",
+        "stage": 1
+    },
+    {
+        "key": "STATE_584:0",
+        "original": "Ashkhabad",
+        "translation": "阿什哈巴德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_585:0",
+        "original": "Urgench",
+        "translation": "乌尔根奇",
+        "stage": 1
+    },
+    {
+        "key": "STATE_586:0",
+        "original": "Alma-Ata",
+        "translation": "阿拉木图",
+        "stage": 1
+    },
+    {
+        "key": "STATE_587:0",
+        "original": "Ust Urt",
+        "translation": "乌斯秋尔特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_588:0",
+        "original": "Semipalatinsk",
+        "translation": "谢米巴拉金斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_589:0",
+        "original": "Ayaguz",
+        "translation": "阿亚古兹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_590:0",
+        "original": "Akmolinsk",
+        "translation": "阿克莫林斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_591:0",
+        "original": "Hainan",
+        "translation": "海南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_592:0",
+        "original": "Guangzhou",
+        "translation": "广州",
+        "stage": 1
+    },
+    {
+        "key": "STATE_593:0",
+        "original": "Guangdong",
+        "translation": "广东",
+        "stage": 1
+    },
+    {
+        "key": "STATE_594:0",
+        "original": "Nanning",
+        "translation": "南宁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_595:0",
+        "original": "Fujian",
+        "translation": "福建",
+        "stage": 1
+    },
+    {
+        "key": "STATE_596:0",
+        "original": "Zhejiang",
+        "translation": "浙江",
+        "stage": 1
+    },
+    {
+        "key": "STATE_597:0",
+        "original": "Shandong",
+        "translation": "山东",
+        "stage": 1
+    },
+    {
+        "key": "STATE_598:0",
+        "original": "Jiangsu",
+        "translation": "江苏",
+        "stage": 1
+    },
+    {
+        "key": "STATE_599:0",
+        "original": "Guangxi",
+        "translation": "广西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_600:0",
+        "original": "Jiangxi",
+        "translation": "江西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_601:0",
+        "original": "Xikang",
+        "translation": "西康",
+        "stage": 1
+    },
+    {
+        "key": "STATE_602:0",
+        "original": "Hunan",
+        "translation": "湖南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_603:0",
+        "original": "Guizhou",
+        "translation": "贵州",
+        "stage": 1
+    },
+    {
+        "key": "STATE_604:0",
+        "original": "Qinghai",
+        "translation": "青海",
+        "stage": 1
+    },
+    {
+        "key": "STATE_605:0",
+        "original": "Sichuan",
+        "translation": "四川",
+        "stage": 1
+    },
+    {
+        "key": "STATE_606:0",
+        "original": "Anhui",
+        "translation": "安徽",
+        "stage": 1
+    },
+    {
+        "key": "STATE_607:0",
+        "original": "Henan",
+        "translation": "河南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_608:0",
+        "original": "Beijing",
+        "translation": "北京",
+        "stage": 1
+    },
+    {
+        "key": "STATE_609:0",
+        "original": "East Hebei",
+        "translation": "河北东部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_610:0",
+        "original": "Jehol",
+        "translation": "热河",
+        "stage": 1
+    },
+    {
+        "key": "STATE_611:0",
+        "original": "South Chahar",
+        "translation": "南察哈尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_612:0",
+        "original": "Chahar",
+        "translation": "察哈尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_613:2",
+        "original": "Shanghai",
+        "translation": "上海",
+        "stage": 1
+    },
+    {
+        "key": "STATE_614:0",
+        "original": "Hebei",
+        "translation": "河北",
+        "stage": 1
+    },
+    {
+        "key": "STATE_615:0",
+        "original": "Shanxi",
+        "translation": "山西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_616:0",
+        "original": "Ningxia",
+        "translation": "宁夏",
+        "stage": 1
+    },
+    {
+        "key": "STATE_617:0",
+        "original": "Urumqi",
+        "translation": "乌鲁木齐",
+        "stage": 1
+    },
+    {
+        "key": "STATE_618:0",
+        "original": "Dzungaria",
+        "translation": "准噶尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_619:0",
+        "original": "Yarkand",
+        "translation": "莎车",
+        "stage": 1
+    },
+    {
+        "key": "STATE_620:0",
+        "original": "Hubei",
+        "translation": "湖北",
+        "stage": 1
+    },
+    {
+        "key": "STATE_621:0",
+        "original": "Suiyuan",
+        "translation": "绥远",
+        "stage": 1
+    },
+    {
+        "key": "STATE_622:0",
+        "original": "Shaanxi",
+        "translation": "陕西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_623:0",
+        "original": "Luzon",
+        "translation": "吕宋",
+        "stage": 1
+    },
+    {
+        "key": "STATE_624:0",
+        "original": "Central islands",
+        "translation": "中部群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_625:0",
+        "original": "Samar",
+        "translation": "萨马",
+        "stage": 1
+    },
+    {
+        "key": "STATE_626:0",
+        "original": "Palawan",
+        "translation": "巴拉望",
+        "stage": 1
+    },
+    {
+        "key": "STATE_627:0",
+        "original": "Mindanao",
+        "translation": "棉兰老",
+        "stage": 1
+    },
+    {
+        "key": "STATE_628:0",
+        "original": "Cebu",
+        "translation": "宿雾",
+        "stage": 1
+    },
+    {
+        "key": "STATE_629:0",
+        "original": "Hawaii",
+        "translation": "夏威夷",
+        "stage": 1
+    },
+    {
+        "key": "STATE_630:0",
+        "original": "Johnston Atoll",
+        "translation": "约翰斯顿环礁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_631:0",
+        "original": "Midway Island",
+        "translation": "中途岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_632:0",
+        "original": "Wake Island",
+        "translation": "威克岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_633:0",
+        "original": "Marshall Islands",
+        "translation": "马绍尔群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_634:0",
+        "original": "Solomon Islands",
+        "translation": "所罗门群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_635:0",
+        "original": "New Caledonia",
+        "translation": "新喀里多尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_636:0",
+        "original": "Fiji",
+        "translation": "斐济",
+        "stage": 1
+    },
+    {
+        "key": "STATE_637:0",
+        "original": "Kamchatka",
+        "translation": "堪察加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_638:0",
+        "original": "Guam",
+        "translation": "关岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_639:0",
+        "original": "Gilbert Islands",
+        "translation": "吉尔伯特群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_640:0",
+        "original": "Mandalay",
+        "translation": "曼德勒",
+        "stage": 1
+    },
+    {
+        "key": "STATE_641:0",
+        "original": "Tahiti",
+        "translation": "塔希提",
+        "stage": 1
+    },
+    {
+        "key": "STATE_642:0",
+        "original": "Phoenix Island",
+        "translation": "凤凰岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_643:0",
+        "original": "Ellice Islands",
+        "translation": "埃里斯群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_644:0",
+        "original": "Northeast Siberia",
+        "translation": "西伯利亚东北部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_645:0",
+        "original": "Iwo Jima",
+        "translation": "硫磺岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_646:0",
+        "original": "Saipan",
+        "translation": "塞班岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_647:0",
+        "original": "Palau",
+        "translation": "帕劳群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_648:0",
+        "original": "Marcus Island",
+        "translation": "马库斯岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_649:0",
+        "original": "Galapagos Islands",
+        "translation": "加拉帕戈斯群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_650:0",
+        "original": "Attu Island",
+        "translation": "阿图岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_651:0",
+        "original": "Ufa",
+        "translation": "乌法",
+        "stage": 1
+    },
+    {
+        "key": "STATE_652:0",
+        "original": "Orenburg",
+        "translation": "奥伦堡",
+        "stage": 1
+    },
+    {
+        "key": "STATE_653:0",
+        "original": "Sverdlovsk",
+        "translation": "斯维尔德洛夫斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_654:0",
+        "original": "Gorno-Altaysk",
+        "translation": "戈尔诺-阿尔泰斯克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_655:0",
+        "original": "North Sakhalin",
+        "translation": "北萨哈林",
+        "stage": 1
+    },
+    {
+        "key": "STATE_656:0",
+        "original": "Kuwait",
+        "translation": "科威特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_657:0",
+        "original": "Birobidzhan",
+        "translation": "比罗比詹",
+        "stage": 1
+    },
+    {
+        "key": "STATE_658:0",
+        "original": "Abu Dhabi",
+        "translation": "阿布扎比",
+        "stage": 1
+    },
+    {
+        "key": "STATE_659:0",
+        "original": "Aden",
+        "translation": "亚丁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_660:0",
+        "original": "Equatorial Africa",
+        "translation": "赤道非洲",
+        "stage": 1
+    },
+    {
+        "key": "STATE_661:0",
+        "original": "Tripolitania",
+        "translation": "的黎波里塔尼亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_662:0",
+        "original": "Sirte",
+        "translation": "苏尔特",
+        "stage": 1
+    },
+    {
+        "key": "STATE_663:0",
+        "original": "Cyrenaica",
+        "translation": "昔兰尼加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_664:0",
+        "original": "Southern Slovakia",
+        "translation": "南斯洛伐克",
+        "stage": 1
+    },
+    {
+        "key": "STATE_665:0",
+        "original": "Gabes",
+        "translation": "加贝斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_666:0",
+        "original": "Lappland",
+        "translation": "拉普兰",
+        "stage": 1
+    },
+    {
+        "key": "STATE_667:0",
+        "original": "Lesser Sunda Islands",
+        "translation": "小巽他群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_668:0",
+        "original": "The Moluccas",
+        "translation": "摩鹿加群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_669:1",
+        "original": "West Papua",
+        "translation": "西巴布亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_670:0",
+        "original": "Laos",
+        "translation": "老挝",
+        "stage": 1
+    },
+    {
+        "key": "STATE_671:0",
+        "original": "Tonkin",
+        "translation": "东京",
+        "stage": 1
+    },
+    {
+        "key": "STATE_672:0",
+        "original": "Sumatra",
+        "translation": "苏门答腊",
+        "stage": 1
+    },
+    {
+        "key": "STATE_673:0",
+        "original": "Sulawesi",
+        "translation": "苏拉威西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_674:0",
+        "original": "Central Australia",
+        "translation": "中澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_675:0",
+        "original": "Al Hajara",
+        "translation": "哈扎拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_676:0",
+        "original": "Mosul",
+        "translation": "摩苏尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_677:0",
+        "original": "Aleppo",
+        "translation": "阿勒颇",
+        "stage": 1
+    },
+    {
+        "key": "STATE_678:0",
+        "original": "Rub al Khali",
+        "translation": "鲁卜哈利",
+        "stage": 1
+    },
+    {
+        "key": "STATE_679:0",
+        "original": "Hejaz",
+        "translation": "汉志",
+        "stage": 1
+    },
+    {
+        "key": "STATE_680:0",
+        "original": "Deir-az-Zur",
+        "translation": "代尔祖尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_681:0",
+        "original": "Cape",
+        "translation": "好望角",
+        "stage": 1
+    },
+    {
+        "key": "STATE_682:0",
+        "original": "Northern Ontario",
+        "translation": "北安大略",
+        "stage": 1
+    },
+    {
+        "key": "STATE_683:0",
+        "original": "Northeastern Canada",
+        "translation": "东北加拿大",
+        "stage": 1
+    },
+    {
+        "key": "STATE_684:0",
+        "original": "Caroline Islands",
+        "translation": "加罗林群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_685:0",
+        "original": "Panama Canal",
+        "translation": "巴拿马运河",
+        "stage": 1
+    },
+    {
+        "key": "STATE_686:0",
+        "original": "Puerto Rico",
+        "translation": "波多黎各",
+        "stage": 1
+    },
+    {
+        "key": "STATE_687:0",
+        "original": "British Guyana",
+        "translation": "英属圭亚那",
+        "stage": 1
+    },
+    {
+        "key": "STATE_688:0",
+        "original": "Chaco Boreal",
+        "translation": "北查科",
+        "stage": 1
+    },
+    {
+        "key": "STATE_689:0",
+        "original": "Jamaica",
+        "translation": "牙买加",
+        "stage": 1
+    },
+    {
+        "key": "STATE_690:0",
+        "original": "Northern Bahamas",
+        "translation": "巴哈马群岛北部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_691:0",
+        "original": "Trinidad",
+        "translation": "特立尼达",
+        "stage": 1
+    },
+    {
+        "key": "STATE_692:0",
+        "original": "Windward Islands",
+        "translation": "向风群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_693:0",
+        "original": "Southern Bahamas",
+        "translation": "巴哈马群岛南部",
+        "stage": 1
+    },
+    {
+        "key": "STATE_694:0",
+        "original": "French Caribbean",
+        "translation": "法属加勒比",
+        "stage": 1
+    },
+    {
+        "key": "STATE_695:0",
+        "original": "Curacao",
+        "translation": "库拉索",
+        "stage": 1
+    },
+    {
+        "key": "STATE_696:0",
+        "original": "Bermuda",
+        "translation": "百慕大",
+        "stage": 1
+    },
+    {
+        "key": "STATE_697:0",
+        "original": "Madeira",
+        "translation": "马德拉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_698:0",
+        "original": "Azores",
+        "translation": "亚速尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_699:0",
+        "original": "Rio de Oro",
+        "translation": "里奥德奥罗",
+        "stage": 1
+    },
+    {
+        "key": "STATE_700:0",
+        "original": "Sierra Leone",
+        "translation": "塞拉利昂",
+        "stage": 1
+    },
+    {
+        "key": "STATE_701:0",
+        "original": "Gambia",
+        "translation": "冈比亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_702:0",
+        "original": "Cape Verde",
+        "translation": "佛得角",
+        "stage": 1
+    },
+    {
+        "key": "STATE_703:0",
+        "original": "Ascension",
+        "translation": "阿森松",
+        "stage": 1
+    },
+    {
+        "key": "STATE_704:0",
+        "original": "Saint Helena",
+        "translation": "圣赫勒拿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_705:0",
+        "original": "Sao Tome",
+        "translation": "圣多美",
+        "stage": 1
+    },
+    {
+        "key": "STATE_706:0",
+        "original": "Reunion",
+        "translation": "留尼旺",
+        "stage": 1
+    },
+    {
+        "key": "STATE_707:0",
+        "original": "Mauritius",
+        "translation": "毛里求斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_708:0",
+        "original": "Comoro Islands",
+        "translation": "科摩罗群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_709:0",
+        "original": "Seychelles",
+        "translation": "塞舌尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_710:0",
+        "original": "Diego Garcia",
+        "translation": "迪戈加西亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_711:0",
+        "original": "Christmas Island",
+        "translation": "圣诞岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_712:0",
+        "original": "Cocos Islands",
+        "translation": "科科斯群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_713:0",
+        "original": "Kerguelen",
+        "translation": "凯尔盖朗群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_714:0",
+        "original": "Heilungkiang",
+        "translation": "黑龙江",
+        "stage": 1
+    },
+    {
+        "key": "STATE_715:0",
+        "original": "Liaoning",
+        "translation": "辽宁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_716:0",
+        "original": "Liaotung",
+        "translation": "辽东",
+        "stage": 1
+    },
+    {
+        "key": "STATE_717:0",
+        "original": "Sungkiang",
+        "translation": "松江",
+        "stage": 1
+    },
+    {
+        "key": "STATE_718:0",
+        "original": "Stanleyville",
+        "translation": "斯坦利维尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_719:0",
+        "original": "Natal",
+        "translation": "纳塔尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_720:0",
+        "original": "South Georgia",
+        "translation": "南乔治亚岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_721:0",
+        "original": "Portuguese Timor",
+        "translation": "葡属帝汶",
+        "stage": 1
+    },
+    {
+        "key": "STATE_722:0",
+        "original": "Petsamo",
+        "translation": "贝柴摩",
+        "stage": 1
+    },
+    {
+        "key": "STATE_723:0",
+        "original": "South Island",
+        "translation": "南岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_724:0",
+        "original": "Northern Malay",
+        "translation": "北马来",
+        "stage": 1
+    },
+    {
+        "key": "STATE_725:0",
+        "original": "Nauru",
+        "translation": "瑙鲁",
+        "stage": 1
+    },
+    {
+        "key": "STATE_726:0",
+        "original": "Samoa",
+        "translation": "萨摩亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_727:0",
+        "original": "Line Islands",
+        "translation": "莱恩群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_728:0",
+        "original": "Guangzhouwan",
+        "translation": "广州湾",
+        "stage": 1
+    },
+    {
+        "key": "STATE_729:0",
+        "original": "Macau",
+        "translation": "澳门",
+        "stage": 1
+    },
+    {
+        "key": "STATE_730:0",
+        "original": "St Pierre and Miquelon",
+        "translation": "圣皮埃尔和密克隆",
+        "stage": 1
+    },
+    {
+        "key": "STATE_731:0",
+        "original": "Central Macedonia",
+        "translation": "中马其顿",
+        "stage": 1
+    },
+    {
+        "key": "STATE_732:0",
+        "original": "Pamir",
+        "translation": "帕米尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_733:0",
+        "original": "Andaman",
+        "translation": "安达曼",
+        "stage": 1
+    },
+    {
+        "key": "STATE_734:0",
+        "original": "Nendo",
+        "translation": "恩德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_735:0",
+        "original": "Savoy",
+        "translation": "萨伏伊",
+        "stage": 1
+    },
+    {
+        "key": "STATE_736:0",
+        "original": "Istria",
+        "translation": "伊斯特里亚",
+        "stage": 1
+    },
+    {
+        "key": "STATE_737:0",
+        "original": "Bismarck",
+        "translation": "俾斯麦群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_738:0",
+        "original": "Aru Islands",
+        "translation": "阿鲁群岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_739:0",
+        "original": "Haida Gwaii",
+        "translation": "海达瓜依",
+        "stage": 1
+    },
+    {
+        "key": "STATE_740:0",
+        "original": "Vancouver Island",
+        "translation": "温哥华岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_741:0",
+        "original": "Cambodia",
+        "translation": "柬埔寨",
+        "stage": 1
+    },
+    {
+        "key": "STATE_742:0",
+        "original": "Stalinabad",
+        "translation": "斯大林纳巴德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_743:0",
+        "original": "Qingdao",
+        "translation": "青岛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_744:0",
+        "original": "Xian",
+        "translation": "西安",
+        "stage": 1
+    },
+    {
+        "key": "STATE_745:0",
+        "original": "Dalian",
+        "translation": "大连",
+        "stage": 1
+    },
+    {
+        "key": "STATE_746:0",
+        "original": "Ordos",
+        "translation": "鄂尔多斯",
+        "stage": 1
+    },
+    {
+        "key": "STATE_747:0",
+        "original": "Dali",
+        "translation": "大理",
+        "stage": 1
+    },
+    {
+        "key": "STATE_748:0",
+        "original": "Zunyi",
+        "translation": "遵义",
+        "stage": 1
+    },
+    {
+        "key": "STATE_749:0",
+        "original": "Huangshan",
+        "translation": "黄山",
+        "stage": 1
+    },
+    {
+        "key": "STATE_750:0",
+        "original": "Changde",
+        "translation": "常德",
+        "stage": 1
+    },
+    {
+        "key": "STATE_751:0",
+        "original": "Liangshan",
+        "translation": "凉山",
+        "stage": 1
+    },
+    {
+        "key": "STATE_752:0",
+        "original": "Chamdo",
+        "translation": "昌都",
+        "stage": 1
+    },
+    {
+        "key": "STATE_753:0",
+        "original": "Gannan",
+        "translation": "甘南",
+        "stage": 1
+    },
+    {
+        "key": "STATE_754:0",
+        "original": "Golog",
+        "translation": "果洛",
+        "stage": 1
+    },
+    {
+        "key": "STATE_755:0",
+        "original": "Haixi",
+        "translation": "海西",
+        "stage": 1
+    },
+    {
+        "key": "STATE_756:0",
+        "original": "Jiuquan",
+        "translation": "酒泉",
+        "stage": 1
+    },
+    {
+        "key": "STATE_757:0",
+        "original": "Shigatse",
+        "translation": "日喀则",
+        "stage": 1
+    },
+    {
+        "key": "STATE_758:0",
+        "original": "Ngari",
+        "translation": "阿里",
+        "stage": 1
+    },
+    {
+        "key": "STATE_759:1",
+        "original": "Kunlun Shan",
+        "translation": "昆仑山",
+        "stage": 1
+    },
+    {
+        "key": "STATE_760:0",
+        "original": "Dabancheng",
+        "translation": "达坂城",
+        "stage": 1
+    },
+    {
+        "key": "STATE_761:0",
+        "original": "Hulunbuir",
+        "translation": "呼伦贝尔",
+        "stage": 1
+    },
+    {
+        "key": "STATE_762:0",
+        "original": "Voivodeship Silesia",
+        "translation": "西里西亚省",
+        "stage": 1
+    }
+]

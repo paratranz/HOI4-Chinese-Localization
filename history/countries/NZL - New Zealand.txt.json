@@ -1,0 +1,68 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Michael Joseph Savage",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Sidney Holland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "John Ormond",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Elsie Farrelly",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_country_leader|name",
+        "original": "Peter Fraser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Bernard Freyberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Robert Row",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "William Stevens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Edmund Rupert Drummond",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Peter Phipps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Leander Class",
+        "translation": "",
+        "stage": 0
+    }
+]

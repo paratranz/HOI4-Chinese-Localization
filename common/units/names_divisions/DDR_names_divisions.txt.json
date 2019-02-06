@@ -1,0 +1,92 @@
+[
+    {
+        "key": "DDR_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_INF_01|ordered|100#|Wach-Division Feliks Dzierzynski",
+        "original": "Wach-Division Feliks Dzierzynski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_INF_01|ordered|101#|Wach-Division Friedrich Engels",
+        "original": "Wach-Division Friedrich Engels",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_INF_01|ordered|102#|Wach-Division Hugo Eberlein",
+        "original": "Wach-Division Hugo Eberlein",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_MOT_01|ordered|100#|Wach-Division Feliks Dzierzynski",
+        "original": "Wach-Division Feliks Dzierzynski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_ARM_01|name",
+        "original": "Panzer Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_MEC_01|ordered|100#|Wach-Division Feliks Dzierzynski",
+        "original": "Wach-Division Feliks Dzierzynski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "DDR_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|DDR_PAR_01|ordered|40#|Luftsturm-Division 'Willi Sänger'",
+        "original": "Luftsturm-Division 'Willi Sänger'",
+        "translation": "",
+        "stage": 0
+    }
+]

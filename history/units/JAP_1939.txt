@@ -1,0 +1,3691 @@
+division_template = {
+  name = "Hohei Shidan"
+  division_names_group = JAP_INF_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+    infantry = {
+      x = 2
+      y = 0
+    }
+    infantry = {
+      x = 2
+      y = 1
+    }
+    infantry = {
+      x = 2
+      y = 2
+    }
+    infantry = {
+      x = 3
+      y = 0
+    }
+    infantry = {
+      x = 3
+      y = 1
+    }
+    infantry = {
+      x = 3
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+    recon = {
+      x = 0
+      y = 1
+    }
+  }
+}
+division_template = {
+  name = "Chugata Hohei Shidan"
+  division_names_group = JAP_INF_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+    infantry = {
+      x = 2
+      y = 0
+    }
+    infantry = {
+      x = 2
+      y = 1
+    }
+    infantry = {
+      x = 2
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+    recon = {
+      x = 0
+      y = 1
+    }
+  }
+}
+division_template = {
+  name = "Dokuritsu Konsei Ryodan"
+  division_names_group = JAP_IMB_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    light_armor = {
+      x = 2
+      y = 0
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Kihei Shidan"
+  division_names_group = JAP_CAV_01
+  regiments = {
+    cavalry = {
+      x = 0
+      y = 0
+    }
+    cavalry = {
+      x = 0
+      y = 1
+    }
+    cavalry = {
+      x = 0
+      y = 2
+    }
+    cavalry = {
+      x = 1
+      y = 0
+    }
+    cavalry = {
+      x = 1
+      y = 1
+    }
+    cavalry = {
+      x = 1
+      y = 2
+    }
+  }
+}
+division_template = {
+  name = "Jidousha Shidan"
+  division_names_group = JAP_MOT_01
+  regiments = {
+    motorized = {
+      x = 0
+      y = 0
+    }
+    motorized = {
+      x = 0
+      y = 1
+    }
+    motorized = {
+      x = 0
+      y = 2
+    }
+    motorized = {
+      x = 1
+      y = 0
+    }
+    motorized = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 1
+      y = 2
+    }
+    motorized = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 2
+    }
+    motorized = {
+      x = 3
+      y = 0
+    }
+    motorized = {
+      x = 3
+      y = 1
+    }
+    motorized = {
+      x = 3
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+    recon = {
+      x = 0
+      y = 1
+    }
+  }
+}
+division_template = {
+  name = "Sensha Gurupu"
+  division_names_group = JAP_ARM_01
+  regiments = {
+    light_armor = {
+      x = 0
+      y = 0
+    }
+    light_armor = {
+      x = 0
+      y = 1
+    }
+    light_armor = {
+      x = 0
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Rikusentai"
+  division_names_group = JAP_MAR_01
+  regiments = {
+    marine = {
+      x = 0
+      y = 0
+    }
+    marine = {
+      x = 0
+      y = 1
+    }
+    marine = {
+      x = 0
+      y = 2
+    }
+    marine = {
+      x = 1
+      y = 0
+    }
+    marine = {
+      x = 1
+      y = 1
+    }
+    marine = {
+      x = 1
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+  priority = 2
+}
+division_template = {
+  name = "Chuton-chi Shidan"
+  division_names_group = JAP_GAR_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+  }
+  priority = 0
+}
+units = {
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 7
+    }
+    location = 12421
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 201
+    }
+    location = 12446
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "Ominato Kichi Kaiheidan"
+    location = 9859
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Ominato Kichi Shubitai"
+    location = 4196
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.4
+  }
+  division = {
+    name = "Ominato Kichi Shubitai"
+    location = 1055
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 601
+    }
+    location = 1182
+    division_template = "Jidousha Shidan"
+    start_experience_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 7087
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Yokosuka Kichi Kaiheidan"
+    location = 9998
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 9950
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 9
+    }
+    location = 1092
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 16
+    }
+    location = 4102
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Kure Kichi Kaiheidan"
+    location = 1092
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Sasebo Kichi Kaiheidan"
+    location = 9950
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Taiwan Kichi Shubitai"
+    location = 12068
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 19
+    }
+    location = 4052
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 20
+    }
+    location = 7125
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "Chinkai Kichi Kaiheidan"
+    location = 4056
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Okinawa Kichi Shubitai"
+    location = 11932
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Saipan Kichi Shubitai"
+    location = 3995
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Iwoto Kichi Shubitai"
+    location = 13025
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Palau Kichi Shubitai"
+    location = 4357
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Truk Kichi Shubitai"
+    location = 2489
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Yappu Kichi Shubitai"
+    location = 13028
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Satawan Kichi Shubitai"
+    location = 13035
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Kwajalein Kichi Shubitai"
+    location = 13041
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Eniwetok Kichi Shubitai"
+    location = 13046
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Ponape Kichi Shubitai"
+    location = 13036
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Mili Kichi Shubitai"
+    location = 13040
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 10
+    }
+    location = 11771
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 15
+    }
+    location = 10433
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Ryojun Kichi Shubitai"
+    location = 1150
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Manshu Tetsudo Shubitai" # Manchuria Railway Guard"
+    location = 11771
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "Kantogun Shureibu Keibitai"
+    location = 4572
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 8
+    }
+    location = 10368
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 12
+    }
+    location = 10698
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "1 Sensha Gurupu"
+    location = 10698
+    division_template = "Sensha Gurupu"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "1 Bodagado"
+    location = 1732
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 10541
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "2 Sensha Gurupu"
+    location = 10541
+    division_template = "Sensha Gurupu"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "5 Bodagado"
+    location = 10675
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "6 Bodagado"
+    location = 7848
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "7 Bodagado"
+    location = 7832
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "8 Bodagado"
+    location = 1693
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "13 Bodagado"
+    location = 12548
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 11
+    }
+    location = 3944
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "3 Sensha Gurupu"
+    location = 3944
+    division_template = "Sensha Gurupu"
+    start_experience_factor = 0.2
+  }
+  division = {
+    name = "2 Bodagado"
+    location = 6806
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "3 Bodagado"
+    location = 810
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "4 Bodagado"
+    location = 3843
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "9 Bodagado"
+    location = 5427
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "10 Bodagado"
+    location = 9798
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "11 Bodagado"
+    location = 12500
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "12 Bodagado"
+    location = 10521
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 14
+    }
+    location = 10612
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 23
+    }
+    location = 7697
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 35
+    }
+    location = 7129
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 41
+    }
+    location = 9937
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 110
+    }
+    location = 7571
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 7
+    }
+    location = 1519
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 8
+    }
+    location = 4634
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 9
+    }
+    location = 1575
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 11
+    }
+    location = 10098
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 10079
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Hankow Kichi Shubitai"
+    location = 4619
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 36
+    }
+    location = 4619
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 37
+    }
+    location = 7167
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 40
+    }
+    location = 4631
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 4158
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.4
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 10462
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 4619
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 21
+    }
+    location = 9958
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 27
+    }
+    location = 6932
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 32
+    }
+    location = 11931
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 114
+    }
+    location = 4114
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 1575
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 6
+    }
+    location = 1004
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 10
+    }
+    location = 9958
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 26
+    }
+    location = 4186
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 10507
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 101
+    }
+    location = 12300
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 102
+    }
+    location = 4174
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 103
+    }
+    location = 10451
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 104
+    }
+    location = 3427
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 105
+    }
+    location = 10854
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 106
+    }
+    location = 1959
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 107
+    }
+    location = 10629
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 108
+    }
+    location = 12880
+    division_template = "Kihei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 34
+    }
+    location = 4173
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 39
+    }
+    location = 11937
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Shanghai Kichi Shubitai"
+    location = 7014
+    division_template = "Chuton-chi Shidan"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 7014
+    division_template = "Rikusentai"
+    start_experience_factor = 0.5
+  }
+  division = {
+    name = "1 Yokosuka Rikustentai"
+    location = 4023
+    division_template = "Rikusentai"
+    start_experience_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 21
+    }
+    location = 7071
+    division_template = "Rikusentai"
+    start_experience_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 11988
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.4
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 6
+    }
+    location = 7653
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.4
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 13
+    }
+    location = 4185
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 33
+    }
+    location = 4038
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 101
+    }
+    location = 1153
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 106
+    }
+    location = 3992
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 15
+    }
+    location = 10014
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 17
+    }
+    location = 11991
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 22
+    }
+    location = 7058
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 116
+    }
+    location = 9974
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 11941
+    division_template = "Jidousha Shidan"
+    start_experience_factor = 0.4
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 18
+    }
+    location = 1202
+    division_template = "Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 38
+    }
+    location = 11938
+    division_template = "Chugata Hohei Shidan"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 204
+    }
+    location = 9938
+    division_template = "Dokuritsu Konsei Ryodan"
+    start_experience_factor = 0.3
+  }
+  navy = {
+    name = "Rengo Kantai"
+    base = 1092
+    location = 1092
+    ship = {
+      name = "Nagato"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Nagato Class"
+        }
+      }
+    }
+    ship = {
+      name = "Mutsu"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Nagato Class"
+        }
+      }
+    }
+    ship = {
+      name = "Tone"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_3 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Chikuma"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_3 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kitakami"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Oi"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Arashio"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Asashio"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Michishio"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Oshio"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Arare"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kasumi"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "1 Kantai"
+    base = 1092
+    location = 1092
+    ship = {
+      name = "Hiryu"
+      definition = carrier
+      equipment = {
+        carrier_2 = {
+          amount = 1
+          owner = JAP
+          version_name = "Hiryu Class"
+        }
+      }
+      air_wings = {
+        cv_fighter_equipment_1 = {
+          owner = "JAP"
+          amount = 18
+        }
+        cv_CAS_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+        cv_nav_bomber_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+      }
+    }
+    ship = {
+      name = "Ryujo"
+      definition = carrier
+      equipment = {
+        carrier_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+      air_wings = {
+        cv_fighter_equipment_0 = {
+          owner = "JAP"
+          amount = 18
+        }
+        cv_CAS_equipment_1 = {
+          owner = "JAP"
+          amount = 12
+        }
+      }
+    }
+    ship = {
+      name = "Fuso"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yamashiro"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ise"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Ise Class"
+        }
+      }
+    }
+    ship = {
+      name = "Hyuga"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Ise Class"
+        }
+      }
+    }
+    ship = {
+      name = "Haruna"
+      definition = battleship
+      equipment = {
+        battleship_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kongo"
+      definition = battleship
+      equipment = {
+        battleship_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kirishima"
+      definition = battleship
+      equipment = {
+        battleship_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Aoba"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kinugasa"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Furutaka"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kako"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Abukuma"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Mikazuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yukaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Akatsuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Hibiki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ikazuchi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Inazuma"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shiratsuyu"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shigure"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ariake"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Yugure"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Akikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Tachikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Sumire"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hatsuharu"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Hatsushimo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Nenohi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Wakaba"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Fubuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shirayuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Hatsuyuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Murakumo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shinonome"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Usugumo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shirakumo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ayanami"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Isonami"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shikinami"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Uranami"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Amagiri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Asagiri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Sagiri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Yugiri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "2 Kantai"
+    base = 12068
+    location = 12068
+    ship = {
+      name = "Takao"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Atago"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Maya"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Chokai"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Haguro"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Nachi"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Mogami"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Mikuma"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Suzuya"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kumano"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Jintsu"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Sendai Class"
+        }
+      }
+    }
+    ship = {
+      name = "Naka"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Sendai Class"
+        }
+      }
+    }
+    ship = {
+      name = "Isuzu"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Kuma"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Harusame"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Murasame"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Samidare"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Yudachi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Kisaragi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Mochizuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Mutsuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yayoi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Asagumo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Minegumo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Natsugumo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yamagumo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kawakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Suzukaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Umikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Yamakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "4 Sensui Kantai"
+    base = 1092
+    location = 1092
+    ship = {
+      name = "I-53"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-54"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-55"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-56"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-57"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-58"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ro-33"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-34"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "5 Sensui Kantai"
+    base = 1092
+    location = 1092
+    ship = {
+      name = "I-59"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-60"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-62"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-64"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-65"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-66"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Kure Kantai"
+    base = 1092
+    location = 1092
+    ship = {
+      name = "Sawakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Wakatake"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kuretake"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Sanae"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-26"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-27"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-28"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-51"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-56"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Chinkai Kantai"
+    base = 4056
+    location = 4056
+    ship = {
+      name = "Minekaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Asagao"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Fuyo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Karukaya"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Ominato Kantai"
+    base = 9859
+    location = 9859
+    ship = {
+      name = "Okikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kamikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Nokaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Namikaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Numakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "3 Kantai"
+    base = 1070
+    location = 1070
+    ship = {
+      name = "Akagi"
+      definition = carrier
+      equipment = {
+        carrier_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Akagi Class"
+        }
+      }
+      air_wings = {
+        cv_fighter_equipment_1 = {
+          owner = "JAP"
+          amount = 18
+        }
+        cv_CAS_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+        cv_nav_bomber_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+      }
+    }
+    ship = {
+      name = "Sendai"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Sendai Class"
+        }
+      }
+    }
+    ship = {
+      name = "Kinu"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Yura"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Asakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Harukaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hatakaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Matsukaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Akebono"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Sazanami"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ushio"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Fumizuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Minazuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Nagatsuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Satsuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "4 Kantai"
+    base = 10000
+    location = 10000
+    ship = {
+      name = "Ashigara"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Natori"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Kiso"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Tama"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Shiokaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hokaze"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Oboro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Fubuki Class"
+        }
+      }
+    }
+    ship = {
+      name = "Kikuzuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Uzuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yuzuki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "5 Kantai"
+    base = 7014
+    location = 7014
+    ship = {
+      name = "Kaga"
+      definition = carrier
+      equipment = {
+        carrier_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Akagi Class"
+        }
+      }
+      air_wings = {
+        cv_fighter_equipment_1 = {
+          owner = "JAP"
+          amount = 18
+        }
+        cv_CAS_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+        cv_nav_bomber_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+      }
+    }
+    ship = {
+      name = "Soryu"
+      definition = carrier
+      equipment = {
+        carrier_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+      air_wings = {
+        cv_fighter_equipment_1 = {
+          owner = "JAP"
+          amount = 18
+        }
+        cv_CAS_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+        cv_nav_bomber_equipment_1 = {
+          owner = "JAP"
+          amount = 27
+        }
+      }
+    }
+    ship = {
+      name = "Myoko"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Myoko Class"
+        }
+      }
+    }
+    ship = {
+      name = "Nagara"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Tenryu"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Tatsuta"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yubari"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kuma Class"
+        }
+      }
+    }
+    ship = {
+      name = "Take"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kaki"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Nire"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ashi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Asanagi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hayate"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Oite"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yunagi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Shanghai Kantai"
+    base = 7014
+    location = 7014
+    ship = {
+      name = "Izumo"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Iwate"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hirado"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Yahagi"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Hasu"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Kuri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Tsuga"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "1 Sensui Kantai"
+    base = 13041
+    location = 13041
+    ship = {
+      name = "I-8"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-51"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-52"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-63"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-61"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-67"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "Ro-60"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-61"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-62"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-65"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-66"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-67"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+  navy = {
+    name = "2 Sensui Kantai"
+    base = 13041
+    location = 13041
+    ship = {
+      name = "Ro-63"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-64"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-68"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-57"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-58"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-59"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-1"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-2"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-3"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-4"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-5"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-6"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+    ship = {
+      name = "I-7"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+          version_name = "Kaidai III Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "3 Sensui Kantai"
+    base = 2489
+    location = 2489
+    ship = {
+      name = "I-68"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-69"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-70"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-74"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-75"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-71"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-72"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "I-73"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-30"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-31"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+    ship = {
+      name = "Ro-32"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = JAP
+        }
+      }
+    }
+  }
+}
+air_wings = {
+  282 = {
+    fighter_equipment_1 = {
+      owner = "JAP"
+      amount = 144
+    }
+    CAS_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+  }
+  716 = {
+    fighter_equipment_1 = {
+      owner = "JAP"
+      amount = 72
+    }
+    CAS_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+    tac_bomber_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+  }
+  597 = {
+    CAS_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+    tac_bomber_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+  }
+  524 = {
+    CAS_equipment_1 = {
+      owner = "JAP"
+      amount = 54
+    }
+    fighter_equipment_1 = {
+      owner = "JAP"
+      amount = 144
+    }
+    cv_CAS_equipment_1 = {
+      owner = "JAP"
+      amount = 60
+    }
+    nav_bomber_equipment_1 = {
+      owner = "JAP"
+      amount = 144
+    }
+  }
+  591 = {
+    cv_fighter_equipment_1 = {
+      owner = "JAP"
+      amount = 156
+    }
+    cv_nav_bomber_equipment_1 = {
+      owner = "JAP"
+      amount = 72
+    }
+    nav_bomber_equipment_1 = {
+      owner = "JAP"
+      amount = 144
+    }
+  }
+}
+instant_effect = {
+  add_equipment_production = {
+    equipment = {
+      type = infantry_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 8
+    progress = 0.1
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = support_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.3
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = motorized_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 2
+    progress = 0.4
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = light_tank_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.4
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = cv_fighter_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.15
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = cv_nav_bomber_equipment_1
+      creator = "JAP"
+    }
+    requested_factories = 2
+    progress = 0.2
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_2
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.9
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = SH_battleship_1
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.1
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = carrier_3
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.2
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = light_cruiser_2
+      creator = "JAP"
+    }
+    requested_factories = 1
+    progress = 0.66
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = destroyer_2
+      creator = "JAP"
+      version_name = "Kagero Class"
+    }
+    requested_factories = 3
+    progress = 0.85
+    amount = 5
+  }
+  add_equipment_production = {
+    equipment = {
+      type = destroyer_2
+      creator = "JAP"
+      version_name = "Kagero Class"
+    }
+    requested_factories = 2
+    progress = 0.75
+    amount = 4
+  }
+  add_equipment_production = {
+    equipment = {
+      type = submarine_3
+      creator = "JAP"
+    }
+    requested_factories = 3
+    progress = 0.7
+    amount = 7
+  }
+}

@@ -1,0 +1,1568 @@
+[
+    {
+        "key": "POL_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_INF_01|fallback_name",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|2#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|3#|%d Dywizja Piechoty Legionów",
+        "original": "%d Dywizja Piechoty Legionów",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|4#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|5#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|6#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|7#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|8#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|9#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|10#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|11#|%d Karpacka Dywizja Piechoty",
+        "original": "%d Karpacka Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|12#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|13#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|14#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|15#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|16#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|17#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|18#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|19#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|20#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|23#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|24#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|25#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|26#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|27#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|28#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|29#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|30#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|21#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|22#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|31#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|32#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|34#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|40#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|42#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|43#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|46#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|47#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|48#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|49#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|51#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|52#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|53#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|54#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|76#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|77#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|78#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|79#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|80#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|81#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|85#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|88#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|89#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|90#|%d Dywizja Piechoty",
+        "original": "%d Dywizja Piechoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|33#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|35#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|36#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|38#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|39#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|41#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|44#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|45#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|50#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|55#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_INF_01|ordered|60#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAV_01|fallback_name",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|101#|Krakowska Brygada Kawalerii",
+        "original": "Krakowska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|102#|Kresowa Brygada Kawalerii",
+        "original": "Kresowa Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|103#|Mazowiecka Brygada Kawalerii",
+        "original": "Mazowiecka Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|104#|Nowogródzka Brygada Kawalerii",
+        "original": "Nowogródzka Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|105#|Podlaska Brygada Kawalerii",
+        "original": "Podlaska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|106#|Podolska Brygada Kawalerii",
+        "original": "Podolska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|107#|Pomorska Brygada Kawalerii",
+        "original": "Pomorska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|108#|Suwalska Brygada Kawalerii",
+        "original": "Suwalska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|109#|Wielkopolska Brygada Kawalerii",
+        "original": "Wielkopolska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|110#|Wilenska Brygada Kawalerii",
+        "original": "Wilenska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|111#|Wolynska Brygada Kawalerii",
+        "original": "Wolynska Brygada Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|1#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|2#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|3#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|4#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|5#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|6#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|7#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|8#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|9#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_CAV_01|ordered|10#|%d Dywizja Kawalerii",
+        "original": "%d Dywizja Kawalerii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MOT_01|name",
+        "original": "Motor Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MOT_01|fallback_name",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|101#|Dywizja Motorowej Warszawska",
+        "original": "Dywizja Motorowej Warszawska",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|10#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|2#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|3#|%d Dywizja Motorowej Legionów",
+        "original": "%d Dywizja Motorowej Legionów",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|4#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|5#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|6#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|7#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|8#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|9#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|11#|%d Karpacka Dywizja Motorowej",
+        "original": "%d Karpacka Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|12#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|13#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|14#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|15#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|16#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|17#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|18#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|19#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|20#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|23#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|24#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|25#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|26#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|27#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|28#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|29#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MOT_01|ordered|30#|%d Dywizja Motorowej",
+        "original": "%d Dywizja Motorowej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MEC_01|fallback_name",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|101#|Dywizja Zmechanizowany Warszawska",
+        "original": "Dywizja Zmechanizowany Warszawska",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|10#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|2#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|3#|%d Dywizja Zmechanizowany Legionów",
+        "original": "%d Dywizja Zmechanizowany Legionów",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|4#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|5#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|6#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|7#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|8#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|9#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|11#|%d Karpacka Dywizja Zmechanizowany",
+        "original": "%d Karpacka Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|12#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|13#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|14#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|15#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|16#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|17#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|18#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|19#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|20#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|23#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|24#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|25#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|26#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|27#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|28#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|29#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MEC_01|ordered|30#|%d Dywizja Zmechanizowany",
+        "original": "%d Dywizja Zmechanizowany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_ARM_01|fallback_name",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|1#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|2#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|3#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|4#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|5#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|6#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|7#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|8#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|9#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_ARM_01|ordered|10#|%d Dywizja Pancerno-Motorowa",
+        "original": "%d Dywizja Pancerno-Motorowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_PAR_01|name",
+        "original": "Parachute Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_PAR_01|fallback_name",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|1#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|2#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|3#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|4#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|5#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|6#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|7#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|8#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|9#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_PAR_01|ordered|10#|%d Dywizja Spadochronowa",
+        "original": "%d Dywizja Spadochronowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MAR_01|fallback_name",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|1#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|2#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|3#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|4#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|5#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|6#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|7#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|8#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|9#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MAR_01|ordered|10#|%d Dywizja Piechoty Morskiej",
+        "original": "%d Dywizja Piechoty Morskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_MNT_01|fallback_name",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|21#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|22#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|2#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|3#|%d DPG Legionów",
+        "original": "%d DPG Legionów",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|4#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|5#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|6#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|7#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|8#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|9#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|10#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|11#|%d Karpacka DPG",
+        "original": "%d Karpacka DPG",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|12#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|13#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|14#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|15#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|16#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|17#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|18#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|19#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|20#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|23#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|24#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|25#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|26#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|27#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|28#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|29#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_MNT_01|ordered|30#|%d Dywizja Piechoty Górskiej",
+        "original": "%d Dywizja Piechoty Górskiej",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_GAR_01|fallback_name",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|33#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|35#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|36#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|38#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|39#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|41#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|44#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|45#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|50#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|55#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|60#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|201#|Czersk Grupa KOP",
+        "original": "Czersk Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|202#|Poznan Grupa KOP",
+        "original": "Poznan Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|203#|Grupa Granicznej Wegry",
+        "original": "Grupa Granicznej Wegry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|204#|Modlin Grupa KOP",
+        "original": "Modlin Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|205#|Stryj Grupa KOP",
+        "original": "Stryj Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|206#|Czortkow Grupa KOP",
+        "original": "Czortkow Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|207#|Luniniec Grupa KOP",
+        "original": "Luniniec Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|208#|Wilejka Grupa KOP",
+        "original": "Wilejka Grupa KOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|31#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|32#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|34#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|40#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|42#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|43#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|46#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|47#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|48#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|49#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|51#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|52#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|53#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|54#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|76#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|77#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|78#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|79#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|80#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|81#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|85#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|88#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|89#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|POL_GAR_01|ordered|90#|%d Dywizja Piechoty Rezerwy",
+        "original": "%d Dywizja Piechoty Rezerwy",
+        "translation": "",
+        "stage": 0
+    }
+]

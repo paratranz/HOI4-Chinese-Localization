@@ -1,0 +1,468 @@
+SIK_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Xin'jiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Xin'jiang Juntuán"
+    }
+    2 = {
+      "%d Xin'jiang Juntuán"
+    }
+    3 = {
+      "%d Xin'jiang Juntuán"
+    }
+    4 = {
+      "%d Xin'jiang Juntuán"
+    }
+    5 = {
+      "%d Xin'jiang Juntuán"
+    }
+    6 = {
+      "%d Xin'jiang Juntuán"
+    }
+    7 = {
+      "%d Xin'jiang Juntuán"
+    }
+    8 = {
+      "%d Xin'jiang Juntuán"
+    }
+    9 = {
+      "%d Xin'jiang Juntuán"
+    }
+    10 = {
+      "%d Xin'jiang Juntuán"
+    }
+    11 = {
+      "%d Xin'jiang Juntuán"
+    }
+    12 = {
+      "%d Xin'jiang Juntuán"
+    }
+    13 = {
+      "%d Xin'jiang Juntuán"
+    }
+    14 = {
+      "%d Xin'jiang Juntuán"
+    }
+    15 = {
+      "%d Xin'jiang Juntuán"
+    }
+    16 = {
+      "%d Xin'jiang Juntuán"
+    }
+    17 = {
+      "%d Xin'jiang Juntuán"
+    }
+    18 = {
+      "%d Xin'jiang Juntuán"
+    }
+    19 = {
+      "%d Xin'jiang Juntuán"
+    }
+    20 = {
+      "%d Xin'jiang Juntuán"
+    }
+  }
+}
+SIK_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Xin'jiang Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    2 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    3 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    4 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    6 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    5 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    7 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    8 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    9 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    10 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    11 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    12 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    13 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    14 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+    15 = {
+      "%d Xin'jiang Qibing Jun"
+    }
+  }
+}
+SIK_MOT_01 = {
+  name = "Motorized Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    SIK_INF_01
+  }
+  fallback_name = "%d Xin'jiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Xin'jiang Juntuán"
+    }
+    2 = {
+      "%d Xin'jiang Juntuán"
+    }
+    3 = {
+      "%d Xin'jiang Juntuán"
+    }
+    4 = {
+      "%d Xin'jiang Juntuán"
+    }
+    5 = {
+      "%d Xin'jiang Juntuán"
+    }
+    6 = {
+      "%d Xin'jiang Juntuán"
+    }
+    7 = {
+      "%d Xin'jiang Juntuán"
+    }
+    8 = {
+      "%d Xin'jiang Juntuán"
+    }
+    9 = {
+      "%d Xin'jiang Juntuán"
+    }
+    10 = {
+      "%d Xin'jiang Juntuán"
+    }
+    11 = {
+      "%d Xin'jiang Juntuán"
+    }
+    12 = {
+      "%d Xin'jiang Juntuán"
+    }
+    13 = {
+      "%d Xin'jiang Juntuán"
+    }
+    14 = {
+      "%d Xin'jiang Juntuán"
+    }
+    15 = {
+      "%d Xin'jiang Juntuán"
+    }
+    16 = {
+      "%d Xin'jiang Juntuán"
+    }
+    17 = {
+      "%d Xin'jiang Juntuán"
+    }
+    18 = {
+      "%d Xin'jiang Juntuán"
+    }
+    19 = {
+      "%d Xin'jiang Juntuán"
+    }
+    20 = {
+      "%d Xin'jiang Juntuán"
+    }
+  }
+}
+SIK_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    SIK_INF_01
+  }
+  fallback_name = "%d Xin'jiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Xin'jiang Juntuán"
+    }
+    2 = {
+      "%d Xin'jiang Juntuán"
+    }
+    3 = {
+      "%d Xin'jiang Juntuán"
+    }
+    4 = {
+      "%d Xin'jiang Juntuán"
+    }
+    5 = {
+      "%d Xin'jiang Juntuán"
+    }
+    6 = {
+      "%d Xin'jiang Juntuán"
+    }
+    7 = {
+      "%d Xin'jiang Juntuán"
+    }
+    8 = {
+      "%d Xin'jiang Juntuán"
+    }
+    9 = {
+      "%d Xin'jiang Juntuán"
+    }
+    10 = {
+      "%d Xin'jiang Juntuán"
+    }
+    11 = {
+      "%d Xin'jiang Juntuán"
+    }
+    12 = {
+      "%d Xin'jiang Juntuán"
+    }
+    13 = {
+      "%d Xin'jiang Juntuán"
+    }
+    14 = {
+      "%d Xin'jiang Juntuán"
+    }
+    15 = {
+      "%d Xin'jiang Juntuán"
+    }
+    16 = {
+      "%d Xin'jiang Juntuán"
+    }
+    17 = {
+      "%d Xin'jiang Juntuán"
+    }
+    18 = {
+      "%d Xin'jiang Juntuán"
+    }
+    19 = {
+      "%d Xin'jiang Juntuán"
+    }
+    20 = {
+      "%d Xin'jiang Juntuán"
+    }
+  }
+}
+SIK_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    SIK_INF_01
+  }
+  fallback_name = "%d Xin'jiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Xin'jiang Juntuán"
+    }
+    2 = {
+      "%d Xin'jiang Juntuán"
+    }
+    3 = {
+      "%d Xin'jiang Juntuán"
+    }
+    4 = {
+      "%d Xin'jiang Juntuán"
+    }
+    5 = {
+      "%d Xin'jiang Juntuán"
+    }
+    6 = {
+      "%d Xin'jiang Juntuán"
+    }
+    7 = {
+      "%d Xin'jiang Juntuán"
+    }
+    8 = {
+      "%d Xin'jiang Juntuán"
+    }
+    9 = {
+      "%d Xin'jiang Juntuán"
+    }
+    10 = {
+      "%d Xin'jiang Juntuán"
+    }
+    11 = {
+      "%d Xin'jiang Juntuán"
+    }
+    12 = {
+      "%d Xin'jiang Juntuán"
+    }
+    13 = {
+      "%d Xin'jiang Juntuán"
+    }
+    14 = {
+      "%d Xin'jiang Juntuán"
+    }
+    15 = {
+      "%d Xin'jiang Juntuán"
+    }
+    16 = {
+      "%d Xin'jiang Juntuán"
+    }
+    17 = {
+      "%d Xin'jiang Juntuán"
+    }
+    18 = {
+      "%d Xin'jiang Juntuán"
+    }
+    19 = {
+      "%d Xin'jiang Juntuán"
+    }
+    20 = {
+      "%d Xin'jiang Juntuán"
+    }
+  }
+}
+SIK_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    SIK
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Xin'jiang Jingbei"
+  ordered = {
+    101 = {
+      "1 Urumqi Jingbei"
+    }
+    111 = {
+      "1 Talamakan Jingbei"
+    }
+    121 = {
+      "1 Yarkand Jingbei"
+    }
+    102 = {
+      "2 Urumqi Jingbei"
+    }
+    103 = {
+      "3 Urumqi Jingbei"
+    }
+    112 = {
+      "2 Talamakan Jingbei"
+    }
+    113 = {
+      "3 Talamakan Jingbei"
+    }
+    122 = {
+      "2 Yarkand Jingbei"
+    }
+    104 = {
+      "4 Urumqi Jingbei"
+    }
+    105 = {
+      "5 Urumqi Jingbei"
+    }
+    123 = {
+      "3 Yarkand Jingbei"
+    }
+    124 = {
+      "4 Yarkand Jingbei"
+    }
+    114 = {
+      "4 Talamakan Jingbei"
+    }
+    115 = {
+      "5 Talamakan Jingbei"
+    }
+    125 = {
+      "5 Yarkand Jingbei"
+    }
+    131 = {
+      "1 Urumqi Baoan Ke"
+    }
+    132 = {
+      "2 Urumqi Baoan Ke"
+    }
+    133 = {
+      "3 Urumqi Baoan Ke"
+    }
+    1 = {
+      "%d Xin'jiang Jingbei"
+    }
+    2 = {
+      "%d Xin'jiang Jingbei"
+    }
+    3 = {
+      "%d Xin'jiang Jingbei"
+    }
+    4 = {
+      "%d Xin'jiang Jingbei"
+    }
+    5 = {
+      "%d Xin'jiang Jingbei"
+    }
+    6 = {
+      "%d Xin'jiang Jingbei"
+    }
+    7 = {
+      "%d Xin'jiang Jingbei"
+    }
+    8 = {
+      "%d Xin'jiang Jingbei"
+    }
+    9 = {
+      "%d Xin'jiang Jingbei"
+    }
+    10 = {
+      "%d Xin'jiang Jingbei"
+    }
+  }
+}

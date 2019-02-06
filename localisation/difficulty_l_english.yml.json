@@ -1,0 +1,14 @@
+[
+    {
+        "key": "TheAxisIndustry:0",
+        "original": "The Axis Industry",
+        "translation": "轴心国工业",
+        "stage": 1
+    },
+    {
+        "key": "diff_custom_industry:0",
+        "original": "Custom Difficulty Industry",
+        "translation": "自定义难度工业",
+        "stage": 1
+    }
+]

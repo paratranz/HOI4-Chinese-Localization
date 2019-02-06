@@ -1,0 +1,224 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Armada de Chile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "BACH Almirante Latorre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "BACH O`Higgins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "BACH Chacabuco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "BACH Almirante Lynch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "BACH Almirante Condell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "BACH Aldea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "BACH Hyatt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "BACH Orella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "BACH Requelme",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "BACH Serrano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "BACH Videla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|equipment|destroyer_1|version_name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "BACH Gualcolda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "BACH Tegualda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "BACH Rucumilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "BACH Quidora",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "BACH Fresia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "BACH Guale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "BACH Capitán O`Brien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|equipment|submarine_1|version_name",
+        "original": "Capitán O`Brien Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "BACH Almirante Simpson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|equipment|submarine_1|version_name",
+        "original": "Capitán O`Brien Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "BACH Capitán Thomson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|equipment|submarine_1|version_name",
+        "original": "Capitán O`Brien Class",
+        "translation": "",
+        "stage": 0
+    }
+]

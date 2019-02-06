@@ -1,0 +1,32 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Karlis Ulmanis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Gustavs Celmiņš",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Fricis Menders",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Vilis Lacis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Berkis Krisjanis",
+        "translation": "",
+        "stage": 0
+    }
+]

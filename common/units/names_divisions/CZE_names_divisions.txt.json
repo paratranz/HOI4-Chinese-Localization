@@ -1,0 +1,176 @@
+[
+    {
+        "key": "CZE_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_MOBINF_01|name",
+        "original": "Mobilized Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_ALTINF_01|name",
+        "original": "Special Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_ALTINF_01|fallback_name",
+        "original": "Skupina %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_ALTINF_01|ordered|1#|Skupina 1 VLASTIMIL",
+        "original": "Skupina 1 VLASTIMIL",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_ALTINF_01|ordered|2#|Skupina 2 JAROMÍR",
+        "original": "Skupina 2 JAROMÍR",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_ALTINF_01|ordered|4#|Skupina 4 VLK",
+        "original": "Skupina 4 VLK",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_ARM_01|name",
+        "original": "Interwar Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_ALTARM_01|name",
+        "original": "Postwar Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CZE_GAR_01|fallback_name",
+        "original": "Hraniční oblast %d",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|31#|Hraniční oblast %d BLAŽEJ",
+        "original": "Hraniční oblast %d BLAŽEJ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|32#|Hraniční oblast %d MIKULÁŠ",
+        "original": "Hraniční oblast %d MIKULÁŠ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|33#|Hraniční oblast %d DOMINIK",
+        "original": "Hraniční oblast %d DOMINIK",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|34#|Hraniční oblast %d BOŘIVOJ",
+        "original": "Hraniční oblast %d BOŘIVOJ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|45#|Hraniční oblast %d VÍTĚZSLAV",
+        "original": "Hraniční oblast %d VÍTĚZSLAV",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|36#|Hraniční oblast %d PROKOP",
+        "original": "Hraniční oblast %d PROKOP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|37#|Hraniční oblast %d FLORIÁN",
+        "original": "Hraniční oblast %d FLORIÁN",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|38#|Hraniční oblast %d CYRIL",
+        "original": "Hraniční oblast %d CYRIL",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|39#|Hraniční oblast %d RAFAEL",
+        "original": "Hraniční oblast %d RAFAEL",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|40#|Hraniční oblast %d MEDARD",
+        "original": "Hraniční oblast %d MEDARD",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|41#|Hraniční oblast %d ALFONS",
+        "original": "Hraniční oblast %d ALFONS",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CZE_GAR_01|ordered|42#|Hraniční oblast %d KAROL",
+        "original": "Hraniční oblast %d KAROL",
+        "translation": "",
+        "stage": 0
+    }
+]

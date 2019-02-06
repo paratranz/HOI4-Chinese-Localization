@@ -1,0 +1,110 @@
+[
+    {
+        "key": "AUS_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AUS_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|101#|Division Burgenland",
+        "original": "Division Burgenland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|102#|Division Wien",
+        "original": "Division Wien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|103#|Division Niederösterreich",
+        "original": "Division Niederösterreich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|104#|Division Oberösterreich",
+        "original": "Division Oberösterreich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|105#|Division Steirmark",
+        "original": "Division Steirmark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|106#|Division Kärnten",
+        "original": "Division Kärnten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|107#|Division Salzburg",
+        "original": "Division Salzburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|108#|Division Tirol",
+        "original": "Division Tirol",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AUS_GAR_01|ordered|109#|Division Voralberg",
+        "original": "Division Voralberg",
+        "translation": "",
+        "stage": 0
+    }
+]

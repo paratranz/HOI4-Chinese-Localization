@@ -1,0 +1,32 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Lord Linlithgow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Noel Beresford-Peirse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Frank Messervy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Douglas Gracey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Herbert Fitzherbert",
+        "translation": "",
+        "stage": 0
+    }
+]

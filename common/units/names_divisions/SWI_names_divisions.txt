@@ -1,0 +1,474 @@
+SWI_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "Division %d"
+  ordered = {
+    1 = {
+      "Division %d"
+    }
+    2 = {
+      "Division %d"
+    }
+    3 = {
+      "Division %d"
+    }
+    4 = {
+      "Division %d"
+    }
+    5 = {
+      "Division %d"
+    }
+    6 = {
+      "Division %d"
+    }
+    7 = {
+      "Division %d"
+    }
+    8 = {
+      "Division %d"
+    }
+    9 = {
+      "Division %d"
+    }
+    10 = {
+      "Division %d"
+    }
+    11 = {
+      "Division %d"
+    }
+    12 = {
+      "Division %d"
+    }
+    13 = {
+      "Division %d"
+    }
+    14 = {
+      "Division %d"
+    }
+    15 = {
+      "Division %d"
+    }
+    16 = {
+      "Division %d"
+    }
+    17 = {
+      "Division %d"
+    }
+    18 = {
+      "Division %d"
+    }
+    19 = {
+      "Division %d"
+    }
+    20 = {
+      "Division %d"
+    }
+  }
+}
+SWI_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "Leichte-Brigade %d"
+  ordered = {
+    1 = {
+      "Leichte-Brigade %d"
+    }
+    2 = {
+      "Leichte-Brigade %d"
+    }
+    3 = {
+      "Leichte-Brigade %d"
+    }
+    4 = {
+      "Leichte-Brigade %d"
+    }
+    5 = {
+      "Leichte-Brigade %d"
+    }
+    6 = {
+      "Leichte-Brigade %d"
+    }
+    7 = {
+      "Leichte-Brigade %d"
+    }
+    8 = {
+      "Leichte-Brigade %d"
+    }
+    9 = {
+      "Leichte-Brigade %d"
+    }
+    10 = {
+      "Leichte-Brigade %d"
+    }
+  }
+}
+SWI_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    SWI_INF_01
+  }
+  fallback_name = "Motorfeld-Division %d"
+  ordered = {
+    1 = {
+      "Motorfeld-Division %d"
+    }
+    2 = {
+      "Motorfeld-Division %d"
+    }
+    3 = {
+      "Motorfeld-Division %d"
+    }
+    4 = {
+      "Motorfeld-Division %d"
+    }
+    5 = {
+      "Motorfeld-Division %d"
+    }
+    6 = {
+      "Motorfeld-Division %d"
+    }
+    7 = {
+      "Motorfeld-Division %d"
+    }
+    8 = {
+      "Motorfeld-Division %d"
+    }
+    9 = {
+      "Motorfeld-Division %d"
+    }
+    10 = {
+      "Motorfeld-Division %d"
+    }
+  }
+}
+SWI_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  fallback_name = "Grenadierfeld-Division %d"
+  ordered = {
+    1 = {
+      "Grenadierfeld-Division %d"
+    }
+    2 = {
+      "Grenadierfeld-Division %d"
+    }
+    3 = {
+      "Grenadierfeld-Division %d"
+    }
+    4 = {
+      "Grenadierfeld-Division %d"
+    }
+    5 = {
+      "Grenadierfeld-Division %d"
+    }
+    6 = {
+      "Grenadierfeld-Division %d"
+    }
+    7 = {
+      "Grenadierfeld-Division %d"
+    }
+    8 = {
+      "Grenadierfeld-Division %d"
+    }
+    9 = {
+      "Grenadierfeld-Division %d"
+    }
+    10 = {
+      "Grenadierfeld-Division %d"
+    }
+  }
+}
+SWI_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "Panzer-Division %d"
+  ordered = {
+    1 = {
+      "Panzer-Division %d"
+    }
+    2 = {
+      "Panzer-Division %d"
+    }
+    3 = {
+      "Panzer-Division %d"
+    }
+    4 = {
+      "Panzer-Division %d"
+    }
+    5 = {
+      "Panzer-Division %d"
+    }
+    6 = {
+      "Panzer-Division %d"
+    }
+    7 = {
+      "Panzer-Division %d"
+    }
+    8 = {
+      "Panzer-Division %d"
+    }
+    9 = {
+      "Panzer-Division %d"
+    }
+    10 = {
+      "Panzer-Division %d"
+    }
+  }
+}
+SWI_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "Fallschirmjäger-Division %d"
+  ordered = {
+    1 = {
+      "Fallschirmjäger-Division %d"
+    }
+    2 = {
+      "Fallschirmjäger-Division %d"
+    }
+    3 = {
+      "Fallschirmjäger-Division %d"
+    }
+    4 = {
+      "Fallschirmjäger-Division %d"
+    }
+    5 = {
+      "Fallschirmjäger-Division %d"
+    }
+    6 = {
+      "Fallschirmjäger-Division %d"
+    }
+    7 = {
+      "Fallschirmjäger-Division %d"
+    }
+    8 = {
+      "Fallschirmjäger-Division %d"
+    }
+    9 = {
+      "Fallschirmjäger-Division %d"
+    }
+    10 = {
+      "Fallschirmjäger-Division %d"
+    }
+  }
+}
+SWI_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "Marineinfanterie-Division %d"
+  ordered = {
+    1 = {
+      "Marineinfanterie-Division %d"
+    }
+    2 = {
+      "Marineinfanterie-Division %d"
+    }
+    3 = {
+      "Marineinfanterie-Division %d"
+    }
+    4 = {
+      "Marineinfanterie-Division %d"
+    }
+    5 = {
+      "Marineinfanterie-Division %d"
+    }
+    6 = {
+      "Marineinfanterie-Division %d"
+    }
+    7 = {
+      "Marineinfanterie-Division %d"
+    }
+    8 = {
+      "Marineinfanterie-Division %d"
+    }
+    9 = {
+      "Marineinfanterie-Division %d"
+    }
+    10 = {
+      "Marineinfanterie-Division %d"
+    }
+  }
+}
+SWI_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    SWI_INF_01
+  }
+  fallback_name = "Division %d"
+  ordered = {
+    1 = {
+      "Division %d"
+    }
+    2 = {
+      "Division %d"
+    }
+    3 = {
+      "Division %d"
+    }
+    4 = {
+      "Division %d"
+    }
+    5 = {
+      "Division %d"
+    }
+    6 = {
+      "Division %d"
+    }
+    7 = {
+      "Division %d"
+    }
+    8 = {
+      "Division %d"
+    }
+    9 = {
+      "Division %d"
+    }
+    10 = {
+      "Division %d"
+    }
+    11 = {
+      "Division %d"
+    }
+    12 = {
+      "Division %d"
+    }
+    13 = {
+      "Division %d"
+    }
+    14 = {
+      "Division %d"
+    }
+    15 = {
+      "Division %d"
+    }
+    16 = {
+      "Division %d"
+    }
+    17 = {
+      "Division %d"
+    }
+    18 = {
+      "Division %d"
+    }
+    19 = {
+      "Division %d"
+    }
+    20 = {
+      "Division %d"
+    }
+  }
+}
+SWI_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    SWI
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "Grenzbrigade %d"
+  ordered = {
+    1 = {
+      "Grenzbrigade %d"
+    }
+    2 = {
+      "Grenzbrigade %d"
+    }
+    3 = {
+      "Grenzbrigade %d"
+    }
+    4 = {
+      "Grenzbrigade %d"
+    }
+    5 = {
+      "Grenzbrigade %d"
+    }
+    6 = {
+      "Grenzbrigade %d"
+    }
+    7 = {
+      "Grenzbrigade %d"
+    }
+    8 = {
+      "Grenzbrigade %d"
+    }
+    9 = {
+      "Grenzbrigade %d"
+    }
+    10 = {
+      "Grenzbrigade %d"
+    }
+  }
+}

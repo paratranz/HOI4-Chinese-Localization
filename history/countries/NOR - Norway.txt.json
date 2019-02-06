@@ -1,0 +1,38 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Johan Nygaardsvold",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Vidkun Quisling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Johan Ludwig Mowinckel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Adam Egede-Nissen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Carl Gustav Fleischer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Elias Corneliussen",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,908 @@
+[
+    {
+        "key": "NEP_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_INF_01|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_INF_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MOT_01|fallback_name",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|1#|%dst Motor Division",
+        "original": "%dst Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|2#|%dnd Motor Division",
+        "original": "%dnd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|3#|%drd Motor Division",
+        "original": "%drd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|4#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|5#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|6#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|7#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|8#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|9#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|10#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|11#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|12#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|13#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|14#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|15#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|16#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|17#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|18#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|19#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|20#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|21#|%dst Motor Division",
+        "original": "%dst Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|22#|%dnd Motor Division",
+        "original": "%dnd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MOT_01|ordered|23#|%drd Motor Division",
+        "original": "%drd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_ARM_01|fallback_name",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|1#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|2#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|3#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|4#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|5#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|6#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|7#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|8#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|9#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|10#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|11#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|12#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|13#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|14#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|15#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|16#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|17#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|18#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|19#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|20#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|21#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|22#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_ARM_01|ordered|23#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MEC_01|fallback_name",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|1#|%dst Mechanized Division",
+        "original": "%dst Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|2#|%dnd Mechanized Division",
+        "original": "%dnd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|3#|%drd Mechanized Division",
+        "original": "%drd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|4#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|5#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|6#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|7#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|8#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|9#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|10#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|11#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|12#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|13#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|14#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|15#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|16#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|17#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|18#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|19#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|20#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|21#|%dst Mechanized Division",
+        "original": "%dst Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|22#|%dnd Mechanized Division",
+        "original": "%dnd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MEC_01|ordered|23#|%drd Mechanized Division",
+        "original": "%drd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_GAR_01|fallback_name",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|1#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|2#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|3#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|4#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|5#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|6#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|7#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|8#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|9#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|10#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|11#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|12#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|13#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|14#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|15#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|16#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|17#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|18#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|19#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|20#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|21#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|22#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_GAR_01|ordered|23#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_MTN_01|fallback_name",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|1#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|2#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|3#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|4#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|5#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|6#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|7#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|8#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|9#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_MTN_01|ordered|10#|%d Nepali Dibhijana",
+        "original": "%d Nepali Dibhijana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NEP_PAR_01|fallback_name",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|1#|%dst Para Division",
+        "original": "%dst Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|2#|%dnd Para Division",
+        "original": "%dnd Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|3#|%drd Para Division",
+        "original": "%drd Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|4#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|5#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|6#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|7#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|8#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|9#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NEP_PAR_01|ordered|10#|%dth Para Division",
+        "original": "%dth Para Division",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "key": "DECISIONVIEW_TITLE:0",
+        "original": "Events and Decisions",
+        "translation": "事件与决议",
+        "stage": 1
+    },
+    {
+        "key": "DECISIONSVIEW_EVENT_HEADER:0",
+        "original": "Events",
+        "translation": "事件",
+        "stage": 1
+    },
+    {
+        "key": "POPUP_NEWS:0",
+        "original": "News Popup",
+        "translation": "新闻弹窗",
+        "stage": 1
+    },
+    {
+        "key": "POPUP_EVENTS:0",
+        "original": "Event Popup",
+        "translation": "事件弹窗",
+        "stage": 1
+    },
+    {
+        "key": "CATEGORY_COLLAPSE_DESC:0",
+        "original": "§GClick§! to collapse",
+        "translation": "§G点击§!收起",
+        "stage": 1
+    },
+    {
+        "key": "CATEGORY_EXPAND_DESC:0",
+        "original": "§GClick§! to expand",
+        "translation": "§G点击§!展开",
+        "stage": 1
+    },
+    {
+        "key": "DECISION_KEEP_NOTIFIED:1",
+        "original": "§HNotify§!\\n\\n§GClick§! to §Rnot be notified§! when it is possible to take this decision.\\n",
+        "translation": "§H提醒§!\\n\\n§G点击§!后当可以执行这个决议时§R不会收到提醒§!。\\n",
+        "stage": 1
+    },
+    {
+        "key": "DECISION_NOT_KEEP_NOTIFIED:1",
+        "original": "§HNotify§!\\n\\n§GClick§! to §Gbe notified§! when it is possible to take this decision.\\n",
+        "translation": "§H提醒§!\\n\\n§G点击§!后当可以执行这个决议时§G会收到提醒§!。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TAKE_DECISION_HEADER:0",
+        "original": "§HTake decision§!\\n\\n",
+        "translation": "§H执行决议§!\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "DECISION_COST_DESC:0",
+        "original": "It costs £pol_power $VAL|H0$ to take the decision",
+        "translation": "这个决议花费£pol_power $VAL|H0$",
+        "stage": 1
+    },
+    {
+        "key": "DECISION_COST_NOT_ENOUGH:0",
+        "original": "It costs £pol_power $VAL|HR0$ to take the decision",
+        "translation": "这个决议花费£pol_power $VAL|HR0$",
+        "stage": 1
+    }
+]

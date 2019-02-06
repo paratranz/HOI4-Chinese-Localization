@@ -1,0 +1,20 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Kost Levytsky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Nikita Sergeyevich Khrushchev",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Stepan Bandera",
+        "translation": "",
+        "stage": 0
+    }
+]

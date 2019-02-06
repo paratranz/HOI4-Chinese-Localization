@@ -1,0 +1,632 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "I Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "II Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "III Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "IV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|name",
+        "original": "V Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|name",
+        "original": "VI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "VII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "VIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|name",
+        "original": "IX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|name",
+        "original": "X Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "XI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "XII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "XIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|name",
+        "original": "XIV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|name",
+        "original": "XV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|name",
+        "original": "XVI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|name",
+        "original": "XVII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|name",
+        "original": "XVIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|name",
+        "original": "XIX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|name",
+        "original": "XX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|name",
+        "original": "XXI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|name",
+        "original": "XXII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|name",
+        "original": "XXIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|name",
+        "original": "XXIV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|name",
+        "original": "XXV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|name",
+        "original": "XXVI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|name",
+        "original": "XXVII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "XXVIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|name",
+        "original": "XXIX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|name",
+        "original": "XXX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|name",
+        "original": "XXXI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "XXXII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|name",
+        "original": "XXXIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|name",
+        "original": "XXXIV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|name",
+        "original": "XXXV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|name",
+        "original": "XXXVI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|name",
+        "original": "XXXVII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|name",
+        "original": "XXXVIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|name",
+        "original": "XXXIX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|name",
+        "original": "XL Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|name",
+        "original": "XLI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|name",
+        "original": "XLII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|name",
+        "original": "XLIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|name",
+        "original": "XLIV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|name",
+        "original": "XLV Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|name",
+        "original": "XLVI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|name",
+        "original": "XLVII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|name",
+        "original": "XLVIII Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|name",
+        "original": "XLIX Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|name",
+        "original": "L Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|name",
+        "original": "LI Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|name",
+        "original": "LII Brigada Internacionales 25",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Brigada Internacionales",
+        "translation": "",
+        "stage": 0
+    }
+]

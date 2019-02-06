@@ -1,0 +1,537 @@
+SWE_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s. Arméfördelningen"
+  ordered = {
+    1 = {
+      "%s. Arméfördelningen"
+    }
+    2 = {
+      "%s. Arméfördelningen"
+    }
+    3 = {
+      "%s. Arméfördelningen"
+    }
+    4 = {
+      "%s. Arméfördelningen"
+    }
+    6 = {
+      "%s. Arméfördelningen"
+    }
+    10 = {
+      "%s. Arméfördelningen"
+    }
+    11 = {
+      "%s. Arméfördelningen"
+    }
+    12 = {
+      "%s. Arméfördelningen"
+    }
+    13 = {
+      "%s. Arméfördelningen"
+    }
+    14 = {
+      "%s. Arméfördelningen"
+    }
+    15 = {
+      "%s. Arméfördelningen"
+    }
+    16 = {
+      "%s. Arméfördelningen"
+    }
+    5 = {
+      "%s. Arméfördelningen"
+    }
+    7 = {
+      "%s. Arméfördelningen"
+    }
+    8 = {
+      "%s. Arméfördelningen"
+    }
+    9 = {
+      "%s. Arméfördelningen"
+    }
+  }
+}
+SWE_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d. Kavallerifördelningen"
+  ordered = {
+    1 = {
+      "%s. Kavallerifördelningen"
+    }
+    2 = {
+      "%s. Kavallerifördelningen"
+    }
+    3 = {
+      "%s. Kavallerifördelningen"
+    }
+    4 = {
+      "%s. Kavallerifördelningen"
+    }
+    5 = {
+      "%s. Kavallerifördelningen"
+    }
+    6 = {
+      "%s. Kavallerifördelningen"
+    }
+    7 = {
+      "%s. Kavallerifördelningen"
+    }
+    8 = {
+      "%s. Kavallerifördelningen"
+    }
+    9 = {
+      "%s. Kavallerifördelningen"
+    }
+    10 = {
+      "%s. Kavallerifördelningen"
+    }
+  }
+}
+SWE_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    SWE_INF_01
+  }
+  fallback_name = "%s. Motoriserade Arméfördelningen"
+  ordered = {
+    1 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    2 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    3 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    4 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    6 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    10 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    11 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    12 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    13 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    14 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    15 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    16 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    5 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    7 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    8 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+    9 = {
+      "%s. Motoriserade Arméfördelningen"
+    }
+  }
+}
+SWE_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    SWE_INF_01
+  }
+  fallback_name = "%s. Mekaniserade Fördelningen"
+  ordered = {
+    1 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    2 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    3 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    4 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    5 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    6 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    7 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    8 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    9 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    10 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    11 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    12 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    13 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    14 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+    15 = {
+      "%s. Mekaniserade Fördelningen"
+    }
+  }
+}
+SWE_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    SWE_INF_01
+  }
+  fallback_name = "%s. Pansarfördelningen"
+  ordered = {
+    8 = {
+      "%s. Pansarfördelningen"
+    }
+    9 = {
+      "%s. Pansarfördelningen"
+    }
+    10 = {
+      "%s. Pansarfördelningen"
+    }
+    11 = {
+      "%s. Pansarfördelningen"
+    }
+    12 = {
+      "%s. Pansarfördelningen"
+    }
+    13 = {
+      "%s. Pansarfördelningen"
+    }
+    14 = {
+      "%s. Pansarfördelningen"
+    }
+    15 = {
+      "%s. Pansarfördelningen"
+    }
+    16 = {
+      "%s. Pansarfördelningen"
+    }
+    17 = {
+      "%s. Pansarfördelningen"
+    }
+    18 = {
+      "%s. Pansarfördelningen"
+    }
+    19 = {
+      "%s. Pansarfördelningen"
+    }
+    20 = {
+      "%s. Pansarfördelningen"
+    }
+  }
+}
+SWE_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  link_numbering_with = {
+    SWE_INF_01
+  }
+  fallback_name = "%s. Fallskärmsjägarfördelningen"
+  ordered = {
+    11 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    12 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    13 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    14 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    15 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    16 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    17 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    18 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    19 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+    20 = {
+      "%s. Fallskärmsjägarfördelningen"
+    }
+  }
+}
+SWE_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  link_numbering_with = {
+    SWE_INF_01
+  }
+  fallback_name = "%s. Kustjägarfördelningen"
+  ordered = {
+    21 = {
+      "%s. Kustjägarfördelningen"
+    }
+    22 = {
+      "%s. Kustjägarfördelningen"
+    }
+    23 = {
+      "%s. Kustjägarfördelningen"
+    }
+    24 = {
+      "%s. Kustjägarfördelningen"
+    }
+    25 = {
+      "%s. Kustjägarfördelningen"
+    }
+    26 = {
+      "%s. Kustjägarfördelningen"
+    }
+    27 = {
+      "%s. Kustjägarfördelningen"
+    }
+    28 = {
+      "%s. Kustjägarfördelningen"
+    }
+    29 = {
+      "%s. Kustjägarfördelningen"
+    }
+    30 = {
+      "%s. Kustjägarfördelningen"
+    }
+    31 = {
+      "%s. Kustjägarfördelningen"
+    }
+  }
+}
+SWE_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%s. Jägarfördelningen"
+  ordered = {
+    31 = {
+      "%s. Jägarfördelningen"
+    }
+    32 = {
+      "%s. Jägarfördelningen"
+    }
+    33 = {
+      "%s. Jägarfördelningen"
+    }
+    34 = {
+      "%s. Jägarfördelningen"
+    }
+    35 = {
+      "%s. Jägarfördelningen"
+    }
+    36 = {
+      "%s. Jägarfördelningen"
+    }
+    37 = {
+      "%s. Jägarfördelningen"
+    }
+    38 = {
+      "%s. Jägarfördelningen"
+    }
+    39 = {
+      "%s. Jägarfördelningen"
+    }
+    40 = {
+      "%s. Jägarfördelningen"
+    }
+    41 = {
+      "%s. Jägarfördelningen"
+    }
+    42 = {
+      "%s. Jägarfördelningen"
+    }
+  }
+}
+SWE_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    SWE
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "I%d Garnison"
+  ordered = {
+    1 = {
+      "I1 Garnison"
+    }
+    2 = {
+      "I2 Garnison"
+    }
+    3 = {
+      "I3 Garnison"
+    }
+    4 = {
+      "K1 Garnison"
+    }
+    5 = {
+      "K2 Garnison"
+    }
+    6 = {
+      "I10 Garnison"
+    }
+    7 = {
+      "I12 Garnison"
+    }
+    8 = {
+      "I13 Garnison"
+    }
+    9 = {
+      "I15 Garnison"
+    }
+    10 = {
+      "F1 Garnison"
+    }
+    11 = {
+      "F2 Garnison"
+    }
+    12 = {
+      "I5 Garnison"
+    }
+    13 = {
+      "I20 Garnison"
+    }
+    14 = {
+      "I6 Garnison"
+    }
+    15 = {
+      "I19 Garnison"
+    }
+    16 = {
+      "I21 Garnison"
+    }
+    17 = {
+      "I9 Garnison"
+    }
+    18 = {
+      "K3 Garnison"
+    }
+    19 = {
+      "K4 Garnison"
+    }
+    20 = {
+      "K5 Garnison"
+    }
+    21 = {
+      "Ing1 Garnison"
+    }
+    22 = {
+      "Ing2 Garnison"
+    }
+    23 = {
+      "Ing3 Garnison"
+    }
+    24 = {
+      "T1 Garnison"
+    }
+    25 = {
+      "T2 Garnison"
+    }
+  }
+}

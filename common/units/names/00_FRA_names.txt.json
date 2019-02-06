@@ -1,0 +1,1988 @@
+[
+    {
+        "key": "#LIST#|FRA|submarine|generic|Sous-Marin",
+        "original": "Sous-Marin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Espoire",
+        "original": "L`Espoire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Le Glorieux",
+        "original": "Le Glorieux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Le Centaure",
+        "original": "Le Centaure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Le Héros",
+        "original": "Le Héros",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Le Conquérant",
+        "original": "Le Conquérant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Le Tonnant",
+        "original": "Le Tonnant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Agosta",
+        "original": "Agosta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Sfax",
+        "original": "Sfax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Casabianca",
+        "original": "Casabianca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Bévéziers",
+        "original": "Bévéziers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Ouessant",
+        "original": "Ouessant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Sidi Ferruch",
+        "original": "Sidi Ferruch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Minerve",
+        "original": "Minerve",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Junon",
+        "original": "Junon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Vénus",
+        "original": "Vénus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Iris",
+        "original": "Iris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Pallas",
+        "original": "Pallas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Cérès",
+        "original": "Cérès",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Aurore",
+        "original": "Aurore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Créole",
+        "original": "La Créole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Favorite",
+        "original": "La Favorite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Bayadère",
+        "original": "La Bayadère",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Africaine",
+        "original": "L`Africaine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Astrée",
+        "original": "L`Astrée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Andromède",
+        "original": "L`Andromède",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Artémise",
+        "original": "L`Artémise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Andromaque",
+        "original": "L`Andromaque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Antigone",
+        "original": "L`Antigone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Armide",
+        "original": "L`Armide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|L`Hermione",
+        "original": "L`Hermione",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Gorgone",
+        "original": "La Gorgone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Clorinde",
+        "original": "La Clorinde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Roland Morillot",
+        "original": "Roland Morillot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Praya",
+        "original": "La Praya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Martinique",
+        "original": "La Martinique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Guadeloupe",
+        "original": "La Guadeloupe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Réunion",
+        "original": "La Réunion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Blaison",
+        "original": "Blaison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Laubie",
+        "original": "Laubie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Bouan",
+        "original": "Bouan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Gymnote",
+        "original": "Gymnote",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Daphné",
+        "original": "Daphné",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Sirène",
+        "original": "Sirène",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Naïade",
+        "original": "Naïade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Galathée",
+        "original": "Galathée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Ariane",
+        "original": "Ariane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Ondine",
+        "original": "Ondine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Eurydice",
+        "original": "Eurydice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Danaé",
+        "original": "Danaé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Circé",
+        "original": "Circé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Calypso",
+        "original": "Calypso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Thétis",
+        "original": "Thétis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Doris",
+        "original": "Doris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Requin",
+        "original": "Requin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Souffleur",
+        "original": "Souffleur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Marsouin",
+        "original": "Marsouin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Dauphin",
+        "original": "Dauphin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Narval",
+        "original": "Narval",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Morse",
+        "original": "Morse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Phoque",
+        "original": "Phoque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Espadon",
+        "original": "Espadon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Caïman",
+        "original": "Caïman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Redoutable",
+        "original": "Redoutable",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Vengeur",
+        "original": "Vengeur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Archimède",
+        "original": "Archimède",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Fresnel",
+        "original": "Fresnel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Henri Poincaré",
+        "original": "Henri Poincaré",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Monge",
+        "original": "Monge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Pascal",
+        "original": "Pascal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Pasteur",
+        "original": "Pasteur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Poncelet",
+        "original": "Poncelet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Achille",
+        "original": "Achille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Ajax",
+        "original": "Ajax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Actéon",
+        "original": "Actéon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Achéron",
+        "original": "Achéron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Argo",
+        "original": "Argo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Protée",
+        "original": "Protée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Pégase",
+        "original": "Pégase",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Persée",
+        "original": "Persée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Phénix",
+        "original": "Phénix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Orion",
+        "original": "Orion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Diane",
+        "original": "Diane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Méduse",
+        "original": "Méduse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Antiope",
+        "original": "Antiope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Amphitrite",
+        "original": "Amphitrite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Amazone",
+        "original": "Amazone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Orphée",
+        "original": "Orphée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Oréade",
+        "original": "Oréade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Sybille",
+        "original": "La Sybille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Psyché",
+        "original": "La Psyché",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Argonaute",
+        "original": "Argonaute",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Aréthuse",
+        "original": "Aréthuse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Atalante",
+        "original": "Atalante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Vestale",
+        "original": "La Vestale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|La Sultane",
+        "original": "La Sultane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Surcouf",
+        "original": "Surcouf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Prométhée",
+        "original": "Prométhée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Nymphe",
+        "original": "Nymphe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Saphir",
+        "original": "Saphir",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique| Turquoise",
+        "original": " Turquoise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Diamant",
+        "original": "Diamant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Nautilus",
+        "original": "Nautilus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique|Perlé",
+        "original": "Perlé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|submarine|unique| Rubis",
+        "original": " Rubis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|generic|Contre-Torpilleur",
+        "original": "Contre-Torpilleur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Fantasque",
+        "original": "Le Fantasque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Terrible",
+        "original": "Le Terrible",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Indomptable",
+        "original": "L`Indomptable",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Audacieux",
+        "original": "L`Audacieux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Malin",
+        "original": "Le Malin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Triomphant",
+        "original": "Le Triomphant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Mogador",
+        "original": "Mogador",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Volta",
+        "original": "Volta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Hardi",
+        "original": "Le Hardi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Fleuret",
+        "original": "Fleuret",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Epée",
+        "original": "Epée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Casque",
+        "original": "Casque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Lansquenet",
+        "original": "Lansquenet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Mameluk",
+        "original": "Mameluk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Corsaire",
+        "original": "Le Corsaire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Filibustier",
+        "original": "Le Filibustier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Intrépide",
+        "original": "L`Intrépide",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Téméraire",
+        "original": "Le Téméraire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Aventurier",
+        "original": "L`Aventurier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Opiniâtre",
+        "original": "L`Opiniâtre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Foudroyant",
+        "original": "Le Foudroyant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Adroit",
+        "original": "L`Adroit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Siroco",
+        "original": "Siroco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Bison",
+        "original": "Bison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Tigre",
+        "original": "Tigre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Chacal",
+        "original": "Chacal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Jaguar",
+        "original": "Jaguar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Panthère",
+        "original": "Panthère",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Léopard",
+        "original": "Léopard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Lynx",
+        "original": "Lynx",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Mistral",
+        "original": "Mistral",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Ouragan",
+        "original": "Ouragan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Simoun",
+        "original": "Simoun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Tempête",
+        "original": "Tempête",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Tornade",
+        "original": "Tornade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Trombe",
+        "original": "Trombe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Typhon",
+        "original": "Typhon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Bourrasque",
+        "original": "Bourrasque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Cyclone",
+        "original": "Cyclone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Orage",
+        "original": "Orage",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Tramontane",
+        "original": "Tramontane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Basque",
+        "original": "Basque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Bordelais",
+        "original": "Le Bordelais",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Boulonnais",
+        "original": "Boulonnais",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Brestois",
+        "original": "Brestois",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Forbin",
+        "original": "Forbin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Frondeur",
+        "original": "Frondeur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L`Alcyon",
+        "original": "L`Alcyon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Palme",
+        "original": "La Palme",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Railleuse",
+        "original": "La Railleuse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Fortune",
+        "original": "Le Fortune",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Le Mars",
+        "original": "Le Mars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Fougueux",
+        "original": "Fougueux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Guépard",
+        "original": "Guépard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Valmy",
+        "original": "Valmy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Verdun",
+        "original": "Verdun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Lion",
+        "original": "Lion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Vauban",
+        "original": "Vauban",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Aigle",
+        "original": "Aigle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Gerfaut",
+        "original": "Gerfaut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Albatros",
+        "original": "Albatros",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Vautour",
+        "original": "Vautour",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Épervier",
+        "original": "Épervier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Milan",
+        "original": "Milan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Vauquelin",
+        "original": "Vauquelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Cassard",
+        "original": "Cassard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Maillé Brézé",
+        "original": "Maillé Brézé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Kersaint",
+        "original": "Kersaint",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Tartu",
+        "original": "Tartu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Chevalier Paul",
+        "original": "Chevalier Paul",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Melpomène",
+        "original": "La Melpomène",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Pomone",
+        "original": "La Pomone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Flore",
+        "original": "La Flore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L'Iphigénie",
+        "original": "L'Iphigénie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Bayonnaise",
+        "original": "La Bayonnaise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Bombarde",
+        "original": "Bombarde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|L'Incomprise",
+        "original": "L'Incomprise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Poursuivante",
+        "original": "La Poursuivante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|La Cordelière",
+        "original": "La Cordelière",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Branlebas",
+        "original": "Branlebas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Baliste",
+        "original": "Baliste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|destroyer|unique|Bouclier",
+        "original": "Bouclier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|generic|Croiseur Léger",
+        "original": "Croiseur Léger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|La Galissonnière",
+        "original": "La Galissonnière",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Jean de Vienne",
+        "original": "Jean de Vienne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Marseillaise",
+        "original": "Marseillaise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Gloire",
+        "original": "Gloire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Montcalm",
+        "original": "Montcalm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Georges Leygues",
+        "original": "Georges Leygues",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|De Grasse",
+        "original": "De Grasse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Châteaurenault",
+        "original": "Châteaurenault",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Guichen",
+        "original": "Guichen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Colbert",
+        "original": "Colbert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Duguay-Trouin",
+        "original": "Duguay-Trouin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Lamotte-Picquet",
+        "original": "Lamotte-Picquet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Primaguet",
+        "original": "Primaguet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Pluton",
+        "original": "Pluton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Jeanne d'Arc",
+        "original": "Jeanne d'Arc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Émile Bertin",
+        "original": "Émile Bertin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Colmar",
+        "original": "Colmar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Mulhouse",
+        "original": "Mulhouse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Strasbourg",
+        "original": "Strasbourg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Metz",
+        "original": "Metz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_cruiser|unique|Thionville",
+        "original": "Thionville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|generic|Croiseur Lourd",
+        "original": "Croiseur Lourd",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Duquesne",
+        "original": "Duquesne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Tourville",
+        "original": "Tourville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Suffren",
+        "original": "Suffren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Colbert",
+        "original": "Colbert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Foch",
+        "original": "Foch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Dupleix",
+        "original": "Dupleix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Algerié",
+        "original": "Algerié",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Dupuy de Lôme",
+        "original": "Dupuy de Lôme",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Amiral Charner",
+        "original": "Amiral Charner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Bruix",
+        "original": "Bruix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Chanzy",
+        "original": "Chanzy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Latouche-Tréville",
+        "original": "Latouche-Tréville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Pothuau",
+        "original": "Pothuau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Dupetit-Thouars",
+        "original": "Dupetit-Thouars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Gueydon",
+        "original": "Gueydon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Gloire",
+        "original": "Gloire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Montcalm",
+        "original": "Montcalm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Desaix",
+        "original": "Desaix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Kléber",
+        "original": "Kléber",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Amiral Aube",
+        "original": "Amiral Aube",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Condé",
+        "original": "Condé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Marseillaise",
+        "original": "Marseillaise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Léon Gambetta",
+        "original": "Léon Gambetta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Jules Ferry",
+        "original": "Jules Ferry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Victor Hugo",
+        "original": "Victor Hugo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Jules Michelet",
+        "original": "Jules Michelet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Ernest Renan",
+        "original": "Ernest Renan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Edgar Quinet",
+        "original": "Edgar Quinet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_cruiser|unique|Waldeck-Rousseau",
+        "original": "Waldeck-Rousseau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|generic|Croiseur Cuirassé",
+        "original": "Croiseur Cuirassé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Dunkerque",
+        "original": "Dunkerque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Strasbourg",
+        "original": "Strasbourg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Arras",
+        "original": "Arras",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Bourges",
+        "original": "Bourges",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Metz",
+        "original": "Metz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Lille",
+        "original": "Lille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Nantes",
+        "original": "Nantes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Toulon",
+        "original": "Toulon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Rouen",
+        "original": "Rouen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Montpellier",
+        "original": "Montpellier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|La Hire",
+        "original": "La Hire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Jean Bureau",
+        "original": "Jean Bureau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Bertrand du Guesclin",
+        "original": "Bertrand du Guesclin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Pierre de Brézé",
+        "original": "Pierre de Brézé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Jean de Grouchy",
+        "original": "Jean de Grouchy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Jean Le Maingre",
+        "original": "Jean Le Maingre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Normandie",
+        "original": "Normandie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Flandre",
+        "original": "Flandre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Gascogne",
+        "original": "Gascogne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Béarn",
+        "original": "Béarn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Gille",
+        "original": "Gille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battle_cruiser|unique|Durand-Viel",
+        "original": "Durand-Viel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|generic|Navire de Ligne",
+        "original": "Navire de Ligne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Richelieu",
+        "original": "Richelieu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Jean Bart",
+        "original": "Jean Bart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Clemenceau",
+        "original": "Clemenceau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Gascogne",
+        "original": "Gascogne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Alsace",
+        "original": "Alsace",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Normandie",
+        "original": "Normandie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Flandre",
+        "original": "Flandre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Bourgogne",
+        "original": "Bourgogne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Languedoc",
+        "original": "Languedoc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Champagne",
+        "original": "Champagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Poitou",
+        "original": "Poitou",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Artois",
+        "original": "Artois",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Foix",
+        "original": "Foix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Picardie",
+        "original": "Picardie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Liberté",
+        "original": "Liberté",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Justice",
+        "original": "Justice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Vérité",
+        "original": "Vérité",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Démocratie",
+        "original": "Démocratie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|République",
+        "original": "République",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Patrie",
+        "original": "Patrie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Paris",
+        "original": "Paris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Orléans",
+        "original": "Orléans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Marseille",
+        "original": "Marseille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Lyon",
+        "original": "Lyon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Toulouse",
+        "original": "Toulouse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Nice",
+        "original": "Nice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Courbet",
+        "original": "Courbet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|France",
+        "original": "France",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Océan",
+        "original": "Océan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Bretagne",
+        "original": "Bretagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Lorraine",
+        "original": "Lorraine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Provence",
+        "original": "Provence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Duquesne",
+        "original": "Duquesne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Lille",
+        "original": "Lille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|battleship|unique|Tourville",
+        "original": "Tourville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|generic|Porte-Avions",
+        "original": "Porte-Avions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Joffre",
+        "original": "Joffre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Painlevé",
+        "original": "Painlevé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Clemenceau",
+        "original": "Clemenceau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Béarn",
+        "original": "Béarn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Dixmude",
+        "original": "Dixmude",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Arromanches",
+        "original": "Arromanches",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Lafayette",
+        "original": "Lafayette",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Bois Belleau",
+        "original": "Bois Belleau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Foch",
+        "original": "Foch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Jeanne d'Arc",
+        "original": "Jeanne d'Arc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Verdun",
+        "original": "Verdun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Foudre",
+        "original": "Foudre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|carrier|unique|Commandant Tante",
+        "original": "Commandant Tante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|fighter_equipment|generic|Groupe de Chasse",
+        "original": "Groupe de Chasse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|jet_fighter_equipment|generic|Groupe de Chasse",
+        "original": "Groupe de Chasse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|heavy_fighter_equipment|generic|Groupe de Chasse",
+        "original": "Groupe de Chasse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|CAS_equipment|generic|Groupe de Attaque",
+        "original": "Groupe de Attaque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|cv_fighter_equipment|generic|Flotille",
+        "original": "Flotille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|cv_CAS_equipment|generic|Flotille",
+        "original": "Flotille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|cv_nav_bomber_equipment|generic|Flotille",
+        "original": "Flotille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|tac_bomber_equipment|generic|Groupe de Bombardement",
+        "original": "Groupe de Bombardement",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|jet_tac_bomber_equipment|generic|Groupe de Bombardement",
+        "original": "Groupe de Bombardement",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|nav_bomber_equipment|generic|Flotille",
+        "original": "Flotille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|strat_bomber_equipment|generic|Groupe de Bombardement",
+        "original": "Groupe de Bombardement",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|jet_strat_bomber_equipment|generic|Groupe de Bombardement",
+        "original": "Groupe de Bombardement",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|transport_plane_equipment|generic|Escadron de Transport",
+        "original": "Escadron de Transport",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|infantry|generic|Division d'Infanterie",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|mountaineers|generic|Division d'Infanterie Alpine",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|cavalry|generic|Division de Cavalerie",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|light_armor|generic|Brigade de Chars de Combat",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FRA|medium_armor|generic|Brigade de Chars de Combat",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "key": "TACTIC_ATTACKER:0",
+        "original": " (Attacker)",
+        "translation": " (进攻方)",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_DEFENDER:0",
+        "original": " (Defender)",
+        "translation": " (防御方)",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_DESC:0",
+        "original": "Each side's leader will pick a tactic for the battle that will affect how it unfolds. A leader with higher skill or more advanced reconnaissance has a higher chance of picking a counter tactic that negates their opponent's.",
+        "translation": "双方的指挥官将选择一种战术进行战斗进而影响战斗的过程。 一名拥有更高的技能等级或者更先进的侦查手段的指挥官会有更多的机会选择一种反制战术以使敌军的战术失效。",
+        "stage": 1
+    },
+    {
+        "key": "tactic_basic_attack:0",
+        "original": "Attack",
+        "translation": "进攻",
+        "stage": 1
+    },
+    {
+        "key": "tactic_basic_defend:0",
+        "original": "Defend",
+        "translation": "防御",
+        "stage": 1
+    },
+    {
+        "key": "tactic_counterattack:0",
+        "original": "Counter-Attack",
+        "translation": "反击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_assault:0",
+        "original": "Assault",
+        "translation": "强袭",
+        "stage": 1
+    },
+    {
+        "key": "tactic_cc_attack:0",
+        "original": "Close Quarters Attack",
+        "translation": "短兵进攻",
+        "stage": 1
+    },
+    {
+        "key": "tactic_cc_defend:0",
+        "original": "Close Quarters Defense",
+        "translation": "短兵防御",
+        "stage": 1
+    },
+    {
+        "key": "tactic_cc_storm:0",
+        "original": "Close Quarters Storm",
+        "translation": "短兵突击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_cc_local_strong_point:0",
+        "original": "Close Quarters Local Strongpoint",
+        "translation": "短兵防守支撑点",
+        "stage": 1
+    },
+    {
+        "key": "tactic_cc_withdraw:0",
+        "original": "Close Quarters Withdraw",
+        "translation": "短兵撤退",
+        "stage": 1
+    },
+    {
+        "key": "tactic_encirclement:0",
+        "original": "Encirclement",
+        "translation": "围攻",
+        "stage": 1
+    },
+    {
+        "key": "tactic_delay:0",
+        "original": "Delay",
+        "translation": "迟滞",
+        "stage": 1
+    },
+    {
+        "key": "tactic_shock:0",
+        "original": "Shock",
+        "translation": "冲击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tactical_withdrawal:0",
+        "original": "Tactical Withdrawal",
+        "translation": "战术撤退",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tw_attack:0",
+        "original": "Tactical Withdrawal Attack",
+        "translation": "反冲锋",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tw_defend:0",
+        "original": "Withdrawal",
+        "translation": "撤退",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tw_chase:0",
+        "original": "Pursuit",
+        "translation": "追击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tw_evade:0",
+        "original": "Evade",
+        "translation": "迂回",
+        "stage": 1
+    },
+    {
+        "key": "tactic_tw_intercept:0",
+        "original": "Intercept",
+        "translation": "拦截",
+        "stage": 1
+    },
+    {
+        "key": "tactic_breakthrough:0",
+        "original": "Breakthrough",
+        "translation": "突破",
+        "stage": 1
+    },
+    {
+        "key": "tactic_ambush:0",
+        "original": "Ambush",
+        "translation": "伏击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_blitz:0",
+        "original": "Blitz",
+        "translation": "闪电战",
+        "stage": 1
+    },
+    {
+        "key": "tactic_elastic_defense:0",
+        "original": "Elastic Defense",
+        "translation": "弹性防御",
+        "stage": 1
+    },
+    {
+        "key": "tactic_backhand_blow:0",
+        "original": "Backhand Blow",
+        "translation": "机动防御",
+        "stage": 1
+    },
+    {
+        "key": "tactic_seize_bridge:0",
+        "original": "Seize Bridge",
+        "translation": "夺取桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_attacker_sb_hold:0",
+        "original": "Hold Bridge",
+        "translation": "控制桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_attacker_sb_skillful_defence:0",
+        "original": "Defend Bridge",
+        "translation": "守卫桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_defender_sb_assault:0",
+        "original": "Assault Bridge",
+        "translation": "强袭桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_defender_sb_reckless_assault:0",
+        "original": "Reckless Assault",
+        "translation": "鲁莽强袭",
+        "stage": 1
+    },
+    {
+        "key": "tactic_defender_sb_retake_bridge:0",
+        "original": "Recapture Bridge",
+        "translation": "夺回桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_hold_bridge:0",
+        "original": "Hold Bridge",
+        "translation": "控制桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_attacker_hb_attack:0",
+        "original": "Attack",
+        "translation": "进攻",
+        "stage": 1
+    },
+    {
+        "key": "tactic_attacker_hb_rush:0",
+        "original": "Rush Bridge",
+        "translation": "速攻桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_attacker_hb_storm:0",
+        "original": "Storm Bridge",
+        "translation": "突击桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_defender_hb_hold:0",
+        "original": "Hold Bridge",
+        "translation": "控制桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_defender_hb_skillful_defence:0",
+        "original": "Defend Bridge",
+        "translation": "守卫桥梁",
+        "stage": 1
+    },
+    {
+        "key": "tactic_guerrilla_tactics:0",
+        "original": "Guerrilla Tactics",
+        "translation": "游击战术",
+        "stage": 1
+    },
+    {
+        "key": "tactic_human_wave_tactics:0",
+        "original": "Mass Charge",
+        "translation": "人海冲锋",
+        "stage": 1
+    },
+    {
+        "key": "tactic_banzai_charge:0",
+        "original": "Banzai Charge",
+        "translation": "万岁冲锋",
+        "stage": 1
+    },
+    {
+        "key": "tactic_infantry_charge:0",
+        "original": "Infiltration Assault",
+        "translation": "渗透强袭",
+        "stage": 1
+    },
+    {
+        "key": "tactic_planned_attack:0",
+        "original": "Well-Planned Attack",
+        "translation": "周密计划攻击",
+        "stage": 1
+    },
+    {
+        "key": "tactic_relentless_assault:0",
+        "original": "Relentless Assault",
+        "translation": "持续强袭",
+        "stage": 1
+    },
+    {
+        "key": "tactic_unexpected_thrust:0",
+        "original": "Unexpected Thrust",
+        "translation": "奇袭",
+        "stage": 1
+    },
+    {
+        "key": "tactic_overwhelming_fire:0",
+        "original": "Overwhelming Fire",
+        "translation": "压倒性火力",
+        "stage": 1
+    },
+    {
+        "key": "tactic_barrage:0",
+        "original": "Suppressive Barrage",
+        "translation": "弹幕拦截",
+        "stage": 1
+    }
+]

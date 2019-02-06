@@ -1,0 +1,44 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Dirk Jan de Geer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Anton Mussert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Lou de Visser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Hendrikus Colijn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Petrus Wilhelmus Best",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Johannes Theodorus Furstner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    }
+]

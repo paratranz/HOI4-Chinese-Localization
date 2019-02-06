@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "German Expatriates",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "I Expatriados Alemanes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "German Expatriates",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "II Expatriados Alemanes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "German Expatriates",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "III Expatriados Alemanes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "German Expatriates",
+        "translation": "",
+        "stage": 0
+    }
+]

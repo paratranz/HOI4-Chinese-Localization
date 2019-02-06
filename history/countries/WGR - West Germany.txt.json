@@ -1,0 +1,38 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Klaus Klauser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Konrad Adenauer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Königsberg Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Deutschland Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Type VIIA",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant#|name",
+        "original": "Zerstörer 1936",
+        "translation": "",
+        "stage": 0
+    }
+]

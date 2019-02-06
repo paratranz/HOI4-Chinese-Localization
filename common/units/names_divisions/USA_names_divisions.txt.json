@@ -1,0 +1,4592 @@
+[
+    {
+        "key": "USA_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_INF_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|1#|%dst 'Big Red One' Division",
+        "original": "%dst 'Big Red One' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|2#|%dnd 'Indianhead' Division",
+        "original": "%dnd 'Indianhead' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|3#|%drd 'Rock of the Marne' Division",
+        "original": "%drd 'Rock of the Marne' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|5#|%dth 'Red Devils' Division",
+        "original": "%dth 'Red Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|6#|%dth 'Sightseeing Sixth' Division",
+        "original": "%dth 'Sightseeing Sixth' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|4#|%dth 'Ivy' Division",
+        "original": "%dth 'Ivy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|7#|%dth 'Bayonet' Division",
+        "original": "%dth 'Bayonet' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|8#|%dth 'Pathfinder' Division",
+        "original": "%dth 'Pathfinder' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|9#|%dth 'Old Reliables' Division",
+        "original": "%dth 'Old Reliables' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|30#|%dth 'Old Hickory' Division",
+        "original": "%dth 'Old Hickory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|41#|%dst 'Sunset' Division",
+        "original": "%dst 'Sunset' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|45#|%dth 'Thunderbird' Division",
+        "original": "%dth 'Thunderbird' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|27#|%dth 'New York' Division",
+        "original": "%dth 'New York' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|32#|%dnd 'Red Arrow' Division",
+        "original": "%dnd 'Red Arrow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|37#|%dth 'Buckeye' Division",
+        "original": "%dth 'Buckeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|31#|%dst 'Dixie' Division",
+        "original": "%dst 'Dixie' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|36#|%dth 'Texas' Division",
+        "original": "%dth 'Texas' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|35#|%dth 'Santa Fe' Division",
+        "original": "%dth 'Santa Fe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|26#|%dth 'Yankee' Division",
+        "original": "%dth 'Yankee' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|38#|%dth 'Cyclone' Division",
+        "original": "%dth 'Cyclone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|29#|%dth 'Blue and Gray' Division",
+        "original": "%dth 'Blue and Gray' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|34#|%dth 'Red Bull' Division",
+        "original": "%dth 'Red Bull' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|28#|%dth 'Keystone' Division",
+        "original": "%dth 'Keystone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|43#|%drd 'Winged Victory' Division",
+        "original": "%drd 'Winged Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|33#|%drd 'Golden Cross' Division",
+        "original": "%drd 'Golden Cross' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|40#|%dth 'Sunshine' Division",
+        "original": "%dth 'Sunshine' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|24#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|25#|%dth 'Tropic Lightning' Division",
+        "original": "%dth 'Tropic Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|77#|%dth 'Liberty' Division",
+        "original": "%dth 'Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|90#|%dth 'Tough Ombres' Division",
+        "original": "%dth 'Tough Ombres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|85#|%dth 'Custer' Division",
+        "original": "%dth 'Custer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|93#|%drd 'Blue Helmets' Division",
+        "original": "%drd 'Blue Helmets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|23#|'Americal' Division",
+        "original": "'Americal' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|76#|%dth 'Onaway' Division",
+        "original": "%dth 'Onaway' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|79#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|81#|%dst 'Wildcat' Division",
+        "original": "%dst 'Wildcat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|80#|%dth 'Blue Ridge' Division",
+        "original": "%dth 'Blue Ridge' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|88#|%dth 'Blue Devils' Division",
+        "original": "%dth 'Blue Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|89#|%dth 'Rolling W' Division",
+        "original": "%dth 'Rolling W' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|95#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|78#|%dth 'Lightning' Division",
+        "original": "%dth 'Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|83#|%drd 'Thunderbolts' Division",
+        "original": "%drd 'Thunderbolts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|91#|%dst 'Pine Tree' Division",
+        "original": "%dst 'Pine Tree' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|96#|%dth 'Deadeye' Division",
+        "original": "%dth 'Deadeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|94#|%dth 'Neuf Quatres' Division",
+        "original": "%dth 'Neuf Quatres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|98#|%dth 'Iroquois' Division",
+        "original": "%dth 'Iroquois' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|102#|%dnd 'Ozarks' Division",
+        "original": "%dnd 'Ozarks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|104#|%dth 'Timberwolves' Division",
+        "original": "%dth 'Timberwolves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|84#|%dth 'Railsplitters' Division",
+        "original": "%dth 'Railsplitters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|92#|%dnd 'Buffalo Soldiers' Division",
+        "original": "%dnd 'Buffalo Soldiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|99#|%dth 'Checkerboard' Division",
+        "original": "%dth 'Checkerboard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|100#|%dth 'Century' Division",
+        "original": "%dth 'Century' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|103#|%drd 'Cactus' Division",
+        "original": "%drd 'Cactus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|86#|%dth 'Blackhawk' Division",
+        "original": "%dth 'Blackhawk' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|87#|%dth 'Golden Acorns' Division",
+        "original": "%dth 'Golden Acorns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|97#|%dth 'Trident' Division",
+        "original": "%dth 'Trident' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|106#|%dth 'Golden Lions' Division",
+        "original": "%dth 'Golden Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|66#|%dth 'Black Panthers' Division",
+        "original": "%dth 'Black Panthers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|75#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|69#|%dth 'Fighting 69th' Division",
+        "original": "%dth 'Fighting 69th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|63#|%drd 'Blood Fire' Division",
+        "original": "%drd 'Blood Fire' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|70#|%dth 'Trailblazers' Division",
+        "original": "%dth 'Trailblazers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|42#|%dnd 'Rainbow' Division",
+        "original": "%dnd 'Rainbow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|71#|%dst 'Red Circle' Division",
+        "original": "%dst 'Red Circle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|65#|%dth 'Battle Axe' Division",
+        "original": "%dth 'Battle Axe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|62#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|67#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|68#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|72#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|73#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|74#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|11#|%dth 'Lafayette' Division",
+        "original": "%dth 'Lafayette' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|21#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|22#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|55#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|59#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|108#|%dth 'Golden Griffons' Division",
+        "original": "%dth 'Golden Griffons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|109#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|112#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|119#|%dth 'White Knights' Division",
+        "original": "%dth 'White Knights' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|130#|%dth 'Dirty Bastards' Division",
+        "original": "%dth 'Dirty Bastards' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|141#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|157#|%dth 'Titans' Division",
+        "original": "%dth 'Titans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|39#|%dth 'Delta' Division",
+        "original": "%dth 'Delta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|47#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|46#|%dth 'Ironfist' Division",
+        "original": "%dth 'Ironfist' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|48#|%dth 'Hurricane' Division",
+        "original": "%dth 'Hurricane' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|51#|%dst 'Rattlesnake' Division",
+        "original": "%dst 'Rattlesnake' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|49#|%dth '49ers' Division",
+        "original": "%dth '49ers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|52#|%dnd 'Argonauts' Division",
+        "original": "%dnd 'Argonauts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|110#|%dth 'Washington' Division",
+        "original": "%dth 'Washington' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|115#|%dth 'Jefferson' Division",
+        "original": "%dth 'Jefferson' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|116#|%dth 'Headhunters' Division",
+        "original": "%dth 'Headhunters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|128#|%dth 'Brooklyn' Division",
+        "original": "%dth 'Brooklyn' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|131#|%dth 'Lincoln' Division",
+        "original": "%dth 'Lincoln' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|165#|%dth 'Adams' Division",
+        "original": "%dth 'Adams' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|166#|%dth 'Franklin' Division",
+        "original": "%dth 'Franklin' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|167#|%dth 'Lions' Division",
+        "original": "%dth 'Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|168#|%dth 'Lady Liberty' Division",
+        "original": "%dth 'Lady Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|169#|%dth 'Madison' Division",
+        "original": "%dth 'Madison' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|170#|%dth 'Bloodhounds' Division",
+        "original": "%dth 'Bloodhounds' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|171#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|172#|%dnd 'Misfits' Division",
+        "original": "%dnd 'Misfits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|173#|%drd 'Metropolitan' Division",
+        "original": "%drd 'Metropolitan' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|187#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|188#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|189#|%dth 'Black Diamonds' Division",
+        "original": "%dth 'Black Diamonds' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|190#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|191#|%dst 'Sam Houston' Division",
+        "original": "%dst 'Sam Houston' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|192#|%dnd 'Banditos' Division",
+        "original": "%dnd 'Banditos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|193#|%drd 'Fighting 193rd' Division",
+        "original": "%drd 'Fighting 193rd' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|194#|%dth 'Dust Devils' Division",
+        "original": "%dth 'Dust Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|195#|%dth 'Blue Dragons' Division",
+        "original": "%dth 'Blue Dragons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|196#|%dth 'Volunteers' Division",
+        "original": "%dth 'Volunteers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|197#|%dth 'Hercules' Division",
+        "original": "%dth 'Hercules' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|198#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|199#|%dth 'Davy Crockett' Division",
+        "original": "%dth 'Davy Crockett' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|200#|%dth 'Black Tigers' Division",
+        "original": "%dth 'Black Tigers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|201#|%dst 'Iron Men' Division",
+        "original": "%dst 'Iron Men' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|203#|%drd 'Armadillos' Division",
+        "original": "%drd 'Armadillos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|204#|%dth 'Mountain Lions' Division",
+        "original": "%dth 'Mountain Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|205#|%dth 'Widowmakers' Division",
+        "original": "%dth 'Widowmakers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|158#|%dth 'Green Clovers' Division",
+        "original": "%dth 'Green Clovers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|159#|%dth 'Longhorn' Division",
+        "original": "%dth 'Longhorn' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|160#|%dth 'Freedom!' Division",
+        "original": "%dth 'Freedom!' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|161#|%dst 'Desert Scorpion' Division",
+        "original": "%dst 'Desert Scorpion' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|162#|%dnd 'Seminole' Division",
+        "original": "%dnd 'Seminole' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|163#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|174#|%dth 'Black Knights' Division",
+        "original": "%dth 'Black Knights' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|175#|%dth 'Apache' Division",
+        "original": "%dth 'Apache' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|176#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|177#|%dth 'Old Muddy' Division",
+        "original": "%dth 'Old Muddy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|178#|%dth 'Black Widows' Division",
+        "original": "%dth 'Black Widows' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|179#|%dth 'Moccasins' Division",
+        "original": "%dth 'Moccasins' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|180#|%dth 'Centaur' Division",
+        "original": "%dth 'Centaur' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|181#|%dst 'Howling Coyotes' Division",
+        "original": "%dst 'Howling Coyotes' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|182#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|183#|%drd 'Harlem' Division",
+        "original": "%drd 'Harlem' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|184#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|185#|%dth 'Ragin' Cajuns' Division",
+        "original": "%dth 'Ragin' Cajuns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|186#|%dth 'Bulldog' Division",
+        "original": "%dth 'Bulldog' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|219#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|220#|%dth 'Chicago' Division",
+        "original": "%dth 'Chicago' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|221#|%dst 'Fighting Lumberjacks' Division",
+        "original": "%dst 'Fighting Lumberjacks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|222#|%dnd 'Explorers' Division",
+        "original": "%dnd 'Explorers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|223#|%drd 'Mavericks' Division",
+        "original": "%drd 'Mavericks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|224#|%dth 'San Francisco' Division",
+        "original": "%dth 'San Francisco' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|225#|%dth 'Falcons' Division",
+        "original": "%dth 'Falcons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|226#|%dth 'Alamo' Division",
+        "original": "%dth 'Alamo' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|227#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|228#|%dth 'Buccaneers' Division",
+        "original": "%dth 'Buccaneers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|229#|%dth 'Philadelphia' Division",
+        "original": "%dth 'Philadelphia' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|230#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|231#|%dst 'Cowboys' Division",
+        "original": "%dst 'Cowboys' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|232#|%dnd 'Archers' Division",
+        "original": "%dnd 'Archers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|233#|%drd 'Daniel Boone' Division",
+        "original": "%drd 'Daniel Boone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|234#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|235#|%dth 'Mean Green' Division",
+        "original": "%dth 'Mean Green' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|236#|%dth 'Revenge!' Division",
+        "original": "%dth 'Revenge!' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|237#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|238#|%dth '1776' Division",
+        "original": "%dth '1776' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|239#|%dth 'Detroit' Division",
+        "original": "%dth 'Detroit' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|240#|%dth 'Minuteman' Division",
+        "original": "%dth 'Minuteman' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|241#|%dst 'Centurion' Division",
+        "original": "%dst 'Centurion' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|244#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|245#|%dth 'Enthusiasts' Division",
+        "original": "%dth 'Enthusiasts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|246#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|247#|%dth 'Rebel Yell' Division",
+        "original": "%dth 'Rebel Yell' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|248#|%dth 'Jayhawkers' Division",
+        "original": "%dth 'Jayhawkers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|249#|%dth 'Swamp Fox' Division",
+        "original": "%dth 'Swamp Fox' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|250#|%dth 'Blue Streaks' Division",
+        "original": "%dth 'Blue Streaks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|251#|%dst 'Bearcats' Division",
+        "original": "%dst 'Bearcats' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|252#|%dnd 'Gorillas' Division",
+        "original": "%dnd 'Gorillas' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|253#|%drd 'Big Green' Division",
+        "original": "%drd 'Big Green' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|254#|%dth 'Mustangs' Division",
+        "original": "%dth 'Mustangs' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|255#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|256#|%dth 'Flying Dutchmen' Division",
+        "original": "%dth 'Flying Dutchmen' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|257#|%dth 'Phoenix' Division",
+        "original": "%dth 'Phoenix' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|258#|%dth 'Crusader' Division",
+        "original": "%dth 'Crusader' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|259#|%dth 'Boston' Division",
+        "original": "%dth 'Boston' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|260#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|261#|%dst 'Braves' Division",
+        "original": "%dst 'Braves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|262#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|263#|%drd 'Yellow Jackets' Division",
+        "original": "%drd 'Yellow Jackets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|264#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|265#|%dth 'Celtic' Division",
+        "original": "%dth 'Celtic' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|266#|%dth 'Spartans' Division",
+        "original": "%dth 'Spartans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|267#|%dth 'Brocos' Division",
+        "original": "%dth 'Brocos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|268#|%dth 'Infamous 268th' Division",
+        "original": "%dth 'Infamous 268th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|269#|%dth 'Forrester' Division",
+        "original": "%dth 'Forrester' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|270#|%dth 'Gamecocks' Division",
+        "original": "%dth 'Gamecocks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|319#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|320#|%dth 'Vanguard' Division",
+        "original": "%dth 'Vanguard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|321#|%dst 'Pioneer' Division",
+        "original": "%dst 'Pioneer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|322#|%dnd 'Beavers' Division",
+        "original": "%dnd 'Beavers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|323#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|324#|%dth 'Cavaliers' Division",
+        "original": "%dth 'Cavaliers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|325#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|326#|%dth 'Cardinals' Division",
+        "original": "%dth 'Cardinals' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|327#|%dth 'Polar Bears' Division",
+        "original": "%dth 'Polar Bears' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|328#|%dth 'Gettysburg' Division",
+        "original": "%dth 'Gettysburg' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|329#|%dth 'Vicksburg' Division",
+        "original": "%dth 'Vicksburg' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|330#|%dth 'Comet' Division",
+        "original": "%dth 'Comet' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|331#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|332#|%dnd 'Mastadons' Division",
+        "original": "%dnd 'Mastadons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|333#|%drd 'Lucky Lindy' Division",
+        "original": "%drd 'Lucky Lindy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|334#|%dth 'Golden Gophers' Division",
+        "original": "%dth 'Golden Gophers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|335#|%dth 'Fighting Irish' Division",
+        "original": "%dth 'Fighting Irish' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|336#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|337#|%dth 'Red Hawks' Division",
+        "original": "%dth 'Red Hawks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|338#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|339#|%dth 'Hilltoppers' Division",
+        "original": "%dth 'Hilltoppers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|340#|%dth 'Green Demons' Division",
+        "original": "%dth 'Green Demons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|341#|%dst 'Black Ravens' Division",
+        "original": "%dst 'Black Ravens' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|344#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|345#|%dth 'Wasps' Division",
+        "original": "%dth 'Wasps' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|346#|%dth 'Jackrabbits' Division",
+        "original": "%dth 'Jackrabbits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|347#|%dth 'Columbus' Division",
+        "original": "%dth 'Columbus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|348#|%dth 'Giants' Division",
+        "original": "%dth 'Giants' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|349#|%dth 'Highlanders' Division",
+        "original": "%dth 'Highlanders' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|350#|%dth 'Lakers' Division",
+        "original": "%dth 'Lakers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|351#|%dst 'Saints' Division",
+        "original": "%dst 'Saints' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|352#|%dnd 'Roadrunner' Division",
+        "original": "%dnd 'Roadrunner' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|353#|%drd 'Maccabees' Division",
+        "original": "%drd 'Maccabees' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|354#|%dth 'Green Gators' Division",
+        "original": "%dth 'Green Gators' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|355#|%dth 'Seattle' Division",
+        "original": "%dth 'Seattle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|356#|%dth 'Warhawks' Division",
+        "original": "%dth 'Warhawks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|357#|%dth 'Grey Owls' Division",
+        "original": "%dth 'Grey Owls' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|358#|%dth 'Chrimson' Division",
+        "original": "%dth 'Chrimson' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|359#|%dth 'Trojans' Division",
+        "original": "%dth 'Trojans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|360#|%dth 'Bloody Saber' Division",
+        "original": "%dth 'Bloody Saber' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|361#|%dst 'Billy  Johnny' DivisionÜ",
+        "original": "%dst 'Billy  Johnny' DivisionÜ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|362#|%dnd 'Amerigo Vespucci' Division",
+        "original": "%dnd 'Amerigo Vespucci' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|363#|%drd 'Chocktaw' Division",
+        "original": "%drd 'Chocktaw' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|364#|%dth 'Ogre' Division",
+        "original": "%dth 'Ogre' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|365#|%dth 'Patriot' Division",
+        "original": "%dth 'Patriot' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|366#|%dth 'Storm' Division",
+        "original": "%dth 'Storm' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|367#|%dth 'Hoosiers' Division",
+        "original": "%dth 'Hoosiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|368#|%dth 'Jaguars' Division",
+        "original": "%dth 'Jaguars' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|369#|%dth 'Corsairs' Division",
+        "original": "%dth 'Corsairs' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_INF_01|ordered|370#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_CAV_01|fallback_name",
+        "original": "%d Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|2#|%dnd Cavalry (Colored) Division",
+        "original": "%dnd Cavalry (Colored) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|15#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|21#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|24#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|61#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|62#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|63#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|64#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|65#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|66#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|22#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|23#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|56#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|25#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|26#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|27#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|28#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|29#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_CAV_01|ordered|30#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MOT_01|fallback_name",
+        "original": "%d Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|4#|%dth 'Ivy' Division",
+        "original": "%dth 'Ivy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|6#|%dth 'Sightseeing Sixth' Division",
+        "original": "%dth 'Sightseeing Sixth' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|7#|%dth 'Bayonet' Division",
+        "original": "%dth 'Bayonet' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|8#|%dth 'Pathfinder' Division",
+        "original": "%dth 'Pathfinder' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|90#|%dth 'Tough Ombres' Division",
+        "original": "%dth 'Tough Ombres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|5#|%dth 'Red Devils' Division",
+        "original": "%dth 'Red Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|1#|%dst 'Big Red One' Division",
+        "original": "%dst 'Big Red One' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|2#|%dnd 'Indianhead' Division",
+        "original": "%dnd 'Indianhead' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|3#|%drd 'Rock of the Marne' Division",
+        "original": "%drd 'Rock of the Marne' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|9#|%dth 'Old Reliables' Division",
+        "original": "%dth 'Old Reliables' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|30#|%dth 'Old Hickory' Division",
+        "original": "%dth 'Old Hickory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|41#|%dst 'Sunset' Division",
+        "original": "%dst 'Sunset' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|45#|%dth 'Thunderbird' Division",
+        "original": "%dth 'Thunderbird' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|27#|%dth 'New York' Division",
+        "original": "%dth 'New York' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|32#|%dnd 'Red Arrow' Division",
+        "original": "%dnd 'Red Arrow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|37#|%dth 'Buckeye' Division",
+        "original": "%dth 'Buckeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|31#|%dst 'Dixie' Division",
+        "original": "%dst 'Dixie' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|36#|%dth 'Texas' Division",
+        "original": "%dth 'Texas' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|35#|%dth 'Santa Fe' Division",
+        "original": "%dth 'Santa Fe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|26#|%dth 'Yankee' Division",
+        "original": "%dth 'Yankee' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|38#|%dth 'Cyclone' Division",
+        "original": "%dth 'Cyclone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|29#|%dth 'Blue and Gray' Division",
+        "original": "%dth 'Blue and Gray' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|34#|%dth 'Red Bull' Division",
+        "original": "%dth 'Red Bull' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|28#|%dth 'Keystone' Division",
+        "original": "%dth 'Keystone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|43#|%drd 'Winged Victory' Division",
+        "original": "%drd 'Winged Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|33#|%drd 'Golden Cross' Division",
+        "original": "%drd 'Golden Cross' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|40#|%dth 'Sunshine' Division",
+        "original": "%dth 'Sunshine' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|24#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|25#|%dth 'Tropic Lightning' Division",
+        "original": "%dth 'Tropic Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|77#|%dth 'Liberty' Division",
+        "original": "%dth 'Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|85#|%dth 'Custer' Division",
+        "original": "%dth 'Custer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|93#|%drd 'Blue Helmets' Division",
+        "original": "%drd 'Blue Helmets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|23#|'Americal' Division",
+        "original": "'Americal' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|76#|%dth 'Onaway' Division",
+        "original": "%dth 'Onaway' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|79#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|81#|%dst 'Wildcat' Division",
+        "original": "%dst 'Wildcat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|80#|%dth 'Blue Ridge' Division",
+        "original": "%dth 'Blue Ridge' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|88#|%dth 'Blue Devils' Division",
+        "original": "%dth 'Blue Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|89#|%dth 'Rolling W' Division",
+        "original": "%dth 'Rolling W' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|95#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|78#|%dth 'Lightning' Division",
+        "original": "%dth 'Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|83#|%drd 'Thunderbolts' Division",
+        "original": "%drd 'Thunderbolts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|91#|%dst 'Pine Tree' Division",
+        "original": "%dst 'Pine Tree' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|96#|%dth 'Deadeye' Division",
+        "original": "%dth 'Deadeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|94#|%dth 'Neuf Quatres' Division",
+        "original": "%dth 'Neuf Quatres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|98#|%dth 'Iroquois' Division",
+        "original": "%dth 'Iroquois' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|102#|%dnd 'Ozarks' Division",
+        "original": "%dnd 'Ozarks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|104#|%dth 'Timberwolves' Division",
+        "original": "%dth 'Timberwolves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|84#|%dth 'Railsplitters' Division",
+        "original": "%dth 'Railsplitters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|92#|%dnd 'Buffalo Soldiers' Division",
+        "original": "%dnd 'Buffalo Soldiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|99#|%dth 'Checkerboard' Division",
+        "original": "%dth 'Checkerboard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|100#|%dth 'Century' Division",
+        "original": "%dth 'Century' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|103#|%drd 'Cactus' Division",
+        "original": "%drd 'Cactus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|86#|%dth 'Blackhawk' Division",
+        "original": "%dth 'Blackhawk' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|87#|%dth 'Golden Acorns' Division",
+        "original": "%dth 'Golden Acorns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|97#|%dth 'Trident' Division",
+        "original": "%dth 'Trident' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|106#|%dth 'Golden Lions' Division",
+        "original": "%dth 'Golden Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|66#|%dth 'Black Panthers' Division",
+        "original": "%dth 'Black Panthers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|75#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|69#|%dth 'Fighting 69th' Division",
+        "original": "%dth 'Fighting 69th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|63#|%drd 'Blood Fire' Division",
+        "original": "%drd 'Blood Fire' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|70#|%dth 'Trailblazers' Division",
+        "original": "%dth 'Trailblazers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|42#|%dnd 'Rainbow' Division",
+        "original": "%dnd 'Rainbow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|71#|%dst 'Red Circle' Division",
+        "original": "%dst 'Red Circle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|65#|%dth 'Battle Axe' Division",
+        "original": "%dth 'Battle Axe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|108#|%dth 'Golden Griffons' Division",
+        "original": "%dth 'Golden Griffons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|39#|%dth 'Delta' Division",
+        "original": "%dth 'Delta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|47#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|46#|%dth 'Ironfist' Division",
+        "original": "%dth 'Ironfist' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|48#|%dth 'Hurricane' Division",
+        "original": "%dth 'Hurricane' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|51#|%dst 'Rattlesnake' Division",
+        "original": "%dst 'Rattlesnake' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|49#|%dth '49ers' Division",
+        "original": "%dth '49ers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MOT_01|ordered|52#|%dnd 'Argonauts' Division",
+        "original": "%dnd 'Argonauts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MEC_01|fallback_name",
+        "original": "%d Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|4#|%dth 'Ivy' Division",
+        "original": "%dth 'Ivy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|6#|%dth 'Sightseeing Sixth' Division",
+        "original": "%dth 'Sightseeing Sixth' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|7#|%dth 'Bayonet' Division",
+        "original": "%dth 'Bayonet' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|8#|%dth 'Pathfinder' Division",
+        "original": "%dth 'Pathfinder' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|90#|%dth 'Tough Ombres' Division",
+        "original": "%dth 'Tough Ombres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|5#|%dth 'Red Devils' Division",
+        "original": "%dth 'Red Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|1#|%dst 'Big Red One' Division",
+        "original": "%dst 'Big Red One' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|2#|%dnd 'Indianhead' Division",
+        "original": "%dnd 'Indianhead' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|3#|%drd 'Rock of the Marne' Division",
+        "original": "%drd 'Rock of the Marne' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|9#|%dth 'Old Reliables' Division",
+        "original": "%dth 'Old Reliables' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|30#|%dth 'Old Hickory' Division",
+        "original": "%dth 'Old Hickory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|41#|%dst 'Sunset' Division",
+        "original": "%dst 'Sunset' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|45#|%dth 'Thunderbird' Division",
+        "original": "%dth 'Thunderbird' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|27#|%dth 'New York' Division",
+        "original": "%dth 'New York' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|32#|%dnd 'Red Arrow' Division",
+        "original": "%dnd 'Red Arrow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|37#|%dth 'Buckeye' Division",
+        "original": "%dth 'Buckeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|31#|%dst 'Dixie' Division",
+        "original": "%dst 'Dixie' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|36#|%dth 'Texas' Division",
+        "original": "%dth 'Texas' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|35#|%dth 'Santa Fe' Division",
+        "original": "%dth 'Santa Fe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|26#|%dth 'Yankee' Division",
+        "original": "%dth 'Yankee' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|38#|%dth 'Cyclone' Division",
+        "original": "%dth 'Cyclone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|29#|%dth 'Blue and Gray' Division",
+        "original": "%dth 'Blue and Gray' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|34#|%dth 'Red Bull' Division",
+        "original": "%dth 'Red Bull' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|28#|%dth 'Keystone' Division",
+        "original": "%dth 'Keystone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|43#|%drd 'Winged Victory' Division",
+        "original": "%drd 'Winged Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|33#|%drd 'Golden Cross' Division",
+        "original": "%drd 'Golden Cross' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|40#|%dth 'Sunshine' Division",
+        "original": "%dth 'Sunshine' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|24#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|25#|%dth 'Tropic Lightning' Division",
+        "original": "%dth 'Tropic Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|77#|%dth 'Liberty' Division",
+        "original": "%dth 'Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|85#|%dth 'Custer' Division",
+        "original": "%dth 'Custer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|93#|%drd 'Blue Helmets' Division",
+        "original": "%drd 'Blue Helmets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|23#|'Americal' Division",
+        "original": "'Americal' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|76#|%dth 'Onaway' Division",
+        "original": "%dth 'Onaway' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|79#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|81#|%dst 'Wildcat' Division",
+        "original": "%dst 'Wildcat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|80#|%dth 'Blue Ridge' Division",
+        "original": "%dth 'Blue Ridge' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|88#|%dth 'Blue Devils' Division",
+        "original": "%dth 'Blue Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|89#|%dth 'Rolling W' Division",
+        "original": "%dth 'Rolling W' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|95#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|78#|%dth 'Lightning' Division",
+        "original": "%dth 'Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|83#|%drd 'Thunderbolts' Division",
+        "original": "%drd 'Thunderbolts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|91#|%dst 'Pine Tree' Division",
+        "original": "%dst 'Pine Tree' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|96#|%dth 'Deadeye' Division",
+        "original": "%dth 'Deadeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|94#|%dth 'Neuf Quatres' Division",
+        "original": "%dth 'Neuf Quatres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|98#|%dth 'Iroquois' Division",
+        "original": "%dth 'Iroquois' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|102#|%dnd 'Ozarks' Division",
+        "original": "%dnd 'Ozarks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|104#|%dth 'Timberwolves' Division",
+        "original": "%dth 'Timberwolves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|84#|%dth 'Railsplitters' Division",
+        "original": "%dth 'Railsplitters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|92#|%dnd 'Buffalo Soldiers' Division",
+        "original": "%dnd 'Buffalo Soldiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|99#|%dth 'Checkerboard' Division",
+        "original": "%dth 'Checkerboard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|100#|%dth 'Century' Division",
+        "original": "%dth 'Century' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|103#|%drd 'Cactus' Division",
+        "original": "%drd 'Cactus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|86#|%dth 'Blackhawk' Division",
+        "original": "%dth 'Blackhawk' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|87#|%dth 'Golden Acorns' Division",
+        "original": "%dth 'Golden Acorns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|97#|%dth 'Trident' Division",
+        "original": "%dth 'Trident' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|106#|%dth 'Golden Lions' Division",
+        "original": "%dth 'Golden Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|66#|%dth 'Black Panthers' Division",
+        "original": "%dth 'Black Panthers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|75#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|69#|%dth 'Fighting 69th' Division",
+        "original": "%dth 'Fighting 69th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|63#|%drd 'Blood Fire' Division",
+        "original": "%drd 'Blood Fire' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|70#|%dth 'Trailblazers' Division",
+        "original": "%dth 'Trailblazers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|42#|%dnd 'Rainbow' Division",
+        "original": "%dnd 'Rainbow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|71#|%dst 'Red Circle' Division",
+        "original": "%dst 'Red Circle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|65#|%dth 'Battle Axe' Division",
+        "original": "%dth 'Battle Axe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|108#|%dth 'Golden Griffons' Division",
+        "original": "%dth 'Golden Griffons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|39#|%dth 'Delta' Division",
+        "original": "%dth 'Delta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|47#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|46#|%dth 'Ironfist' Division",
+        "original": "%dth 'Ironfist' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|48#|%dth 'Hurricane' Division",
+        "original": "%dth 'Hurricane' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|51#|%dst 'Rattlesnake' Division",
+        "original": "%dst 'Rattlesnake' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|49#|%dth '49ers' Division",
+        "original": "%dth '49ers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MEC_01|ordered|52#|%dnd 'Argonauts' Division",
+        "original": "%dnd 'Argonauts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_ARM_01|fallback_name",
+        "original": "%d Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|15#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|16#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|20#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|21#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|22#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|18#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|19#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|25#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|39#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|52#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|57#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|60#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|62#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|68#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|70#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|72#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_ARM_01|ordered|73#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_PAR_01|fallback_name",
+        "original": "%d Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|82#|%dnd Airborne 'All American' Division",
+        "original": "%dnd Airborne 'All American' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|101#|%dst Airborne 'Screaming Eagles' Division",
+        "original": "%dst Airborne 'Screaming Eagles' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|11#|%dth Airborne 'The Angels' Division",
+        "original": "%dth Airborne 'The Angels' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|13#|%dth Airborne 'Golden Unicorns' Division",
+        "original": "%dth Airborne 'Golden Unicorns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|17#|%dth Airborne 'Golden Talons' Division",
+        "original": "%dth Airborne 'Golden Talons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|18#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|21#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|135#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|108#|%dth Airborne'Golden Griffons' Division",
+        "original": "%dth Airborne'Golden Griffons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|15#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|80#|%dth Airborne 'Blue Ridge' Division",
+        "original": "%dth Airborne 'Blue Ridge' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|84#|%dth Airborne 'Railsplitters' Division",
+        "original": "%dth Airborne 'Railsplitters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|100#|%dth Airborne 'Century' Division",
+        "original": "%dth Airborne 'Century' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|202#|%dnd Airborne 'Flat-Hatters' Division",
+        "original": "%dnd Airborne 'Flat-Hatters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|271#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|272#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|273#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|274#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|275#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|276#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|277#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_PAR_01|ordered|278#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MAR_01|fallback_name",
+        "original": "%d Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|2#|%dnd Marine 'Follow Me' Division",
+        "original": "%dnd Marine 'Follow Me' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|3#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|4#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|5#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|6#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|7#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|8#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|9#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|10#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|11#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|12#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|13#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|14#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|15#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|16#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|17#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|18#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|19#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|20#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|21#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|22#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|23#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|24#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|25#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|26#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|27#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|28#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|29#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|30#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|31#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|32#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|33#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|34#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|35#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|36#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|37#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|38#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|39#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|40#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|41#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|42#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|43#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|44#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|45#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|46#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|47#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|48#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MAR_01|ordered|49#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_MNT_01|fallback_name",
+        "original": "%d Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|10#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|14#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|22#|%dnd Mountain Division",
+        "original": "%dnd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|50#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|55#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|12#|%dth 'Rocky Mountain' Division",
+        "original": "%dth 'Rocky Mountain' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|15#|%dth 'Appalachia' Division",
+        "original": "%dth 'Appalachia' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|16#|%dth 'Smoky Mountains' Division",
+        "original": "%dth 'Smoky Mountains' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|19#|%dth 'Cold Mountain' Division",
+        "original": "%dth 'Cold Mountain' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|20#|%dth 'Sierra Nevada' Division",
+        "original": "%dth 'Sierra Nevada' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|48#|%dth 'Stone Mountain' Division",
+        "original": "%dth 'Stone Mountain' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|49#|%dth 'Granite' Division",
+        "original": "%dth 'Granite' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|51#|%dst Mountain Division",
+        "original": "%dst Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|52#|%dnd 'Catskills' Division",
+        "original": "%dnd 'Catskills' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|53#|%drd Mountain Division",
+        "original": "%drd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|54#|%dth 'Wasatch Mountains' Division",
+        "original": "%dth 'Wasatch Mountains' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|56#|%dth 'Yellowstone' Division",
+        "original": "%dth 'Yellowstone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|57#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|58#|%dth 'Yosemite' Division",
+        "original": "%dth 'Yosemite' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|59#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|204#|%dth 'Mountain Lions' Division",
+        "original": "%dth 'Mountain Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|279#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|280#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|281#|%dst Mountain Division",
+        "original": "%dst Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|282#|%dnd Mountain Division",
+        "original": "%dnd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|283#|%drd Mountain Division",
+        "original": "%drd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|284#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|285#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|286#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|287#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_MNT_01|ordered|288#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "USA_GAR_01|fallback_name",
+        "original": "%d National Guard Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|77#|%dth 'Liberty' Division",
+        "original": "%dth 'Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|90#|%dth 'Tough Ombres' Division",
+        "original": "%dth 'Tough Ombres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|85#|%dth 'Custer' Division",
+        "original": "%dth 'Custer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|93#|%drd 'Blue Helmets' Division",
+        "original": "%drd 'Blue Helmets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|23#|'Americal' Division",
+        "original": "'Americal' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|76#|%dth 'Onaway' Division",
+        "original": "%dth 'Onaway' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|79#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|81#|%dst 'Wildcat' Division",
+        "original": "%dst 'Wildcat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|80#|%dth 'Blue Ridge' Division",
+        "original": "%dth 'Blue Ridge' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|88#|%dth 'Blue Devils' Division",
+        "original": "%dth 'Blue Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|89#|%dth 'Rolling W' Division",
+        "original": "%dth 'Rolling W' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|95#|%dth 'Victory' Division",
+        "original": "%dth 'Victory' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|78#|%dth 'Lightning' Division",
+        "original": "%dth 'Lightning' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|83#|%drd 'Thunderbolts' Division",
+        "original": "%drd 'Thunderbolts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|91#|%dst 'Pine Tree' Division",
+        "original": "%dst 'Pine Tree' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|96#|%dth 'Deadeye' Division",
+        "original": "%dth 'Deadeye' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|94#|%dth 'Neuf Quatres' Division",
+        "original": "%dth 'Neuf Quatres' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|98#|%dth 'Iroquois' Division",
+        "original": "%dth 'Iroquois' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|102#|%dnd 'Ozarks' Division",
+        "original": "%dnd 'Ozarks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|104#|%dth 'Timberwolves' Division",
+        "original": "%dth 'Timberwolves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|84#|%dth 'Railsplitters' Division",
+        "original": "%dth 'Railsplitters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|92#|%dnd 'Buffalo Soldiers' Division",
+        "original": "%dnd 'Buffalo Soldiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|99#|%dth 'Checkerboard' Division",
+        "original": "%dth 'Checkerboard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|100#|%dth 'Century' Division",
+        "original": "%dth 'Century' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|103#|%drd 'Cactus' Division",
+        "original": "%drd 'Cactus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|86#|%dth 'Blackhawk' Division",
+        "original": "%dth 'Blackhawk' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|87#|%dth 'Golden Acorns' Division",
+        "original": "%dth 'Golden Acorns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|97#|%dth 'Trident' Division",
+        "original": "%dth 'Trident' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|106#|%dth 'Golden Lions' Division",
+        "original": "%dth 'Golden Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|66#|%dth 'Black Panthers' Division",
+        "original": "%dth 'Black Panthers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|75#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|69#|%dth 'Fighting 69th' Division",
+        "original": "%dth 'Fighting 69th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|63#|%drd 'Blood Fire' Division",
+        "original": "%drd 'Blood Fire' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|70#|%dth 'Trailblazers' Division",
+        "original": "%dth 'Trailblazers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|42#|%dnd 'Rainbow' Division",
+        "original": "%dnd 'Rainbow' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|71#|%dst 'Red Circle' Division",
+        "original": "%dst 'Red Circle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|65#|%dth 'Battle Axe' Division",
+        "original": "%dth 'Battle Axe' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|61#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|62#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|67#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|68#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|72#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|73#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|74#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|105#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|107#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|108#|%dth 'Golden Griffons' Division",
+        "original": "%dth 'Golden Griffons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|39#|%dth 'Delta' Division",
+        "original": "%dth 'Delta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|47#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|46#|%dth 'Ironfist' Division",
+        "original": "%dth 'Ironfist' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|48#|%dth 'Hurricane' Division",
+        "original": "%dth 'Hurricane' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|51#|%dst 'Rattlesnake' Division",
+        "original": "%dst 'Rattlesnake' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|49#|%dth '49ers' Division",
+        "original": "%dth '49ers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|52#|%dnd 'Argonauts' Division",
+        "original": "%dnd 'Argonauts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|110#|%dth 'Washington' Division",
+        "original": "%dth 'Washington' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|115#|%dth 'Jefferson' Division",
+        "original": "%dth 'Jefferson' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|116#|%dth 'Headhunters' Division",
+        "original": "%dth 'Headhunters' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|128#|%dth 'Brooklyn' Division",
+        "original": "%dth 'Brooklyn' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|131#|%dth 'Lincoln' Division",
+        "original": "%dth 'Lincoln' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|165#|%dth 'Adams' Division",
+        "original": "%dth 'Adams' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|166#|%dth 'Franklin' Division",
+        "original": "%dth 'Franklin' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|167#|%dth 'Lions' Division",
+        "original": "%dth 'Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|168#|%dth 'Lady Liberty' Division",
+        "original": "%dth 'Lady Liberty' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|169#|%dth 'Madison' Division",
+        "original": "%dth 'Madison' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|170#|%dth 'Bloodhounds' Division",
+        "original": "%dth 'Bloodhounds' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|171#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|172#|%dnd 'Misfits' Division",
+        "original": "%dnd 'Misfits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|173#|%drd 'Metropolitan' Division",
+        "original": "%drd 'Metropolitan' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|187#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|188#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|189#|%dth 'Black Diamonds' Division",
+        "original": "%dth 'Black Diamonds' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|190#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|191#|%dst 'Sam Houston' Division",
+        "original": "%dst 'Sam Houston' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|192#|%dnd 'Banditos' Division",
+        "original": "%dnd 'Banditos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|193#|%drd 'Fighting 193rd' Division",
+        "original": "%drd 'Fighting 193rd' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|194#|%dth 'Dust Devils' Division",
+        "original": "%dth 'Dust Devils' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|195#|%dth 'Blue Dragons' Division",
+        "original": "%dth 'Blue Dragons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|196#|%dth 'Volunteers' Division",
+        "original": "%dth 'Volunteers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|197#|%dth 'Hercules' Division",
+        "original": "%dth 'Hercules' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|198#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|199#|%dth 'Davy Crockett' Division",
+        "original": "%dth 'Davy Crockett' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|200#|%dth 'Black Tigers' Division",
+        "original": "%dth 'Black Tigers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|201#|%dst 'Iron Men' Division",
+        "original": "%dst 'Iron Men' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|203#|%drd 'Armadillos' Division",
+        "original": "%drd 'Armadillos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|204#|%dth 'Mountain Lions' Division",
+        "original": "%dth 'Mountain Lions' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|205#|%dth 'Widowmakers' Division",
+        "original": "%dth 'Widowmakers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|119#|%dth 'White Knights' Division",
+        "original": "%dth 'White Knights' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|130#|%dth 'Dirty Bastards' Division",
+        "original": "%dth 'Dirty Bastards' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|157#|%dth 'Titans' Division",
+        "original": "%dth 'Titans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|158#|%dth 'Green Clovers' Division",
+        "original": "%dth 'Green Clovers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|159#|%dth 'Longhorn' Division",
+        "original": "%dth 'Longhorn' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|160#|%dth 'Freedom!' Division",
+        "original": "%dth 'Freedom!' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|161#|%dst 'Desert Scorpion' Division",
+        "original": "%dst 'Desert Scorpion' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|162#|%dnd 'Seminole' Division",
+        "original": "%dnd 'Seminole' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|163#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|174#|%dth 'Black Knights' Division",
+        "original": "%dth 'Black Knights' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|175#|%dth 'Apache' Division",
+        "original": "%dth 'Apache' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|176#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|177#|%dth 'Old Muddy' Division",
+        "original": "%dth 'Old Muddy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|178#|%dth 'Black Widows' Division",
+        "original": "%dth 'Black Widows' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|179#|%dth 'Moccasins' Division",
+        "original": "%dth 'Moccasins' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|180#|%dth 'Centaur' Division",
+        "original": "%dth 'Centaur' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|181#|%dst 'Howling Coyotes' Division",
+        "original": "%dst 'Howling Coyotes' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|182#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|183#|%drd 'Harlem' Division",
+        "original": "%drd 'Harlem' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|184#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|185#|%dth 'Ragin' Cajuns' Division",
+        "original": "%dth 'Ragin' Cajuns' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|186#|%dth 'Bulldog' Division",
+        "original": "%dth 'Bulldog' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|219#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|220#|%dth 'Chicago' Division",
+        "original": "%dth 'Chicago' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|221#|%dst 'Fighting Lumberjacks' Division",
+        "original": "%dst 'Fighting Lumberjacks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|222#|%dnd 'Explorers' Division",
+        "original": "%dnd 'Explorers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|223#|%drd 'Mavericks' Division",
+        "original": "%drd 'Mavericks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|224#|%dth 'San Francisco' Division",
+        "original": "%dth 'San Francisco' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|225#|%dth 'Falcons' Division",
+        "original": "%dth 'Falcons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|226#|%dth 'Alamo' Division",
+        "original": "%dth 'Alamo' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|227#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|228#|%dth 'Buccaneers' Division",
+        "original": "%dth 'Buccaneers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|229#|%dth 'Philadelphia' Division",
+        "original": "%dth 'Philadelphia' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|230#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|231#|%dst 'Cowboys' Division",
+        "original": "%dst 'Cowboys' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|232#|%dnd 'Archers' Division",
+        "original": "%dnd 'Archers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|233#|%drd 'Daniel Boone' Division",
+        "original": "%drd 'Daniel Boone' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|234#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|235#|%dth 'Mean Green' Division",
+        "original": "%dth 'Mean Green' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|236#|%dth 'Revenge!' Division",
+        "original": "%dth 'Revenge!' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|237#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|238#|%dth '1776' Division",
+        "original": "%dth '1776' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|239#|%dth 'Detroit' Division",
+        "original": "%dth 'Detroit' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|240#|%dth 'Minuteman' Division",
+        "original": "%dth 'Minuteman' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|241#|%dst 'Centurion' Division",
+        "original": "%dst 'Centurion' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|244#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|245#|%dth 'Enthusiasts' Division",
+        "original": "%dth 'Enthusiasts' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|246#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|247#|%dth 'Rebel Yell' Division",
+        "original": "%dth 'Rebel Yell' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|248#|%dth 'Jayhawkers' Division",
+        "original": "%dth 'Jayhawkers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|249#|%dth 'Swamp Fox' Division",
+        "original": "%dth 'Swamp Fox' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|250#|%dth 'Blue Streaks' Division",
+        "original": "%dth 'Blue Streaks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|251#|%dst 'Bearcats' Division",
+        "original": "%dst 'Bearcats' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|252#|%dnd 'Gorillas' Division",
+        "original": "%dnd 'Gorillas' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|253#|%drd 'Big Green' Division",
+        "original": "%drd 'Big Green' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|254#|%dth 'Mustangs' Division",
+        "original": "%dth 'Mustangs' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|255#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|256#|%dth 'Flying Dutchmen' Division",
+        "original": "%dth 'Flying Dutchmen' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|257#|%dth 'Phoenix' Division",
+        "original": "%dth 'Phoenix' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|258#|%dth 'Crusader' Division",
+        "original": "%dth 'Crusader' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|259#|%dth 'Boston' Division",
+        "original": "%dth 'Boston' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|260#|%dth 'Viking' Division",
+        "original": "%dth 'Viking' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|261#|%dst 'Braves' Division",
+        "original": "%dst 'Braves' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|262#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|263#|%drd 'Yellow Jackets' Division",
+        "original": "%drd 'Yellow Jackets' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|264#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|265#|%dth 'Celtic' Division",
+        "original": "%dth 'Celtic' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|266#|%dth 'Spartans' Division",
+        "original": "%dth 'Spartans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|267#|%dth 'Brocos' Division",
+        "original": "%dth 'Brocos' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|268#|%dth 'Infamous 268th' Division",
+        "original": "%dth 'Infamous 268th' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|269#|%dth 'Forrester' Division",
+        "original": "%dth 'Forrester' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|270#|%dth 'Gamecocks' Division",
+        "original": "%dth 'Gamecocks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|319#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|320#|%dth 'Vanguard' Division",
+        "original": "%dth 'Vanguard' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|321#|%dst 'Pioneer' Division",
+        "original": "%dst 'Pioneer' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|322#|%dnd 'Beavers' Division",
+        "original": "%dnd 'Beavers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|323#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|324#|%dth 'Cavaliers' Division",
+        "original": "%dth 'Cavaliers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|325#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|326#|%dth 'Cardinals' Division",
+        "original": "%dth 'Cardinals' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|327#|%dth 'Polar Bears' Division",
+        "original": "%dth 'Polar Bears' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|328#|%dth 'Gettysburg' Division",
+        "original": "%dth 'Gettysburg' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|329#|%dth 'Vicksburg' Division",
+        "original": "%dth 'Vicksburg' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|330#|%dth 'Comet' Division",
+        "original": "%dth 'Comet' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|331#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|332#|%dnd 'Mastadons' Division",
+        "original": "%dnd 'Mastadons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|333#|%drd 'Lucky Lindy' Division",
+        "original": "%drd 'Lucky Lindy' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|334#|%dth 'Golden Gophers' Division",
+        "original": "%dth 'Golden Gophers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|335#|%dth 'Fighting Irish' Division",
+        "original": "%dth 'Fighting Irish' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|336#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|337#|%dth 'Red Hawks' Division",
+        "original": "%dth 'Red Hawks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|338#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|339#|%dth 'Hilltoppers' Division",
+        "original": "%dth 'Hilltoppers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|340#|%dth 'Green Demons' Division",
+        "original": "%dth 'Green Demons' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|341#|%dst 'Black Ravens' Division",
+        "original": "%dst 'Black Ravens' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|344#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|345#|%dth 'Wasps' Division",
+        "original": "%dth 'Wasps' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|346#|%dth 'Jackrabbits' Division",
+        "original": "%dth 'Jackrabbits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|347#|%dth 'Columbus' Division",
+        "original": "%dth 'Columbus' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|348#|%dth 'Giants' Division",
+        "original": "%dth 'Giants' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|349#|%dth 'Highlanders' Division",
+        "original": "%dth 'Highlanders' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|350#|%dth 'Lakers' Division",
+        "original": "%dth 'Lakers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|351#|%dst 'Saints' Division",
+        "original": "%dst 'Saints' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|352#|%dnd 'Roadrunner' Division",
+        "original": "%dnd 'Roadrunner' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|353#|%drd 'Maccabees' Division",
+        "original": "%drd 'Maccabees' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|354#|%dth 'Green Gators' Division",
+        "original": "%dth 'Green Gators' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|355#|%dth 'Seattle' Division",
+        "original": "%dth 'Seattle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|356#|%dth 'Warhawks' Division",
+        "original": "%dth 'Warhawks' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|357#|%dth 'Grey Owls' Division",
+        "original": "%dth 'Grey Owls' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|358#|%dth 'Chrimson' Division",
+        "original": "%dth 'Chrimson' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|359#|%dth 'Trojans' Division",
+        "original": "%dth 'Trojans' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|360#|%dth 'Bloody Saber' Division",
+        "original": "%dth 'Bloody Saber' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|361#|%dst 'Billy  Johnny' DivisionÜ",
+        "original": "%dst 'Billy  Johnny' DivisionÜ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|362#|%dnd 'Amerigo Vespucci' Division",
+        "original": "%dnd 'Amerigo Vespucci' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|363#|%drd 'Chocktaw' Division",
+        "original": "%drd 'Chocktaw' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|364#|%dth 'Ogre' Division",
+        "original": "%dth 'Ogre' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|365#|%dth 'Patriot' Division",
+        "original": "%dth 'Patriot' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|366#|%dth 'Storm' Division",
+        "original": "%dth 'Storm' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|367#|%dth 'Hoosiers' Division",
+        "original": "%dth 'Hoosiers' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|368#|%dth 'Jaguars' Division",
+        "original": "%dth 'Jaguars' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|369#|%dth 'Corsairs' Division",
+        "original": "%dth 'Corsairs' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA_GAR_01|ordered|370#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    }
+]

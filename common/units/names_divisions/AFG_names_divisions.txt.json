@@ -1,0 +1,962 @@
+[
+    {
+        "key": "AFG_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|1#|Faizabad Division",
+        "original": "Faizabad Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|2#|Ghazni Division",
+        "original": "Ghazni Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|3#|Herat Division",
+        "original": "Herat Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|4#|Jalalabad Division",
+        "original": "Jalalabad Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|5#|Kandahar Division",
+        "original": "Kandahar Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|6#|Maymeneh Division",
+        "original": "Maymeneh Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|7#|Mazar-e Shar Division",
+        "original": "Mazar-e Shar Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|8#|Zahir Shah Division",
+        "original": "Zahir Shah Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|9#|Abdur Rahman Division",
+        "original": "Abdur Rahman Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|10#|Nadir Shah Division",
+        "original": "Nadir Shah Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|11#|Dost Mohammed Division",
+        "original": "Dost Mohammed Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|12#|Shah Shuja Division",
+        "original": "Shah Shuja Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|13#|Taloqan Division",
+        "original": "Taloqan Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|14#|Qondoz Division",
+        "original": "Qondoz Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|15#|Kholm Division",
+        "original": "Kholm Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|16#|Aybak Division",
+        "original": "Aybak Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|17#|Sheberghan Division",
+        "original": "Sheberghan Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|18#|Balkh Division",
+        "original": "Balkh Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|19#|Meymaneh Division",
+        "original": "Meymaneh Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|20#|Dawlatabad Division",
+        "original": "Dawlatabad Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|21#|Tarin Kowt Division",
+        "original": "Tarin Kowt Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|22#|Dalat Division",
+        "original": "Dalat Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|23#|Khash Division",
+        "original": "Khash Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|24#|Lashkar Gan Division",
+        "original": "Lashkar Gan Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_INF_01|ordered|25#|Mirabad Division",
+        "original": "Mirabad Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|1#|Faizabad Cavalry",
+        "original": "Faizabad Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|2#|Ghazni Cavalry",
+        "original": "Ghazni Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|3#|Herat Cavalry",
+        "original": "Herat Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|4#|Jalalabad Cavalry",
+        "original": "Jalalabad Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|5#|Kandahar Cavalry",
+        "original": "Kandahar Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|6#|Maymeneh Cavalry",
+        "original": "Maymeneh Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|7#|Mazar-e Shar Cavalry",
+        "original": "Mazar-e Shar Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|8#|Zahir Shah Cavalry",
+        "original": "Zahir Shah Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|9#|Abdur Rahman Cavalry",
+        "original": "Abdur Rahman Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|10#|Nadir Shah Cavalry",
+        "original": "Nadir Shah Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|11#|Dost Mohammed Cavalry",
+        "original": "Dost Mohammed Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|12#|Shah Shuja Cavalry",
+        "original": "Shah Shuja Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|13#|Taloqan Cavalry",
+        "original": "Taloqan Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|14#|Qondoz Cavalry",
+        "original": "Qondoz Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|15#|Kholm Cavalry",
+        "original": "Kholm Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|16#|Aybak Cavalry",
+        "original": "Aybak Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|17#|Sheberghan Cavalry",
+        "original": "Sheberghan Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|18#|Balkh Cavalry",
+        "original": "Balkh Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|19#|Meymaneh Cavalry",
+        "original": "Meymaneh Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|20#|Dawlatabad Cavalry",
+        "original": "Dawlatabad Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|21#|Tarin Kowt Cavalry",
+        "original": "Tarin Kowt Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|22#|Dalat Cavalry",
+        "original": "Dalat Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|23#|Khash Cavalry",
+        "original": "Khash Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|24#|Lashkar Gan Cavalry",
+        "original": "Lashkar Gan Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_CAV_01|ordered|25#|Mirabad Cavalry",
+        "original": "Mirabad Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|1#|Faizabad Militia",
+        "original": "Faizabad Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|2#|Ghazni Militia",
+        "original": "Ghazni Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|3#|Herat Militia",
+        "original": "Herat Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|4#|Jalalabad Militia",
+        "original": "Jalalabad Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|5#|Kandahar Militia",
+        "original": "Kandahar Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|6#|Maymeneh Militia",
+        "original": "Maymeneh Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|7#|Mazar-e Shar Militia",
+        "original": "Mazar-e Shar Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|8#|Zahir Shah Militia",
+        "original": "Zahir Shah Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|9#|Abdur Rahman Militia",
+        "original": "Abdur Rahman Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|10#|Nadir Shah Militia",
+        "original": "Nadir Shah Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|11#|Dost Mohammed Militia",
+        "original": "Dost Mohammed Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|12#|Shah Shuja Militia",
+        "original": "Shah Shuja Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|13#|Taloqan Militia",
+        "original": "Taloqan Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|14#|Qondoz Militia",
+        "original": "Qondoz Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|15#|Kholm Militia",
+        "original": "Kholm Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|16#|Aybak Militia",
+        "original": "Aybak Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|17#|Sheberghan Militia",
+        "original": "Sheberghan Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|18#|Balkh Militia",
+        "original": "Balkh Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|19#|Meymaneh Militia",
+        "original": "Meymaneh Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|20#|Dawlatabad Militia",
+        "original": "Dawlatabad Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|21#|Tarin Kowt Militia",
+        "original": "Tarin Kowt Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|22#|Dalat Militia",
+        "original": "Dalat Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|23#|Khash Militia",
+        "original": "Khash Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|24#|Lashkar Gan Militia",
+        "original": "Lashkar Gan Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|25#|Mirabad Militia",
+        "original": "Mirabad Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_GAR_01|ordered|26#|Farah Military District",
+        "original": "Farah Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|1#|Faizabad Marine Division",
+        "original": "Faizabad Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|2#|Ghazni Marine Division",
+        "original": "Ghazni Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|3#|Herat Marine Division",
+        "original": "Herat Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|4#|Jalalabad Marine Division",
+        "original": "Jalalabad Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|5#|Kandahar Marine Division",
+        "original": "Kandahar Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|6#|Maymeneh Marine Division",
+        "original": "Maymeneh Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|7#|Mazar-e Shar Marine Division",
+        "original": "Mazar-e Shar Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|8#|Zahir Shah Marine Division",
+        "original": "Zahir Shah Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|9#|Abdur Rahman Marine Division",
+        "original": "Abdur Rahman Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|10#|Nadir Shah Marine Division",
+        "original": "Nadir Shah Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|11#|Dost Mohammed Marine Division",
+        "original": "Dost Mohammed Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|12#|Shah Shuja Marine Division",
+        "original": "Shah Shuja Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|13#|Taloqan Marine Division",
+        "original": "Taloqan Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|14#|Qondoz Marine Division",
+        "original": "Qondoz Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|15#|Kholm Marine Division",
+        "original": "Kholm Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|16#|Aybak Marine Division",
+        "original": "Aybak Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|17#|Sheberghan Marine Division",
+        "original": "Sheberghan Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|18#|Balkh Marine Division",
+        "original": "Balkh Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|19#|Meymaneh Marine Division",
+        "original": "Meymaneh Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|20#|Dawlatabad Marine Division",
+        "original": "Dawlatabad Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|21#|Tarin Kowt Marine Division",
+        "original": "Tarin Kowt Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|22#|Dalat Marine Division",
+        "original": "Dalat Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|23#|Khash Marine Division",
+        "original": "Khash Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|24#|Lashkar Gan Marine Division",
+        "original": "Lashkar Gan Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MAR_01|ordered|25#|Mirabad Marine Division",
+        "original": "Mirabad Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|1#|Faizabad Mountain Division",
+        "original": "Faizabad Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|2#|Ghazni Mountain Division",
+        "original": "Ghazni Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|3#|Herat Mountain Division",
+        "original": "Herat Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|4#|Jalalabad Mountain Division",
+        "original": "Jalalabad Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|5#|Kandahar Mountain Division",
+        "original": "Kandahar Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|6#|Maymeneh Mountain Division",
+        "original": "Maymeneh Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|7#|Mazar-e Shar Mountain Division",
+        "original": "Mazar-e Shar Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|8#|Zahir Shah Mountain Division",
+        "original": "Zahir Shah Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|9#|Abdur Rahman Mountain Division",
+        "original": "Abdur Rahman Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|10#|Nadir Shah Mountain Division",
+        "original": "Nadir Shah Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|11#|Dost Mohammed Mountain Division",
+        "original": "Dost Mohammed Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|12#|Shah Shuja Mountain Division",
+        "original": "Shah Shuja Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|13#|Taloqan Mountain Division",
+        "original": "Taloqan Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|14#|Qondoz Mountain Division",
+        "original": "Qondoz Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|15#|Kholm Mountain Division",
+        "original": "Kholm Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|16#|Aybak Mountain Division",
+        "original": "Aybak Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|17#|Sheberghan Mountain Division",
+        "original": "Sheberghan Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|18#|Balkh Mountain Division",
+        "original": "Balkh Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|19#|Meymaneh Mountain Division",
+        "original": "Meymaneh Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|20#|Dawlatabad Mountain Division",
+        "original": "Dawlatabad Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|21#|Tarin Kowt Mountain Division",
+        "original": "Tarin Kowt Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|22#|Dalat Mountain Division",
+        "original": "Dalat Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|23#|Khash Mountain Division",
+        "original": "Khash Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|24#|Lashkar Gan Mountain Division",
+        "original": "Lashkar Gan Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_MTN_01|ordered|25#|Mirabad Mountain Division",
+        "original": "Mirabad Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AFG_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|1#|Faizabad Para Division",
+        "original": "Faizabad Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|2#|Ghazni Para Division",
+        "original": "Ghazni Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|3#|Herat Para Division",
+        "original": "Herat Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|4#|Jalalabad Para Division",
+        "original": "Jalalabad Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|5#|Kandahar Para Division",
+        "original": "Kandahar Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|6#|Maymeneh Para Division",
+        "original": "Maymeneh Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|7#|Mazar-e Shar Para Division",
+        "original": "Mazar-e Shar Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|8#|Zahir Shah Para Division",
+        "original": "Zahir Shah Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|9#|Abdur Rahman Para Division",
+        "original": "Abdur Rahman Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|10#|Nadir Shah Para Division",
+        "original": "Nadir Shah Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|11#|Dost Mohammed Para Division",
+        "original": "Dost Mohammed Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|12#|Shah Shuja Para Division",
+        "original": "Shah Shuja Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|13#|Taloqan Para Division",
+        "original": "Taloqan Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|14#|Qondoz Para Division",
+        "original": "Qondoz Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|15#|Kholm Para Division",
+        "original": "Kholm Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|16#|Aybak Para Division",
+        "original": "Aybak Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|17#|Sheberghan Para Division",
+        "original": "Sheberghan Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|18#|Balkh Para Division",
+        "original": "Balkh Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|19#|Meymaneh Para Division",
+        "original": "Meymaneh Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|20#|Dawlatabad Para Division",
+        "original": "Dawlatabad Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|21#|Tarin Kowt Para Division",
+        "original": "Tarin Kowt Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|22#|Dalat Para Division",
+        "original": "Dalat Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|23#|Khash Para Division",
+        "original": "Khash Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|24#|Lashkar Gan Para Division",
+        "original": "Lashkar Gan Para Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AFG_PAR_01|ordered|25#|Mirabad Para Division",
+        "original": "Mirabad Para Division",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,465 @@
+YUN_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Yunnan Juntuán"
+  ordered = {
+    1 = {
+      "%d Yunnan Juntuán"
+    }
+    2 = {
+      "%d Yunnan Juntuán"
+    }
+    3 = {
+      "%d Yunnan Juntuán"
+    }
+    4 = {
+      "%d Yunnan Juntuán"
+    }
+    5 = {
+      "%d Yunnan Juntuán"
+    }
+    6 = {
+      "%d Yunnan Juntuán"
+    }
+    7 = {
+      "%d Yunnan Juntuán"
+    }
+    8 = {
+      "%d Yunnan Juntuán"
+    }
+    9 = {
+      "%d Yunnan Juntuán"
+    }
+    10 = {
+      "%d Yunnan Juntuán"
+    }
+    11 = {
+      "%d Yunnan Juntuán"
+    }
+    12 = {
+      "%d Yunnan Juntuán"
+    }
+    13 = {
+      "%d Yunnan Juntuán"
+    }
+    14 = {
+      "%d Yunnan Juntuán"
+    }
+    15 = {
+      "%d Yunnan Juntuán"
+    }
+    16 = {
+      "%d Yunnan Juntuán"
+    }
+    17 = {
+      "%d Yunnan Juntuán"
+    }
+    18 = {
+      "%d Yunnan Juntuán"
+    }
+    19 = {
+      "%d Yunnan Juntuán"
+    }
+    20 = {
+      "%d Yunnan Juntuán"
+    }
+  }
+}
+YUN_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Yunnan Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Yunnan Qibing Jun"
+    }
+    2 = {
+      "%d Yunnan Qibing Jun"
+    }
+    3 = {
+      "%d Yunnan Qibing Jun"
+    }
+    4 = {
+      "%d Yunnan Qibing Jun"
+    }
+    6 = {
+      "%d Yunnan Qibing Jun"
+    }
+    5 = {
+      "%d Yunnan Qibing Jun"
+    }
+    7 = {
+      "%d Yunnan Qibing Jun"
+    }
+    8 = {
+      "%d Yunnan Qibing Jun"
+    }
+    9 = {
+      "%d Yunnan Qibing Jun"
+    }
+    10 = {
+      "%d Yunnan Qibing Jun"
+    }
+    11 = {
+      "%d Yunnan Qibing Jun"
+    }
+    12 = {
+      "%d Yunnan Qibing Jun"
+    }
+    13 = {
+      "%d Yunnan Qibing Jun"
+    }
+    14 = {
+      "%d Yunnan Qibing Jun"
+    }
+    15 = {
+      "%d Yunnan Qibing Jun"
+    }
+  }
+}
+YUN_MOT_01 = {
+  name = "Motorized Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    YUN_INF_01
+  }
+  fallback_name = "%d Yunnan Juntuán"
+  ordered = {
+    1 = {
+      "%d Yunnan Juntuán"
+    }
+    2 = {
+      "%d Yunnan Juntuán"
+    }
+    3 = {
+      "%d Yunnan Juntuán"
+    }
+    4 = {
+      "%d Yunnan Juntuán"
+    }
+    5 = {
+      "%d Yunnan Juntuán"
+    }
+    6 = {
+      "%d Yunnan Juntuán"
+    }
+    7 = {
+      "%d Yunnan Juntuán"
+    }
+    8 = {
+      "%d Yunnan Juntuán"
+    }
+    9 = {
+      "%d Yunnan Juntuán"
+    }
+    10 = {
+      "%d Yunnan Juntuán"
+    }
+    11 = {
+      "%d Yunnan Juntuán"
+    }
+    12 = {
+      "%d Yunnan Juntuán"
+    }
+    13 = {
+      "%d Yunnan Juntuán"
+    }
+    14 = {
+      "%d Yunnan Juntuán"
+    }
+    15 = {
+      "%d Yunnan Juntuán"
+    }
+    16 = {
+      "%d Yunnan Juntuán"
+    }
+    17 = {
+      "%d Yunnan Juntuán"
+    }
+    18 = {
+      "%d Yunnan Juntuán"
+    }
+    19 = {
+      "%d Yunnan Juntuán"
+    }
+    20 = {
+      "%d Yunnan Juntuán"
+    }
+  }
+}
+YUN_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    YUN_INF_01
+  }
+  fallback_name = "%d Yunnan Juntuán"
+  ordered = {
+    1 = {
+      "%d Yunnan Juntuán"
+    }
+    2 = {
+      "%d Yunnan Juntuán"
+    }
+    3 = {
+      "%d Yunnan Juntuán"
+    }
+    4 = {
+      "%d Yunnan Juntuán"
+    }
+    5 = {
+      "%d Yunnan Juntuán"
+    }
+    6 = {
+      "%d Yunnan Juntuán"
+    }
+    7 = {
+      "%d Yunnan Juntuán"
+    }
+    8 = {
+      "%d Yunnan Juntuán"
+    }
+    9 = {
+      "%d Yunnan Juntuán"
+    }
+    10 = {
+      "%d Yunnan Juntuán"
+    }
+    11 = {
+      "%d Yunnan Juntuán"
+    }
+    12 = {
+      "%d Yunnan Juntuán"
+    }
+    13 = {
+      "%d Yunnan Juntuán"
+    }
+    14 = {
+      "%d Yunnan Juntuán"
+    }
+    15 = {
+      "%d Yunnan Juntuán"
+    }
+    16 = {
+      "%d Yunnan Juntuán"
+    }
+    17 = {
+      "%d Yunnan Juntuán"
+    }
+    18 = {
+      "%d Yunnan Juntuán"
+    }
+    19 = {
+      "%d Yunnan Juntuán"
+    }
+    20 = {
+      "%d Yunnan Juntuán"
+    }
+  }
+}
+YUN_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    YUN_INF_01
+  }
+  fallback_name = "%d Yunnan Juntuán"
+  ordered = {
+    1 = {
+      "%d Yunnan Juntuán"
+    }
+    2 = {
+      "%d Yunnan Juntuán"
+    }
+    3 = {
+      "%d Yunnan Juntuán"
+    }
+    4 = {
+      "%d Yunnan Juntuán"
+    }
+    5 = {
+      "%d Yunnan Juntuán"
+    }
+    6 = {
+      "%d Yunnan Juntuán"
+    }
+    7 = {
+      "%d Yunnan Juntuán"
+    }
+    8 = {
+      "%d Yunnan Juntuán"
+    }
+    9 = {
+      "%d Yunnan Juntuán"
+    }
+    10 = {
+      "%d Yunnan Juntuán"
+    }
+    11 = {
+      "%d Yunnan Juntuán"
+    }
+    12 = {
+      "%d Yunnan Juntuán"
+    }
+    13 = {
+      "%d Yunnan Juntuán"
+    }
+    14 = {
+      "%d Yunnan Juntuán"
+    }
+    15 = {
+      "%d Yunnan Juntuán"
+    }
+    16 = {
+      "%d Yunnan Juntuán"
+    }
+    17 = {
+      "%d Yunnan Juntuán"
+    }
+    18 = {
+      "%d Yunnan Juntuán"
+    }
+    19 = {
+      "%d Yunnan Juntuán"
+    }
+    20 = {
+      "%d Yunnan Juntuán"
+    }
+  }
+}
+YUN_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    YUN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Yunnan Jingbei"
+  ordered = {
+    132 = {
+      "1 Yunnan Baoan Ke"
+    }
+    133 = {
+      "1 Kunming Baoan Ke"
+    }
+    131 = {
+      "Dali Baoan Ke"
+    }
+    101 = {
+      "1 Yunnan Jingbei"
+    }
+    111 = {
+      "1 Kunming Jingbei"
+    }
+    102 = {
+      "2 Yunnan Jingbei"
+    }
+    103 = {
+      "3 Yunnan Jingbei"
+    }
+    112 = {
+      "2 Kunming Jingbei"
+    }
+    113 = {
+      "3 Kunming Jingbei"
+    }
+    104 = {
+      "4 Yunnan Jingbei"
+    }
+    105 = {
+      "5 Yunnan Jingbei"
+    }
+    114 = {
+      "4 Kunming Jingbei"
+    }
+    115 = {
+      "5 Kunming Jingbei"
+    }
+    134 = {
+      "2 Kunming Baoan Ke"
+    }
+    135 = {
+      "3 Kunming Baoan Ke"
+    }
+    136 = {
+      "2 Yunnan Baoan Ke"
+    }
+    137 = {
+      "3 Yunnan Baoan Ke"
+    }
+    1 = {
+      "%d Yunnan Jingbei"
+    }
+    2 = {
+      "%d Yunnan Jingbei"
+    }
+    3 = {
+      "%d Yunnan Jingbei"
+    }
+    4 = {
+      "%d Yunnan Jingbei"
+    }
+    5 = {
+      "%d Yunnan Jingbei"
+    }
+    6 = {
+      "%d Yunnan Jingbei"
+    }
+    7 = {
+      "%d Yunnan Jingbei"
+    }
+    8 = {
+      "%d Yunnan Jingbei"
+    }
+    9 = {
+      "%d Yunnan Jingbei"
+    }
+    10 = {
+      "%d Yunnan Jingbei"
+    }
+  }
+}

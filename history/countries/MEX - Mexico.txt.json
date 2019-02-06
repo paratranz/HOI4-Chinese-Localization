@@ -1,0 +1,50 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Lázaro Cárdenas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Salvador Abascal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Manuel Gómez Morín",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Dionisio Encina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_country_leader|name",
+        "original": "Manuel Avila Camacho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Luis Farell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Gildardo Magaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Paul Suarez",
+        "translation": "",
+        "stage": 0
+    }
+]

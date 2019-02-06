@@ -1,0 +1,944 @@
+[
+    {
+        "key": "OMA_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_INF_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|1#|Alquwwat Almusallahat Alssultan",
+        "original": "Alquwwat Almusallahat Alssultan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|2#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|3#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|4#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|5#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|6#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|7#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|8#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|9#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|10#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|12#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|13#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|14#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|15#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|16#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|17#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|18#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|19#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_INF_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_CAV_01|fallback_name",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|1#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|2#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|3#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|4#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|5#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|6#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|7#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|8#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|9#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|10#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|11#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|12#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|13#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|14#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_CAV_01|ordered|15#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MOT_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|1#|Alquwwat Almusallahat Alssultan",
+        "original": "Alquwwat Almusallahat Alssultan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|2#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|3#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|4#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|5#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|6#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|7#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|8#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|9#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|10#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|12#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|13#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|14#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|15#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|16#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|17#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|18#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|19#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MOT_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_ARM_01|fallback_name",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|1#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|2#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|3#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|4#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|5#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|6#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|7#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|8#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|9#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|10#|Omani Sipahis al-%di",
+        "original": "Omani Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|11#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|12#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|13#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|14#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_ARM_01|ordered|15#|Omani Sipahis al-%dr",
+        "original": "Omani Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MEC_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|1#|Alquwwat Almusallahat Alssultan",
+        "original": "Alquwwat Almusallahat Alssultan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|2#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|3#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|4#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|5#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|6#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|7#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|8#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|9#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|10#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|12#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|13#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|14#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|15#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|16#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|17#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|18#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|19#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MEC_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_GAR_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|1#|Alquwwat Almusallahat Alssultan",
+        "original": "Alquwwat Almusallahat Alssultan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|2#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|3#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|4#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|5#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|6#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|7#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|8#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|9#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|10#|Omani al-Mushati al-%di",
+        "original": "Omani al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|12#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|13#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|14#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|15#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|16#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|17#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|18#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|19#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_GAR_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MAR_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|21#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|22#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|23#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|24#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|25#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|26#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|27#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|28#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|29#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MAR_01|ordered|30#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_MTN_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|21#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|22#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|23#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|24#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|25#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|26#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|27#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|28#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|29#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_MTN_01|ordered|30#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OMA_PAR_01|fallback_name",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|20#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|21#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|22#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|23#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|24#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|25#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|26#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|27#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|28#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|29#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|OMA_PAR_01|ordered|30#|Omani al-Mushati al-%dr",
+        "original": "Omani al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    }
+]

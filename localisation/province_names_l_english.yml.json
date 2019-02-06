@@ -1,0 +1,98 @@
+[
+    {
+        "key": "europe:0",
+        "original": "Europe",
+        "translation": "欧洲",
+        "stage": 1
+    },
+    {
+        "key": "europe_adj:0",
+        "original": "European",
+        "translation": "欧洲",
+        "stage": 1
+    },
+    {
+        "key": "asia:0",
+        "original": "Asia",
+        "translation": "亚洲",
+        "stage": 1
+    },
+    {
+        "key": "asia_adj:0",
+        "original": "Asian",
+        "translation": "亚洲",
+        "stage": 1
+    },
+    {
+        "key": "africa:0",
+        "original": "Africa",
+        "translation": "非洲",
+        "stage": 1
+    },
+    {
+        "key": "africa_adj:0",
+        "original": "African",
+        "translation": "非洲",
+        "stage": 1
+    },
+    {
+        "key": "north_america:0",
+        "original": "North America",
+        "translation": "北美",
+        "stage": 1
+    },
+    {
+        "key": "north_america_adj:0",
+        "original": "North American",
+        "translation": "北美",
+        "stage": 1
+    },
+    {
+        "key": "south_america:0",
+        "original": "South America",
+        "translation": "南美",
+        "stage": 1
+    },
+    {
+        "key": "south_america_adj:0",
+        "original": "South American",
+        "translation": "南美",
+        "stage": 1
+    },
+    {
+        "key": "australia:0",
+        "original": "Oceania",
+        "translation": "大洋洲",
+        "stage": 1
+    },
+    {
+        "key": "australia_adj:0",
+        "original": "Oceanian",
+        "translation": "大洋洲",
+        "stage": 1
+    },
+    {
+        "key": "middle_east:0",
+        "original": "Middle East",
+        "translation": "中东",
+        "stage": 1
+    },
+    {
+        "key": "middle_east_adj:0",
+        "original": "Middle Eastern",
+        "translation": "中东",
+        "stage": 1
+    },
+    {
+        "key": "neighbor:0",
+        "original": "Neighbor",
+        "translation": "邻国",
+        "stage": 1
+    },
+    {
+        "key": "subject:0",
+        "original": "Subject",
+        "translation": "附庸",
+        "stage": 1
+    }
+]

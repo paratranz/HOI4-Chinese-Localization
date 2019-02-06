@@ -1,0 +1,848 @@
+[
+    {
+        "key": "POLITICS_SUBGOAL_HEADER:0",
+        "original": "$NAME$ ($COLOR$$PROGRESS|%0$§!):",
+        "translation": "$NAME$ ($COLOR$$PROGRESS|%0$§!)：",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_SUBGOAL:0",
+        "original": "Objective #$NUMBER$",
+        "translation": "目标 #$NUMBER$",
+        "stage": 1
+    },
+    {
+        "key": "DRIFT_DIM_RETURN:0",
+        "original": "Party Inertia: §R-$VAL$§!\\n",
+        "translation": "政党惰性：§R-$VAL$§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "POL_DAILY_CHANGE:0",
+        "original": "Daily Change: $VAL$",
+        "translation": "每日变化：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "POL_OTHERS_DRIFT:0",
+        "original": "Due to the changes in other parties: $VAL$",
+        "translation": "因为其他党派变化：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NOELECTIONS:0",
+        "original": "No Elections",
+        "translation": "无选举",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NEXTELECTION:0",
+        "original": "Next Election",
+        "translation": "下一次大选",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ELECTION_FREQUENCY:0",
+        "original": "Elections every $MONTHS|H$ years.",
+        "translation": "每$MONTHS|H$年一次大选。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_HOLD_ELECTION:0",
+        "original": "Hold Election in $COUNTRY$",
+        "translation": "$COUNTRY$正在大选",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NEXT_ELECTION:0",
+        "original": "Next Election $DATE$",
+        "translation": "下一次大选 $DATE$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ACTIVE_GOAL:0",
+        "original": "Active Goal",
+        "translation": "激活目标",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_PARTY_NAME:0",
+        "original": "§H$KEY$ ($VAL$%)§!",
+        "translation": "§H$KEY$ ($VAL$%)§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEOLOGY:0",
+        "original": "§TParty Ideology: $IDEOLOGY|H$§!",
+        "translation": "§T政党意识形态：$IDEOLOGY|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_LEADER:0",
+        "original": "§TParty Leader: $LEADER|H$§!",
+        "translation": "§T政党领导人：$LEADER|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_POPULARITY:0",
+        "original": "§TPopularity: §H$VALUE|2$%§!§!",
+        "translation": "§T支持率：§H$VALUE|2$%§!§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_POPULARITY_INCREASE_SPY:0",
+        "original": "$SPY|H$ is increasing the popularity (§H$VALUE|2$%§! weekly)",
+        "translation": "$SPY|H$正在提高支持率 (§H$VALUE|2$%§!/周)",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEOLOGY_POPULARITY_CHANGE:0",
+        "original": "Change in popularity of $IDEOLOGY$: $VALUE|+2%$",
+        "translation": "$IDEOLOGY$支持率变化：$VALUE|+2%$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_SCORE:0",
+        "original": "§TTotal Score: $VALUE|0H$§!",
+        "translation": "§T总分：$VALUE|0H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_WINDOW:0",
+        "original": "Manage Government",
+        "translation": "管理国家",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ADD_IDEA:0",
+        "original": "§GClick to add $GROUP|H$§!",
+        "translation": "§G点击添加$GROUP|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_INVALID_IDEA_REMOVED:0",
+        "original": "§HInvalid Idea $IDEA|R$ Removed§!",
+        "translation": "§H无效的$IDEA|R$被废除§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_INVALID_IDEA_REMOVED_DESC:0",
+        "original": "The government idea $IDEA|R$ has been removed because its prerequisites are no longer fulfilled.",
+        "translation": "$IDEA|R$法案已被废除，因它不再满足前提条件。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_INVALID_IDEA_REPLACED:0",
+        "original": "§HInvalid Idea $IDEA|R$ Replaced§!",
+        "translation": "§H无效的$IDEA|R$被替换§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_INVALID_IDEA_REPLACED_DESC:0",
+        "original": "The prerequisites for government idea $OLD_IDEA|R$ are no longer fulfilled and it has been replaced with $NEW_IDEA|Y$.",
+        "translation": "之前的$OLD_IDEA|R$法案因为前提条件无法满足而被换为$NEW_IDEA|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_REMOVE_IDEA_TILE:0",
+        "original": "Remove Idea",
+        "translation": "解雇企业/顾问",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_REMOVE_IDEA_DESC:0",
+        "original": "Do you want to remove §Y$IDEA$§! for a cost of £pol_power $COST|-0$?",
+        "translation": "你希望花费£pol_power $COST|-0$来解雇§Y$IDEA$§!吗？",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_REPLACE_IDEA_TILE:0",
+        "original": "Replace Idea",
+        "translation": "替换法案/企业/顾问",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_REPLACE_IDEA_DESC:0",
+        "original": "Do you want to replace §Y$OLD_IDEA$§! with §Y$NEW_IDEA$§! for a total cost of £pol_power $COST|-0$?",
+        "translation": "你希望花费£pol_power $COST|-0$把§Y$OLD_IDEA$§!换为§Y$NEW_IDEA$§!吗？",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_COST:0",
+        "original": "Cost (£pol_power ): $VALUE|-0$",
+        "translation": "消耗 (£pol_power )：$VALUE|-0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_COST_COMPACT:0",
+        "original": "£pol_power  $VALUE|0$",
+        "translation": "£pol_power  $VALUE|0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_REMOVE_COST:0",
+        "original": "Cost to remove (£pol_power ): $VALUE|0$",
+        "translation": "解雇消耗(£pol_power )：$VALUE|0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_NO_REMOVE:0",
+        "original": "§RCannot remove.§!\\n",
+        "translation": "§R不能解雇。§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_IDEA_CANCEL_DESC:0",
+        "original": "Will be canceled if:",
+        "translation": "将被解雇：",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_INSTANT_EFFECT:0",
+        "original": "On selection:",
+        "translation": "选择时：",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_OBJECTIVE:0",
+        "original": "§TObjectives:§!",
+        "translation": "§T目标：§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_SUCCESS_REWARD:0",
+        "original": "\\n§TOn completion:§!",
+        "translation": "\\n§T结束时：§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_NOREWARD:0",
+        "original": "§TNo effect.§!",
+        "translation": "§T无效果。§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NO_GOAL_SELECTED:0",
+        "original": "No Goal",
+        "translation": "无目标",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NO_GOAL_SELECTED_OWN:0",
+        "original": "Select a Goal for your nation",
+        "translation": "选择你的国家目标",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_SELECT_GOAL:0",
+        "original": "§GClick to set a Goal§!",
+        "translation": "§G点击选择一个目标§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_SELECT_GOAL_DESC:0",
+        "original": "A §YNational Goal§! is something of a promise to the nation.\\n\\n Picking one will generally cost you §YPolitical Power§!, but you'll usually get it back plus more reward if you can show that you were able to accomplish it.\\n\\nYou'll find major historical undertakings here as well as more humble ways of improving your nation.",
+        "translation": " §Y国家目标§!是一个国家的努力方向。\\n\\n 选择一个国家目标会消耗一定的§Y政治点数§!，但如果你能完成它会得到更多的奖励。\\n\\n你在这可以承担许多历史任务以及多一种方式来提升你的国家实力。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_RESELECT_GOAL:0",
+        "original": "§GClick to remove Goal§!",
+        "translation": "§G点击取消目标§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_POLITICAL_POWER_INCREASE:0",
+        "original": "Power Change: $VALUE|2=+$ per day.",
+        "translation": "点数改变：$VALUE|2=+$/日。",
+        "stage": 1
+    },
+    {
+        "key": "POL_POWER_TOTAL_GAIN:0",
+        "original": "Gains Total $VAL|2=+$",
+        "translation": "总共获得 $VAL|2=+$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_COST:0",
+        "original": "Cost (£pol_power ): $VALUE|0$",
+        "translation": "消耗 (£pol_power )：$VALUE|0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_COST_COMPACT:0",
+        "original": "£pol_power  $VALUE|0$",
+        "translation": "£pol_power  $VALUE|0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_SUCCEEDED:0",
+        "original": "Goal Completed!",
+        "translation": "目标完成!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_SUCCEEDED_DESC:0",
+        "original": "$NAME|H$",
+        "translation": "$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_FAILED:0",
+        "original": "Goal Failed!",
+        "translation": "目标失败!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_FAILED_DESC:0",
+        "original": "$NAME|R$",
+        "translation": "$NAME|R$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_NOTIFY_ALL:0",
+        "original": "Will notify all countries.",
+        "translation": "将通知所有国家。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_NOTIFY_TARGET:0",
+        "original": "Will notify target country.",
+        "translation": "将通知目标国家。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_NOTIFY_FACTION:0",
+        "original": "Will notify your faction.",
+        "translation": "将通知你的阵营。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_NOTIFY_ALLIES:0",
+        "original": "Will notify your allies.",
+        "translation": "将通知你的盟友。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_WARGOAL_INSTANT:0",
+        "original": "Will become war goal instantly after preparation.",
+        "translation": "准备完成后就会成为战争目标即将达成。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_WARGOAL_DELAYED:0",
+        "original": "Will become war goal when reached $PROGRESS|Y0%$ progress.",
+        "translation": "准备到达$PROGRESS|Y0%$时会成为战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_WARGOAL_UNLOCK:0",
+        "original": "Unlocks war goal $NAME|Y$",
+        "translation": "解锁战争目标$NAME|Y$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GRACE_PERIOD_DAYS:0",
+        "original": " after $DAYS|Y$ days.",
+        "translation": " $DAYS|Y$日后。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GRACE_PERIOD_END:0",
+        "original": "Preparing until: $DATE|Y$.",
+        "translation": "准备至：$DATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_EXPIRE_TIME:0",
+        "original": "Expires after: $TIME|Y$ days.",
+        "translation": "到期日：$TIME|Y$ days。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_SUCCESS_PROGRESS:0",
+        "original": "Goal success at: $PROGRESS|Y%0$",
+        "translation": "目标成功于：$PROGRESS|Y%0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICAL_POLITICAL:0",
+        "original": "Political",
+        "translation": "政治",
+        "stage": 1
+    },
+    {
+        "key": "MANAGE_OCCUPIED_TERRITORIES:1",
+        "original": "Manage occupied territories",
+        "translation": "管理占领地区",
+        "stage": 1
+    },
+    {
+        "key": "MANAGE_SUBJECTS:0",
+        "original": "Manage subjects",
+        "translation": "管理附庸",
+        "stage": 1
+    },
+    {
+        "key": "MANAGE_OCCUPIED_TERRITORIES_HEADER:0",
+        "original": "Foreign Territory",
+        "translation": "外国领土",
+        "stage": 1
+    },
+    {
+        "key": "POLITICAL_RESEARCH_BONUS_ENTRY:1",
+        "original": "$CATEGORY$: $FACTOR|=-0%$",
+        "translation": "$CATEGORY$：$FACTOR|=-0%$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICAL_EQUIPMENT_TYPE_BONUS_ENTRY:0",
+        "original": "$ARCHETYPE$:",
+        "translation": "$ARCHETYPE$：",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_SUB_CATEGORY_LIMIT:0",
+        "original": "§YMay only have one§!",
+        "translation": "§Y只能拥有一个§!",
+        "stage": 1
+    },
+    {
+        "key": "country_idea_desc:0",
+        "original": "Ideas motivating and guiding our country.",
+        "translation": "引领国家前进。",
+        "stage": 1
+    },
+    {
+        "key": "political_idea_desc:0",
+        "original": "Ideas currently dominating the political landscape.",
+        "translation": "左还是右，这是个问题。",
+        "stage": 1
+    },
+    {
+        "key": "military_idea_desc:0",
+        "original": "Ideas about how the countries army should work.",
+        "translation": "兵者国之大事死生之地存亡之道不可不察。",
+        "stage": 1
+    },
+    {
+        "key": "economic_idea_desc:0",
+        "original": "Ideas to gear you country's economy for war.",
+        "translation": "一场看不见的战争。",
+        "stage": 1
+    },
+    {
+        "key": "technology_idea_desc:0",
+        "original": "Ideas about to aid in technological advancements.",
+        "translation": "科学技术是第一生产力。",
+        "stage": 1
+    },
+    {
+        "key": "espionage_idea_desc:0",
+        "original": "Ideas about how our country engages in espionage.",
+        "translation": "对敌人和我们周围的世界的了解是制定全部政策的基石。",
+        "stage": 1
+    },
+    {
+        "key": "country:0",
+        "original": "Country",
+        "translation": "国家",
+        "stage": 1
+    },
+    {
+        "key": "political:0",
+        "original": "Political",
+        "translation": "政治",
+        "stage": 1
+    },
+    {
+        "key": "military:0",
+        "original": "Military",
+        "translation": "军事",
+        "stage": 1
+    },
+    {
+        "key": "economic:0",
+        "original": "Economic",
+        "translation": "经济",
+        "stage": 1
+    },
+    {
+        "key": "technology:0",
+        "original": "Technology",
+        "translation": "科研",
+        "stage": 1
+    },
+    {
+        "key": "espionage:0",
+        "original": "Espionage",
+        "translation": "间谍",
+        "stage": 1
+    },
+    {
+        "key": "UNITY_WEEKLY_TOTAL_CHANGE:0",
+        "original": "Weekly Change: $VAL$",
+        "translation": "每周变化：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "STABILITY_WEEKLY_TOTAL_CHANGE:0",
+        "original": "Weekly Change: $VAL$",
+        "translation": "每周变化：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "WAR_SUPPORT_WEEKLY_TOTAL_CHANGE:0",
+        "original": "Weekly Change: $VAL$",
+        "translation": "每周变化：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "OCCUPATION_POLICY:0",
+        "original": "Occupation Policy",
+        "translation": "占领政策",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION_TITLE:0",
+        "original": "Release nation",
+        "translation": "解放国家",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION_DESC:0",
+        "original": "Do you want to liberate $COUNTRY|H$ in $LIST|H$?",
+        "translation": "你想解放 $COUNTRY|H$ 于 $LIST|H$吗？",
+        "stage": 1
+    },
+    {
+        "key": "RETURN_TERRITORY_TITLE:0",
+        "original": "Return territory",
+        "translation": "返还领土",
+        "stage": 1
+    },
+    {
+        "key": "RETURN_TERRITORY_DESC:0",
+        "original": "Do you want to return $LIST|H$ to $COUNTRY|H$?",
+        "translation": "你想返还 $LIST|H$ 给 $COUNTRY|H$吗？",
+        "stage": 1
+    },
+    {
+        "key": "manage_occupied_territories:0",
+        "original": "§GClick to manage your occupied territories.§!",
+        "translation": "§G点击管理你占领的领土。§!",
+        "stage": 1
+    },
+    {
+        "key": "manage_occupied_territories_empty:0",
+        "original": "§RYou have no occupied territories to manage.§!",
+        "translation": "§R你没有占领领土。§!",
+        "stage": 1
+    },
+    {
+        "key": "manage_occupied_territories_puppet:0",
+        "original": "§RYou need higher autonomy status to release countries.§!",
+        "translation": "§R你需要更高的自治度才能解放傀儡国。§!",
+        "stage": 1
+    },
+    {
+        "key": "manage_occupied_territories_desc:0",
+        "original": "§TYou can set occupation policies and release countries that have cores in your occupied territories.§!",
+        "translation": "§T你可以设置占领政策和释放核心在被占领土的国家。§!",
+        "stage": 1
+    },
+    {
+        "key": "not_releaseable:0",
+        "original": "§RNone of your territory is a core of $COUNTRY|H$§!",
+        "translation": "§R你没有属于$COUNTRY|H$的核心领土§!",
+        "stage": 1
+    },
+    {
+        "key": "REMOVE_GOAL_TITLE:0",
+        "original": "Remove Goal",
+        "translation": "取消目标",
+        "stage": 1
+    },
+    {
+        "key": "REMOVE_GOAL_DESC:0",
+        "original": "Do you want to remove $GOAL|H$?",
+        "translation": "你想取消$GOAL|H$吗？",
+        "stage": 1
+    },
+    {
+        "key": "REPLACE_GOAL_TITLE:0",
+        "original": "Replace Goal",
+        "translation": "替换目标",
+        "stage": 1
+    },
+    {
+        "key": "REPLACE_GOAL_DESC:0",
+        "original": "Do you want to replace $OLD|H$ with $NEW|H$?",
+        "translation": "你想将$OLD|H$替换成$NEW|H$吗？",
+        "stage": 1
+    },
+    {
+        "key": "REMOVE_IDEA:0",
+        "original": "§GClick to change $IDEA|H$§!",
+        "translation": "§G点击改变 $IDEA|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "REMOVE_IDEA_POLITICAL_POWER:0",
+        "original": "§RYou don't have enough §HPolitical Power§! to remove this idea.\\nCost to remove (£pol_power ): $VALUE|0$§!",
+        "translation": "§R你没有足够的§H政治点数§!解雇这个企业/顾问。\\n解雇需消耗 (£pol_power )：$VALUE|0$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_LEADS_TO:0",
+        "original": "§TLeads to future goals:§!",
+        "translation": "§T通向未来目标：§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_GOAL_LEADS_TO_ENTRY:0",
+        "original": "$GOAL|Y$",
+        "translation": "$GOAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "MANAGE_GOVERNMENT_DESC:0",
+        "original": "Change laws, hire or fire ministers and contract companies for research. Most actions here will cost §YPolitical Power§!",
+        "translation": "变更法律，任命或解雇部长，雇用企业研究科技。大多数操作都会消耗§Y政治点数§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_JUSTIFY_WARGOAL:0",
+        "original": "§T$OWNER|H$ is justifying $TYPE|H$ war goal against $TARGET|H$§!",
+        "translation": "§T$OWNER|H$ 正当化战争目标 $TYPE|H$ 对 $TARGET|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMEDACTIVITY_PROGRESS:0",
+        "original": ": $PROGRESS|1Y%$",
+        "translation": "：$PROGRESS|1Y%$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS:0",
+        "original": "§T$TYPE|H$ progress: $PROGRESS|1H%$§!",
+        "translation": "§T$TYPE|H$ 进程：$PROGRESS|1H%$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_STATES:0",
+        "original": "$TYPE|H$ $STATES|H$ from $TARGET|H$",
+        "translation": "$TYPE|H$ $STATES|H$ 来自 $TARGET|H$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_PP_PROGRESS:0",
+        "original": "Progress ( £pol_power ): $CURRENT|H1$/$REQUIRED|H1$",
+        "translation": "进程 ( £pol_power )：$CURRENT|H1$/$REQUIRED|H1$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_PP_DAILY:0",
+        "original": "Daily increase ( £pol_power ): $PP|H1$",
+        "translation": "每日增长( £pol_power )：$PP|H1$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_DAY_PROGRESS:0",
+        "original": "Progress: $CURRENT|H1$/$REQUIRED|H1$ days",
+        "translation": "进度：$CURRENT|H1$/$REQUIRED|H1$日",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_FINISHED:0",
+        "original": "§TExpected to finish: $DATE|H$§!",
+        "translation": "§T预期完成：$DATE|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_WARGOAL_DESC:0",
+        "original": "§TWhen $OWNER|H$ has finished justifying the war goal it will be able to declare war on $TARGET|H$§!",
+        "translation": "§T当$OWNER|H$完成战争目标正当化，就可以对$TARGET|H$宣战§!",
+        "stage": 1
+    },
+    {
+        "key": "FOCUS_AT_WAR:0",
+        "original": "§TTakes $PEACE|H0$ days to complete§!",
+        "translation": "§T需要$PEACE|H0$完成§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_MAINTAIN_COST:1",
+        "original": "$NAME|Y$ against $TARGET|Y$: $COST|=+2$ $FREQUENCY$",
+        "translation": "$NAME|Y$ 对 $TARGET|Y$：$COST|=+2$ $FREQUENCY$",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_WINDOW_TITLE:0",
+        "original": "$GROUP$",
+        "translation": "$GROUP$",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_WINDOW_ADD:0",
+        "original": "Select $GROUP|Y$",
+        "translation": "选择$GROUP|Y$",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_WINDOW_SWITCH:0",
+        "original": "Replace §Y$IDEA$?§!",
+        "translation": "替换§Y$IDEA$？§!",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_WINDOW_CANNOT_SWITCH:0",
+        "original": "§RCannot replace $IDEA$!§!",
+        "translation": "§R不能替换$IDEA$！§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NATIONAL_SPIRIT:0",
+        "original": "National Spirit",
+        "translation": "民族精神",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NO_IDEAS_FOR_COUNTRY:0",
+        "original": "Your country has no $GROUP|H$",
+        "translation": "你的国家没有$GROUP|H$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_NO_MORE_IDEAS_FOR_COUNTRY:0",
+        "original": "Your country has no other $GROUP|H$",
+        "translation": "你的国家没有其他的$GROUP|H$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ADD_IDEA_GROUP:0",
+        "original": "Idea group $GROUP|H$\\n",
+        "translation": "理念组 $GROUP|H$\\n",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ONLY_IDEA_FOR_COUNTRY:0",
+        "original": "$IDEA|H$ is your only $GROUP|H$",
+        "translation": "$IDEA|H$ 是你唯一的 $GROUP|H$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_TIMED_ACTIVITY_BOOST_PARTY_POPULARITY_DAILY_DRIFT:0",
+        "original": "Daily drift: $VALUE|Y$",
+        "translation": "每日变化：$VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_STAGE_COUP_TITLE:0",
+        "original": "Stage Coup",
+        "translation": "进行颠覆",
+        "stage": 1
+    },
+    {
+        "key": "COUP_START_STATE:0",
+        "original": "You can pick the state where the revolution will spread from. If no state is picked the source state will be determined under other conditions.",
+        "translation": "你可以选择革命从哪里开始。如果没有选择将由其他因素决定。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_STAGE_COUP_STATE:0",
+        "original": "Spreading revolution wind from $STATE|H$.",
+        "translation": "从$STATE|H$传播革命。",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_STAGE_COUP_EQUIPMENT_ENTRY:0",
+        "original": "$EQUIPMENT$: $CURRENT|0$/$TOTAL|0$",
+        "translation": "$EQUIPMENT$：$CURRENT|0$/$TOTAL|0$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_STAGE_COUP_INVALIDATE:1",
+        "original": "\\n\\n§HA coup will automatically be canceled if the target ends up in a civil war, changes to the targeted ideology or joins the same faction.§!",
+        "translation": "\\n\\n§H如果目标陷入内战、改变至目标意识形态或者加入同一阵营，那么政变将自动被取消。§!",
+        "stage": 1
+    },
+    {
+        "key": "WEEKLY_CHANGE:0",
+        "original": "Weekly change:\\n",
+        "translation": "每周变化：\\n",
+        "stage": 1
+    },
+    {
+        "key": "STABILITY_EFFECT_HEADER:0",
+        "original": "§HCurrently affected by:§!\\n",
+        "translation": "§H当前受到以下影响：§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "WAR_SUPPORT_EFFECT_HEADER:0",
+        "original": "§HCurrently affected by:§!\\n",
+        "translation": "§H当前受到以下影响：§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION:0",
+        "original": "Release nation",
+        "translation": "解放国家",
+        "stage": 1
+    },
+    {
+        "key": "RETURN_TERRITORY:0",
+        "original": "Return territory",
+        "translation": "归还领土",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION_STATES:0",
+        "original": "§TLiberates $COUNTRY|H$ in $LIST|H$§!",
+        "translation": "§T解放$LIST|H$给$COUNTRY|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "RETURN_TERRITORY_STATES:0",
+        "original": "§TReturns $LIST|H$ to $COUNTRY|H$§!",
+        "translation": "§T归还$LIST|H$给$COUNTRY|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "REPLACE_IDEA:0",
+        "original": "Replace $IDEA$",
+        "translation": "替换$IDEA$",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_PAUSED_NO_POLITICAL_POWER:0",
+        "original": "§RThis action is currently paused because of lack of Political Power§!",
+        "translation": "§R这一行动由于缺乏政治点数所以目前暂停§!",
+        "stage": 1
+    },
+    {
+        "key": "POLITICS_ADVISOR_NAME_PATTERN:0",
+        "original": "$NAME$ $SURNAME$",
+        "translation": "$NAME$·$SURNAME$",
+        "stage": 1
+    },
+    {
+        "key": "PARTY_AND_IDEOLOGY_GROUP:0",
+        "original": "$PARTY|H$ ($GROUP|H$)",
+        "translation": "$PARTY|H$ ($GROUP|H$)",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION_STATES_NOT_POSSIBLE:1",
+        "original": "§TLiberating $COUNTRY|H$ in $LIST|H$§! is not possible:\\n\\nThe states in red are not being controlled by you.",
+        "translation": "无法§T解放位于$LIST|H$的$COUNTRY|H$§!：\\n\\n红色的地区没有被你控制。",
+        "stage": 1
+    },
+    {
+        "key": "RETURN_TERRITORY_STATES_NOT_POSSIBLE:1",
+        "original": "§TReturning $LIST|H$ to $COUNTRY|H$§! is not possible:\\n\\nThe states in red are not being controlled by you.",
+        "translation": "无法§T将$LIST|H$归还给$COUNTRY|H$§!：\\n\\n红色的地区没有被你控制。",
+        "stage": 1
+    }
+]

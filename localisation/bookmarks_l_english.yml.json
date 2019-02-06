@@ -1,0 +1,302 @@
+[
+    {
+        "key": "BM_HISTORY_TITLE:0",
+        "original": "Brief History",
+        "translation": "历史简介",
+        "stage": 1
+    },
+    {
+        "key": "GATHERING_STORM_NAME:0",
+        "original": "Gathering Storm",
+        "translation": "风暴前夜",
+        "stage": 1
+    },
+    {
+        "key": "GATHERING_STORM_DESC:0",
+        "original": "Dark times are coming. In Europe, Hitler has consolidated his power and his attention is now increasingly drawn beyond Germany's borders. Mussolini's Italy continues to embark on daring military adventures, while the Empire of Japan stands poised to attack China in Asia. Almost twenty years have passed since the end of the Great War, and the world has yet again been doused in gasoline. A single spark may be all it takes.",
+        "translation": "黑暗的时代正在降临。在欧洲，希特勒巩固了他的权威，并将目光投向了德意志以外的地区。墨索里尼的意大利持续进行着大胆的军事冒险，而日本帝国已整装待发，准备进攻中国。自世界大战结束后已经过去了近二十年的时间，整个世界又一次成为了火药桶。一点小小的火花就能将一切引燃。",
+        "stage": 1
+    },
+    {
+        "key": "HITTING_FAN_NAME:0",
+        "original": "The Hitting of the Fan",
+        "translation": "The Hitting of the Fan",
+        "stage": 1
+    },
+    {
+        "key": "HITTING_FAN_DESC:0",
+        "original": "Yup, that's right! That umbrella collection is about to come in real handy.",
+        "translation": "Yup, that's right! That umbrella collection is about to come in real handy.",
+        "stage": 1
+    },
+    {
+        "key": "ENG_GATHERING_STORM_DESC:0",
+        "original": "Although the United Kingdom emerged victorious from the Great War, the foundation of its great empire was shaken to its core. A generation of the country's finest were lost in the trenches of Flanders and Northern France, while unrest spread throughout the Commonwealth and massive debts accrued.\\n\\nWith the trauma of the last war still in fresh memory, the country now faces the prospect of another. It is becoming increasingly clear that there will be no Peace for Our Time.",
+        "translation": "尽管联合王国在世界大战中获得了胜利，这个伟大帝国的根基已经自其核心开始了动摇。整个国家最好的一代人已经在佛兰德斯及法兰西北部的战壕中捐躯，而与此同时，英联邦中正泛滥着动荡不安与日益高筑的债务。\\n\\n上一场战争的创伤还未从人们的记忆中淡去，一场新的战争已经来到了这个国家的面前。现实正日益清晰：所谓“我们时代的和平”根本就不存在。",
+        "stage": 1
+    },
+    {
+        "key": "FRA_GATHERING_STORM_DESC:0",
+        "original": "Despite the devastation of the Great War, France has been on the road to recovery thanks to a strong economy. However, the Depression has still affected the country and the new German regime has no interest in paying the war reparations stipulated by the Treaty of Versailles.\\n\\nWhen the treaty was signed, a French marshal famously remarked that it was not peace, but an armistice of 20 years. Those 20 years are now rapidly running out.",
+        "translation": "尽管在世界大战中备受蹂躏，得益于其强健的经济，法兰西还是踏上了复兴的道路。但是，经济大危机对这个国家造成的影响还在持续，而德国新政府对支付凡尔赛条约中规定的战争赔款也毫无兴趣。\\n\\n在条约签订的时候，一位法国元帅曾有过著名的论断：这不是和平，而是二十年的休战。而今，二十年的时间即将过去。",
+        "stage": 1
+    },
+    {
+        "key": "GER_GATHERING_STORM_DESC:0",
+        "original": "A new Germany has risen. Three years have passed since the Weimar Republic was dismantled and replaced by Hitler's Third Reich. Economic stability has returned after the trying years of the Great Depression, and mass unemployment has been dealt with.\\n\\nThe military restrictions imposed on Germany by the Versailles Treaty are long forgotten, and the Wehrmacht grows stronger by the day. Another Weltkrieg is on the horizon.",
+        "translation": "一个崭新的德意志正在崛起。自魏玛共和国解散、被希特勒的第三帝国所取代已经过去了三年。在艰难地捱过了大危机的几个年头之后，经济正重归稳定，大量的失业也得以解决。\\n\\n凡尔赛条约中对德国军队施加的限制早已被抛诸脑后，国防军正日益茁壮。另一场世界大战已经初露端倪。",
+        "stage": 1
+    },
+    {
+        "key": "ITA_GATHERING_STORM_DESC:0",
+        "original": "With the rise of Fascism, Italy has entered a new glorious era. Its forces are currently in the process of adding Ethiopia to the growing Italian colonial empire, but Mussolini's ambitions do not stop there.\\n\\nDominion over the Mediterranean has always been Italy's destiny, and a new order of things is taking shape in Europe. When the tidal wave of change arrives, Italy must find a place at its crest or risk being swept away.",
+        "translation": "随着法西斯主义的兴起，意大利步入了一个新的辉煌纪元。她的军队正致力于将埃塞俄比亚并入其逐渐膨胀的殖民帝国，但墨索里尼的野心远不止如此。\\n\\n一直以来，对地中海的支配都被意大利视作天命所归，一个新的秩序正在欧洲形成。当变革的浪潮来临，意大利必须立于涛头——或者被其湮没。",
+        "stage": 1
+    },
+    {
+        "key": "JAP_GATHERING_STORM_DESC:0",
+        "original": "The Empire of Japan stands at a crossroads. Hokushin-ron, the Northern Expansion Doctrine, is favored by the Army and calls for an advance into Siberia. Nanshin-ron, the Southern Expansion Doctrine, is supported by the Navy and has the rich European colonies in Southeast Asia and the Pacific as its target. \\n\\nAnd then, of course, there is always China. Japan possesses a formidable military, but its industries are starving for resources and time is running out. Which path to choose?",
+        "translation": "日本帝国正站在十字路口。陆军部对北进论趋之若鹜，并寻求着向西伯利亚的进军。而海军部则痴迷于南进论，将欧洲国家在东南亚与太平洋上建立的富饶殖民地视作目标。\\n\\n然后，毫无疑问的，永远避不开中国。日本拥有着一支可怕的军队，但它的工业正急需资源——而时间也已所剩无几。日本当如何抉择？",
+        "stage": 1
+    },
+    {
+        "key": "SOV_GATHERING_STORM_DESC:0",
+        "original": "When the dust settled after the Russian Civil War, the U.S.S.R. had emerged as the undisputed ruler over most of what once constituted the Russian Empire. Rapid industrialization and collectivization followed, often at a great cost in human lives. \\n\\nThe Soviet Union is now faced with the threat of a resurgent Germany to the west, and a belligerent Japan in the east. Of course, there are also internal threats within the ranks of the Communist Party to contend with...",
+        "translation": "俄国内战尘埃落定后，在曾经俄罗斯帝国辖下的绝大部分地区，苏联已经成为了无可争议的统治者。快速的工业化伴随着集体化，其人民也经常要付出大量的生命作为代价。\\n\\n现在，苏维埃的西方正面临着复苏的德国的威胁，而东方则有着好勇斗狠的日本在虎视眈眈。当然，还有着来自党内士兵中的威胁需要对付……",
+        "stage": 1
+    },
+    {
+        "key": "USA_GATHERING_STORM_DESC:0",
+        "original": "The United States retreated back into isolation at the end of the last war and enjoyed a period of economic prosperity during the Roaring Twenties. This came to a dramatic end when the nation was gripped by the Great Depression.\\n\\nAmerica's policy of non-intervention in foreign wars has stood firm, but tensions are rising in both Europe and Asia. The 'Great Neutral' may find itself drawn into the maelstrom whether it wants to or not.",
+        "translation": "在上一场大战的末尾，合众国回归了孤立主义政策，并在兴旺的20年代中享受了一时的经济繁荣。而这一切都在经济大危机扼住了这个国家的时候迎来了戏剧性的结尾。\\n\\n美国坚定不移地维持着其对于外部战争的不干涉政策，但欧洲和亚洲的局势都在日益紧张。“伟大的中立国”或将发现其正日益坠入漩涡——无论她是否愿意。",
+        "stage": 1
+    },
+    {
+        "key": "OTHER_GATHERING_STORM_DESC:0",
+        "original": "The nations of the world, great and small, are not all content to hold their breath awaiting the outbreak of another global conflict. From major powers on the brink of civil war to the many nations formed and transformed by the Great War, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world.",
+        "translation": "这个世界上的国家——无论大国还是小国——并不都满足于屏声静气的等待着下一场全球冲突的爆发。从濒临内战边缘的大国到在世界大战中才被组建或重组的众多国家，都不得不做出艰难的抉择，而其理想也将妥协于现实，以此对这个世界的未来产生一丝影响。",
+        "stage": 1
+    },
+    {
+        "key": "POL_GATHERING_STORM_DESC:1",
+        "original": "After centuries in which the Polish nation has been divided between three empires, Poland now stands independent once again. But its position is not an easy one. \\n\\nIn the east, the Soviet Union has not forgotten the humiliating defeat in the Polish-Soviet war. \\n\\nIn the west, German Führer Adolf Hitler makes no secret of his desire for more \"living space\" - and that the former German areas now under Polish control will be the first step to achieve it.",
+        "translation": "在被三个帝国瓜分的数百年后，波兰重新获得独立。但是他的处境并不乐观。 \\n\\n在东面，苏联对其在波苏战争失败的羞辱怀恨在心。 \\n\\n在西面，德国元首阿道夫希特勒对他的德国的\"生存空间\"主张已无隐瞒 -而占有原德国控制区域的波兰将成为实现目标的第一步",
+        "stage": 1
+    },
+    {
+        "key": "CAN_GATHERING_STORM_DESC:0",
+        "original": "Canada entered the Great War as a mere colony and left it as a nation. Born in the mud of Passchendaele, Canada now takes its first few uncertain steps onto the world stage. \\n\\nHobbled by the Great Depression and with internal divisions between Anglophones and Francophones, the future of this new nation looks anything but secure.",
+        "translation": "加拿大加入一战时只是一个殖民地，而现结束时已是一个国家。 在帕斯尚尔的淤泥里，加拿大迈出了走在世界舞台的数步。 \\n\\n受到大萧条以及英语族和法语族的内部矛盾的影响，这个新生国家的未来看起来并不安全。",
+        "stage": 1
+    },
+    {
+        "key": "AST_GATHERING_STORM_DESC:0",
+        "original": "Australians earned their place in the history books of the Great War in blood. The sacrifices made in the Gallipolli campaign have not been forgotten - and neither were those who ordered it. \\n\\nAustralia now stands at a crossroads: should she stay with her colonial master, about to be drawn into yet another conflict in distant Europe, or should the focus be on the threats that are appearing closer to home?",
+        "translation": "澳大利亚用鲜血赢得了他们在世界大战里的地位。澳大利亚将铭记加里波利战役里的牺牲和其指挥者。 \\n\\n现在澳大利亚在岔路口前驻足：是继续帮助她的遥远欧洲殖民地主人进入另一场战争，还是专注于更近的，自己家旁的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "SAF_GATHERING_STORM_DESC:0",
+        "original": "When the Great War began, many in South Africa refused to take up arms for their British masters. The South African military spent most of the Great War chasing around German forces in their African colonies, with limited success. \\n\\nNow a new war looms on the horizon. Then as now, there are some in South Africa that think the country shouldn't be fighting against the Germans at all. Some even believe that the time has come for the descendents of the Boers to make their bid for the liberty that was denied to their forefathers.",
+        "translation": "当世界大战开始时，南非拒绝为他们的不列颠主人战斗。南非在大战里绝大部分时间在非洲追着德国部队跑，战绩颇微。 \\n\\n地平线上新的战争逼近，即使是现在有一部分南非人仍不希望对抗德国。而波尔人更是认为这是他们从祖先战争中失败后再次获得自由的机会。",
+        "stage": 1
+    },
+    {
+        "key": "NZL_GATHERING_STORM_DESC:0",
+        "original": "The tiny nation in the South Pacific fought bravely in the Great War, suffering high casualties in the bloody battles at Gallipoli and on the western front. Nearly half the men of fighting age had served in the fighting overseas, and many had not returned.\\n\\nSome twenty years after end of the Great War, the people of New Zealand look anxiously at the world stage, for this time, the threat of war seems to draw ever closer to their own home...",
+        "translation": "在南太平洋的小岛的国家在上个大战中激烈奋战，尤其是在加里波利和西线战场受到很大伤亡。有将近一半的适龄男性参加了海外战争，有许多无法平安回到家乡。\\n\\n在大战结束的二十年后，新西兰的人对世界格局焦躁不安。这次，战争的威胁离他们自己本土更近了……",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_GATHERING_STORM_DESC:0",
+        "original": "The crown jewel of the British Empire, the Raj of India is a strange combination of imperial power and imperial powerlessness. A tiny elite of British civil servants rule over a vast subcontinent filled with hundreds of millions of subjects. From their ranks recruits the Indian Army, which fought bravely in the Great War.\\n\\nIndian leaders hoped that the sacrifices made in the last war would help India gain her independence from Britain, but so far, that hope has been disappointed. With a new war looming, many believe that the time has come to take that freedom - by whatever means necessary.",
+        "translation": "作为不列颠皇冠上的珠宝，英属印度成为帝国的力量也同时是帝国的软肋。一小部分英国人统治着巨大的内陆地区有着数亿的臣民，为他们在上次大战中提供了印度军团的人员补充。\\n\\n印度领导人希望上次的大战参与和牺牲能换来从英国的独立，但结果令他们失望。新的大战在即，一些人认为这是获取自由的机会，并尝试所有可用方法",
+        "stage": 1
+    },
+    {
+        "key": "BLITZKRIEG_NAME:0",
+        "original": "Blitzkrieg",
+        "translation": "闪电战",
+        "stage": 1
+    },
+    {
+        "key": "BLITZKRIEG_DESC:0",
+        "original": "In the last few years the world has seen some new wars break out in Europe and Asia. Spain is now governed by nationalists and Japan has fought both the Soviet Union and China for territory, the latter being a more successful battle for Japan. The new non-aggression pact between the Soviet Union and Germany may be bad news for the rest of Europe.",
+        "translation": "在过去的几年里，整个世界见证了几场新战争在欧洲和亚洲的爆发。而今，西班牙正处于民族主义者的统治之下，而日本则分别同苏联和中国因领土争端而爆发冲突，并在与后者的战争中取得了更大的成功。对欧洲的其他国家而言，苏德间新签订的互不侵犯条约或许是一个坏消息。",
+        "stage": 1
+    },
+    {
+        "key": "ENG_BLITZKRIEG_DESC:0",
+        "original": "Although the United Kingdom emerged victorious from the Great War, the foundation of its great empire was shaken to its core. A generation of the country's finest were lost in the trenches of Flanders and Northern France, while unrest spread throughout the Commonwealth and massive debts accrued.\\n\\nWith the trauma of the last war still in fresh memory, the country now faces the prospect of another. It is becoming increasingly clear that there will be no Peace for Our Time.",
+        "translation": "尽管联合王国在世界大战中获得了胜利，这个伟大帝国的根基已经自其核心开始了动摇。整个国家最好的一代人已经在佛兰德斯及法兰西北部的战壕中捐躯，而与此同时，英联邦中正泛滥着动荡不安与日益高筑的债务。\\n\\n上一场战争的创伤还未从人们的记忆中抹去，一场新的战争已经来到了这个国家的面前。现实正日益清晰：所谓“我们时代的和平”根本就不存在。",
+        "stage": 1
+    },
+    {
+        "key": "FRA_BLITZKRIEG_DESC:0",
+        "original": "The Great War still fresh in its memory, France faces a new conflict after Germany showed they have no intention to keep the peace. Strengthening border defenses and choosing Allies wisely may very well be the way for France to avoid a disastrous war.\\n\\n France was victorious once before, this time shall be no different!",
+        "translation": "世界大战的记忆尚未逝去，法兰西正面临着新的冲突：德国无意于维持和平。对于法国而言，加强边防并精心挑选盟友将非常有助于避免一场灾难性的战争。\\n\\n法兰西打赢了上一次战争，这次也是！",
+        "stage": 1
+    },
+    {
+        "key": "GER_BLITZKRIEG_DESC:0",
+        "original": "After the remilitarization of the Rhineland, the French and the British grew increasingly suspicious of Germany's intentions. The Munich Agreement gave Germany permission to annex the Sudetenland for the sake of its German people. The Molotov-Ribbentrop pact guarantees non-aggression between Germany and the Soviet Union, but also specifies the partitioning of Poland between the two nations. \\n\\nGermany has waited too long for this moment. The time to act is now!",
+        "translation": "在德军重返莱茵兰地区之后，法国和英国对德国的疑心日益加重。慕尼黑协定允许了德国吞并苏台德地区，以保护当地德意志人的利益。莫洛托夫-里宾特洛甫条约保证了苏德两国间的互不侵犯，同时也对两国瓜分波兰领土的方案作出了协定。\\n\\n德意志已经等待了太久，行动的时间就是现在！",
+        "stage": 1
+    },
+    {
+        "key": "JAP_BLITZKRIEG_DESC:0",
+        "original": "War is raging in the Southeast. Even though Japan suffered some losses early in '39, a big portion of Chinese territory is under Japanese control. Tension is rising in Europe, and while the Soviet Union is focusing their attention on those matters, they shouldn't interfere in the war in Asia. \\n\\nWhen China's resources are in Japanese hands, the Soviets will be easy to deal with.",
+        "translation": "东南部地区战火日盛。尽管在39年初时遭受了一些损失，日本还是成功自中国获取了大片土地。欧洲局势日益紧张，而当苏联的注意力为此所吸引的时候，他们当不会介入亚洲的战事。\\n\\n当日本手握中国的资源，苏维埃将不足为虑。",
+        "stage": 1
+    },
+    {
+        "key": "ITA_BLITZKRIEG_DESC:0",
+        "original": "Mussolini, the dictator of Italy, achieved some fame as a peace keeper for his part in the Munich agreement a year ago. However, German territorial expansion has made Italy see there is more land to claim if an understanding with the Germans could be reached. \\n\\nAlbania has been conquered merely as a taste of Italy's military capabilities, and the rest of the world would do well to worry.",
+        "translation": "因其在一年前的慕尼黑公约签订过程中所起的作用，意大利的独裁者墨索里尼被誉为和平的守护者。然而，德国的扩张使得意大利意识到，如果与德国人达成协议，他们将能够索取更多的土地。\\n\\n对阿尔巴尼亚的征服只是意大利军队的一次小试牛刀，其他国家将只能自求多福。",
+        "stage": 1
+    },
+    {
+        "key": "SOV_BLITZKRIEG_DESC:0",
+        "original": "Supporting Manuel Azaña and the 'Second Spanish Republic' during the Spanish Civil War has clearly shown where the Soviet Union stands in relation to Italy and Germany. Victorious over the Japanese army in several recent border conflicts, the Soviet Union currently seems a power too major for any single country to oppose. \\n\\nThe promise made by Germany to partition the Baltic States and Poland is welcome at this time.",
+        "translation": "在西班牙内战中支持曼努埃尔·阿扎尼亚和他的“西班牙第二共和国”清晰地表明了苏维埃对意大利和德国的态度。在近期一些同日本的边境冲突中所获得的胜利，显示出苏维埃已经成为单独一个国家无法抗衡的伟大力量。\\n\\n对于德国作出的平分波罗的海诸国及波兰的承诺，苏维埃乐享其成。",
+        "stage": 1
+    },
+    {
+        "key": "USA_BLITZKRIEG_DESC:0",
+        "original": "The rising tension in Europe is worrying. Although not yet a real concern for the United States, the aggression shown by Germany could soon be heard all over the world. While things are quite peaceful in the west, military preparations may not be a bad idea, all things considered. \\n\\nShould the United States get drawn into another war, they will be the ones to end it.",
+        "translation": "日益紧张的欧洲局势值得担忧。尽管对合众国而言尚称不上是现实的威胁，德国的侵略行为将在不久之后为全世界所知。虽然西方世界看起来依旧一片和谐，就大局而言，一些国防准备或许不是一个坏主意。\\n\\n如果合众国卷入了一场战争，他们将成为这场战争的终结者。",
+        "stage": 1
+    },
+    {
+        "key": "OTHER_BLITZKRIEG_DESC:0",
+        "original": "The nations of the world, great and small, are not all content to hold their breath awaiting the outbreak of another global conflict. From major powers on the brink of civil war to the many nations formed and transformed by the Great War, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world.",
+        "translation": "这个世界上的国家——无论大国还是小国——并不都满足于屏声静气的等待着下一场全球冲突的爆发。从濒临内战边缘的大国到在世界大战中才被组建或重组的众多国家，都不得不做出艰难的抉择，而其理想也将妥协于现实，以此对这个世界的未来产生一丝影响。",
+        "stage": 1
+    },
+    {
+        "key": "POL_BLITZKRIEG_DESC:0",
+        "original": "After centuries in which the Polish nation has been divided between three empires, Poland now stands independent once again. But its position is not an easy one. \\n\\nIn the east, the Soviet Union has not forgotten the humiliating defeat in the Polish-Soviet war. \\n\\nIn the west, German Führer Adolf Hitler makes no secret of his desire for more \"living space\" - and that the former German areas now under Polish control will be the first step to achieve it.",
+        "translation": "在被三个帝国瓜分的数百年后，波兰重新获得独立。但是他的处境并不乐观。 \\n\\n在东面，苏联对其在波苏战争失败的羞辱怀恨在心。 \\n\\n在西面，德国元首阿道夫希特勒对他的德国的\"生存空间\"主张已无隐瞒 -而占有原德国控制区域的波兰将成为实现目标的第一步",
+        "stage": 1
+    },
+    {
+        "key": "CAN_BLITZKRIEG_DESC:0",
+        "original": "Canada entered the Great War as a mere colony and left it as a nation. Born in the mud of Passchendaele, Canada now takes its first few uncertain steps onto the world stage. \\n\\nHobbled by the Great Depression and with internal divisions between Anglophones and Francophones, the future of this new nation looks anything but secure.",
+        "translation": "加拿大加入一战时只是一个殖民地，而结束时已是一个国家。 在帕斯尚尔的淤泥里，加拿大迈出了走在世界舞台的数步。 \\n\\n受到大萧条以及英语族和法语族的内部矛盾的影响，这个新生国家的未来看起来并不安全。",
+        "stage": 1
+    },
+    {
+        "key": "AST_BLITZKRIEG_DESC:0",
+        "original": "Australians earned their place in the history books of the Great War in blood. The sacrifices made in the Gallipolli campaign have not been forgotten - and neither were those who ordered it. \\n\\nAustralia now stands at a crossroads: should she stay with her colonial master, about to be drawn into yet another conflict in distant Europe, or should the focus be on the threats that are appearing closer to home?",
+        "translation": "澳大利亚用鲜血赢得了他们在世界大战里的地位。澳大利亚将铭记加里波利战役里的牺牲和其指挥者。 \\n\\n现在澳大利亚在岔路口前驻足：是继续帮助她的遥远欧洲殖民地主人进入另一场战争，还是专注于更近的，自己家旁的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "SAF_BLITZKRIEG_DESC:0",
+        "original": "When the Great War began, many in South Africa refused to take up arms for their British masters. The South African military spent most of the Great War chasing around German forces in their African colonies, with limited success. \\n\\nNow a new war looms on the horizon. Then as now, there are some in South Africa that think the country shouldn't be fighting against the Germans at all. Some even believe that the time has come for the descendants of the Boers to make their bid for the liberty that was denied to their forefathers.",
+        "translation": "当第一次世界大战开始时，南非拒绝为他们的不列颠主人战斗。南非在大战里绝大部分时间在非洲追着德国部队跑，战绩颇微。 \\n\\n地平线上新的战争逼近，即使是现在有一部分南非人仍不希望对抗德国。而波尔人更是认为这是他们从祖先战争中失败后再次获得自由的机会。",
+        "stage": 1
+    },
+    {
+        "key": "NZL_BLITZKRIEG_DESC:0",
+        "original": "The tiny nation in the South Pacific fought bravely in the Great War, suffering high casualties in the bloody battles at Gallipoli and on the western front. Nearly half the men of fighting age had served in the fighting overseas, and many had not returned.\\n\\nSome twenty years after end of the Great War, the people of New Zealand look anxiously at the world stage, for this time, the threat of war seems to draw ever closer to their own home...",
+        "translation": "这个南太平洋的小岛的国家在上个大战中激烈奋战，尤其是在加里波利和西线战场受到很大伤亡。有将近一半的适龄男性参加了海外战争，有许多无法平安回到家乡。\\n\\n在大战结束的二十年后，新西兰的人对世界格局焦躁不安。这次，战争的威胁离他们自己本土更近了……",
+        "stage": 1
+    },
+    {
+        "key": "RAJ_BLITZKRIEG_DESC:0",
+        "original": "The crown jewel of the British Empire, the Raj of India is a strange combination of imperial power and imperial powerlessness. A tiny elite of British civil servants rule over a vast subcontinent filled with hundreds of millions of subjects. From their ranks recruits the Indian Army, which fought bravely in the Great War.\\n\\nIndian leaders hoped that the sacrifices made in the last war would help India gain her independence from Britain, but so far, that hope has been disappointed. With a new war looming, many believe that the time has come to take that freedom - by whatever means necessary.",
+        "translation": "作为不列颠皇冠上的珠宝，英属印度成为帝国的力量也同时是帝国的软肋。一小部分英国人统治着巨大的内陆地区有着数亿的臣民，为他们在上次大战中提供了印度军团的人员补充。\\n\\n印度领导人希望上次的大战参与和牺牲能换来从英国的独立，但结果令他们失望。新的大战在即，一些人认为这是获取自由的机会，并尝试所有可用方法",
+        "stage": 1
+    },
+    {
+        "key": "CZE_GATHERING_STORM_DESC:0",
+        "original": "During the Great War, Czech troops fought alongside the Entente forces all over Europe in an effort to secure recognition for their nation. Their efforts were successful and Czechoslovakia rose from the ashes of the Austro-Hungarian Empire. \\n\\nSince their explosive entry into statehood Czechoslovakia formed the 'Little Entente' alliance with Yugoslavia and Romania with the aim of suppressing Hungary's efforts to restore the Austro-Hungarian Empire, although as resurgent German power grows the political landscape of Europe is rapidly changing.",
+        "translation": "在上一次大战期间，捷克军团和欧洲各地的协约国军队共同战斗，努力争取他们国家的独立。这些人的努力是成功的，战后捷克斯洛伐克从奥匈帝国的残骸中诞生\\n\\n自从独立之后，捷克斯洛伐克与南斯拉夫和罗马尼亚建立起了“小协约国”联盟，意在压制匈牙利的领土收复主义和奥匈帝国的复辟，然而随着德国的复兴，欧洲的政治格局政治迅速发生变化",
+        "stage": 1
+    },
+    {
+        "key": "HUN_GATHERING_STORM_DESC:0",
+        "original": "One half of the late Austro-Hungarian Empire, Hungary was treated as a defeated enemy by the victorious Entente after the Great War. In the Treaty of Trianon, the country lost almost two thirds of its territory. Millions of ethnic Hungarians found themselves living outside its borders, and its economy was left in ruins. Harsh restrictions on rearmament were supposed to ensure that Hungary could never again threaten the peace in Europe. \\n\\nBut with the political climate in Europe shifting, the time may have come to finally right the wrongs of the past, and regain the former glory of the nation.",
+        "translation": "一战后，奥匈帝国的一半：匈牙利被协约国视为战败的敌人。在特里亚农条约中，该国丧失了近三分之二的领土。数以百万计的匈牙利人发现生活在国外，其经济基础已经崩溃了。对重整军备的严格限制是为了确保匈牙利再也不会威胁到欧洲的和平。\\n\\n但是，随着欧洲政治气候的转变，时间可能最终会纠正过去的错误，重获该国的昔日荣光。",
+        "stage": 1
+    },
+    {
+        "key": "ROM_GATHERING_STORM_DESC:0",
+        "original": "Romania found herself on the winning side of the Great War, and as a result gained new territories and people - not all of whom were Romanians. To guard against the revanchionist desires of the countries that were forced to cede land, Romania has created a web of alliances all across the Balkans. In recent years, however, the country has concerned itself mostly with domestic matters, and the government of King Carol II has allowed these alliances to lapse. \\n\\nAs the political situation in Europe changes, Romania may well find herself standing alone - and vulnerable.",
+        "translation": "罗马尼亚在一战中站在胜利者一方，因此获得了新的领土和人民 - 但其中并不是所有人都是罗马尼亚人。为了防范那些被迫割让领土国家的复仇主义欲望，罗马尼亚组建了一个跨巴尔干地区的联盟网。然而在最近几年，这个国家大部分时间都集中于处理国内困境，而国王卡罗尔二世的政府也容许这些联盟失去效力。\\n\\n随着欧洲的政治局势改变，罗马尼亚可能会发现她自己孤迥独立，并且脆弱万分。",
+        "stage": 1
+    },
+    {
+        "key": "HUN_BLITZKRIEG_DESC:0",
+        "original": "One half of the late Austro-Hungarian Empire, Hungary was treated as a defeated enemy by the victorious Entente after the Great War. In the Treaty of Trianon, the country lost almost two thirds of its territory. Millions of ethnic Hungarians found themselves living outside its borders, and its economy was left in ruins. Harsh restrictions on rearmament were supposed to ensure that Hungary could never again threaten the peace in Europe. \\n\\nBut with the political climate in Europe shifting, the time may have come to finally right the wrongs of the past, and regain the former glory of the nation.",
+        "translation": "一战后，奥匈帝国的一半：匈牙利被协约国视为战败的敌人。在特里亚农条约中，该国丧失了近三分之二的领土。数以百万计的匈牙利人发现生活在国外，其经济基础已经崩溃了。对重整军备的严格限制是为了确保匈牙利再也不会威胁到欧洲的和平。 \\n\\n但是，随着欧洲政治气候的转变，时间可能最终会纠正过去的错误，重获该国的昔日荣光。",
+        "stage": 1
+    },
+    {
+        "key": "ROM_BLITZKRIEG_DESC:0",
+        "original": "Romania found herself on the winning side of the Great War, and as a result gained new territories and people - not all of whom were Romanians. To guard against the revanchist desires of the countries that were forced to cede land, Romania has created a web of alliances all across the Balkans. In recent years, however, the country has concerned itself mostly with domestic matters, and the government of King Carol II has allowed these alliances to lapse. \\n\\nAs the political situation in Europe changes, Romania may well find herself standing alone - and vulnerable.",
+        "translation": "罗马尼亚在一战中站在胜利者一方，因此获得了新的领土和人民 - 但其中并不是所有人都是罗马尼亚人。为了防范那些被迫割让领土国家的复仇主义欲望，罗马尼亚组建了一个跨巴尔干地区的联盟网。然而在最近几年，这个国家大部分时间都集中于处理国内困境，而国王卡罗尔二世的政府也容许这些联盟失去效力。\\n\\n随着欧洲的政治局势改变，罗马尼亚可能会发现她自己孤迥独立，并且脆弱万分。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_GATHERING_STORM_DESC:0",
+        "original": "Yugoslavia came into existence after the new Kingdom of Serbs, Croats and Slovenes merged with the formerly independent Kingdom of Serbia in 1922. Initially Yugoslavia joined both the Little Entente and the Balkan Pact to secure their independence, but recently the assassination of King Alexander combined with growing internal pressure from nationalists and external pressure from Italy and Germany has caused drastic upheaval and reevaluation of their political and strategic position.",
+        "translation": "南斯拉夫是自1922年由塞尔维亚、克罗地亚与斯洛文尼亚王国与原独立的塞尔维亚王国合并后诞生的。南斯拉夫原先加入了小协约国和巴尔干协议以确保其独立，但近期对亚历山大国王的暗杀与持续增长的来自民族主义者的内部压力和外部来自意大利和德国的压力导致激烈动荡和对其政治、战略地位的重新评估。",
+        "stage": 1
+    },
+    {
+        "key": "YUG_BLITZKRIEG_DESC:0",
+        "original": "Yugoslavia came into existence after the new Kingdom of Serbs, Croats and Slovenes merged with the formerly independent Kingdom of Serbia in 1922. Initially Yugoslavia joined both the Little Entente and the Balkan Pact to secure their independence, but recently growing internal pressure from nationalists and external pressure from Italy and Germany has caused drastic upheaval and reevaluation of their political and strategic position.",
+        "translation": "1922年，南斯拉夫王国在早先独立的塞尔维亚王国与新成立的塞尔维亚人、克罗地亚人和斯洛文尼亚人王国的基础上得以整合成立。起初南斯拉夫曾加入小协约国及《巴尔干公约》以确保其独立和主权，但面对日益高涨的民族主义内忧与德意步步紧逼的外患，国内激发出的剧烈动荡迫使南斯拉夫重新审视其政治、战略立场。",
+        "stage": 1
+    },
+    {
+        "key": "CHI_GATHERING_STORM_DESC:0",
+        "original": "Following the revolution that deposed the last of the Qing Emperors, the young Chinese Republic has struggled to survive. Warlords rule much of the land on the periphery. In the heart of the country, the Communists have set up a base area in a remote mountain valley. Just beyond the borders, the Japanese have created a puppet government under the last Chinese Emperor and will try to reunite the country under his rule.\\n\\nWith many enemies threatening it, the government of Chiang Kai-Shek will have to make hard choices if it wants to survive and rule supreme in China.",
+        "translation": "在辛亥革命推翻满清末帝后，新生的中华民国仍举步维艰。偏远地区，军阀割据一方；中原地带，赤匪盘踞山麓。国境线外，日寇扶植了以末帝溥仪为首的傀儡政权，并试图将全中国纳入其管辖。\\n\\n强敌环伺之下，蒋介石政府为领导中国、开辟生路，将不得不作出艰难的抉择。",
+        "stage": 1
+    },
+    {
+        "key": "PRC_GATHERING_STORM_DESC:0",
+        "original": "A mere two years ago, the Communist Party of China faced utter annihilation. To survive, it engaged on the epic journey that would become known as the Long March. With only a fraction of the army surviving the rigors of the march and little industry, the prospects of victory in the Chinese Civil War are slim indeed.\\n\\nBut in time, the population may be swayed to the Communist cause, new armies be raised, new base areas established, and, when the time is right, the revolutionary struggle will be renewed again, until final victory is achieved.",
+        "translation": "仅仅两年前，中共还面临着生死存亡的危机。为保存革命力量，红军踏上了史诗般漫长的征程——后世将之称作“长征”。仅凭在长征艰苦卓绝考验中幸存的残军与薄如白纸的工业，国共内战中的胜机可谓渺茫。\\n\\n但只要假以时日，人民群众便可集结在共产主义旗帜下，建立新的革命武装，开辟新的革命根据地。而待到时机成熟，中共的革命斗争将再度展开，直到取得革命的最终胜利。",
+        "stage": 1
+    },
+    {
+        "key": "CHI_BLITZKRIEG_DESC:0",
+        "original": "After two years of war against the Japanese, the armies of Chiang Kai-Shek have bled themselves white trying to stop the assault. The enemy has overrun the richest areas of the country. Little support has been forthcoming from the western democracies, and the Communist seem unwilling to engage the enemy in open battle.\\n\\nWith the war threatening to spread even further, it appears that the worst is still to come. But as the Japanese attack is slowed by the vastness of the country, they may well turn their gaze in other directions, and new alliances may yet turn the tide...",
+        "translation": "抗日战争打响已两年有余，蒋介石军队筑起血肉长城以图抵抗侵略。富庶之地沦丧敌手，西方友邦支援无望，共军消极游而不击。战火蔓延势不可挡，中华大地也将面对更深重的黑暗。\\n\\n然而日寇的攻势已被辽阔的国土迟滞，其贪婪的眼光亦可能投向别处，而一个新的同盟国也许能力挽狂澜……",
+        "stage": 1
+    },
+    {
+        "key": "PRC_BLITZKRIEG_DESC:0",
+        "original": "Faced with an all-out Japanese attack, the Nationalists and Communists have struck an uneasy truce. Both sides are well aware that this United Front can not last. The Communist base area in Yan'an now forms the front line in the war against the Japanese.\\n\\nThe Communists must husband their resources carefully if they want to survive. Any casualties suffered in the fight against Japan will be felt twice over when the time comes to fight the war against the Nationalists, and this may well be what the government of Chiang Kai-Shek is counting on...",
+        "translation": "面对日寇的全面侵略，国共两党艰难地达成了和解。国共双方都深知抗日民族统一战线并不会持久，而延安的中共革命根据地现已成为抵御日寇的最前线。\\n\\n为保存革命火种，中共必须谨慎对待手中的资源。抗日斗争中的军力损失必将成为未来武装推翻国民党时的隐患，而这似乎正是蒋介石政权所期望的……",
+        "stage": 1
+    },
+    {
+        "key": "MAN_GATHERING_STORM_DESC:0",
+        "original": "Evicted from the Dragon Throne at the age of six, Puyi, the last Chinese Emperor, has been biding his time. While his former realm tore itself apart in the Chinese Civil War, Puyi found new allies in Japan.\\n\\nFor Puyi, the establishment of the Empire of Manchukuo in 1932 was but the first step in the quest to reclaim his ancestral birthright. For the moment, he is dependent on the Japanese Army to keep his rule, but in time, an opportunity might arise to cast off the shackles of servitude and become what he was born to be...",
+        "translation": "六岁时被逐下龙椅后，清末帝溥仪便一直蛰伏着等待良机。曾属于他的天下在中国一系列的内战中山河破碎，但同时溥仪结交了新盟友：日本。\\n\\n对溥仪而言，1932年成立的满洲国不过是他收复祖宗江山的一块奠基石。目前，他需要日军来维持统治，但待到时机到来，也许就能砸碎脚镣，顺应天命……",
+        "stage": 1
+    },
+    {
+        "key": "MAN_BLITZKRIEG_DESC:0",
+        "original": "Evicted from the Dragon Throne at the age of six, Puyi, the last Chinese Emperor, has been biding his time. While his former realm tore itself apart in the Chinese Civil War, Puyi found new allies in Japan.\\n\\nFor Puyi, the establishment of the Empire of Manchukuo in 1932 was but the first step in the quest to reclaim his ancestral birthright. For the moment, he is dependent on the Japanese Army to keep his rule, but in time, an opportunity might arise to cast off the shackles of servitude and become what he was born to be...",
+        "translation": "六岁时被逐下龙椅后，清末帝溥仪便一直蛰伏着等待良机。曾属于他的天下在中国一系列的内战中山河破碎，但同时溥仪结交了新盟友：日本。\\n\\n对溥仪而言，1932年成立的满洲国不过是他收复祖宗江山的一块奠基石。目前，他需要日军来维持统治，但待到时机到来，也许就能砸碎脚镣，顺应天命……",
+        "stage": 1
+    },
+    {
+        "key": "WARLORDS_GATHERING_STORM_DESC:0",
+        "original": "The weakness of the Central Government may yet provide the opportunity for a sufficiently ambitious man to rise to power. At the periphery of the country, local leaders have carved out their own little fiefdoms, caring little for the orders of the Central Government. \\n\\nWar is on the horizon, and each of these Warlords faces a difficult choice: Collaboration with the Central Government or an alliance with the Communists? Either option promises a chance for a seat at the table, but there is a third possibility - to take China all for themselves.",
+        "translation": "中央政府的软弱无力给予了野心家飞黄腾达的机会。边远地区，地方军阀盘踞在独立王国里，对中央政府的命令几乎置若罔顾。\\n\\n战乱将起，每一个军阀都面临着艰难抉择：顺从中央政府，或与共产党合作？两个选择都有可能扩大发言权，但还有第三种可能——把全中国收作自己囊中之物。",
+        "stage": 1
+    },
+    {
+        "key": "WARLORDS_BLITZKRIEG_DESC:0",
+        "original": "The war with Japan has forced the Chinese Warlords to pick a side. But there can be no doubt that this alliance is living on borrowed time. The day will come when it has outlived its usefullness, and on that day the game is once again open for every man ambitious and ruthless enough to make a play for the title of Ruler of China.",
+        "translation": "抗日战争迫使中国军阀们一致对外，但毫无疑问统一战线不会长久。迟早有一天，统一战线将分文不值，而铁腕野心家们将逐鹿中原，一统中华的大戏亦将再度上演。",
+        "stage": 1
+    }
+]

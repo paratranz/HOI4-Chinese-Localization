@@ -1,0 +1,32 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Éamon de Valera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Eoin O'Duffy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "James Larkin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "William Norton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Michael Costello",
+        "translation": "",
+        "stage": 0
+    }
+]

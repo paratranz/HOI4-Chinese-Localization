@@ -1,0 +1,146 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Benito Mussolini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Ferruccio Parri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Palmiro Togliatti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Pietro Badoglio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Emilio De Bono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Ugo Cavallero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Giovanni Messe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Sebastiano Visconti Prasca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Ubaldo Soddu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Italo Balbo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal##|name",
+        "original": "Rodolfo Graziani",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Inigo Campioni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Alberto Da Zara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Giuseppe Fioravanzo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Carlo Bergamini",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "Angelo Iachino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Bandiera Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Sirena Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Navigatori Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Maestrale Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant####|name",
+        "original": "Giussano Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#####|name",
+        "original": "Montecuccoli Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant######|name",
+        "original": "Zara Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_equipment_variant|name",
+        "original": "Marcello Class",
+        "translation": "",
+        "stage": 0
+    }
+]

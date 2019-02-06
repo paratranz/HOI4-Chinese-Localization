@@ -1,0 +1,512 @@
+[
+    {
+        "key": "CONSTRUCTION_VIEW_LABLE:0",
+        "original": "Construction",
+        "translation": "建造",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_LOCATION_LABEL:0",
+        "original": "Location",
+        "translation": "地点",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_LOCATION_DESC:0",
+        "original": "The target location of each construction",
+        "translation": "每个建造的目标地点",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TASK_LABEL:0",
+        "original": "Task",
+        "translation": "任务",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TASK_DESC:0",
+        "original": "What is being produced",
+        "translation": "正在生产的",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_PROGRESS_LABEL:0",
+        "original": "Progress",
+        "translation": "进行",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_PRIORITY_LABEL:0",
+        "original": "Priority",
+        "translation": "优先级",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_PRIORITY_DESC:0",
+        "original": "The constructions are sorted in priority order. The higher priority constructions will get factories allocated first.",
+        "translation": "建造按照优先级排序，工厂优先分配给优先度高的建造。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_USED_FACTORIES:0",
+        "original": "Used Factories: $USED|H$",
+        "translation": "使用的工厂数：$USED|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAX_FACTORIES:0",
+        "original": "Max Factories: $MAX|H$",
+        "translation": "最大工厂数：$MAX|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_USED_FACTORIES_NUM:0",
+        "original": "$USED$/$MAX$",
+        "translation": "$USED$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_USED_FACTORIES_NUM_CONTRIBUTED:0",
+        "original": "$USED$+$CON|G$/$MAX$",
+        "translation": "$USED$+$CON|G$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_BUILDING:0",
+        "original": "$BUILDING|Y$",
+        "translation": "$BUILDING|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MACRO_DESC:0",
+        "original": "§GClick to select this building and then click on a $LOC_TYPE$ to start a construction.§!",
+        "translation": "§G点击选择这个建筑然后点击$LOC_TYPE$开始建造。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MACRO_SELECTED_DESC:0",
+        "original": "§GClick on a $LOC_TYPE$ on the map to start a construction.§!",
+        "translation": "§G点击$LOC_TYPE$在地图上建造。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_STATE:0",
+        "original": "State",
+        "translation": "地区",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_PROVINCE:0",
+        "original": "Province",
+        "translation": "省",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_EXPAND:0",
+        "original": "Expand",
+        "translation": "展开",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MINIMIZE:0",
+        "original": "Minimize",
+        "translation": "最小化",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE:0",
+        "original": "Building $TYPE|H$ level $NUM|H$ in $STATE|H$",
+        "translation": "正在$STATE|H$地区建造第$NUM|H$级$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE_QUEUE:0",
+        "original": "$NUM|H$ levels of $TYPE|H$ in queue for construction",
+        "translation": "还有$NUM|H$级$TYPE|H$在建造队列中",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE_SHARED_SLOTS:0",
+        "original": "Building $NUM|H$ $TYPE|H$ in $STATE|H$",
+        "translation": "正在$STATE|H$地区建造$NUM|H$个$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE_SHARED_SLOTS_QUEUE:0",
+        "original": "$NUM|H$ $TYPE|H$ in queue for construction",
+        "translation": "还有$NUM|H$个$TYPE|H$在建造队列中",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION:0",
+        "original": "Converting to $NUM|H$ $TYPE|H$ in $STATE|H$",
+        "translation": "在$STATE|H$地区有$NUM|H$个工厂正在转换为$TYPE|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION_QUEUE:0",
+        "original": "$NUM|H$ conversions to $TYPE|H$ in queue",
+        "translation": "还有$NUM|H$个$TYPE|H$在转换队列中",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_TYPE:0",
+        "original": "Repairing $NUM|Y$ level of $TYPE|Y$ in $STATE|Y$",
+        "translation": "正在$STATE|Y$修理第$NUM|Y$级$TYPE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_QUEUE:0",
+        "original": "$NUM|H$ levels of $TYPE|H$ in queue for repairing",
+        "translation": "$NUM|H$级$TYPE|H$等候修理",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_TYPE_SHARED_SLOTS:0",
+        "original": "Repairing $LEVEL|Y$ $NUM|Y$ in $STATE|Y$",
+        "translation": "正在$STATE|Y$修理$LEVEL|Y$$NUM|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_QUEUE_SHARED_SLOTS:0",
+        "original": "$NUM|H$ $TYPE|H$ in queue for repairing",
+        "translation": "$NUM|H$$TYPE|H$等候修理",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_LEVEL_COMPLETE:0",
+        "original": "§TDays until repairs are complete: $TIME|H$§!",
+        "translation": "§T完成修理需要的天数：$TIME|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_REPAIR_ALL_LEVELS_COMPLETE:0",
+        "original": "§TDays until all repairs are complete: $TIME|H$§!",
+        "translation": "§T完成全部修理需要的天数：$TIME|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_NEXT_COMPLETE:0",
+        "original": "Days until next Building: $TIME|H$",
+        "translation": "到下个建筑物需要的天数：$TIME|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_ALL_COMPLETE:0",
+        "original": "Days until all constructions complete: $TIME|H$",
+        "translation": "所有建筑物完成的天数：$TIME|H$",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_CONSTRUCTION:0",
+        "original": "§GClick to §Hcancel§G construction.§!",
+        "translation": "§G点击§H取消§G建造。§!",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_ALL_CONSTRUCTION:1",
+        "original": "§GCtrl+click to §Hcancel all§G constructions.§!",
+        "translation": "§GCtrl+点击§H取消所有§G建造。§!",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_REPAIRS:0",
+        "original": "Can not §RCancel§! repairs!",
+        "translation": "不能§R取消§!修理!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_HIGHEST_PRIORITY:0",
+        "original": "§GShift+click to give the construction §Hhighest priority§!",
+        "translation": "§GShift+点击给予建造§H最高优先级§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_LOWEST_PRIORITY:0",
+        "original": "§GShift+click to give the construction §Hlowest priority§!",
+        "translation": "§GShift+点击给予建造§H最低优先级§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_INCREASE_AMOUNT_LABEL:0",
+        "original": "§TIncrease amount.§!",
+        "translation": "§T增加数量。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_DECREASE_AMOUNT_LABEL:0",
+        "original": "§TDecrease amount.§!",
+        "translation": "§T减少数量。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAXIMIZE:0",
+        "original": "§GShift+click to §Hmaximize§!",
+        "translation": "§GShift+点击建造到§H最大数量§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_TOOLTIP_SHARED:0",
+        "original": "$NAME|H$ have used $USED_SLOTS|Y$ out of $MAX_SLOTS|Y$ building slots.\\n$LIST$",
+        "translation": "$NAME|H$已使用$USED_SLOTS|Y$个建筑位，共有$MAX_SLOTS|Y$个。\\n$LIST$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_TOOLTIP_SHARED_LIST_ENTRY:0",
+        "original": "$NAME|H$: $LEVEL$",
+        "translation": "$NAME|H$：$LEVEL$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_TOOLTIP:0",
+        "original": "§GClick§! to build $BUILDING|H$",
+        "translation": "§G点击§!建造$BUILDING|H$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT:0",
+        "original": "§GShift+Click§! to build maximum amount of buildings.",
+        "translation": "§GShift+点击§!建造最大数量的建筑物。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_TOOLTIP_REMOVE:0",
+        "original": "§GRight-Click§! to remove one construction of the building.\\n§GShift+Right-Click§! to remove constructions of all buildings.",
+        "translation": "§G右键点击§!取消一项建造。\\n§GShift+右键点击§!取消全部建造。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_MAXLEVEL_BLOCKED_TOOLTIP:1",
+        "original": "Cannot build $BUILDING|H$, maximum level reached already or no slots available.",
+        "translation": "不能建造$BUILDING|H$，已经达到最高等级或者无空位可用。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP:0",
+        "original": "Cannot build $BUILDING|H$ in the demilitarized zone.",
+        "translation": "不能在非军事区建造$BUILDING|H$。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_FOREIGN_TOOLTIP:0",
+        "original": "Cannot build $BUILDING|H$ in a foreign territory.",
+        "translation": "不能在外国领土建造$BUILDING|H$。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_WATER_TOOLTIP:0",
+        "original": "Cannot build $BUILDING|H$ on water.",
+        "translation": "不能在水上建造$BUILDING|H$。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP:0",
+        "original": "Click on a Civilian Factory or Military Factory icon to start conversion.",
+        "translation": "点击一个民用工厂或者军用工厂开始转换。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_CONVERT_IC_TOOLTIP:0",
+        "original": "§YConvert§!\\nConvert Civilian Factory to Military Factory and vice versa",
+        "translation": "§Y转换§!\\n将民用工厂转换为军用工厂或者相反",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED:0",
+        "original": "§GClick to select this mode and then click on buttons in each State to convert.§!",
+        "translation": "§G点击选择这个模式然后点击每个地区里的按钮开始转换。§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_LABEL:0",
+        "original": "#",
+        "translation": "#",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_AMOUNT:0",
+        "original": "Amount of Factories",
+        "translation": "工厂数量",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_DESC:0",
+        "original": "The number of factories used for each specific construction",
+        "translation": "用于各项建造的工厂数",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_CONSUMER_GOODS:0",
+        "original": "Consumer Goods: $VALUE|R$",
+        "translation": "生活消费品：$VALUE|R$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_CONSTRUCTIONS:0",
+        "original": "Construction: $VALUE|R$",
+        "translation": "建造：$VALUE|R$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_TRADE:0",
+        "original": "From imports: $VALUE|R$",
+        "translation": "来自进口：$VALUE|R$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_PROJECTS:0",
+        "original": "Special Projects: $VALUE|R$",
+        "translation": "特殊工程：$VALUE|R$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_TRADE_LABEL:0",
+        "original": "Traded Goods",
+        "translation": "用于交易",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_TRADE_TITLE:0",
+        "original": "§HTraded Goods§!",
+        "translation": "§H用于交易§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_PROJECTS_LABEL:0",
+        "original": "Special Projects",
+        "translation": "特殊工程",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_PROJECTS_TITLE:0",
+        "original": "§HSpecial Projects§!",
+        "translation": "§H特殊工程§!",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_PROJECTS_DESC:0",
+        "original": "Special construction projects from other sources.",
+        "translation": "使用其他资源建造的特殊工程。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_SPEED:0",
+        "original": "Construction speed: $SPEED|Y$",
+        "translation": "建造速度：$SPEED|Y$",
+        "stage": 1
+    },
+    {
+        "key": "REPAIR_SPEED:0",
+        "original": "Health repaired daily: $SPEED|1Y%$",
+        "translation": "每日修理进度：$SPEED|1Y%$",
+        "stage": 1
+    },
+    {
+        "key": "MIN_REPAIR_SPEED_DESC:0",
+        "original": "Buildings will be slowly repaired even without any Civilian Factories assigned. Assign Factories to them in order to improve the repair speed.",
+        "translation": "建筑物在没有分配任何民用工厂的情况下也会缓慢修复，为其分配民用工厂可以提高修复速度。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_SPEED_MODIFIERS:0",
+        "original": "Construction speed modified by:",
+        "translation": "建造速度修正：",
+        "stage": 1
+    },
+    {
+        "key": "REPAIR_SPEED_MODIFIERS:0",
+        "original": "Repair speed modified by:",
+        "translation": "修理速度修正：",
+        "stage": 1
+    },
+    {
+        "key": "RESOURCE_TRADE_LINE:0",
+        "original": "$PARTNER|Y$: $FACTORIES|R$ Civilian Factory for $NUM|G$ $RESOURCE|Y$",
+        "translation": "$PARTNER|Y$：$FACTORIES|R$家民用工厂产品用于交换$NUM|G$单位$RESOURCE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "RESOURCE_TRADE_LINE_PLURAL:0",
+        "original": "$PARTNER|Y$: $FACTORIES|R$ Civilian Factories for $NUM|G$ $RESOURCE|Y$",
+        "translation": "$PARTNER|Y$：$FACTORIES|R$家民用工厂产品用于交换$NUM|G$单位$RESOURCE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_FACTORIES_TRADE_DESC:0",
+        "original": "We can trade away the use of our Civilian Factories to other countries in return for Strategic Resources. Overseas trade requires Convoy Ships.",
+        "translation": "我们可以用民用工厂的产品来与其他国家交换战略资源。海外交易可能会需要运输船。",
+        "stage": 1
+    },
+    {
+        "key": "CONVERSION_SPEED_MODIFIERS:1",
+        "original": "Conversion cost modified by:",
+        "translation": "转换成本修正：",
+        "stage": 1
+    },
+    {
+        "key": "INFRASTRUCTURE_COST_EFFECT:0",
+        "original": "State infrastructure: x$VAL|2H$",
+        "translation": "地区基础设施：x$VAL|2H$",
+        "stage": 1
+    },
+    {
+        "key": "INFRA_VAL:0",
+        "original": "£infrastructure_texticon $VAL|0%+=$",
+        "translation": "£infrastructure_texticon $VAL|0%+=$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAP_ICON_ENTRY:0",
+        "original": "£backhoe_icon_small   $VAL$/$MAX$",
+        "translation": "£backhoe_icon_small   $VAL$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_MAP_ICON_ENTRY_WITH_TEMP:0",
+        "original": "£backhoe_icon_small   $VAL$+$ADD|H$/$MAX$",
+        "translation": "£backhoe_icon_small   $VAL$+$ADD|H$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "STATE_BUILDINGS:0",
+        "original": "State Buildings",
+        "translation": "地区建筑",
+        "stage": 1
+    },
+    {
+        "key": "STATE_BUILDINGS_DESC:0",
+        "original": "Buildings built in states. Each building has its own level limit.",
+        "translation": "建筑属于地区。不占用建筑位，每种建筑有等级限制。",
+        "stage": 1
+    },
+    {
+        "key": "SHARED_BUILDINGS:0",
+        "original": "Shared Buildings",
+        "translation": "工业建筑",
+        "stage": 1
+    },
+    {
+        "key": "SHARED_BUILDINGS_DESC:0",
+        "original": "Buildings built in states. Each state has its own number of building slots that is shared between these buildings.",
+        "translation": "建筑属于地区。所有该类建筑共享所属地区的建筑位。",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCE_BUILDINGS:0",
+        "original": "Province Buildings",
+        "translation": "省份建筑",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCE_BUILDINGS_DESC:0",
+        "original": "Buildings built in provinces. Each building has its own level limit.",
+        "translation": "建筑属于省份。每种建筑物有等级限制。",
+        "stage": 1
+    },
+    {
+        "key": "CONSTRUCTION_PAUSED_COMBAT:0",
+        "original": "§RThe Construction can't progress because of an ongoing battle.§!",
+        "translation": "§R建筑进程由于正在进行的战斗而被迫暂停。§!",
+        "stage": 1
+    }
+]

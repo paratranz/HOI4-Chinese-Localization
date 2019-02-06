@@ -1,0 +1,1154 @@
+[
+    {
+        "key": "BHU_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_INF_01|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|24#|Household Division",
+        "original": "Household Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|25#|Royal Division",
+        "original": "Royal Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_INF_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_CAV_01|fallback_name",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|1#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|2#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|4#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|5#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|6#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|7#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|8#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|9#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|10#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|11#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|12#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|13#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|14#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|15#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|16#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|17#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|18#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|19#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|20#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|21#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|22#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_CAV_01|ordered|23#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MOT_01|fallback_name",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|24#|Household Division",
+        "original": "Household Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|25#|Royal Division",
+        "original": "Royal Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|1#|%dst Motorised Division",
+        "original": "%dst Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|2#|%dnd Motorised Division",
+        "original": "%dnd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|3#|%drd Motorised Division",
+        "original": "%drd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|4#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|5#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|6#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|7#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|8#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|9#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|10#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|11#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|12#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|13#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|14#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|15#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|16#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|17#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|18#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|19#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|20#|%dth Motorised Division",
+        "original": "%dth Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|21#|%dst Motorised Division",
+        "original": "%dst Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|22#|%dnd Motorised Division",
+        "original": "%dnd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MOT_01|ordered|23#|%drd Motorised Division",
+        "original": "%drd Motorised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_ARM_01|fallback_name",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|1#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|2#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|3#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|4#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|5#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|6#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|7#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|8#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|9#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|10#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|11#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|12#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|13#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|14#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|15#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|16#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|17#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|18#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|19#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|20#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|21#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|22#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_ARM_01|ordered|23#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MEC_01|fallback_name",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|24#|Household Division",
+        "original": "Household Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|25#|Royal Division",
+        "original": "Royal Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|1#|%dst Mechanized Division",
+        "original": "%dst Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|2#|%dnd Mechanized Division",
+        "original": "%dnd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|3#|%drd Mechanized Division",
+        "original": "%drd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|4#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|5#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|6#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|7#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|8#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|9#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|10#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|11#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|12#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|13#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|14#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|15#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|16#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|17#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|18#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|19#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|20#|%dth Mechanized Division",
+        "original": "%dth Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|21#|%dst Mechanized Division",
+        "original": "%dst Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|22#|%dnd Mechanized Division",
+        "original": "%dnd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MEC_01|ordered|23#|%drd Mechanized Division",
+        "original": "%drd Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_GAR_01|fallback_name",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|1#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|2#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|3#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|4#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|5#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|6#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|7#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|8#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|9#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|10#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|11#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|12#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|13#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|14#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|15#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|16#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|17#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|18#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|19#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|20#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|21#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|22#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_GAR_01|ordered|23#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MAR_01|fallback_name",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|1#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|2#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|3#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|4#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|5#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|6#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|7#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|8#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|9#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MAR_01|ordered|10#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_MTN_01|fallback_name",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|1#|%dst Gurkha Division",
+        "original": "%dst Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|2#|%dnd Gurkha Division",
+        "original": "%dnd Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|3#|%drd Gurkha Division",
+        "original": "%drd Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|4#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|5#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|6#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|7#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|8#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|9#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_MTN_01|ordered|10#|%dth Gurkha Division",
+        "original": "%dth Gurkha Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_PAR_01|name",
+        "original": "Airborne Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BHU_PAR_01|fallback_name",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BHU_PAR_01|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

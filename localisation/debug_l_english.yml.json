@@ -1,0 +1,92 @@
+[
+    {
+        "key": "debug_event_scopes:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "print_scope_names:0",
+        "original": "Scopes - Root: [Root.GetName] From: [From.GetName]  Prev: [Prev.GetName]",
+        "translation": "Scopes - Root：[Root.GetName] From：[From.GetName]  Prev：[Prev.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "faction_created_names:0",
+        "original": "Faction created - Root: [Root.GetName] Prev: [Prev.GetName]",
+        "translation": "Faction created - Root：[Root.GetName] Prev：[Prev.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "faction_joined_names:0",
+        "original": "Faction joined - Root: [Root.GetName] Prev: [Prev.GetName]",
+        "translation": "Faction joined - Root：[Root.GetName] Prev：[Prev.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "test.1.t:0",
+        "original": "Test Event 1",
+        "translation": "Test Event 1",
+        "stage": 1
+    },
+    {
+        "key": "test.1.d:0",
+        "original": "Test Event 1 [Root.GetNameDef] £army_experience  £navy_experience",
+        "translation": "Test Event 1 [Root.GetNameDef] £army_experience  £navy_experience ",
+        "stage": 1
+    },
+    {
+        "key": "test.1.a:0",
+        "original": "Test Event 1 [GER.GetName]",
+        "translation": "Test Event 1 [GER.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "test.2.t:0",
+        "original": "Test Event 2",
+        "translation": "Test Event 2",
+        "stage": 1
+    },
+    {
+        "key": "test.2.a:0",
+        "original": "Test Event 2",
+        "translation": "Test Event 2",
+        "stage": 1
+    },
+    {
+        "key": "test.3.t:0",
+        "original": "Test Event 3",
+        "translation": "Test Event 3",
+        "stage": 1
+    },
+    {
+        "key": "test.3.a:0",
+        "original": "Test Event 3",
+        "translation": "Test Event 3",
+        "stage": 1
+    },
+    {
+        "key": "test.4.t:0",
+        "original": "Test Event 4",
+        "translation": "Test Event 4",
+        "stage": 1
+    },
+    {
+        "key": "test.4.d:0",
+        "original": "Scopes - Root: [Root.GetName] From: [From.From.GetName]  Prev: [Prev.GetName]",
+        "translation": "Scopes - Root：[Root.GetName] From：[From.From.GetName]  Prev：[Prev.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "test.4.a:0",
+        "original": "Test Event 4",
+        "translation": "Test Event 4",
+        "stage": 1
+    },
+    {
+        "key": "TEST_FEST_FEMTEN:0",
+        "original": "lalallalalalal",
+        "translation": "lalallalalalal",
+        "stage": 1
+    }
+]

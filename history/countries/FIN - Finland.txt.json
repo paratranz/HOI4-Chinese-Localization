@@ -1,0 +1,38 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Risto Heikki Ryti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Aimo Aaltonen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Vilho Annala",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Kyösti Kallio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Erik Heinrichs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Vilho Petter Nenonen",
+        "translation": "",
+        "stage": 0
+    }
+]

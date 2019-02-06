@@ -1,0 +1,1085 @@
+division_template = {
+  name = "Infanterie-Division"
+  division_names_group = GER_Inf_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+    infantry = {
+      x = 2
+      y = 0
+    }
+    infantry = {
+      x = 2
+      y = 1
+    }
+    infantry = {
+      x = 2
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+    artillery = {
+      x = 0
+      y = 1
+    }
+  }
+}
+division_template = {
+  name = "Panzer-Division"
+  division_names_group = GER_Arm_01
+  regiments = {
+    light_armor = {
+      x = 0
+      y = 0
+    }
+    light_armor = {
+      x = 0
+      y = 1
+    }
+    light_armor = {
+      x = 1
+      y = 0
+    }
+    light_armor = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+  }
+  support = {
+    recon = {
+      x = 0
+      y = 0
+    }
+    engineer = {
+      x = 0
+      y = 1
+    }
+    artillery = {
+      x = 0
+      y = 2
+    }
+  }
+}
+division_template = {
+  name = "Infanterie-Division (mot.)"
+  division_names_group = GER_MOT_02
+  regiments = {
+    motorized = {
+      x = 0
+      y = 0
+    }
+    motorized = {
+      x = 0
+      y = 1
+    }
+    motorized = {
+      x = 0
+      y = 2
+    }
+    motorized = {
+      x = 1
+      y = 0
+    }
+    motorized = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 1
+      y = 2
+    }
+    motorized = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 2
+    }
+  }
+  support = {
+    recon = {
+      x = 0
+      y = 0
+    }
+    engineer = {
+      x = 0
+      y = 1
+    }
+    artillery = {
+      x = 0
+      y = 2
+    }
+  }
+}
+division_template = {
+  name = "Gebirgs-Brigade"
+  division_names_group = GER_Mnt_01
+  regiments = {
+    mountaineers = {
+      x = 0
+      y = 0
+    }
+    mountaineers = {
+      x = 0
+      y = 1
+    }
+    mountaineers = {
+      x = 0
+      y = 2
+    }
+    mountaineers = {
+      x = 1
+      y = 0
+    }
+    mountaineers = {
+      x = 1
+      y = 1
+    }
+    mountaineers = {
+      x = 1
+      y = 2
+    }
+  }
+}
+division_template = {
+  name = "Kavallerie-Brigade"
+  division_names_group = GER_Cav_01
+  regiments = {
+    cavalry = {
+      x = 0
+      y = 0
+    }
+    cavalry = {
+      x = 0
+      y = 1
+    }
+    cavalry = {
+      x = 1
+      y = 0
+    }
+    cavalry = {
+      x = 1
+      y = 1
+    }
+  }
+  support = {
+    recon = {
+      x = 0
+      y = 0
+    }
+    artillery = {
+      x = 0
+      y = 1
+    }
+  }
+}
+units = {
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 6334
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 12
+    }
+    location = 537
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 478
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 23
+    }
+    location = 478
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 6521
+    division_template = "Panzer-Division"
+    start_experience_factor = 0.3
+    force_equipment_variants = {
+      light_tank_equipment_1 = {
+        owner = "GER"
+      }
+    }
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 6521
+    division_template = "Panzer-Division"
+    start_experience_factor = 0.3
+    force_equipment_variants = {
+      light_tank_equipment_1 = {
+        owner = "GER"
+      }
+    }
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 6521
+    division_template = "Panzer-Division"
+    start_experience_factor = 0.3
+    force_equipment_variants = {
+      light_tank_equipment_1 = {
+        owner = "GER"
+      }
+    }
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 11505
+    division_template = "Infanterie-Division (mot.)"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 6462
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 14
+    }
+    location = 6462
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 24
+    }
+    location = 6462
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 8
+    }
+    location = 11467
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 18
+    }
+    location = 11467
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 6402
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 11
+    }
+    location = 266
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 21
+    }
+    location = 3384
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Kavallerie-Kommando Insterburg"
+    location = 281
+    division_template = "Kavallerie-Brigade"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 13
+    }
+    location = 6257
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 6
+    }
+    location = 11264
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 16
+    }
+    location = 11264
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 9
+    }
+    location = 11388
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 15
+    }
+    location = 241
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 19
+    }
+    location = 6488
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 20
+    }
+    location = 9572
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 22
+    }
+    location = 9572
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 9517
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 7
+    }
+    location = 11544
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 10
+    }
+    location = 11497
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 17
+    }
+    location = 586
+    division_template = "Infanterie-Division"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Gebirgs-Brigade"
+    location = 692
+    division_template = "Gebirgs-Brigade"
+    start_experience_factor = 0.3
+  }
+  navy = {
+    name = "Kriegsmarine"
+    base = 241
+    location = 241
+    ship = {
+      name = "Deutschland"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = GER
+          version_name = "Deutschland Class"
+        }
+      }
+    }
+    ship = {
+      name = "Admiral Scheer"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = GER
+          version_name = "Deutschland Class"
+        }
+      }
+    }
+    ship = {
+      name = "Nürnberg"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Leipzig"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Königsberg"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = GER
+          version_name = "Königsberg Class"
+        }
+      }
+    }
+    ship = {
+      name = "Karlsruhe"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = GER
+          version_name = "Königsberg Class"
+        }
+      }
+    }
+    ship = {
+      name = "Köln"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = GER
+          version_name = "Königsberg Class"
+        }
+      }
+    }
+    ship = {
+      name = "Emden"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Jaguar"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Leopard"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Luchs"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Tiger"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Ostseeflotte"
+    base = 6332
+    location = 6332
+    ship = {
+      name = "Schleswig-Holstein"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Schlesien"
+      definition = battleship
+      equipment = {
+        battleship_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Möwe"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Albatros"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Seeadler"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Greif"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Falke"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Kondor"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Wolf"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "Iltis"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Unterseebootsflotte Weddigen"
+    base = 6389
+    location = 6389
+    ship = {
+      name = "U-7"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-8"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-9"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-10"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-11"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-12"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-13"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-17"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Unterseeboots-Schule"
+    base = 241
+    location = 241
+    ship = {
+      name = "U-1"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-2"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-3"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-4"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-5"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+    ship = {
+      name = "U-6"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = GER
+        }
+      }
+    }
+  }
+}
+air_wings = {
+  5 = {
+    fighter_equipment_0 = {
+      owner = "GER"
+      amount = 40
+    }
+    name = "Jagdgeschwader 232"
+  }
+  64 = {
+    fighter_equipment_0 = {
+      owner = "GER"
+      amount = 80
+    }
+    name = "Jagdgeschwader 132"
+    ace = {
+      modifier = "fighter_genius"
+      name = "Erich"
+      surname = "Hartmann"
+      callsign = "Bubi"
+      portrait = 1
+    }
+    tac_bomber_equipment_0 = {
+      owner = "GER"
+      amount = 80
+    }
+    tac_bomber_equipment_0 = {
+      owner = "GER"
+      amount = 40
+      version_name = "Ju 86"
+    }
+    name = "Kampfgeschwader 153"
+    transport_plane_equipment_1 = {
+      owner = "GER"
+      amount = 4
+    }
+  }
+  66 = {
+    tac_bomber_equipment_0 = {
+      owner = "GER"
+      amount = 120
+    }
+    name = "Kampfgeschwader 253"
+    CAS_equipment_1 = {
+      owner = "GER"
+      amount = 80
+    }
+    name = "Sturzkampfgeschwader 162"
+  }
+  57 = {
+    fighter_equipment_0 = {
+      owner = "GER"
+      amount = 120
+    }
+    name = "Jagdgeschwader 134"
+    tac_bomber_equipment_1 = {
+      owner = "GER"
+      amount = 80
+    }
+    name = "Kampfgeschwader 152"
+    tac_bomber_equipment_0 = {
+      owner = "GER"
+      amount = 80
+    }
+    name = "Kampfgeschwader 155"
+  }
+  52 = {
+    fighter_equipment_0 = {
+      owner = "GER"
+      amount = 40
+    }
+    name = "Jagdgeschwader 136"
+    tac_bomber_equipment_0 = {
+      owner = "GER"
+      amount = 80
+    }
+    name = "Kampfgeschwader 154"
+  }
+  58 = {
+    nav_bomber_equipment_1 = {
+      owner = "GER"
+      amount = 72
+    }
+    name = "Küstenfliegergruppe 106"
+  }
+}
+instant_effect = {
+  add_equipment_production = {
+    equipment = {
+      type = infantry_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 10
+    progress = 0.1
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = support_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 2
+    progress = 0.3
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = artillery_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 1
+    progress = 0.3
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = light_tank_equipment_2
+      creator = "GER"
+    }
+    requested_factories = 2
+    progress = 0.4
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = motorized_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 2
+    progress = 0.4
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = fighter_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 1
+    progress = 0.15
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = CAS_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 1
+    progress = 0.2
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = tac_bomber_equipment_1
+      creator = "GER"
+    }
+    requested_factories = 1
+    progress = 0.1
+    efficiency = 50
+  }
+  add_equipment_production = {
+    equipment = {
+      type = submarine_2
+      creator = "GER"
+    }
+    requested_factories = 5
+    progress = 0.75
+    amount = 8
+  }
+  add_equipment_production = {
+    equipment = {
+      type = destroyer_2
+      creator = "GER"
+    }
+    requested_factories = 3
+    progress = 0.75
+    amount = 4
+  }
+  add_equipment_production = {
+    equipment = {
+      type = heavy_cruiser_1
+      creator = "GER"
+      version_name = "Deutschland Class"
+    }
+    requested_factories = 1
+    progress = 0.95
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_2
+      creator = "GER"
+    }
+    requested_factories = 3
+    progress = 0.25
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_2
+      creator = "GER"
+    }
+    requested_factories = 3
+    progress = 0.1
+    amount = 1
+  }
+}

@@ -1,0 +1,524 @@
+[
+    {
+        "key": "LOADING_TIP_0:0",
+        "original": "It is humiliating to remain with our hands folded while others write history. It matters little who wins.\\n- Benito Mussolini",
+        "translation": "在别人书写历史时拱手旁观是一种耻辱。谁获胜并不重要。\\n- 贝尼托·墨索里尼",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_1:0",
+        "original": "To make a people great it is necessary to send them to battle even if you have to kick them in the pants. That is what I shall do.\\n- Benito Mussolini",
+        "translation": "为了塑造伟大的人，即使需要踢屁股也要送他们上战场。这就是我应该干的。\\n- 贝尼托·墨索里尼",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_2:0",
+        "original": "Every soldier must know, before he goes into battle, how the little battle he is to fight fits into the larger picture.\\n- Bernard L. Montgomery",
+        "translation": "每个士兵在上战场前必须明白，他的这场小小的战斗在大局中起的作用。\\n- 伯纳德 L. 蒙哥马利",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_3:0",
+        "original": "If we lose the war in the air we lose the war and we lose it quickly.\\n- Bernard L. Montgomery",
+        "translation": "如果我们输了空中战场，我们就会输掉这场战争并且输的很快。\\n- 伯纳德 L. 蒙哥马利",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_4:0",
+        "original": "It's good to trust others, but, not to do so is much better.\\n- Benito Mussolini",
+        "translation": "信任别人很好，但是，不信任更好。\\n- 贝尼托·墨索里尼",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_5:0",
+        "original": "From a philosophical and doctrinal viewpoint, I do not believe in perpetual peace.\\n- Benito Mussolini",
+        "translation": "从哲学和教条的角度，我都不相信会有持久的和平。\\n- 贝尼托·墨索里尼",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_6:0",
+        "original": "Giraffes are heartless creatures",
+        "translation": "长颈鹿是无情的生物",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_7:0",
+        "original": "As long as there are sovereign nations possessing great power, war is inevitable.\\n- Albert Einstein",
+        "translation": "只要主权国家持有强大的武力，战争就无法避免。\\n- 阿尔伯特·爱因斯坦",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_8:0",
+        "original": "Those who vote decide nothing. Those who count the vote decide everything.\\n- Joseph Stalin",
+        "translation": "投票的人什么都无法决定。计票的人决定一切。\\n- 约瑟夫·斯大林",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_9:0",
+        "original": "History shows that there are no invincible armies and that there never have been.\\n- Joseph Stalin",
+        "translation": "历史表明没有无敌的军队，从来没有。\\n- 约瑟夫·斯大林",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_10:0",
+        "original": "The Pope! How many divisions has he got?\\n- Joseph Stalin",
+        "translation": "教宗！他有多少个师？\\n- 约瑟夫·斯大林",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_11:0",
+        "original": "Gaiety is the most outstanding feature of the Soviet Union.\\n- Joseph Stalin",
+        "translation": "花哨是苏联最大的特色。\\n- 约瑟夫·斯大林",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_12:0",
+        "original": "The only real power comes out of a long rifle.\\n- Joseph Stalin",
+        "translation": "唯一的真正的力量来自于长枪。\\n- 约瑟夫·斯大林",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_13:0",
+        "original": "Any alliance whose purpose is not the intention to wage war is senseless and useless.\\n- Adolf Hitler",
+        "translation": "任何不以开战为目的的盟友都是愚蠢而无用的。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_14:0",
+        "original": "Great liars are also great magicians.\\n- Adolf Hitler",
+        "translation": "伟大的骗子同时也是伟大的魔术师。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_15:0",
+        "original": "If today I stand here as a revolutionary, it is as a revolutionary against the Revolution.\\n- Adolf Hitler",
+        "translation": "如果今天我得作为一个革命者站在这里，那这就是一场针对这场革命的革命。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_16:0",
+        "original": "If you tell a big enough lie and tell it frequently enough, it will be believed.\\n- Adolf Hitler",
+        "translation": "如果你说一个足够大的谎并且重复足够多次，别人就会相信。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_17:0",
+        "original": "Germany will either be a world power or will not be at all.\\n- Adolf Hitler",
+        "translation": "德国亦或是一个世界强权亦或完全不是。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_18:0",
+        "original": "Success consists of going from failure to failure without loss of enthusiasm.\\n- Winston Churchill",
+        "translation": "成功包含着毫不气馁地从失败走向失败。\\n- 温斯顿·丘吉尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_19:0",
+        "original": "If you're going through hell, keep going.\\n- Winston Churchill",
+        "translation": "如果你正在穿越地狱，继续前进。\\n- 温斯顿·丘吉尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_20:0",
+        "original": "The best argument against democracy is a five-minute conversation with the average voter.\\n- Winston Churchill",
+        "translation": "对民主最好的驳论就是和一个普通选民交谈五分钟。\\n- 温斯顿·丘吉尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_21:0",
+        "original": "Whenever in future wars the battle is fought, panzer troops will play the decisive role.\\n- Heinz Guderian",
+        "translation": "无论在未来的什么战争中，装甲部队都将起到决定性作用。\\n- 海因茨·古德里安",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_22:0",
+        "original": "The new German Panther and Tiger can be used until they break down without trying to repair them. They have bad engines, transmission and suspension.\\n- Department of Weaponry of the Red Army",
+        "translation": "德国新的豹式和虎式坦克可以被使用到他们自己抛锚为止，不要尝试修复。它们的引擎传动和悬挂都很烂。\\n- 红军军械部",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_23:0",
+        "original": "No bastard ever won a war by dying for his country. He won it by making the other poor dumb bastard die for his country.\\n- George S. Patton",
+        "translation": "没有哪个杂种会因为誓死为国赢得一场战争。他通过让别的可怜的傻杂种为国捐躯来获胜。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_24:0",
+        "original": "A good plan violently executed now is better than a perfect plan executed next week.\\n- George S. Patton",
+        "translation": "一个现在被强行执行的好计划强于一个下周执行的完美计划。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_25:0",
+        "original": "Lead me, follow me, or get out of my way.\\n- George S. Patton",
+        "translation": "领导我或跟着我，或者滚出我面前。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_26:0",
+        "original": "Nobody ever defended anything successfully, there is only attack and attack and attack some more.\\n- George S. Patton",
+        "translation": "从没有人成功的守住任何东西，只有进攻，进攻再进攻。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_27:0",
+        "original": "Wars may be fought with weapons, but they are won by men. It is the spirit of men who follow and of the man who leads that gains the victory.\\n- George S. Patton",
+        "translation": "战争也许是用武器打的，但是是由人来获胜的。是领导和跟随的人的精神争取到了胜利。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_28:0",
+        "original": "The first time I ever saw a jet, I shot it down.\\n- Chuck Yeager, USAAF",
+        "translation": "我第一次看到喷气机的时候，我把它打下来了。\\n- 查克·叶格，美国陆军航空军",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_29:0",
+        "original": "Theo, Heinrich here. Have just shot down two bombers. No more ammunition. I'm going to ram. Auf Wiedersehen, see you in Valhalla!\\n- Heinrich Ehrler, Luftwaffe",
+        "translation": "西奥多，这是海因里希。刚打下两架轰炸机。没有弹药了。我要撞过去了。再见，英灵殿再会！\\n- 海因里希·埃尔勒，纳粹德国空军",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_30:0",
+        "original": "Leadership consists of picking good men and helping them do their best.\\n- Chester W. Nimitz",
+        "translation": "领导力包含选择优秀的人才并帮助他们做到最好。\\n- 切斯特·W·尼米兹",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_31:0",
+        "original": "Is the proposed operation likely to succeed? Is it in the realm of practicability in terms of material and supplies?\\n- Chester W. Nimitz",
+        "translation": "这个行动有可能成功吗？在物资和补给方面它在可行范围内么？\\n- 切斯特·W·尼米兹",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_32:0",
+        "original": "In preparing for battle I have always found that plans are useless, but planning is indispensable.\\n- Dwight D. Eisenhower",
+        "translation": "在准备战斗的时候我总是发现计划是毫无用处的，但是计划过程是不可或缺的。\\n- 德怀特 D. 艾森豪威尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_33:0",
+        "original": "What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.\\n- Dwight D. Eisenhower",
+        "translation": "战斗中斗犬的大小也许并不重要，重要的是斗犬心中战斗的大小。\\n- 德怀特 D. 艾森豪威尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_34:0",
+        "original": "It goes without saying that when survival is threatened, struggles erupt between peoples, and unfortunate wars between nations result.\\n- Hideki Tojo",
+        "translation": "当生存受到威胁的时候，人们之间的争斗就会爆发，最终会带来不幸的国家间的战争——这是毫无疑问的。\\n- 东条英机",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_35:0",
+        "original": "In a man-to-man fight, the winner is he who has one more round in his magazine.\\n- Erwin Rommel",
+        "translation": "在一场单挑中，胜利者是弹夹里多一发的人。\\n- 埃尔温·隆美尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_36:0",
+        "original": "I would rather be the hammer than the anvil.\\n- Erwin Rommel",
+        "translation": "我宁可当锤子而不是砧子。\\n- 埃尔温·隆美尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_37:0",
+        "original": "Sweat saves blood, blood saves lives, but brains saves both.\\n- Erwin Rommel",
+        "translation": "流汗不流血，流血不丢命，但是有脑子可以同时做到。\\n- 埃尔温·隆美尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_38:0",
+        "original": "Poor Neville Chamberlain believed he could trust Hitler. He was wrong. But I don't think I'm wrong about Stalin.\\n- Winston Churchill (after Yalta)",
+        "translation": "可怜的内维尔·张伯伦相信他能信任希特勒。他错了。但是我不觉得我对斯大林的看法错了。\\n- 温斯顿·丘吉尔 (雅尔塔会议后)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_39:0",
+        "original": "I believe it is peace for our time.\\n- Neville Chamberlain, 1938 after Munich agreement.",
+        "translation": "我相信这是我们时代的和平。\\n- 内维尔·张伯伦，1938年慕尼黑协定后。",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_40:0",
+        "original": "No enemy bomber can reach the Ruhr. If one reaches the Ruhr, my name is not Göring. You may call me Meyer.\\n- Hermann Meyer",
+        "translation": "没有一架敌人的轰炸机能到达鲁尔。如果有一架到了鲁尔，我的名字就不叫戈林。你可以叫我迈尔。\\n- 赫尔曼·迈尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_41:0",
+        "original": "We have only to kick in the door and the whole rotten structure will come crashing down.\\n- Adolf Hitler (on the Soviet Union)",
+        "translation": "我们只需要在门上踢一脚，整个腐朽的建筑就会倒塌。\\n- 阿道夫·希特勒 (评价苏联)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_42:0",
+        "original": "I can run wild for the first six to twelve months of a war with the United States and the United Kingdom. After that, I have no expectation of success.\\n- Isoroku Yamamoto",
+        "translation": "我能在最初的六到十二个月里在对美国和英国的战争中持续获胜，但是在这之后，我不认为能成功。\\n- 山本五十六",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_43:0",
+        "original": "If we come to a minefield, our infantry attacks exactly as if it were not there.\\n- Georgy Zhukov",
+        "translation": "如果我们到了一个雷区，我们的步兵会像雷区不存在一样战斗。\\n- 格奥尔基·朱可夫",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_44:0",
+        "original": "The Russian colossus has been underestimated by us... whenever a dozen divisions are destroyed, the Russians replace them with another dozen.\\n- Franz Halder",
+        "translation": "我们低估了俄国巨人… 无论何时当一打师被消灭，俄国人会换上另一打。\\n- 弗朗兹·哈尔德",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_45:0",
+        "original": "To the German Commander: NUTS!\\nThe American Commander.\\n- Anthony C. McAuliffe (responding to German demand for surrender)",
+        "translation": "致德国指挥官：放屁！\\n美国指挥官\\n- 安东尼 C. 麦考利夫 (回复德国的劝降)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_46:0",
+        "original": "It is us today. It will be you tomorrow.\\n- Haile Selassie I, 1936",
+        "translation": "今天是我们，明天就轮到你。\\n- 海尔·塞拉西一世，1936",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_47:0",
+        "original": "Not one step back!\\n- Soviet Order No. 227",
+        "translation": "一步也不许后退！\\n- 苏联第227号命令",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_48:0",
+        "original": "Tora! Tora! Tora!\\n- Mitsuo Fuchida, 7 December, 1941",
+        "translation": "虎！虎！虎！\\n- 渊田美津雄，1941年12月7日",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_49:0",
+        "original": "Your name is unknown. Your deed is immortal.\\n- Tomb of the Unknown Soldier (Moscow)",
+        "translation": "你的名字无人知晓，你的功绩永世长存。\\n- 无名烈士墓 (莫斯科)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_50:0",
+        "original": "Where is, repeat, where is Task Force Thirty-Four? The world wonders.\\n- CINCPAC, Battle of Leyte Gulf",
+        "translation": "在哪里，重复一次，第34特遣队在哪里？全世界都想知道。\\n- 美国太平洋司令部最高指挥官，莱特湾海战",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_51:0",
+        "original": "The war situation has developed not necessarily to Japan's advantage.\\n- Emperor Hirohito, 1945",
+        "translation": "战况发展到了对日本并不一定有利的局面。\\n- 昭和天皇，1945",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_52:0",
+        "original": "We should have known better after the first war.\\n- Gerd von Rundstedt",
+        "translation": "我们本该在一战后就明白。\\n- 格尔德·冯·伦德施泰特",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_53:0",
+        "original": "The vastness of Russia devours us.\\n- Gerd von Rundstedt",
+        "translation": "俄国的庞大耗干了我们。\\n- 格尔德·冯·伦德施泰特",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_54:0",
+        "original": "I ask you, do you want total war? If necessary, do you want a war more total and radical than anything that we can even yet imagine?\\n- Joseph Goebbels",
+        "translation": "我问你，你是否想要总体战？如果有必要，你是否想要一场比我们以前能想象的更总体和彻底的战争？\\n- 约瑟夫·戈培尔",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_55:0",
+        "original": "One blow from the German army and another from the Soviet army put an end to this ugly product of Versailles.\\n- Vyacheslav Molotov (after the fall of Poland)",
+        "translation": "德国军队的一击和苏联军队的另一击给这个凡尔赛的丑陋产物带去了终结。\\n- 维亚切斯拉夫·莫洛托夫 (波兰沦陷后)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_56:0",
+        "original": "Scratch one flattop! Dixon to carrier: scratch one flattop!\\n- Robert E. Dixon, Battle of the Coral Sea",
+        "translation": "刮掉一条平顶船！迪克森通知母舰：刮掉一条平顶船！\\n- 罗伯特 E.迪克森，珊瑚海海战",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_57:0",
+        "original": "Isn't it dreadful? Here we are, two officers of the German General Staff, discussing how best to murder our commander in chief.\\n- Henning von Tresckow",
+        "translation": "这难道不可怕么？在这里，两个德国总参谋部的工作人员，在谈论怎么谋杀我们的最高指挥官。\\n- 亨宁·冯·特雷斯寇",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_58:0",
+        "original": "Hitler is a dancing dervish. He must be shot down.\\n- Henning von Tresckow",
+        "translation": "希特勒是一个正在跳舞的托钵僧。他必须被干掉。\\n- 亨宁·冯·特雷斯寇",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_59:0",
+        "original": "The Nazis entered this war under the rather childish delusion that they were going to bomb everyone else, and nobody was going to bomb them.\\n- Arthur 'Bomber' Harris",
+        "translation": "纳粹在一种天真的幻觉中进入了战争：他们可以炸别人，而别人不会炸他们。\\n- 亚瑟 ‘轰炸机’ 哈里斯",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_60:0",
+        "original": "If Hitler invaded Hell, I would make at least a favorable reference to the devil in the House of Commons.\\n- Winston Churchill, 21 June, 1941",
+        "translation": "如果希特勒入侵了地狱，我也会在下院为恶魔说几句好话。\\n- 温斯顿·丘吉尔，1941年6月21日",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_61:0",
+        "original": "So the bastard's dead? Too bad we didn't capture him alive!\\n- Joseph Stalin (on hearing of Hitler's suicide)",
+        "translation": "那个杂种死了？不能活捉他真是太坏了！\\n- 约瑟夫·斯大林 (听说希特勒自杀后)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_62:0",
+        "original": "We have been defeated. We are beaten, we have lost the battle.\\n- Paul Reynaud, 15 May, 1940",
+        "translation": "我们被击败了，我们被痛打了，我们输了这场战斗。\\n- 保罗·雷诺，1940年5月15日",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_63:0",
+        "original": "I only need a few thousand dead so that I can sit at the peace conference as a man who has fought.\\n- Benito Mussolini",
+        "translation": "我只需要死几千人就可以作为参战方参与和谈。\\n- 贝尼托·墨索里尼",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_64:0",
+        "original": "The French had lied to the Poles in saying they are going to attack. There is no idea of it.\\n- Edmund Ironside",
+        "translation": "法国人对波兰人撒谎说他们会进攻。他们毫无这个打算。\\n- 艾蒙德·艾恩赛德爵士",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_65:0",
+        "original": "Why Die for Danzig?\\n- French Anti-War Slogan, 1939",
+        "translation": "为什么要为但泽而死？\\n- 法国反战口号，1939",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_66:0",
+        "original": "There is something phoney about this war.\\n- US Senator William Borah, 1939",
+        "translation": "这场战争有些虚假的东西。\\n- 美国参议员 威廉·波拉，1939",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_67:0",
+        "original": "Switzerland possesses the most disgusting and miserable people and political system. The Swiss are the mortal enemies of the new Germany.\\n- Adolf Hitler",
+        "translation": "瑞士有着最令人作呕和卑鄙的人民和政治体系。瑞士人是新德国不共戴天的敌人。\\n- 阿道夫·希特勒",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_68:0",
+        "original": "The fruits of victory are tumbling into our mouths too quickly.\\n- Emperor Hirohito",
+        "translation": "胜利的果实向我嘴里来的太快了。\\n- 昭和天皇",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_69:0",
+        "original": "You will all wind up shining the shoes of the Germans!\\n- Italo Balbo",
+        "translation": "你们最后都会去给德国人擦鞋！\\n- 伊塔洛·巴尔博",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_70:0",
+        "original": "Sink, burn, capture, destroy. Let nothing pass.\\n- Andrew Cunningham, Battle of Tunisia",
+        "translation": "击沉，烧毁，俘获，摧毁。不要让任何东西通过。\\n- 安德鲁·坎宁安，突尼斯战役",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_71:0",
+        "original": "I think we may be going a bridge too far.\\n- Frederick Browning (prior to Operation Market Garden)",
+        "translation": "我觉得我们可能多过了一座桥。\\n- 弗雷德里克·勃朗宁 (市场花园行动前)",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_72:0",
+        "original": "Thank God for the French Army.\\n- Winston Churchill, 1933",
+        "translation": "为法国军队感谢上帝。\\n- 温斯顿·丘吉尔，1933",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_73:0",
+        "original": "When you see a rattlesnake poised to strike, you do not wait until he has struck to crush him.\\n- Franklin D. Roosevelt",
+        "translation": "当你看到一条响尾蛇准备袭击的时候，你不会等到它开始攻击才去消灭它。\\n- 富兰克林 D. 罗斯福",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_74:0",
+        "original": "Rules are not necessarily sacred, principles are.\\n- Franklin D. Roosevelt",
+        "translation": "规则不一定是神圣的，原则才是。\\n- 富兰克林 D. 罗斯福",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_75:0",
+        "original": "People who are hungry and out of a job are the stuff of which dictatorships are made.\\n- Franklin D. Roosevelt",
+        "translation": "挨饿和失业的人民是独裁的土壤。\\n- 富兰克林 D. 罗斯福",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_76:0",
+        "original": "A man has to be alert all the time if he expects to keep on breathing. If not, some German son-of-a-bitch will sneak up behind him and beat him to death with a sock full of shit.\\n- George S. Patton",
+        "translation": "如果一个人想活下去那他必须随时保持警惕。否则一些婊子养的德国人就会偷偷摸到他背后用打出屎的力量把他打死。\\n- 乔治 S. 巴顿",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_77:0",
+        "original": "Fortifications, artillery, foreign aid - will be of no value, unless the ordinary soldier knows that it is HE guarding his country.\\n- Carl Gustaf Emil Mannerheim",
+        "translation": "工事，火炮，外援都毫无意义。除非普通的士兵都清楚，他，正在保卫国家。\\n- 卡尔·古斯塔夫·埃米尔·曼纳海姆",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_78:0",
+        "original": "Through the mud and the blood to the green fields beyond.\\n- Royal Canadian Armoured Corps motto",
+        "translation": "通过泥土和鲜血到达绿野的彼端。\\n- 皇家加拿大装甲部队座右铭",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_79:0",
+        "original": "There is general curiosity in the British Fleet to find out whether the Italians are up to the level they were at in the last war or whether they have fallen off at all.\\n- Winston Churchill (on the Italian declaration of war)",
+        "translation": "英国舰队普遍想看看意大利人是否达到了他们在上一次战争中的水平，还是说他们彻底堕落了。\\n- 温斯顿·丘吉尔（在意大利宣战后）",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_80:0",
+        "original": "And we'll fight them with the butt ends of broken beer bottles because that's bloody well all we've got!\\n - Winston Churchill (immediately after promising to fight in the fields and in the streets)",
+        "translation": "而且我们会抡起碎酒瓶底来对抗它们，因为我们他娘的只剩下这个了！\\n- 温斯顿 丘吉尔（在承诺将在田野和街头战斗之后）",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_81:0",
+        "original": "Experience has shown that attacks against tanks with close combat weapons by a sufficiently determined man will basically always succeed\\n - German Army Group Center anti-tank manual",
+        "translation": "经验表明，一个足够坚定的人使用近战武器攻击坦克基本上总能成功。 \\n- 德国陆军中央集团军群反坦克手册",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_82:0",
+        "original": "Give me fifty DC-3s and the Japanese can have the Burma Road.\"\\n - Chiang Kai-Shek",
+        "translation": "给我50架DC-3，我不在乎日本人是否占领滇缅公路。\\n- 蒋介石",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_83:0",
+        "original": "Politics is war without bloodshed, while war is politics with bloodshed.\"\\n - Mao Zedong",
+        "translation": "政治是不流血的战争，战争是流血的政治。\\n- 毛泽东",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_84:0",
+        "original": "Keep men, lose land: land can be taken again. Keep land, lose men: land and men are both lost.\"\\n - Mao Zedong",
+        "translation": "存人失地，人地皆存；存地失人，人地皆失。\\n- 毛泽东",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_85:0",
+        "original": "I would rather die in a swamp of Greater Romania than in a paradise of a small Romania.\"\\n - Ion Antonescu",
+        "translation": "我宁愿死在大罗马尼亚的沼泽中，也绝不活在小罗马尼亚的天堂里。\\n- 扬·安东内斯库",
+        "stage": 1
+    },
+    {
+        "key": "LOADING_TIP_86:0",
+        "original": "People don't matter, only what they represent.\"\\n - Ion Antonescu",
+        "translation": "人并不重要，重要的是他们代表的是什么。\\n- 扬·安东内斯库",
+        "stage": 1
+    }
+]

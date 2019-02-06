@@ -1,0 +1,320 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Hirohito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Kyuichi Tokuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Tetsu Katayama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Tomoyuki Yamashita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Hisaichi Terauchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Shunroku Hata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Akira Muto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Kanji Ishiwara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###|name",
+        "original": "Shizuichi Tanaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####|name",
+        "original": "Yasuji Okamura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####|name",
+        "original": "Toshizo Nishio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######|name",
+        "original": "Rikichi Ando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######|name",
+        "original": "Naruhiko Higashikuni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########|name",
+        "original": "Seishiro Itagaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########|name",
+        "original": "Takashi Sakai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##########|name",
+        "original": "Kenji Doihara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###########|name",
+        "original": "Kenkichi Ueda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander############|name",
+        "original": "Shigeru Honjo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#############|name",
+        "original": "Yoshijiro Umezu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##############|name",
+        "original": "Otozo Yamada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###############|name",
+        "original": "Hatazo Adachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander################|name",
+        "original": "Iwane Matsui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#################|name",
+        "original": "Sadao Araki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##################|name",
+        "original": "Keisuke Fujie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander###################|name",
+        "original": "Kiichiro Higuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander####################|name",
+        "original": "Masaharu Homma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#####################|name",
+        "original": "Harukichi Hyakutake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander######################|name",
+        "original": "Jo Iimura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#######################|name",
+        "original": "Hitoshi Imamura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander########################|name",
+        "original": "Masatane Kanda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#########################|name",
+        "original": "Kuniaki Koiso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Isoroku Yamamoto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#|name",
+        "original": "Mineichi Koga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##|name",
+        "original": "Kiyoshi Hasegawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Shigeyoshi Inoue",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader####|name",
+        "original": "Nobutake Kondo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#####|name",
+        "original": "Takeo Takagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader######|name",
+        "original": "Soemu Toyoda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#######|name",
+        "original": "Jisaburo Ozawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader########|name",
+        "original": "Zengo Yoshida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader#########|name",
+        "original": "Hiroaki Abe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader##########|name",
+        "original": "Tadashige Daigo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###########|name",
+        "original": "Gengo Hyakutake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Akagi Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Ise Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant##|name",
+        "original": "Nagato Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant###|name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant####|name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#####|name",
+        "original": "Sendai Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant######|name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#######|name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant|name",
+        "original": "Hiryu Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant#|name",
+        "original": "Kagero Class",
+        "translation": "",
+        "stage": 0
+    }
+]

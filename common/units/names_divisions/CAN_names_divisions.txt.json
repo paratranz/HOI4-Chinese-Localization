@@ -1,0 +1,2744 @@
+[
+    {
+        "key": "CAN_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_INF_01|fallback_name",
+        "original": "%d Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|1#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|2#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|3#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|4#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|5#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|6#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|7#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|8#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|9#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|10#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|11#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|12#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|13#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|14#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|15#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|16#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|17#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|18#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|19#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|20#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|21#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|22#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|23#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|24#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|25#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|26#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|27#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|28#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|29#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|30#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|31#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|32#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|33#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|34#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|35#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|36#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|37#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|38#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|39#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|40#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|41#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|42#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|43#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|44#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|45#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|46#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|47#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|48#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|49#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|50#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|51#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|52#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|53#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|54#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|55#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|56#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|57#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|58#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|59#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|60#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|61#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|62#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|63#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|64#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|65#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|66#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|67#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|68#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|69#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|70#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|71#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|72#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|73#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|74#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|75#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|76#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|77#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|78#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|79#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|80#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|81#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|82#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|83#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|84#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|85#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|86#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|87#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|88#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|89#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|90#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|91#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|92#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|93#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|94#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|95#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|96#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|97#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|98#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|99#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|100#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_INF_01|ordered|101#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_CAV_01|fallback_name",
+        "original": "%d District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|1#|%dst District Cavalry",
+        "original": "%dst District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|2#|%dnd District Cavalry",
+        "original": "%dnd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|3#|%drd District Cavalry",
+        "original": "%drd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|4#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|5#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|6#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|7#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|8#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|9#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|10#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|11#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|12#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|13#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|14#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|15#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|16#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|17#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|18#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|19#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|20#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|21#|%dst District Cavalry",
+        "original": "%dst District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|22#|%dnd District Cavalry",
+        "original": "%dnd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|23#|%drd District Cavalry",
+        "original": "%drd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|24#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|25#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|26#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|27#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|28#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|29#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|30#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|31#|%dst District Cavalry",
+        "original": "%dst District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|32#|%dnd District Cavalry",
+        "original": "%dnd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|33#|%drd District Cavalry",
+        "original": "%drd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|34#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|35#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|36#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|37#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|38#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|39#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|40#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|41#|%dst District Cavalry",
+        "original": "%dst District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|42#|%dnd District Cavalry",
+        "original": "%dnd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|43#|%drd District Cavalry",
+        "original": "%drd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|44#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|45#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|46#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|47#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|48#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|49#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|50#|%dth District Cavalry",
+        "original": "%dth District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|51#|%dst District Cavalry",
+        "original": "%dst District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|52#|%dnd District Cavalry",
+        "original": "%dnd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_CAV_01|ordered|53#|%drd District Cavalry",
+        "original": "%drd District Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MOT_01|fallback_name",
+        "original": "%d Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|1#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|2#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|3#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|4#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|5#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|6#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|7#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|8#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|9#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|10#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|11#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|12#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|13#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|14#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|15#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|16#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|17#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|18#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|19#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|20#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|21#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|22#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|23#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|24#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|25#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|26#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|27#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|28#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|29#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|30#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|31#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|32#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MOT_01|ordered|33#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_ARM_01|fallback_name",
+        "original": "%d Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|1#|%dst Canadian (Armoured) Division",
+        "original": "%dst Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|2#|%dnd Canadian (Armoured) Division",
+        "original": "%dnd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|3#|%drd Canadian (Armoured) Division",
+        "original": "%drd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|4#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|5#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|6#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|7#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|8#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|9#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|10#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|11#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|12#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|13#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|14#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|15#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|16#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|17#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|18#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|19#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|20#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|21#|%dst Canadian (Armoured) Division",
+        "original": "%dst Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|22#|%dnd Canadian (Armoured) Division",
+        "original": "%dnd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|23#|%drd Canadian (Armoured) Division",
+        "original": "%drd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|24#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|25#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|26#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|27#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|28#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|29#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|30#|%dth Canadian (Armoured) Division",
+        "original": "%dth Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|31#|%dst Canadian (Armoured) Division",
+        "original": "%dst Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|32#|%dnd Canadian (Armoured) Division",
+        "original": "%dnd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_ARM_01|ordered|33#|%drd Canadian (Armoured) Division",
+        "original": "%drd Canadian (Armoured) Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MEC_01|fallback_name",
+        "original": "%d Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|1#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|2#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|3#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|4#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|5#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|6#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|7#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|8#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|9#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|10#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|11#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|12#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|13#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|14#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|15#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|16#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|17#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|18#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|19#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|20#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|21#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|22#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|23#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|24#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|25#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|26#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|27#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|28#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|29#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|30#|%dth Canadian Infantry Division",
+        "original": "%dth Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|31#|%dst Canadian Infantry Division",
+        "original": "%dst Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|32#|%dnd Canadian Infantry Division",
+        "original": "%dnd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MEC_01|ordered|33#|%drd Canadian Infantry Division",
+        "original": "%drd Canadian Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_GAR_01|fallback_name",
+        "original": "%d District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|1#|%dst District Militia",
+        "original": "%dst District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|2#|%dnd District Militia",
+        "original": "%dnd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|3#|%drd District Militia",
+        "original": "%drd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|4#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|5#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|6#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|7#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|10#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|11#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|12#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|13#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|14#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|15#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|16#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|17#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|18#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|19#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|20#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|21#|%dst District Militia",
+        "original": "%dst District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|22#|%dnd District Militia",
+        "original": "%dnd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|23#|%drd District Militia",
+        "original": "%drd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|24#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|25#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|26#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|27#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|28#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|29#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|30#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|31#|%dst District Militia",
+        "original": "%dst District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|32#|%dnd District Militia",
+        "original": "%dnd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|33#|%drd District Militia",
+        "original": "%drd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|34#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|35#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|36#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|37#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|38#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|39#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|40#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|41#|%dst District Militia",
+        "original": "%dst District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|42#|%dnd District Militia",
+        "original": "%dnd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|43#|%drd District Militia",
+        "original": "%drd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|44#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|45#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|46#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|47#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|48#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|49#|%dth District Militia",
+        "original": "%dth District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|51#|%dst District Militia",
+        "original": "%dst District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|52#|%dnd District Militia",
+        "original": "%dnd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_GAR_01|ordered|53#|%drd District Militia",
+        "original": "%drd District Militia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MAR_01|fallback_name",
+        "original": "%d Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|1#|%dst Royal Canadian Marine Division",
+        "original": "%dst Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|2#|%dnd Royal Canadian Marine Division",
+        "original": "%dnd Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|3#|%drd Royal Canadian Marine Division",
+        "original": "%drd Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|4#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|5#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|6#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|7#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|8#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|9#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|10#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|11#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|12#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|13#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|14#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|15#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|16#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|17#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|18#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|19#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|20#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|21#|%dst Royal Canadian Marine Division",
+        "original": "%dst Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|22#|%dnd Royal Canadian Marine Division",
+        "original": "%dnd Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|23#|%drd Royal Canadian Marine Division",
+        "original": "%drd Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|24#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|25#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|26#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|27#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|28#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|29#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MAR_01|ordered|30#|%dth Royal Canadian Marine Division",
+        "original": "%dth Royal Canadian Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_MTN_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_MTN_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_PAR_01|name",
+        "original": "Airborne Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CAN_PAR_01|fallback_name",
+        "original": "%d Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|11#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|12#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|13#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|14#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|15#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|16#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|17#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|18#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|19#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|20#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|21#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|22#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|23#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|24#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|25#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|26#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|27#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|28#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|29#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|30#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|31#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|32#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|33#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|34#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|35#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|36#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|37#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|38#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|39#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|40#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|41#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|42#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|43#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|44#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|45#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|46#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|47#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|48#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|49#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|50#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|51#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|52#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CAN_PAR_01|ordered|53#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

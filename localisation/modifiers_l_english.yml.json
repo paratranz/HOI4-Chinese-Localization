@@ -1,0 +1,4394 @@
+[
+    {
+        "key": "MODIFIER_TECH_PREFIX:0",
+        "original": "£tech_mod ",
+        "translation": "£tech_mod ",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POLITICS_PREFIX:0",
+        "original": "£pol_idea ",
+        "translation": "£pol_idea ",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DECISION_PREFIX:1",
+        "original": "£decision_icon_small ",
+        "translation": "£decision_icon_small ",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MISSION_PREFIX:1",
+        "original": "£decision_icon_small ",
+        "translation": "£decision_icon_small ",
+        "stage": 1
+    },
+    {
+        "key": "MOD_DAYS:0",
+        "original": "Day(s)",
+        "translation": "日",
+        "stage": 1
+    },
+    {
+        "key": "MOD_HOUR:0",
+        "original": "Hour(s)",
+        "translation": "小时",
+        "stage": 1
+    },
+    {
+        "key": "MOD_DAILY:0",
+        "original": "daily",
+        "translation": "每日",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR:0",
+        "original": "Max Factories in a State",
+        "translation": "地区最大工业值",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR_DESC:1",
+        "original": "Modifies number of shared building slots in all States.",
+        "translation": "改变所有地区的共享建筑位。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_BUILDING_SLOTS:0",
+        "original": "Max Factories in a State",
+        "translation": "地区最大工业值",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR:0",
+        "original": "Max Factories in State",
+        "translation": "地区最大工业值",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR_DESC:1",
+        "original": "Modifies number of shared building slots in the State.",
+        "translation": "改变该地区的共享建筑位。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_BUILDING_SLOTS:0",
+        "original": "Max Factories in State",
+        "translation": "地区最大工业值",
+        "stage": 1
+    },
+    {
+        "key": "CAN_GUARANTEE_OTHER_IDEOLOGIES_NO:0",
+        "original": "Can only guarantee $IDE$ nations.",
+        "translation": "只能保障$IDE$国家。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ORG_LOSS_WHEN_MOVING:0",
+        "original": "Org Loss when Moving",
+        "translation": "移动中组织度损失",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ORG_LOSS_WHEN_MOVING_DESC:0",
+        "original": "Modifies the amount of organization lost when a division is moving",
+        "translation": "当一个部队在移动中时会损失的组织度修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NONE:0",
+        "original": "None",
+        "translation": "没有",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_BUILDING_CONVERTION_FACTOR:0",
+        "original": "Building Conversion Factor",
+        "translation": "建筑转换修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DETECTION:0",
+        "original": "Air Detection",
+        "translation": "对空探测",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE:0",
+        "original": "Naval Strike",
+        "translation": "对海攻击",
+        "stage": 1
+    },
+    {
+        "key": "VISIBLE_MODIFIERS_END:0",
+        "original": "Visible Modifiers End",
+        "translation": "最低能见度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CARRIER_TRAFFIC:0",
+        "original": "Carrier Traffic",
+        "translation": "舰载机起降能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POLITICAL_POWER_GAIN:0",
+        "original": "Daily Political Power Gain",
+        "translation": "每日获得的政治点数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POLITICAL_POWER_COST:0",
+        "original": "Daily Political Power Cost",
+        "translation": "每日消耗的政治点数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POLITICAL_POWER_FACTOR:0",
+        "original": "Political Power Gain",
+        "translation": "政治点数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_HIT_CHANCE:0",
+        "original": "Naval Hit Chance",
+        "translation": "海军命中率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_SPEED:0",
+        "original": "Naval Speed",
+        "translation": "海军速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_DETECTION:0",
+        "original": "Naval Detection",
+        "translation": "对海探测",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUBMARINE_ATTACK:0",
+        "original": "Submarine Attack",
+        "translation": "潜艇攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPY_ACQUIRE_INTEL_EFFICIENCY:0",
+        "original": "Acquire Intel",
+        "translation": "搜集情报的效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPY_BOOST_PARTY_POPULARITY_EFFICIENCY:0",
+        "original": "Boost Party Popularity",
+        "translation": "提高党派支持率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPY_ATTEMPT_COUP_EFFICIENCY:0",
+        "original": "Attempt Coup",
+        "translation": "尝试政变",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPY_FABRICATE_CLAIM_FACTOR:0",
+        "original": "Justify Claim",
+        "translation": "伪造证明",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESISTANCE_TICK:0",
+        "original": "Resistance Growth",
+        "translation": "叛乱度增速",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESISTANCE_TICK_AUTO:0",
+        "original": "Resistance Growth",
+        "translation": "抵抗力量增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_RESOURCES:0",
+        "original": "Local Resources",
+        "translation": "当地资源",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_RESOURCES_FACTOR:0",
+        "original": "Resource Gain Efficiency",
+        "translation": "战略资源获取率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_RESOURCES_FACTOR_DESC:0",
+        "original": "Modifies the amount of resources gained",
+        "translation": "改变战略资源获取量",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_MANPOWER:0",
+        "original": "Local Manpower",
+        "translation": "当地人力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_SUPPLIES:0",
+        "original": "Local Supplies",
+        "translation": "当地补给能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_FACTORIES:0",
+        "original": "Local Factories",
+        "translation": "当地工业值",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_INTEL_TO_ENEMIES:0",
+        "original": "Intel to Enemies",
+        "translation": "对敌情报",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_FACTORY_SABOTAGE:0",
+        "original": "Chance to Sabotage Constructions",
+        "translation": "破坏建设几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ATTRITION:0",
+        "original": "Division Attrition",
+        "translation": "陆军损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ATTRITION_DESC:0",
+        "original": "How much damage our divisions take from attrition when traversing ",
+        "translation": "当部队通过时受到的损耗会造成多大的损失 ",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ACCIDENTS:0",
+        "original": "Air Accidents Chance",
+        "translation": "空军事故概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ACCIDENTS_FACTOR:0",
+        "original": "Air Accidents Chance",
+        "translation": "空军事故概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_ORG_REGAIN:0",
+        "original": "Organization Regain",
+        "translation": "组织度恢复",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ORG_REGAIN:0",
+        "original": "Army Organization Regain",
+        "translation": "陆军组织度回复",
+        "stage": 1
+    },
+    {
+        "key": "occupation_policy_1:0",
+        "original": "Gentlest",
+        "translation": "非常温和",
+        "stage": 1
+    },
+    {
+        "key": "occupation_policy_2:0",
+        "original": "Gentle",
+        "translation": "较为温和",
+        "stage": 1
+    },
+    {
+        "key": "occupation_policy_3:0",
+        "original": "Harsh",
+        "translation": "较为苛刻",
+        "stage": 1
+    },
+    {
+        "key": "occupation_policy_4:0",
+        "original": "Harshest",
+        "translation": "极度苛刻",
+        "stage": 1
+    },
+    {
+        "key": "WEATHER_MODIFIERS:0",
+        "original": "Weather modifiers ($WEA$):",
+        "translation": "天气修正 ($WEA$)：",
+        "stage": 1
+    },
+    {
+        "key": "WEATHER_PEACETIME:0",
+        "original": "Attrition from weather only applies if controller is at war",
+        "translation": "只有在战时气候因素会才会造成损耗",
+        "stage": 1
+    },
+    {
+        "key": "NIGHT_MODIFIERS:0",
+        "original": "Night modifiers:",
+        "translation": "夜战修正：",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DEFENCE:0",
+        "original": "Defense",
+        "translation": "防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OFFENCE:0",
+        "original": "Attack",
+        "translation": "进攻",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NUCLEAR_PRODUCTION:0",
+        "original": "Allows Nuclear Bomb",
+        "translation": "允许生产核弹",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NUCLEAR_PRODUCTION_FACTOR:0",
+        "original": "Nuclear Production",
+        "translation": "核弹生产",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_BUILDING_CONVERTION:0",
+        "original": "Factory Conversion",
+        "translation": "工厂转换",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_SPEED_FACTOR:0",
+        "original": "Naval Speed",
+        "translation": "海军速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_FACTOR:1",
+        "original": "Leader Experience Gain",
+        "translation": "将领经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN:0",
+        "original": "Experience Gain",
+        "translation": "经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMMAND_CAP:0",
+        "original": "Command Limit",
+        "translation": "指挥上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMMAND_CAP_FACTOR:0",
+        "original": "Command Limit",
+        "translation": "指挥上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUBMARINE_ATTACK_FACTOR:0",
+        "original": "Submarine Attack",
+        "translation": "潜艇攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_MONTHLY_POPULATION:0",
+        "original": "Monthly Population",
+        "translation": "月度人力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_MONTHLY_POPULATION_DESC:0",
+        "original": "Modifies the amount of total population gained per month",
+        "translation": "每月总人力增长数量修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ATTRITION_FACTOR:0",
+        "original": "Attrition",
+        "translation": "损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WINTER_ATTRITION_FACTOR:0",
+        "original": "Winter Attrition",
+        "translation": "冬季损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WINTER_ATTRITION:0",
+        "original": "Winter Attrition",
+        "translation": "冬季损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_HEAT_ATTRITION_FACTOR:0",
+        "original": "Heat Attrition",
+        "translation": "炎热损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_HEAT_ATTRITION:0",
+        "original": "Heat Attrition",
+        "translation": "炎热损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPOTTING_CHANCE_FACTOR:0",
+        "original": "Spotting Chance",
+        "translation": "发现概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPOTTING_CHANCE:0",
+        "original": "Spotting Chance",
+        "translation": "发现概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPREAD_OUT_FACTOR:0",
+        "original": "Fleet Spread",
+        "translation": "舰队展开度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPREAD_OUT:0",
+        "original": "Fleet Spread",
+        "translation": "舰队展开度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SHIPS_AT_BATTLE_START_FACTOR:0",
+        "original": "Number of ships in the first contact",
+        "translation": "最早接战时的参战舰船数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DISENGAGE_TIMER_FACTOR:0",
+        "original": "Disengage time",
+        "translation": "脱离战斗时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DISENGAGE_TIMER:0",
+        "original": "Disengage Time",
+        "translation": "脱离战斗时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_RETREAT_CHANCE:0",
+        "original": "Retreat Decision Chance",
+        "translation": "撤退命令几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_RETREAT_SPEED:0",
+        "original": "Fleet speed while retreating",
+        "translation": "撤退时的舰队速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OUT_OF_SUPPLY_FACTOR:0",
+        "original": "Out of Supply",
+        "translation": "补给耗尽",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OUT_OF_SUPPLY_FACTOR_DESC:0",
+        "original": "Reduces the penalty that troops take when they run out of supplies.",
+        "translation": "降低部队补给耗尽时的惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OUT_OF_SUPPLY:0",
+        "original": "Out of supply",
+        "translation": "补给耗尽",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OUT_OF_SUPPLY_DESC:0",
+        "original": "How severe of a penalty troops take when they run out of supplies.",
+        "translation": "当部队补给耗尽会遭受到多么严重的惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMBINED_ARMS_BONUS_FACTOR:0",
+        "original": "Combined Arms",
+        "translation": "步坦协同",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMBINED_ARMS_BONUS:0",
+        "original": "Combined Arms",
+        "translation": "步坦协同",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OFFENCE_FACTOR:0",
+        "original": "Offense",
+        "translation": "攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DEFENCE_FACTOR:0",
+        "original": "Defense",
+        "translation": "防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUPPLY_CONSUMPTION_FACTOR:0",
+        "original": "Supply Consumption",
+        "translation": "补给使用",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUPPLY_CONSUMPTION_FACTOR_DESC:0",
+        "original": "How much supplies our land troops need to operate efficiently.",
+        "translation": "地面部队高效运作时需要消费多少补给量。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUPPLY_CONSUMPTION:0",
+        "original": "Supply Consumption",
+        "translation": "补给使用",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SURPRISE_CHANCE_FACTOR:0",
+        "original": "Surprise Chance",
+        "translation": "奇袭概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SURPRISE_CHANCE:0",
+        "original": "Surprise Chance",
+        "translation": "奇袭概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TAC_BOMBING_FACTOR:0",
+        "original": "Tactical Bombing",
+        "translation": "战术轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TAC_BOMBING:0",
+        "original": "Tactical Bombing",
+        "translation": "战术轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_FACTOR:0",
+        "original": "Air Superiority",
+        "translation": "空优",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY:0",
+        "original": "Air Superiority",
+        "translation": "空优",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONSUMER_GOODS_FACTOR:0",
+        "original": "Consumer Goods Factories",
+        "translation": "生活消费品",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK:0",
+        "original": "Air Attack",
+        "translation": "对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_FACTOR:0",
+        "original": "Air Attack",
+        "translation": "对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE:0",
+        "original": "Air Defense",
+        "translation": "空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_FACTOR:0",
+        "original": "Air Defense",
+        "translation": "空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED:0",
+        "original": "Max Air Speed",
+        "translation": "空军最大速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_FACTOR:0",
+        "original": "Max Air Speed",
+        "translation": "空军最大速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY:0",
+        "original": "Agility",
+        "translation": "机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_FACTOR:0",
+        "original": "Agility",
+        "translation": "机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_BOMBING:0",
+        "original": "Ground Bombing",
+        "translation": "对地攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_BOMBING_FACTOR:0",
+        "original": "Ground Bombing",
+        "translation": "对地攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_BOMBING_TARGETTING:0",
+        "original": "Ground Bombing Targeting",
+        "translation": "对地攻击瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_BOMBING:0",
+        "original": "Strategic Bombing",
+        "translation": "战略轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR:0",
+        "original": "Strategic Bombing",
+        "translation": "战略轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR_DESC:0",
+        "original": "Modifies the effectiveness of aircraft put on strategic bombing missions",
+        "translation": "空军进行战略轰炸任务的执行效率修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBING_RANGE_FACTOR:0",
+        "original": "Strategic Bombing Range",
+        "translation": "战略轰炸的范围",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE:0",
+        "original": "Air Range",
+        "translation": "空军航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_FACTOR:0",
+        "original": "Air Range",
+        "translation": "空军航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK:0",
+        "original": "Naval Bombing",
+        "translation": "对海攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR:0",
+        "original": "Naval Bombing",
+        "translation": "对海攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING:0",
+        "original": "Naval Targeting",
+        "translation": "对海攻击瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_DESC:0",
+        "original": "How efficiently our planes target their objectives while executing naval strikes.",
+        "translation": "空军在执行对海上目标进行打击时有多少精准度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR:0",
+        "original": "Naval Targeting",
+        "translation": "对海攻击瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR_DESC:0",
+        "original": "Modifies our planes ability to target their objectives when executing naval strikes",
+        "translation": "空军执行对海上目标进行打击的瞄准能力修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY:0",
+        "original": "Naval Agility",
+        "translation": "海军机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_FACTOR:0",
+        "original": "Naval Agility",
+        "translation": "海军机动",
+        "stage": 1
+    },
+    {
+        "key": "light_air_research:1",
+        "original": "Light Aircraft Research Time",
+        "translation": "轻型飞机研究时间",
+        "stage": 1
+    },
+    {
+        "key": "medium_air_research:1",
+        "original": "Medium Aircraft Research Time",
+        "translation": "中型飞机研究时间",
+        "stage": 1
+    },
+    {
+        "key": "heavy_air_research:1",
+        "original": "Heavy Aircraft Research Time",
+        "translation": "重型飞机研究时间",
+        "stage": 1
+    },
+    {
+        "key": "armor_research:1",
+        "original": "Armor Research Time",
+        "translation": "装甲研究时间",
+        "stage": 1
+    },
+    {
+        "key": "artillery_research:1",
+        "original": "Artillery Research Time",
+        "translation": "炮兵研究时间",
+        "stage": 1
+    },
+    {
+        "key": "naval_air_research:1",
+        "original": "Naval Aircraft Research Time",
+        "translation": "海军航空兵研究时间",
+        "stage": 1
+    },
+    {
+        "key": "infantry_weapons_research:2",
+        "original": "Weapons and Equipment Research Time",
+        "translation": "武器和装备研究时间",
+        "stage": 1
+    },
+    {
+        "key": "motorized_equipment_research:1",
+        "original": "Motorization Research Time",
+        "translation": "摩托化研究时间",
+        "stage": 1
+    },
+    {
+        "key": "naval_equipment_research:1",
+        "original": "Naval Research Time",
+        "translation": "海军研究时间",
+        "stage": 1
+    },
+    {
+        "key": "rocketry_research:1",
+        "original": "Rocket Research Time",
+        "translation": "导弹研究时间",
+        "stage": 1
+    },
+    {
+        "key": "nuclear_research:1",
+        "original": "Nuclear Research Time",
+        "translation": "核能研究时间",
+        "stage": 1
+    },
+    {
+        "key": "industry_research:1",
+        "original": "Industrial Research Time",
+        "translation": "工业研究时间",
+        "stage": 1
+    },
+    {
+        "key": "electronics_research:1",
+        "original": "Electronics Research Time",
+        "translation": "电子研究时间",
+        "stage": 1
+    },
+    {
+        "key": "land_doctrine_research:1",
+        "original": "Land Doctrine Research Time",
+        "translation": "陆战学说研究时间",
+        "stage": 1
+    },
+    {
+        "key": "naval_doctrine_research:1",
+        "original": "Naval Doctrine Research Time",
+        "translation": "海战学说研究时间",
+        "stage": 1
+    },
+    {
+        "key": "air_doctrine_research:1",
+        "original": "Air Doctrine Research Time",
+        "translation": "空战学说研究时间",
+        "stage": 1
+    },
+    {
+        "key": "strategic_destruction_tree_research:1",
+        "original": "Strategic Destruction Research Time",
+        "translation": "战略摧毁学说研究时间",
+        "stage": 1
+    },
+    {
+        "key": "jet_technology_research:1",
+        "original": "Jet Technology Research Time",
+        "translation": "喷气式飞机技术研究时间",
+        "stage": 1
+    },
+    {
+        "key": "improve_relation:0",
+        "original": "Improved relations",
+        "translation": "改善关系",
+        "stage": 1
+    },
+    {
+        "key": "attache_sent:0",
+        "original": "Attaché sent",
+        "translation": "已派出顾问",
+        "stage": 1
+    },
+    {
+        "key": "attache_sent_to_enemy:0",
+        "original": "Attaché sent to enemy",
+        "translation": "派往敌国的顾问",
+        "stage": 1
+    },
+    {
+        "key": "IMPROVE_RELATION_EFFECTS:0",
+        "original": "From improved relations",
+        "translation": "通过改善关系",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ACE_GENERATION_CHANCE:0",
+        "original": "Ace generation chance",
+        "translation": "王牌机师产生的概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR:0",
+        "original": "Ace generation chance",
+        "translation": "王牌机师产生的概率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR_DESC:0",
+        "original": "Modifies the chances of receiving an Ace for your air unit. Aces are superior pilots who boost your combat effectiveness",
+        "translation": "这是你的空军中产生王牌机师的几率修正。王牌能大大提高你的战斗效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_NAVY:0",
+        "original": "Naval training time",
+        "translation": "海军训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_NAVY_FACTOR:0",
+        "original": "Naval training time",
+        "translation": "海军训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_ARMY:0",
+        "original": "Army Experience Gain",
+        "translation": "陆军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_ARMY_FACTOR:0",
+        "original": "Army Experience Gain",
+        "translation": "陆军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_NAVY:0",
+        "original": "Naval Experience Gain",
+        "translation": "海军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_NAVY_FACTOR:0",
+        "original": "Naval Experience Gain",
+        "translation": "海军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_AIR:0",
+        "original": "Air Experience Gain",
+        "translation": "空军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_AIR_FACTOR:0",
+        "original": "Air Experience Gain",
+        "translation": "空军经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_ARMY_UNIT:0",
+        "original": "Division Experience Gain",
+        "translation": "陆军师经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR:0",
+        "original": "Division Experience Gain",
+        "translation": "陆军师经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_NAVY_UNIT:0",
+        "original": "Ship Experience Gain",
+        "translation": "舰船经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_XP_GAIN_NAVY_UNIT_FACTOR:0",
+        "original": "Ship Experience Gain",
+        "translation": "舰船经验增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_ARMY:0",
+        "original": "Division training time",
+        "translation": "陆军师训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_ARMY_FACTOR:0",
+        "original": "Division training time",
+        "translation": "陆军师训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_TRAINING_TIME_FACTOR:0",
+        "original": "Special Forces Division training time",
+        "translation": "特种部队训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_SPEED_FACTOR:0",
+        "original": "Divisions speed",
+        "translation": "陆军师速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_SPEED_FACTOR_DESC:0",
+        "original": "Determines the speed at which our divisions move.",
+        "translation": "我们的陆军师移动时快慢取决于速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ARMOR_SPEED_FACTOR:0",
+        "original": "Armor speed",
+        "translation": "装甲速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ORG:0",
+        "original": "Division Organization",
+        "translation": "陆军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ORG_FACTOR:0",
+        "original": "Division Organization",
+        "translation": "陆军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ORG:0",
+        "original": "Navy Organization",
+        "translation": "海军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ORG_FACTOR:0",
+        "original": "Navy Organization",
+        "translation": "海军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ORG:0",
+        "original": "Air Organization",
+        "translation": "空军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ORG_FACTOR:0",
+        "original": "Air Organization",
+        "translation": "空军组织度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_AIR:0",
+        "original": "Air training time",
+        "translation": "空军训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_AIR_FACTOR:0",
+        "original": "Air training time",
+        "translation": "空军训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_MORALE:0",
+        "original": "Division Recovery Rate",
+        "translation": "陆军组织度恢复",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_MORALE_FACTOR:0",
+        "original": "Division Recovery Rate",
+        "translation": "陆军组织度恢复",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MORALE:0",
+        "original": "Air morale",
+        "translation": "空军士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MORALE_FACTOR:0",
+        "original": "Air morale",
+        "translation": "空军士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_MORALE:0",
+        "original": "Navy morale",
+        "translation": "海军士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_MORALE_FACTOR:0",
+        "original": "Navy morale",
+        "translation": "海军士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_ATTACK:0",
+        "original": "Bomber attack",
+        "translation": "轰炸任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_ATTACK:0",
+        "original": "Interception attack",
+        "translation": "空中拦截任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_ATTACK:0",
+        "original": "Air superiority attack",
+        "translation": "夺取制空权任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_ATTACK:0",
+        "original": "Close air support attack",
+        "translation": "密接支援任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_ATTACK:0",
+        "original": "Paradrop attack",
+        "translation": "空降任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_DEFENCE:0",
+        "original": "Bomber defense",
+        "translation": "轰炸任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_DEFENCE:0",
+        "original": "Interception defense",
+        "translation": "空中拦截任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_DEFENCE:0",
+        "original": "Air superiority defense",
+        "translation": "夺取制空权任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_DEFENCE:0",
+        "original": "Close air support defense",
+        "translation": "密接支援任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_DEFENCE:0",
+        "original": "Paradrop defense",
+        "translation": "空投任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_AGILITY:0",
+        "original": "Bomber agility",
+        "translation": "轰炸任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_AGILITY:0",
+        "original": "Interception agility",
+        "translation": "空中拦截任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_AGILITY:0",
+        "original": "Air superiority agility",
+        "translation": "夺取制空权任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_AGILITY:0",
+        "original": "Close air support agility",
+        "translation": "密接支援任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_AGILITY:0",
+        "original": "Paradrop agility",
+        "translation": "空降任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_ATTACK_FACTOR:0",
+        "original": "Bomber attack",
+        "translation": "轰炸任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_ATTACK_FACTOR:0",
+        "original": "Interception attack",
+        "translation": "空中拦截任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_ATTACK_FACTOR:0",
+        "original": "Air superiority attack",
+        "translation": "夺取制空权任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_ATTACK_FACTOR:0",
+        "original": "Close air support attack",
+        "translation": "密接支援任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_ATTACK_FACTOR:0",
+        "original": "Paradrop attack",
+        "translation": "空投任务攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR:0",
+        "original": "Bomber defense",
+        "translation": "轰炸任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR_DESC:0",
+        "original": "Increase the defensive value of bombers, allowing them to last longer in anti-air combat.",
+        "translation": "增加防御对于战略轰炸机来说有重要的意义，这可以使他们能够在密集的防空火力下持续作战。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_DEFENCE_FACTOR:0",
+        "original": "Interception defense",
+        "translation": "空中拦截任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_DEFENCE_FACTOR:0",
+        "original": "Air superiority defense",
+        "translation": "夺取制空权任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_DEFENCE_FACTOR:0",
+        "original": "Close air support defense",
+        "translation": "密接支援任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_DEFENCE_FACTOR:0",
+        "original": "Paradrop defense",
+        "translation": "空降任务防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRATEGIC_BOMBER_AGILITY_FACTOR:0",
+        "original": "Bomber agility",
+        "translation": "轰炸任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INTERCEPTION_AGILITY_FACTOR:0",
+        "original": "Interception agility",
+        "translation": "空中拦截任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_AGILITY_FACTOR:0",
+        "original": "Air superiority agility",
+        "translation": "夺取制空权任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_AGILITY_FACTOR:0",
+        "original": "Close air support agility",
+        "translation": "密接支援任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_AGILITY_FACTOR:0",
+        "original": "Paradrop agility",
+        "translation": "空降任务机动",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DIG_IN_SPEED:0",
+        "original": "Entrenchment speed",
+        "translation": "堑壕速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DIG_IN_SPEED_DESC:0",
+        "original": "How quickly our troops can construct temporary fortifications to prepare defending a location.",
+        "translation": "我们的军队能多快地建造临时防御工事来准备防御一个位置。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DIG_IN_SPEED_FACTOR:0",
+        "original": "Entrenchment speed",
+        "translation": "堑壕速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DIG_IN_SPEED_FACTOR_DESC:0",
+        "original": "How quickly our troops can construct temporary fortifications to prepare defending a location.",
+        "translation": "我们的军队能多快地建造临时防御工事来准备防御一个位置。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_WEATHER:0",
+        "original": "Weather naval strike attack",
+        "translation": "不良天气攻击舰船的攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_WEATHER_FACTOR:0",
+        "original": "Weather naval strike attack",
+        "translation": "不良天气攻击舰船的攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_WEATHER_DESC:0",
+        "original": "Weather effect on naval strike attack.",
+        "translation": "天气对攻击舰船的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on naval strike attack.",
+        "translation": "天气对攻击舰船的攻击的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER:0",
+        "original": "Weather naval strike targeting",
+        "translation": "不良天气攻击舰船瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_FACTOR:0",
+        "original": "Weather naval strike targeting",
+        "translation": "不良天气攻击舰船瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_DESC:0",
+        "original": "Weather effect on naval strike targeting.",
+        "translation": "天气对攻击舰船时瞄准的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on naval strike targeting.",
+        "translation": "天气对攻击舰船瞄准的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER:0",
+        "original": "Weather naval strike agility",
+        "translation": "不良天气攻击舰船的机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER_FACTOR:0",
+        "original": "Weather naval strike agility",
+        "translation": "不良天气攻击舰船的机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER_DESC:0",
+        "original": "Weather effect on naval strike agility.",
+        "translation": "天气对攻击舰船的机动性的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on naval strike agility.",
+        "translation": "天气对攻击舰船的机动性的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_WEATHER:0",
+        "original": "Weather air range",
+        "translation": "不良天气航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_WEATHER_FACTOR:0",
+        "original": "Weather air range",
+        "translation": "不良天气航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_WEATHER_DESC:0",
+        "original": "Weather effect on air range.",
+        "translation": "天气对航程的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on air range.",
+        "translation": "天气对航程的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER:0",
+        "original": "Weather effect bombing",
+        "translation": "不良天气轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_FACTOR:0",
+        "original": "Weather effect bombing",
+        "translation": "不良天气轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_DESC:0",
+        "original": "Weather effect on ground bombing.",
+        "translation": "天气对地面轰炸的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on ground bombing.",
+        "translation": "天气对地面轰炸的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_WEATHER:0",
+        "original": "Weather air max speed",
+        "translation": "不良天气最大飞行速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_WEATHER_FACTOR:0",
+        "original": "Weather air max speed",
+        "translation": "不良天气最大飞行速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_WEATHER_DESC:0",
+        "original": "Weather effect on air maximum speed.",
+        "translation": "天气对最大飞行速度的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_WEATHER_FACTOR_DESC:0",
+        "original": "Weather effect on air maximum speed.",
+        "translation": "天气对最大飞行速度的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_WEATHER:0",
+        "original": "Weather air defense",
+        "translation": "不良天气空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_WEATHER_FACTOR:0",
+        "original": "Weather air defense",
+        "translation": "不良天气空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_WEATHER:0",
+        "original": "Weather air attack",
+        "translation": "不良天气对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_WEATHER_FACTOR:0",
+        "original": "Weather air attack",
+        "translation": "不良天气对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_WEATHER:0",
+        "original": "Weather air agility",
+        "translation": "不良天气飞行机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_WEATHER_FACTOR:0",
+        "original": "Weather air agility",
+        "translation": "不良天气飞行机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_NIGHT:0",
+        "original": "Night naval strike attack",
+        "translation": "夜间攻击舰船的攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_ATTACK_NIGHT_FACTOR:0",
+        "original": "Night naval strike attack",
+        "translation": "夜间攻击舰船的攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_NIGHT:0",
+        "original": "Night naval strike targeting",
+        "translation": "夜间攻击舰船瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_TARGETTING_NIGHT_FACTOR:0",
+        "original": "Night naval strike targeting",
+        "translation": "夜间攻击舰船瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_NIGHT:0",
+        "original": "Night naval strike agility during",
+        "translation": "夜间攻击舰船机动性性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_STRIKE_AGILITY_NIGHT_FACTOR:0",
+        "original": "Night naval strike agility",
+        "translation": "夜间海军攻击舰船机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_NIGHT:0",
+        "original": "Night air range",
+        "translation": "夜间航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_NIGHT_FACTOR:0",
+        "original": "Night air range",
+        "translation": "夜间航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_NIGHT_DESC:0",
+        "original": "Air range during night.",
+        "translation": "在夜间的航程。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_RANGE_NIGHT_FACTOR_DESC:0",
+        "original": "Air range during night.",
+        "translation": "在夜间的航程。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_NIGHT:0",
+        "original": "Night bombing",
+        "translation": "夜间轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRATEGIC_BOMBER_NIGHT_FACTOR:0",
+        "original": "Night bombing",
+        "translation": "夜间轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_NIGHT:0",
+        "original": "Night air max speed",
+        "translation": "夜间最大航速",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_NIGHT_FACTOR:0",
+        "original": "Night air max speed",
+        "translation": "夜间最大航速",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_NIGHT_DESC:0",
+        "original": "Air maximum speed during night.",
+        "translation": "在夜间时最大航速。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MAX_SPEED_NIGHT_FACTOR_DESC:0",
+        "original": "Air maximum speed during night.",
+        "translation": "在夜间时最大航速。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_NIGHT:0",
+        "original": "Night air defense",
+        "translation": "夜间空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_NIGHT_FACTOR:0",
+        "original": "Night air defense",
+        "translation": "夜间空中防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_NIGHT_DESC:0",
+        "original": "Air defense during night.",
+        "translation": "在夜间时的空中防御。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_DEFENCE_NIGHT_FACTOR_DESC:0",
+        "original": "Air defense during night.",
+        "translation": "在夜间时的空中防御。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_NIGHT:0",
+        "original": "Night air attack",
+        "translation": "夜间对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_NIGHT_FACTOR:0",
+        "original": "Night air attack",
+        "translation": "夜间对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_NIGHT_DESC:0",
+        "original": "Air attack during night.",
+        "translation": "在夜间时的对空攻击。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ATTACK_NIGHT_FACTOR_DESC:0",
+        "original": "Air attack during night.",
+        "translation": "在夜间时的对空攻击。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_NIGHT:0",
+        "original": "Night Air Agility",
+        "translation": "夜间飞行机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_NIGHT_FACTOR:0",
+        "original": "Night Air Agility",
+        "translation": "夜间飞行机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_NIGHT_DESC:0",
+        "original": "Air Agility during night.",
+        "translation": "在夜间的飞行机动性。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_AGILITY_NIGHT_FACTOR_DESC:0",
+        "original": "Air Agility during night.",
+        "translation": "在夜间的飞行机动性。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_BONUS_AIR_SUPERIORITY:1",
+        "original": "Air Superiority",
+        "translation": "空优",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_DESC:1",
+        "original": "Friendly Air Superiority effect on enemy divisions.",
+        "translation": "友方制空权对敌军影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR:1",
+        "original": "Air Superiority",
+        "translation": "空优",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_ARMY_BONUS_AIR_SUPERIORITY_FACTOR:0",
+        "original": "Enemy Air Support",
+        "translation": "敌方空中支援",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_ARMY_BONUS_AIR_SUPERIORITY_FACTOR_DESC:0",
+        "original": "Enemy air superiority effect on our divisions.",
+        "translation": "敌方制空权对我方陆军的影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR_DESC:1",
+        "original": "Friendly Air Superiority effect on enemy divisions.",
+        "translation": "友方制空权对敌军影响。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_TARGETTING:0",
+        "original": "Naval AA targeting",
+        "translation": "海军对空瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_TARGETTING_FACTOR:0",
+        "original": "Naval AA targeting",
+        "translation": "海军对空瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_TARGETTING_DESC:0",
+        "original": "Naval targeting against aircraft.",
+        "translation": "海军对飞机的瞄准。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_TARGETTING_FACTOR_DESC:0",
+        "original": "Naval targeting against aircraft.",
+        "translation": "海军对飞机的瞄准。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_ATTACK:0",
+        "original": "Naval AA attack",
+        "translation": "海军对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR:0",
+        "original": "Naval AA attack",
+        "translation": "海军对空攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_ATTACK_DESC:0",
+        "original": "Naval attack against aircraft.",
+        "translation": "海军对飞机的攻击。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR_DESC:0",
+        "original": "Naval attack against aircraft.",
+        "translation": "海军攻击飞机。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_MAX_RANGE:0",
+        "original": "Naval max range",
+        "translation": "海军最大航程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_MAX_RANGE_DESC:0",
+        "original": "Increases the maximum naval range that our fleets can operate from any nearest naval base we have access to.",
+        "translation": "增加我们从最近有通行权的海军基地行动的最大航程。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_MAX_RANGE_FACTOR:0",
+        "original": "Naval max range factor",
+        "translation": "海军最大航程参数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC:0",
+        "original": "Increases the maximum naval range that our fleets can operate from any nearest naval base we have access to.",
+        "translation": "增加我们从最近有通行权的海军基地行动的最大航程。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY:0",
+        "original": "Improve relations opinion",
+        "translation": "改善关系",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_FACTOR:0",
+        "original": "Improve relations opinion",
+        "translation": "改善关系",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_FACTOR_DESC:0",
+        "original": "Increases opinion gain with other nations when using §HImprove relations§!",
+        "translation": "增加§H改善关系§!时与他国关系上升的速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY:0",
+        "original": "Same ideology monthly opinion",
+        "translation": "相同意识形态每月关系变化",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY_FACTOR:0",
+        "original": "Same ideology monthly opinion",
+        "translation": "相同意识形态每月关系变化",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY_DESC:0",
+        "original": "Monthly opinion change if same ideology.",
+        "translation": "意识形态相同时每月关系改变。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OPINION_GAIN_MONTHLY_SAME_IDEOLOGY_FACTOR_DESC:0",
+        "original": "Monthly opinion change if same ideology.",
+        "translation": "意识形态相同时每月关系改变。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR:1",
+        "original": "Production Efficiency Retention",
+        "translation": "生产效率保持",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR_DESC:0",
+        "original": "Change in Production Efficiency loss when changing what a Production Line produces.",
+        "translation": "改变变更生产线所导致的生产效率损失量。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR:0",
+        "original": "Construction Speed",
+        "translation": "建造速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR_DESC:0",
+        "original": "Modifies the speed of all building constructions.",
+        "translation": "改变所有的建筑的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_infrastructure_factor:0",
+        "original": "§YInfrastructure§! construction speed",
+        "translation": "§Y基础设施§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_infrastructure_factor_desc:0",
+        "original": "Modifies the speed of Infrastructure construction.",
+        "translation": "改变基础设施建设的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_arms_factory_factor:0",
+        "original": "§YMilitary Factory§! construction speed",
+        "translation": "§Y军用工厂§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_arms_factory_factor_desc:0",
+        "original": "Modifies the speed of Military Factory construction.",
+        "translation": "改变军用工厂建设的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_industrial_complex_factor:0",
+        "original": "§YCivilian Factory§! construction speed",
+        "translation": "§Y民用工厂§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_industrial_complex_factor_desc:0",
+        "original": "Modifies the speed of Civilian Factory.",
+        "translation": "影响民用工厂的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_air_base_factor:0",
+        "original": "§YAir Base§! construction speed",
+        "translation": "§Y空军基地§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_air_base_factor_desc:0",
+        "original": "Modifies the speed of Air base construction.",
+        "translation": "影响空军基地的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_naval_base_factor:0",
+        "original": "§YNaval base§! construction speed",
+        "translation": "§Y海军基地§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_naval_base_factor_desc:0",
+        "original": "Modifies the speed of Naval base construction.",
+        "translation": "影响海军基地的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_bunker_factor:0",
+        "original": "§YLand Fort§! construction speed",
+        "translation": "§Y陆上要塞§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_bunker_factor_desc:0",
+        "original": "Modifies the speed of Bunker construction.",
+        "translation": "影响陆上要塞的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_coastal_bunker_factor:0",
+        "original": "§YCoastal Fort§! construction speed",
+        "translation": "§Y海岸要塞§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_coastal_bunker_factor_desc:0",
+        "original": "Modifies the speed of Coastal bunker construction.",
+        "translation": "影响海岸要塞的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_dockyard_factor:0",
+        "original": "§YDockyard§! construction speed",
+        "translation": "§Y海军船坞§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_dockyard_factor_desc:0",
+        "original": "Modifies the speed of Dockyard construction.",
+        "translation": "影响海军船坞的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_anti_air_building_factor:0",
+        "original": "§YAnti Air§! construction speed",
+        "translation": "§Y防空炮阵§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_anti_air_building_factor_desc:0",
+        "original": "Modifies the speed of Anti air construction.",
+        "translation": "影响防空炮阵的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_synthetic_refinery_factor:0",
+        "original": "§YRefinery§! construction speed",
+        "translation": "§Y化学合成厂§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_synthetic_refinery_factor_desc:0",
+        "original": "Modifies the speed of Synthetic construction.",
+        "translation": "影响化学合成厂的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_radar_station_factor:0",
+        "original": "§YRadar Station§! construction speed",
+        "translation": "§Y雷达站§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_radar_station_factor_desc:0",
+        "original": "Modifies the speed of Radar Station construction.",
+        "translation": "影响雷达站的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_rocket_site_factor:0",
+        "original": "§YRocket Site§! construction speed",
+        "translation": "§Y火箭基地§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_rocket_site_factor_desc:0",
+        "original": "Modifies the speed of Rocket Site construction.",
+        "translation": "影响火箭基地的建造速度。",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_nuclear_reactor_factor:0",
+        "original": "§YNuclear Reactor§! construction speed",
+        "translation": "§Y核反应堆§!建造速度",
+        "stage": 1
+    },
+    {
+        "key": "modifier_production_speed_nuclear_reactor_factor_desc:0",
+        "original": "Modifies the speed of Nuclear Reactor construction speed",
+        "translation": "影响核反应堆的建造速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY:0",
+        "original": "£prod_eff_cap  Production Efficiency Cap",
+        "translation": "£prod_eff_cap 生产效率上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_DESC:0",
+        "original": "Production Efficiency Cap that can be reached by mass-producing items in a single Production Line.",
+        "translation": "通过在单一生产线上大量生产产品，就可以到达生产效率上限。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR:0",
+        "original": "Production Efficiency Base",
+        "translation": "基础生产效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR_DESC:0",
+        "original": "Production Efficiency when starting a new Production Line.",
+        "translation": "新开生产线时的生产效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR:0",
+        "original": "£prod_eff_cap  Production Efficiency Cap",
+        "translation": "£prod_eff_cap 生产效率上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR_DESC:0",
+        "original": "£prod_eff_cap  Production Efficiency Cap determines the maximum value for your £prod_eff  Production Efficiency. It can be increased by £tech_mod Technologies.",
+        "translation": "£prod_eff_cap 生产效率上限决定了你 £prod_eff  生产效率的最大值。可以通过 £tech_mod 科技来提高上限。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR:0",
+        "original": "£prod_eff Production Efficiency growth",
+        "translation": "£prod_eff 生产效率增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR_DESC:0",
+        "original": "Modifies how much Efficiency is gained by mass-producing items in the same Production line.",
+        "translation": "影响生产效率随单一生产线产量增长的速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AMPHIBIOUS_INVASION:0",
+        "original": "Amphibious Invasion Speed",
+        "translation": "两栖登陆速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AMPHIBIOUS_INVASION_DESC:0",
+        "original": "How fast units move ashore when doing amphibious invasion.",
+        "translation": "两栖登陆登陆时单位的登陆速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARTISAN_EFFECT_FACTOR:0",
+        "original": "Effect of our partisans",
+        "translation": "游击战效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARTISAN_EFFECT_FACTOR_DESC:0",
+        "original": "How efficiently our partisans organize against enemies that have occupied our territories.",
+        "translation": "这一参数反应我们的游击队能多有效地对抗侵略者的占领军。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR:0",
+        "original": "Effect of partisans on us",
+        "translation": "游击战的影响",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC:0",
+        "original": "How efficiently enemy partisans organize in territories we occupy",
+        "translation": "这一参数反应敌人游击队在我军占领区内的活动效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_ATTACK_FACTOR:0",
+        "original": "Division Attack",
+        "translation": "单位攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_DEFENCE_FACTOR:0",
+        "original": "Division Defense",
+        "translation": "单位防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_CORE_ATTACK_FACTOR:0",
+        "original": "Division Attack on core territory",
+        "translation": "核心领土单位攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_CORE_DEFENCE_FACTOR:0",
+        "original": "Division Defense on core territory",
+        "translation": "核心领土单位防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR:0",
+        "original": "Infantry Attack",
+        "translation": "步兵攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR:0",
+        "original": "Infantry Defense",
+        "translation": "步兵防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR:0",
+        "original": "Armor Attack",
+        "translation": "装甲攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_ARMOR_DEFENCE_FACTOR:0",
+        "original": "Armor Defense",
+        "translation": "装甲防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_ARTILLERY_ATTACK_FACTOR:0",
+        "original": "Artillery Attack",
+        "translation": "炮兵攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR:0",
+        "original": "Artillery Defense",
+        "translation": "炮兵防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR:0",
+        "original": "Special forces Attack",
+        "translation": "特种攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR:0",
+        "original": "Special forces Defense",
+        "translation": "特种防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MOTORIZED_ATTACK_FACTOR:0",
+        "original": "Motorized Attack",
+        "translation": "摩托化步兵攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MOTORIZED_DEFENCE_FACTOR:0",
+        "original": "Motorized Defense",
+        "translation": "摩托化步兵防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MECHANIZED_ATTACK_FACTOR:0",
+        "original": "Mechanized Attack",
+        "translation": "机械化进攻",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MECHANIZED_DEFENCE_FACTOR:0",
+        "original": "Mechanized Defense",
+        "translation": "机械化防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAVALRY_ATTACK_FACTOR:0",
+        "original": "Cavalry Attack",
+        "translation": "骑兵攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAVALRY_DEFENCE_FACTOR:0",
+        "original": "Cavalry Defense",
+        "translation": "骑兵防御",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_SORTIE_EFFICIENCY_FACTOR:0",
+        "original": "Sortie efficiency",
+        "translation": "出击效率",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_SORTIE_EFFICIENCY_FACTOR_DESC:0",
+        "original": "The value describes additional percents to the speed of refueling and rearming planes on the carrier during the battle.",
+        "translation": "这一数值反映航母在战斗中给舰载机加油载弹的额外效率。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR:0",
+        "original": "Submarine Attack",
+        "translation": "潜艇攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR_DESC:0",
+        "original": "Modifies the attack value of Submarines",
+        "translation": "影响潜艇的攻击力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR:0",
+        "original": "Submarine Defense",
+        "translation": "潜艇防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR_DESC:0",
+        "original": "Modifies the defense value of Submarines",
+        "translation": "影响潜艇的防御力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR:0",
+        "original": "Capital Ship Attack",
+        "translation": "主力舰攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_DESC:0",
+        "original": "Modifies the attack value of all Capital Ships",
+        "translation": "影响主力舰只的攻击力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR:0",
+        "original": "Capital Ship Armor",
+        "translation": "主力舰装甲",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_DESC:0",
+        "original": "Modifies the armor value of all Capital Ships",
+        "translation": "影响所有主力舰的装甲值",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SCREEN_ATTACK_FACTOR:0",
+        "original": "Screen Attack",
+        "translation": "屏卫舰攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR:0",
+        "original": "Screen Defense",
+        "translation": "屏卫舰防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_CARRIER_AIR_ATTACK_FACTOR:0",
+        "original": "Naval Air Attacks from Carriers",
+        "translation": "航母舰载机空中攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_CARRIER_AIR_TARGETTING_FACTOR:0",
+        "original": "Naval Air Targeting from Carriers",
+        "translation": "航母舰载机空中瞄准",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_CARRIER_AIR_AGILITY_FACTOR:0",
+        "original": "Naval Air Agility from Carriers",
+        "translation": "航母舰载机机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_CARRIER_AIR_AGILITY_FACTOR_DESC:0",
+        "original": "Modifies the agility of planes executing naval strike missions from carriers",
+        "translation": "影响执行对海攻击的舰载机队机动性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR:0",
+        "original": "Convoy Raiding Efficiency",
+        "translation": "袭击运输船任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR_DESC:0",
+        "original": "How efficiently our ships can intercept and attack enemy convoys.",
+        "translation": "反映我们的舰只截击敌方运输船队的能力。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR:0",
+        "original": "Interception Detection",
+        "translation": "截击侦测能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR_DESC:0",
+        "original": "The chance of detecting enemy plane while on interception mission.",
+        "translation": "飞机执行截击任务时发现并捕捉敌机的能力。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR:0",
+        "original": "Fighter Detection",
+        "translation": "战机侦测能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_DETECT_FACTOR_DESC:0",
+        "original": "The chance of detecting enemy planes while on air superiority mission.",
+        "translation": "飞机执行制空任务时发现并捕捉敌机的能力。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRAT_BOMBING_VISIBILITY:0",
+        "original": "Strategic bombing visibility",
+        "translation": "战略轰炸可见度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STRAT_BOMBING_VISIBILITY_DESC:0",
+        "original": "The chance of being detected by the enemy, when on strategic bombing missions.",
+        "translation": "飞机执行战略轰炸任务时被敌方发现的概率。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR:0",
+        "original": "Infantry Division Attack",
+        "translation": "步兵单位攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR:0",
+        "original": "Infantry Division Defense",
+        "translation": "步兵单位防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ARMOR_ATTACK_FACTOR:0",
+        "original": "Armor Division Attack",
+        "translation": "装甲单位攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR:0",
+        "original": "Armor Division Defense",
+        "translation": "装甲单位防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ARTILLERY_ATTACK_FACTOR:0",
+        "original": "Artillery Attack",
+        "translation": "炮兵攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_ARTILLERY_DEFENCE_FACTOR:0",
+        "original": "Artillery Defense",
+        "translation": "炮兵防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIERS_SUBMARINE_DETECTION_FACTOR:0",
+        "original": "Submarine Detection",
+        "translation": "对潜探测",
+        "stage": 1
+    },
+    {
+        "key": "communism_drift:0",
+        "original": "Daily Communism Support",
+        "translation": "共产主义理念每日新增支持率",
+        "stage": 1
+    },
+    {
+        "key": "democratic_drift:0",
+        "original": "Daily Democracy Support",
+        "translation": "民主理念每日新增支持率",
+        "stage": 1
+    },
+    {
+        "key": "fascism_drift:0",
+        "original": "Daily Fascism Support",
+        "translation": "法西斯主义理念每日新增支持率",
+        "stage": 1
+    },
+    {
+        "key": "neutrality_drift:0",
+        "original": "Daily Support for Unaligned",
+        "translation": "中立派每日新增支持率",
+        "stage": 1
+    },
+    {
+        "key": "communism_acceptance:0",
+        "original": "Acceptance of Communist Diplomacy",
+        "translation": "共产主义外交的接纳度",
+        "stage": 1
+    },
+    {
+        "key": "democratic_acceptance:0",
+        "original": "Acceptance of Democratic Diplomacy",
+        "translation": "民主外交的接纳度",
+        "stage": 1
+    },
+    {
+        "key": "fascism_acceptance:0",
+        "original": "Acceptance of Fascist Diplomacy",
+        "translation": "法西斯主义外交的接纳度",
+        "stage": 1
+    },
+    {
+        "key": "neutrality_acceptance:0",
+        "original": "Acceptance of Unaligned Diplomacy",
+        "translation": "接受中立外交",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESEARCH_TIME_FACTOR:1",
+        "original": "Research Time",
+        "translation": "研究时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESEARCH_TIME_FACTOR_DESC:1",
+        "original": "Decreases the time it takes to research a new technology.",
+        "translation": "减少研发新科技所需的时间。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ROCKET_ATTACK_FACTOR:0",
+        "original": "Rocket Damage",
+        "translation": "火箭伤害",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENCRYPTION:0",
+        "original": "Encryption",
+        "translation": "加密",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENCRYPTION_DESC:0",
+        "original": "Encryption will hide information about units on the map and focus tree progression from other countries. A higher value than the enemy's decryption will negate enemy decryption combat bonus",
+        "translation": "加密能够使部队在地图上的信息和国策树的进程对外国隐藏起来。高于敌方的解密值能够抵消其战斗加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENCRYPTION_FACTOR:0",
+        "original": "Encryption",
+        "translation": "加密",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DECRYPTION:0",
+        "original": "Decryption",
+        "translation": "解密",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DECRYPTION_DESC:0",
+        "original": "Decryption will show information about units on the map and focus tree progression from other countries. A higher value than the enemy's encryption will give a decryption combat bonus",
+        "translation": "解密能显示出其他国家部队在地图上的信息和国策树的进程。高于敌方的加密值能够提供战斗加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DECRYPTION_FACTOR:0",
+        "original": "Decryption",
+        "translation": "解密学",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRIAL_CAPACITY_FACTOR:0",
+        "original": "Factory Output",
+        "translation": "工厂产出",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRIAL_CAPACITY_FACTOR_DESC:0",
+        "original": "This effectively increases the amount of work each factory can do per hour.",
+        "translation": "这一参数能有效提高工厂在单位时间内完成的生产工作量。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR:0",
+        "original": "Dockyard Output",
+        "translation": "海军船坞产出",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR_DESC:0",
+        "original": "This effectively increases the amount of work each dockyard can do per hour.",
+        "translation": "这一参数能有效提高海军船坞在单位时间内完成的生产工作量。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR:0",
+        "original": "Factory Bomb Vulnerability",
+        "translation": "工厂受轰炸易损性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR_DESC:0",
+        "original": "Having our factories dispersed makes us take less damage from enemy bombing.",
+        "translation": "将工厂分散开来能够降低敌方战略轰炸造成的损害。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRY_REPAIR_FACTOR:0",
+        "original": "Factory Repair Speed",
+        "translation": "工厂修复速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRY_REPAIR_FACTOR_DESC:1",
+        "original": "Modifies §HCivilian Factory§! output for all repairs.",
+        "translation": "改变§H民用工厂§!修复建筑时的产出。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_OIL_FACTOR:0",
+        "original": "Synthetic Oil",
+        "translation": "合成油",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_TRAINING_XP_FACTOR:0",
+        "original": "Max training",
+        "translation": "最大训练",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MIN_EXPORT_FACTOR:0",
+        "original": "Resources to Market",
+        "translation": "可出口资源",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONSCRIPTION_FACTOR:0",
+        "original": "Recruitable Population",
+        "translation": "适役人口",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONSCRIPTION_FACTOR_DESC:0",
+        "original": "Modifies how much your manpower you can access from states.",
+        "translation": "对国家可以征募的人力进行修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONSCRIPTION_TOTAL_FACTOR:0",
+        "original": "Recruitable Population Factor",
+        "translation": "适役人口修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC:0",
+        "original": "Modifies how much your manpower you can access from states.",
+        "translation": "对国家可以征募的人力进行修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_OPINION_FACTOR:0",
+        "original": "Trade deal opinion factor",
+        "translation": "贸易协定关系修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_OPINION_FACTOR_DESC:0",
+        "original": "Factor of opinion value in trade deals",
+        "translation": "双边关系对于缔结贸易协定的影响修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FACTION_TRADE_OPINION_FACTOR:0",
+        "original": "Faction trade deal opinion factor",
+        "translation": "贸易阵营关系修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FACTION_TRADE_OPINION_FACTOR_DESC:0",
+        "original": "Factor of opinion value in trade deals between members of the same faction.",
+        "translation": "同阵营国家间缔结贸易的关系修正。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GROUND_ATTACK:0",
+        "original": "Ground attack",
+        "translation": "对地攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GROUND_ATTACK_FACTOR:0",
+        "original": "Ground attack factor",
+        "translation": "对地攻击修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_GROUND_ATTACK:0",
+        "original": "TAC attack",
+        "translation": "战术轰炸机攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_GROUND_ATTACK_DESC:0",
+        "original": "Bonus to tactical bomber attacks on ground troops.",
+        "translation": "战术轰炸机对地面部队攻击时的加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_GROUND_ATTACK_FACTOR:0",
+        "original": "TAC attack",
+        "translation": "战术轰炸机攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_GROUND_ATTACK_FACTOR_DESC:0",
+        "original": "Bonus to tactical bomber attacks on ground troops.",
+        "translation": "战术轰炸机对地面部队攻击时的加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_GROUND_ATTACK:0",
+        "original": "CAS attack",
+        "translation": "近距支援机攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_GROUND_ATTACK_DESC:0",
+        "original": "Bonus to close air support attacks on ground troops.",
+        "translation": "近距支援机对地面部队攻击时的加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_GROUND_ATTACK_FACTOR:0",
+        "original": "CAS attack",
+        "translation": "近距支援机攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_GROUND_ATTACK_FACTOR_DESC:0",
+        "original": "Bonus to close air support attacks on ground troops.",
+        "translation": "近距支援机对地面部队攻击时的加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_PRESENT_FACTOR:0",
+        "original": "Ground support",
+        "translation": "地面支援",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_PRESENT_FACTOR_DESC:0",
+        "original": "Having well-coordinated planes helping out in combat lets your troops fight better.",
+        "translation": "协同良好的飞机出现在战场，使你的陆军表现更好",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_STRATEGIC_BOMBING_FACTOR:0",
+        "original": "TAC Bombing",
+        "translation": "战术轰炸机轰炸",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_TAC_STRATEGIC_BOMBING_FACTOR_DESC:0",
+        "original": "Bonus to Tactical bombers performing regular strategic bombing.",
+        "translation": "战术轰炸机执行常规战略轰炸时的加成。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_FACTOR:0",
+        "original": "Training time",
+        "translation": "训练时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRAINING_TIME_FACTOR_DESC:0",
+        "original": "Changes the time it takes to train troops.",
+        "translation": "改变训练部队所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PUPPET_COST_FACTOR:0",
+        "original": "Puppet cost",
+        "translation": "傀儡花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PUPPET_COST_FACTOR_DESC:0",
+        "original": "Changes the cost of puppeting a country.",
+        "translation": "改变傀儡一个国家所需的花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EXPERIENCE_LOSS_FACTOR:0",
+        "original": "Experienced soldier losses",
+        "translation": "有经验的士兵的损失",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EXPERIENCE_LOSS_FACTOR_DESC:0",
+        "original": "How many extra losses are taken from experienced soldiers compared to fresh recruits.",
+        "translation": "有经验的士兵相对新兵遭受的额外损失",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GENERATE_WARGOAL_TENSION_LIMIT:0",
+        "original": "Generate war goal tension limit",
+        "translation": "制造战争目标的全球紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GENERATE_WARGOAL_TENSION_LIMIT_AGAINST_COUNTRY:0",
+        "original": "Generate war goal tension limit against country",
+        "translation": "我国对其正当化战争紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_JOIN_FACTION_TENSION_LIMIT:0",
+        "original": "Join faction tension limit",
+        "translation": "加入阵营的全球紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LEND_LEASE_TENSION_LIMIT:0",
+        "original": "Lend-lease tension limit",
+        "translation": "租借法案的全球紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SEND_VOLUNTEERS_TENSION_LIMIT:0",
+        "original": "Send volunteers tension limit",
+        "translation": "派遣志愿军的全球紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GUARANTEE_TENSION_LIMIT:0",
+        "original": "Guarantee tension limit",
+        "translation": "保障独立的全球紧张度限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SEND_VOLUNTEER_SIZE:0",
+        "original": "Max volunteer force divisions",
+        "translation": "志愿军的师数上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SEND_VOLUNTEER_FACTOR:0",
+        "original": "Max volunteer force divisions",
+        "translation": "志愿军上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED:0",
+        "original": "Divisions required for sending volunteer force",
+        "translation": "可以派遣志愿军的师数下限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_VOLUNTEER_CAP:0",
+        "original": "Air volunteer cap",
+        "translation": "志愿航空队上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_DECLARE_WAR_TENSION:0",
+        "original": "Declare war tension on us",
+        "translation": "敌国对我国宣战产生的全球紧张度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_JUSTIFY_WAR_GOAL_TIME:0",
+        "original": "Justify war goal time on us",
+        "translation": "敌国对我国正当化战争目标所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_JUSTIFY_WAR_GOAL_TIME:0",
+        "original": "Justify war goal time",
+        "translation": "正当化战争目标所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_JUSTIFY_WAR_GOAL_WHEN_IN_MAJOR_WAR_TIME:0",
+        "original": "Justify war goal time when at war with a major",
+        "translation": "与主要国家开战时正当化战争目标所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_TORPEDO_RANGE_FACTOR:0",
+        "original": "Torpedo range",
+        "translation": "鱼雷射程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SUBVERSIVE_ACTIVITES_UPKEEP:0",
+        "original": "Subversive activities cost",
+        "translation": "颠覆活动代价",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FOREIGN_SUBVERSIVE_ACTIVITIES:0",
+        "original": "Foreign subversive activities efficiency",
+        "translation": "外国颠覆活动效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_REINFORCE_RATE:0",
+        "original": "Reinforce Rate",
+        "translation": "增援率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_REINFORCE_RATE_DESC:0",
+        "original": "Chance per hour that units in reserve are able to actively join the fight.",
+        "translation": "预备队每小时增援到一线的可能性。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DRIFT_DEFENCE_FACTOR:0",
+        "original": "Ideology drift defense",
+        "translation": "意识形态变化抵制力度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DRIFT_DEFENCE_FACTOR_DESC:0",
+        "original": "Reduces the effect of foreign powers trying to meddle with politics.",
+        "translation": "降低外国势力对本国政治的干预效果。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_COORDINATION:0",
+        "original": "Fleet Coordination",
+        "translation": "舰队协同性",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_COORDINATION_DESC:0",
+        "original": "How quickly the fleet can gather or disperse when a target is found or when switching missions.",
+        "translation": "搜索到目标或切换任务时舰队集结或分散的速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PLANNING_SPEED:0",
+        "original": "Planning Speed",
+        "translation": "计划速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PLANNING_SPEED_DESC:0",
+        "original": "Increases the rate at which a division's planning bonus is accumulated.",
+        "translation": "增加一个师的计划加成提高的速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_PLANNING:0",
+        "original": "Max planning",
+        "translation": "计划加成上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_PLANNING_DESC:0",
+        "original": "The biggest our planning advantage can get no matter how long we prepare.",
+        "translation": "无论准备时间多长我们可以获得的最大的计划加成。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARTISANS_EFFECT:0",
+        "original": "Partisans Effect",
+        "translation": "游击队作用",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARTISANS_EFFECT_DESC:0",
+        "original": "Controls how effective partisans are.",
+        "translation": "决定游击队的作用的大小。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_LEADER_COMMAND:0",
+        "original": "Land Leader Command",
+        "translation": "陆军指挥官指挥上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_LEADER_COMMAND_DESC:0",
+        "original": "Commanders can now lead more divisions.",
+        "translation": "指挥官现在可以指挥更多的部队了。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_LEADER_COMMAND:0",
+        "original": "Naval Command",
+        "translation": "海军指挥官指挥上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_LEADER_COMMAND_DESC:0",
+        "original": "Naval Commanders can now lead more ships.",
+        "translation": "海军指挥官现在可以指挥更多战舰了。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_DIG_IN:0",
+        "original": "Max Entrenchment",
+        "translation": "堑壕上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_DIG_IN_FACTOR:0",
+        "original": "Max Entrenchment",
+        "translation": "堑壕上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_DIG_IN_DESC:0",
+        "original": "How advanced temporary fortifications our troops can make. The higher the level the more days the troops can keep improving their defenses.",
+        "translation": "我们的部队临时筑垒的先进程度。级别越高可提升战壕等级的天数就越多。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_NIGHT_ATTACK:0",
+        "original": "Land Night Attack",
+        "translation": "陆战夜战攻击",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LAND_NIGHT_ATTACK_DESC:0",
+        "original": "How much we can offset penalties at night.",
+        "translation": "我们免除夜战惩罚的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POCKET_PENALTY:0",
+        "original": "Encirclement penalty",
+        "translation": "包围惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_POCKET_PENALTY_DESC:0",
+        "original": "Ability to still function even though surrounded.",
+        "translation": "被包围时的作战能力。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NO_SUPPLY_GRACE:0",
+        "original": "Supply Grace",
+        "translation": "携行补给",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NO_SUPPLY_GRACE_DESC:0",
+        "original": "Extra hours that our troops can last without supplies.",
+        "translation": "无补给时部队额外可以坚持的时间。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_UNDER_AIR_SUPERIORITY_BONUS:0",
+        "original": "Air superiority bonus",
+        "translation": "制空权加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_UNDER_AIR_SUPERIORITY_BONUS_DESC:0",
+        "original": "Ground forces that do not need to worry about the sky fight better.",
+        "translation": "不需要应对空中威胁的部队作战效率更高。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY:0",
+        "original": "Sortie efficiency",
+        "translation": "出击效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY_DESC:0",
+        "original": "How efficiently the carrier personnel can manage its planes. The higher the more of its carried planes can go on each sortie.",
+        "translation": "航母乘员维护管理舰载机的效率。效率越高每次出击可出动的飞机越多。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PORT_STRIKE_ATTACK_FACTOR:0",
+        "original": "Port strikes",
+        "translation": "攻击港口",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PORT_STRIKE_ATTACK_FACTOR_DESC:0",
+        "original": "Improved damage when performing strikes against fleets in port.",
+        "translation": "增加攻击停泊在港口的舰队时造成的伤害。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CARRIER_CAPACITY_PENALTY_REDUCTION:0",
+        "original": "Carrier overcrowding",
+        "translation": "航母超载",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CARRIER_CAPACITY_PENALTY_REDUCTION_DESC:0",
+        "original": "Reduces the penalty for overcrowding your carriers with planes. With this you can get more planes in the air even when over capacity.",
+        "translation": "降低你的航母舰载机超载造成的惩罚。有了这个即使超载你也可以出动更多的飞机。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY:0",
+        "original": "Escort efficiency",
+        "translation": "护航效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY_DESC:0",
+        "original": "How quickly Escorts can defend a Convoy under attack.",
+        "translation": "运输船遭到攻击的护航船只的反应速度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_FIGHTER_ACE_CHANCE:0",
+        "original": "Fighter ace chance",
+        "translation": "战斗机王牌产生几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_FIGHTER_ACE_CHANCE_DESC:0",
+        "original": "Chance of gaining a fighter ace in battle.",
+        "translation": "战斗中产生战斗机王牌飞行员的几率。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_ACE_CHANCE:0",
+        "original": "CAS ace chance",
+        "translation": "近距支援机王牌产生几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_ACE_CHANCE_DESC:0",
+        "original": "Chance of gaining a ground attack ace in battle.",
+        "translation": "战斗中产生近距支援机王牌飞行员的几率。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_BOMBER_ACE_CHANCE:0",
+        "original": "Bomber ace chance",
+        "translation": "轰炸机王牌产生几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_BOMBER_ACE_CHANCE_DESC:0",
+        "original": "Chance of gaining a bomber ace in battle.",
+        "translation": "战斗中产生轰炸机王牌飞行员的几率。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RECON_FACTOR:0",
+        "original": "Reconnaissance",
+        "translation": "侦查",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMBAT_WIDTH_FACTOR:0",
+        "original": "Own Combat Width",
+        "translation": "己方战场宽度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_CALL_ALLY_DESIRE_FACTOR:0",
+        "original": "AI Modifier: Call Ally Desire",
+        "translation": "AI修正：请求盟友加入战争的意愿",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_CALL_ALLY_DESIRE_FACTOR_DESC:0",
+        "original": "How interested or reluctant the country is to call allies into war with the current leadership.",
+        "translation": "该国要求盟友在战争主导权不变更的情况下加入战争的意愿。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_JOIN_ALLY_DESIRE_FACTOR:0",
+        "original": "AI Modifier: Join Ally Desire",
+        "translation": "AI修正：参战意愿",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_JOIN_ALLY_DESIRE_FACTOR_DESC:0",
+        "original": "How interested or reluctant the country is to join allies in their wars.",
+        "translation": "该国对于加入盟国的战争的意愿。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_GET_ALLY_DESIRE_FACTOR:0",
+        "original": "AI Modifier: Desire to be in or expand a faction",
+        "translation": "AI修正：加入或扩大一个阵营的意愿",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_GET_ALLY_DESIRE_FACTOR_DESC:0",
+        "original": "How much the country wants to be in a strong faction, whether by joining one or by inviting others.",
+        "translation": "该国加入一个强大的阵营，或邀请其他国家加入本阵营的意愿。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_DEFENSE_FACTOR:0",
+        "original": "AI Modifier: Focus on Defense",
+        "translation": "AI修正：专注防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_DEFENSE_FACTOR_DESC:0",
+        "original": "How much the country focuses on defensive technologies and strategies.",
+        "translation": "该国专注防御性科技和战略的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR:0",
+        "original": "AI Modifier: Focus on Offense",
+        "translation": "AI修正：专注进攻",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_AGGRESSIVE_FACTOR_DESC:0",
+        "original": "How much the country focuses on aggressive technologies and strategies.",
+        "translation": "该国专注侵略性性科技和战略的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_WAR_PRODUCTION_FACTOR:0",
+        "original": "AI Modifier: Focus on War Production",
+        "translation": "AI修正：专注战时生产",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_WAR_PRODUCTION_FACTOR_DESC:0",
+        "original": "How much the country focuses on wartime production.",
+        "translation": "该国专注战时生产的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_MILITARY_ADVANCEMENTS_FACTOR:0",
+        "original": "AI Modifier: Focus on Military Advancements",
+        "translation": "AI修正：专注先进军事科技研究",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_MILITARY_ADVANCEMENTS_FACTOR_DESC:0",
+        "original": "How much the country focuses on researching advanced military technologies.",
+        "translation": "该国专注研究先进军事科技的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR:0",
+        "original": "AI Modifier: Focus on Military Equipment",
+        "translation": "AI修正：专注军备",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR_DESC:0",
+        "original": "How much the country focuses on researching basic military equipment.",
+        "translation": "该国专注研究基本军事装备的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_DESIRED_DIVISIONS_FACTOR:0",
+        "original": "Factor on how many divisions the country aims to produce.",
+        "translation": "这个国家计划建造的陆军师数量。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_PEACEFUL_FACTOR:0",
+        "original": "AI Modifier: Focus on Peace",
+        "translation": "AI修正：专注和平",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_PEACEFUL_FACTOR_DESC:0",
+        "original": "How much the country on peaceful research and policies.",
+        "translation": "该国专注和平的科技和政策。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_NAVAL_FACTOR:0",
+        "original": "AI Modifier: Focus on Navy",
+        "translation": "AI修正：专注海军",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_NAVAL_FACTOR_DESC:0",
+        "original": "How much the country focuses on developing its navy.",
+        "translation": "该国专注发展海军的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR:0",
+        "original": "AI Modifier: Focus on Naval Air",
+        "translation": "AI修正：专注海航",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR_DESC:0",
+        "original": "How much the country focuses on developing carriers, carrier planes and naval bombers.",
+        "translation": "该国专注发展航母、舰载机和陆基海轰的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_AVIATION_FACTOR:0",
+        "original": "AI Modifier: Focus on Aviation",
+        "translation": "AI修正：专注空军",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_FOCUS_AVIATION_FACTOR_DESC:0",
+        "original": "How much the country focuses on researching and building up its air force.",
+        "translation": "该国专注研发空军的程度。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_PREPARATION:0",
+        "original": "Invasion Preparation Time",
+        "translation": "登陆准备时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_PREPARATION_DESC:0",
+        "original": "How quickly we can prepare a naval invasion.",
+        "translation": "我们准备一次登陆所需的时间。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRANSPORT_CAPACITY:0",
+        "original": "Troop convoy requirements",
+        "translation": "部队运输船需求",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRANSPORT_CAPACITY_DESC:0",
+        "original": "How much room units will require on transports. The lower the more efficiently we can move large armies over seas.",
+        "translation": "部队海运所需空间。越低我们就可以越有效率地跨海运输大部队。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NOT_SUPPORTED:0",
+        "original": "This modifier is §RNot Supported§! for this entry.",
+        "translation": "此修正不适用于§R不适用于§!此项",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SLOTS_FROM_POPULATION_FACTOR:0",
+        "original": "Building Slots from Population",
+        "translation": "人口增加的建筑位",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SLOTS_FROM_POPULATION_FACTOR_DESC:0",
+        "original": "How much the Population influences the Population Building Slot limit",
+        "translation": "人口多寡影响建筑位限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SLOTS_FROM_INFRASTRUCTURE_FACTOR:0",
+        "original": "Building Slots from Infrastructure",
+        "translation": "基建增加的建筑位",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SLOTS_FROM_INFRASTRUCTURE_FACTOR_DESC:0",
+        "original": "How much the Infrastructure influences the Infrastructure Building Slot limit",
+        "translation": "基建等级影响建筑位限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ADDITIONAL_SLOTS_CAP:0",
+        "original": "Building Slots from Technology",
+        "translation": "科技增加的建筑位限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ADDITIONAL_SLOTS_CAP_DESC:0",
+        "original": "Maximum number of Building Slots in a State",
+        "translation": "地区建筑位上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR:0",
+        "original": "Military to Civilian Factory conversion cost",
+        "translation": "军转民消耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR_DESC:0",
+        "original": "How efficiently can Military Factories be converted to Civilian Factories",
+        "translation": "军用工厂转民用工厂的效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR:0",
+        "original": "Civilian to Military Factory conversion cost",
+        "translation": "民转军消耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR_DESC:0",
+        "original": "How efficiently can Civilian Factories be converted to Military Factories",
+        "translation": "民用工厂转军用工厂的效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR:0",
+        "original": "Lack of Resources Penalty",
+        "translation": "缺乏战略资源惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR_DESC:0",
+        "original": "Reduces the penalties to production line output from a lack of resources.",
+        "translation": "降低缺乏战略资源对生产线产出的惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRAT_BOMBER_NIGHT_PENALTY:0",
+        "original": "Night-time strategic bombing penalty",
+        "translation": "夜间战略轰炸惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_STRAT_BOMBER_NIGHT_PENALTY_DESC:0",
+        "original": "Reduces the penalty to bombing during the night for Strategic Bombing",
+        "translation": "减少夜间战略轰炸的惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_NIGHT_PENALTY:0",
+        "original": "Night Operations Penalty",
+        "translation": "夜间行动惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_NIGHT_PENALTY_DESC:0",
+        "original": "Reduces the penalty to air operation during the night",
+        "translation": "减少空军夜间行动的惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_WEATHER_PENALTY:0",
+        "original": "Bad Weather Penalty",
+        "translation": "不良天气惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_WEATHER_PENALTY_DESC:0",
+        "original": "Reduces the penalty to air operation during bad weather",
+        "translation": "减少空军在坏天气下的行动惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_EFFICIENCY:0",
+        "original": "Air Superiority Mission Efficiency",
+        "translation": "夺取制空权任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_EFFICIENCY_DESC:0",
+        "original": "Improved tactics for planes on air superiority resulting in increased ability in dogfights.",
+        "translation": "改善执行夺取制空权任务的战机的战术以增加缠斗能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ESCORT_EFFICIENCY:0",
+        "original": "Escort Efficiency",
+        "translation": "护航效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_ESCORT_EFFICIENCY_DESC:0",
+        "original": "Improved tactics for planes on air superiority resulting in increased ability in dogfights.",
+        "translation": "改善执行夺取制空权战机的战术以增加缠斗能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_INTERCEPT_EFFICIENCY:0",
+        "original": "Interception Mission Efficiency",
+        "translation": "截击任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_INTERCEPT_EFFICIENCY_DESC:0",
+        "original": "Improved tactics for planes when doing interception resulting in increased ability in dogfights.",
+        "translation": "改善执行截击任务的战机的战术以增加缠斗能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_EFFICIENCY:0",
+        "original": "Air Support Mission Efficiency",
+        "translation": "空中支援任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_CAS_EFFICIENCY_DESC:0",
+        "original": "Improved tactics for planes doing close air support resulting in increased abilities in dogfights.",
+        "translation": "改善执行密接支援任务的战机的战术以增加缠斗能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_NAV_EFFICIENCY:0",
+        "original": "Naval Mission Efficiency",
+        "translation": "对海任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_NAV_EFFICIENCY_DESC:0",
+        "original": "Improved tactics for planes doing naval bombing or port strikes resulting in increased abilities.",
+        "translation": "改善执行攻舰或炸港任务的战机的战术以增加战斗力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ANNEX_COST_FACTOR:0",
+        "original": "Annex cost",
+        "translation": "吞并代价",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ANNEX_COST_FACTOR_DESC:0",
+        "original": "Changes the cost of annexing a country.",
+        "translation": "改变吞并国家的代价",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TAKE_STATES_COST_FACTOR:0",
+        "original": "Take states cost",
+        "translation": "割地代价",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TAKE_STATES_COST_FACTOR_DESC:0",
+        "original": "Changes the cost of taking states from a country.",
+        "translation": "改变从某国割地的代价",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_BADASS_FACTOR:0",
+        "original": "AI Modifier: Threat receptivity",
+        "translation": "AI修正：威胁度敏感度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MISSION_EFFICIENCY:0",
+        "original": "Air Mission Efficiency",
+        "translation": "空军任务效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_MISSION_EFFICIENCY_DESC:0",
+        "original": "With higher efficiency more aircraft are able to lift of and successfully join missions",
+        "translation": "更高的效率意味着有更多的飞机起飞并加入任务",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_DEFENSE:0",
+        "original": "Invasion Defense",
+        "translation": "登陆防护",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_DEFENSE_DESC:0",
+        "original": "Reduces the naval invasion penalties so you can fight more efficiently.",
+        "translation": "降低登陆惩罚以更高效的战斗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OCCUPATION_COST:0",
+        "original": "Occupation Cost",
+        "translation": "占领花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_OCCUPATION_COST_DESC:0",
+        "original": "Increases the cost of keeping another nation under occupation.",
+        "translation": "增加占领其他国家的花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ENEMY_PORT_SUPERIORITY_LIMIT:0",
+        "original": "Port strike enemy superiority limit:",
+        "translation": "港口袭击的敌制空权限制：",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MINIMUM_TRAINING_LEVEL:0",
+        "original": "Minimum training level",
+        "translation": "最小训练程度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MINIMUM_TRAINING_LEVEL_DESC:0",
+        "original": "Reduces the minimum training needed for unit to be deployed",
+        "translation": "降低部署所需的最小训练程度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_MANPOWER_SHARE:0",
+        "original": "Subject manpower requirement",
+        "translation": "附庸人力要求",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC:0",
+        "original": "Amount of manpower required by subject forces",
+        "translation": "附庸部队所需要的人力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_TO_OVERLORD_FACTOR:0",
+        "original": "Extra trade to overlord",
+        "translation": "对宗主国额外贸易",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_TO_OVERLORD_FACTOR_DESC:0",
+        "original": "Extra produced recourses available for trade to overlord",
+        "translation": "可向宗主国交易的额外资源",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_COST_FACTOR:1",
+        "original": "Overlord trade cost",
+        "translation": "宗主国贸易花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_COST_FACTOR_DESC:0",
+        "original": "Resources per factory in trade from subject to overlord",
+        "translation": "附庸向宗主国交易的每工厂资源",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIC_TO_OVERLORD_FACTOR:0",
+        "original": "Civilian industry to overlord",
+        "translation": "宗主国可用民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIC_TO_OVERLORD_FACTOR_DESC:0",
+        "original": "How many §Ycivilian§! factories are controlled by subjects overlord",
+        "translation": "宗主国控制的§Y民用§!工厂数量",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MIC_TO_OVERLORD_FACTOR:0",
+        "original": "Military industry to overlord",
+        "translation": "宗主国可用军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MIC_TO_OVERLORD_FACTOR_DESC:0",
+        "original": "How many §Ymilitary§! factories are controlled by subjects overlord",
+        "translation": "宗主国控制的§Y军用§!工厂数量",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_TRADE:0",
+        "original": "Freedom gain by trade",
+        "translation": "贸易自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_TRADE_DESC:0",
+        "original": "Effect on freedom gained from trade",
+        "translation": "贸易带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_TRADE_FACTOR:0",
+        "original": "Freedom gain by trade",
+        "translation": "贸易自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_TRADE_FACTOR_DESC:0",
+        "original": "Effect on freedom gained from trade",
+        "translation": "贸易带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD:0",
+        "original": "Freedom gain by lend lease to overlord",
+        "translation": "向宗主国租借自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC:0",
+        "original": "Effect on freedom gained or lossed by subject from lend lease to overlord",
+        "translation": "附庸因为向宗主国租借带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT:0",
+        "original": "Freedom gain by subject from lend lease from overlord",
+        "translation": "从宗主国租借自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC:0",
+        "original": "Effect on freedom gained or lossed by subject from lend lease fromt overlord",
+        "translation": "附庸因为从宗主国租借带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR:0",
+        "original": "Freedom gain by lend lease to overlord",
+        "translation": "向宗主国租借自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC:0",
+        "original": "Effect on freedom gained or lossed by subject from lend lease to overlord",
+        "translation": "附庸因为向宗主国租借带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR:0",
+        "original": "Freedom gain by subject from lend lease from overlord",
+        "translation": "从宗主国租借自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC:0",
+        "original": "Effect on freedom gained or lossed by subject from lend lease fromt overlord",
+        "translation": "附庸因为从宗主国租借带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_WARSCORE:0",
+        "original": "Freedom gain by war score",
+        "translation": "战争贡献度自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_WARSCORE_DESC:0",
+        "original": "Effect on freedom gained from war participation",
+        "translation": "战争贡献度带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_WARSCORE_FACTOR:0",
+        "original": "Freedom gain by war score",
+        "translation": "战争贡献度自治度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_WARSCORE_FACTOR_DESC:0",
+        "original": "Effect on freedom gained from war participation",
+        "translation": "战争贡献度带来的自治度增减",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESEARCH_SHARING_PER_COUNTRY_BONUS:0",
+        "original": "Technology sharing bonus",
+        "translation": "科技共享加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RESEARCH_SHARING_PER_COUNTRY_BONUS_FACTOR:0",
+        "original": "Technology sharing bonus",
+        "translation": "科技共享加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAN_MASTER_BUILD_FOR_US:0",
+        "original": "Master can build constructions on the subject's territory",
+        "translation": "宗主国可以在附庸领土内进行建设",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_SUBJECT_GAIN:0",
+        "original": "Master impact",
+        "translation": "宗主国影响",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIVIL_WAR_INVOLVEMENT_TENSION:0",
+        "original": "Civil war involvement tension",
+        "translation": "参加内战紧张度",
+        "stage": 1
+    },
+    {
+        "key": "MASTER_BUILDS_FREEDOM_EFFECT:0",
+        "original": "Autonomy effect from master building",
+        "translation": "宗主国建设自治度效果",
+        "stage": 1
+    },
+    {
+        "key": "MASTER_BUILDS_FREEDOM_EFFECT_DESC:0",
+        "original": "Investments in the economy of a subject nation set back the progress made towards independence.",
+        "translation": "向附庸进行经济投资重置独立进程",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_COST_FACTOR:0",
+        "original": "Army Leader Cost",
+        "translation": "陆军指挥官花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_COST_FACTOR_DESC:0",
+        "original": "Modifies the cost of army leaders",
+        "translation": "改变海军指挥官的花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_LEADER_COST_FACTOR:0",
+        "original": "Navy Leader Cost",
+        "translation": "海军指挥官花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVY_LEADER_COST_FACTOR_DESC:0",
+        "original": "Modifies the cost of navy leaders",
+        "translation": "改变海军指挥官的花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MILITARY_LEADER_COST_FACTOR:0",
+        "original": "Military Leader Cost",
+        "translation": "指挥官花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MILITARY_LEADER_COST_FACTOR_DESC:0",
+        "original": "Modifies the cost of military leaders",
+        "translation": "改变指挥官的花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN:0",
+        "original": "Daily autonomy progress gain",
+        "translation": "每日自治度进程增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_START_LEVEL:1",
+        "original": "Starting level of new army leaders",
+        "translation": "新陆军指挥官初始等级",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_START_ATTACK_LEVEL:0",
+        "original": "Starting Attack skill level of new army leaders",
+        "translation": "新将领初始进攻能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL:0",
+        "original": "Starting Defense skill level of new army leaders",
+        "translation": "新将领初始防御能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_START_LOGISTICS_LEVEL:0",
+        "original": "Starting Logistics skill level of new army leaders",
+        "translation": "新将领初始后勤能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_START_PLANNING_LEVEL:0",
+        "original": "Starting Planning skill level of new army leaders",
+        "translation": "新将领初始规划能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INDUSTRY_FREE_REPAIR_FACTOR:0",
+        "original": "Free repair",
+        "translation": "免费维修",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MASTER_BUILD_AUTONOMY_FACTOR:0",
+        "original": "Autonomy from building",
+        "translation": "建设自治度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_NON_CORE_MANPOWER:0",
+        "original": "Local Non-core Manpower",
+        "translation": "本地非核心人力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_NON_CORE_MANPOWER:0",
+        "original": "Non-core Manpower",
+        "translation": "非核心人力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MOBILIZATION_SPEED:0",
+        "original": "Mobilization speed",
+        "translation": "动员速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR:0",
+        "original": "Improve relations maintain cost",
+        "translation": "改善关系持续花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_PURCHASE_COST:0",
+        "original": "License puchase cost",
+        "translation": "生产许可购买花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_AIR_PURCHASE_COST:0",
+        "original": "Air license purchase cost",
+        "translation": "空军装备生产许可购买花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_INFANTRY_PURCHASE_COST:0",
+        "original": "Infantry license purchase cost",
+        "translation": "步兵装备生产许可购买花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_ARMOR_PURCHASE_COST:0",
+        "original": "Armor license purchase cost",
+        "translation": "装甲车辆生产许可购买花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_NAVAL_PURCHASE_COST:0",
+        "original": "Naval license purchase cost",
+        "translation": "海军装备生产许可购买花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_PRODUCTION_SPEED:0",
+        "original": "License production speed",
+        "translation": "许可装备生产速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_TECH_DIFFERENCE_SPEED:1",
+        "original": "License production speed from technology difference",
+        "translation": "科技差导致的生产速度差距",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EQUIPMENT_CONVERSION_SPEED:0",
+        "original": "Conversion speed bonus",
+        "translation": "改装速度加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR:0",
+        "original": "Cold acclimatization gain factor",
+        "translation": "寒冷适应度增长速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR:0",
+        "original": "Hot acclimatization gain factor",
+        "translation": "炎热适应度增长速度",
+        "stage": 1
+    },
+    {
+        "key": "mobilization_laws_cost_factor:0",
+        "original": "Mobilization Laws cost",
+        "translation": "征兵法案花费",
+        "stage": 1
+    },
+    {
+        "key": "trade_laws_cost_factor:0",
+        "original": "Trade Laws cost",
+        "translation": "贸易法案花费",
+        "stage": 1
+    },
+    {
+        "key": "economy_cost_factor:0",
+        "original": "Economy cost",
+        "translation": "经济法案花费",
+        "stage": 1
+    },
+    {
+        "key": "political_advisor_cost_factor:0",
+        "original": "Political Advisor Cost",
+        "translation": "政治顾问花费",
+        "stage": 1
+    },
+    {
+        "key": "tank_manufacturer_cost_factor:0",
+        "original": "Tank Manufacturer Cost",
+        "translation": "装甲制造商花费",
+        "stage": 1
+    },
+    {
+        "key": "naval_manufacturer_cost_factor:0",
+        "original": "Naval Manufacturer Cost",
+        "translation": "海军制造商花费",
+        "stage": 1
+    },
+    {
+        "key": "aircraft_manufacturer_cost_factor:0",
+        "original": "Aircraft Manufacturer Cost",
+        "translation": "飞机制造商花费",
+        "stage": 1
+    },
+    {
+        "key": "materiel_manufacturer_cost_factor:0",
+        "original": "Materiel Manufacturer Cost",
+        "translation": "军需品设计花费",
+        "stage": 1
+    },
+    {
+        "key": "industrial_concern_cost_factor:0",
+        "original": "Industrial Concern Cost",
+        "translation": "工业企业花费",
+        "stage": 1
+    },
+    {
+        "key": "theorist_cost_factor:0",
+        "original": "Theorist Cost",
+        "translation": "理论家花费",
+        "stage": 1
+    },
+    {
+        "key": "army_chief_cost_factor:0",
+        "original": "Army Chief  Cost",
+        "translation": "陆军部长花费",
+        "stage": 1
+    },
+    {
+        "key": "navy_chief_cost_factor:0",
+        "original": "Navy Chief  Cost",
+        "translation": "海军部长花费",
+        "stage": 1
+    },
+    {
+        "key": "air_chief_cost_factor:0",
+        "original": "Air Chief Cost",
+        "translation": "空军部长花费",
+        "stage": 1
+    },
+    {
+        "key": "high_command_cost_factor:0",
+        "original": "High Command Cost",
+        "translation": "总司令花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AI_LICENSE_ACCEPTANCE:0",
+        "original": "Acceptance when requesting to buy license",
+        "translation": "允许购买生产许可倾向",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GUARANTEE_COST:0",
+        "original": "Guarantee Cost",
+        "translation": "保障独立花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AUTONOMY_GAIN_GLOBAL_FACTOR:0",
+        "original": "All autonomy gain",
+        "translation": "全局自治度增加",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST:0",
+        "original": "License cost between subject and master",
+        "translation": "宗主国和附庸间生产许可花费",
+        "stage": 1
+    },
+    {
+        "key": "stability_good_modifier:0",
+        "original": "Stability",
+        "translation": "稳定度",
+        "stage": 1
+    },
+    {
+        "key": "stability_bad_modifier:0",
+        "original": "Stability",
+        "translation": "稳定度",
+        "stage": 1
+    },
+    {
+        "key": "war_support_modifier:0",
+        "original": "War Support",
+        "translation": "战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "war_support_good_modifier:0",
+        "original": "War Support",
+        "translation": "战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "war_support_bad_modifier:0",
+        "original": "War Support",
+        "translation": "战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_FACTOR:0",
+        "original": "Stability",
+        "translation": "稳定度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_WEEKLY:0",
+        "original": "Weekly Stability",
+        "translation": "每周稳定度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_WEEKLY_FACTOR:0",
+        "original": "Weekly Stability Gain",
+        "translation": "每周稳定度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_POPULARITY_FACTOR:0",
+        "original": "Party Popularity Stability Modifier",
+        "translation": "党派支持度对稳定度修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_WAR_FACTOR:0",
+        "original": "War Penalty Stability Modifier",
+        "translation": "战争惩罚对稳定度修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR:0",
+        "original": "Offensive War Penalty Stability Modifier",
+        "translation": "侵略战争对稳定度修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR:0",
+        "original": "Defensive War Penalty Stability Modifier",
+        "translation": "防御战争对稳定度修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SURRENDER_LIMIT:0",
+        "original": "Surrender Limit",
+        "translation": "投降限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FORCED_SURRENDER_LIMIT:0",
+        "original": "Surrender Limit",
+        "translation": "投降限制",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WAR_SUPPORT_FACTOR:0",
+        "original": "War Support",
+        "translation": "战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WAR_SUPPORT_WEEKLY:0",
+        "original": "Weekly War Support",
+        "translation": "每周战争支持度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR:0",
+        "original": "Weekly War Support Gain",
+        "translation": "每周战争支持度增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EQUIPMENT_CAPTURE:0",
+        "original": "Equipment Capture Ratio Gain",
+        "translation": "装备缴获比例增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMMAND_POWER_GAIN:0",
+        "original": "Daily Command Power Gain",
+        "translation": "每日指挥点数增长",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_COMMAND_POWER:0",
+        "original": "Maximum Command Power Increase",
+        "translation": "最大指挥点数提高",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_COMMAND_POWER_GAIN_MULT:0",
+        "original": "Daily Command Power Gain Multiplier",
+        "translation": "每日指挥点数增长乘数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAX_COMMAND_POWER_MULT:0",
+        "original": "Maximum Command Power Increase Multiplier",
+        "translation": "最大指挥点数提高乘数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY:0",
+        "original": "Attack bonus against country",
+        "translation": "我国对其进攻修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES:0",
+        "original": "Attack on their core territory",
+        "translation": "我国对其核心领土进攻",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY:0",
+        "original": "Defense bonus against country",
+        "translation": "我国对其防御修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIVILIAN_FACTORY_USE:0",
+        "original": "Civilian Factory Use",
+        "translation": "民用工厂运作",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE:1",
+        "original": "General Max Army Size",
+        "translation": "将军最大集团军规模",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE:0",
+        "original": "Field Marshal Max Army Size",
+        "translation": "元帅最大集团军规模",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE:0",
+        "original": "General Max Army Group Size",
+        "translation": "将军最大集团军群规模",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE:0",
+        "original": "Field Marshal Max Army Group Size",
+        "translation": "元帅最大集团军群规模",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TERRAIN_PENALTY_REDUCTION:0",
+        "original": "Terrain Penalty Reduction",
+        "translation": "地形惩罚降低",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EQUIPMENT_CAPTURE_FACTOR:0",
+        "original": "Equipment Capture Ratio Modifier",
+        "translation": "装备缴获比例修正",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE:0",
+        "original": "Extra Paratrooper Supply Grace",
+        "translation": "伞兵额外所得补给",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MARINE_EXTRA_SUPPLY_GRACE:0",
+        "original": "Extra Marine Supply Grace",
+        "translation": "海军陆战队额外所得补给",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAS_DAMAGE_REDUCTION:0",
+        "original": "Damage Reduction Against CAS",
+        "translation": "近空支援造成伤害降低",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT:0",
+        "original": "Air Superiority Bonus in Combat",
+        "translation": "战斗中空优加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SHORE_BOMBARDMENT:0",
+        "original": "Shore Bombardment Bonus",
+        "translation": "海岸轰炸加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED:0",
+        "original": "Recon Bonus While Entrenched",
+        "translation": "堑壕中侦查加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CANNOT_USE_ABILITIES:0",
+        "original": "Cannot Use Combat Abilities",
+        "translation": "无法使用作战能力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR:0",
+        "original": "Leader Skill Bonuses",
+        "translation": "指挥官技能加成",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR:0",
+        "original": "Promotion Cost",
+        "translation": "晋升花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SICKNESS_CHANCE:0",
+        "original": "Chance to Get Sick",
+        "translation": "伤病几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_RIVER_CROSSING_PENALTY_FACTOR:1",
+        "original": "River Crossing Speed Penalty",
+        "translation": "跨河速度惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE:0",
+        "original": "No Entrenchment Lose On Attack",
+        "translation": "进攻时无堑壕值损失",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_CAP:0",
+        "original": "Special Forces Capacity Multiplier",
+        "translation": "特种部队容量上限乘数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_MIN:0",
+        "original": "Special Forces Minimum Capacity",
+        "translation": "特种部队最低容量",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_UNIT_SIZE_FACTOR_FOR_PARADROP:0",
+        "original": "Paratrooper per Plane",
+        "translation": "每架飞机搭载伞兵数量",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARADROP_ORGANIZATION_FACTOR:0",
+        "original": "Paratrooper Organization Factor",
+        "translation": "伞兵组织度因素",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PARATROOPER_DEFENSE:0",
+        "original": "Paratrooper Anti Air Defense",
+        "translation": "伞兵对空防御",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FORTIFICATION_COLLATERAL_CHANCE:1",
+        "original": "Fort Combat Damage Chance",
+        "translation": "工事因战斗受损几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FORTIFICATION_COLLATERAL_DAMAGE:1",
+        "original": "Fort Damage from Combat",
+        "translation": "工事因战斗受损",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIC_TO_TARGET_FACTOR:0",
+        "original": "Civilian industry to target country",
+        "translation": "该国所拥民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CIC_TO_TARGET_FACTOR_DESC:0",
+        "original": "How many §YCivilian§! factories are controlled by target country",
+        "translation": "该国控制着多少§Y民用§!工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MIC_TO_TARGET_FACTOR:0",
+        "original": "Military industry to target country",
+        "translation": "该国所拥军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MIC_TO_TARGET_FACTOR_DESC:0",
+        "original": "How many §YMilitary§! factories are controlled by target country",
+        "translation": "该国控制着多少§Y军用§!工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_TO_TARGET_FACTOR:0",
+        "original": "Extra trade to overlord",
+        "translation": "对宗主的额外贸易",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_TO_TARGET_FACTOR_DESC:0",
+        "original": "Extra produced recourses available for trade to target country",
+        "translation": "可与该国交易额外可用生产资源",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_COST_TO_TARGET_FACTOR:0",
+        "original": "Target country trade cost",
+        "translation": "对该国贸易成本",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC:0",
+        "original": "Resources per factory in trade between countries",
+        "translation": "各国间贸易资源所用工厂",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE:0",
+        "original": "Special Forces Supply Grace",
+        "translation": "特种部队所得补给",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE_DESC:0",
+        "original": "Extra hours that our Special Forces divisions can last without supplies.",
+        "translation": "我军特种部队可在无补给情况下维持的额外时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR:0",
+        "original": "Special Forces Out of Supply",
+        "translation": "特种部队缺乏补给",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC:0",
+        "original": "Reduces the penalty that our Special Forces divisions take when they run out of supplies.",
+        "translation": "降低我军特种部队在无补给时所受惩罚",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_REASSIGNMENT_DURATION_FACTOR:0",
+        "original": "Army reassignment duration",
+        "translation": "重新任命所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC:0",
+        "original": "Increases the en route duration for the general",
+        "translation": "增加将军赴任所需时间",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WOUNDED_CHANCE_FACTOR:1",
+        "original": "Chance to get wounded in combat",
+        "translation": "战斗中受伤几率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_WOUNDED_CHANCE_FACTOR_DESC:1",
+        "original": "How likely your general is to become wounded after losing a combat.",
+        "translation": "该值决定在战斗失利后你的将军是否会受伤。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_PREPARATION_SPEED:0",
+        "original": "Invasion Preparation Speed",
+        "translation": "入侵准备速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC:0",
+        "original": "Naval invasion plan speed factor",
+        "translation": "渡海入侵计划速度因素",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR:0",
+        "original": "Static Anti Air damage factor",
+        "translation": "防空火炮伤害修正系数",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR:0",
+        "original": "Static Anti Air hit chance factor",
+        "translation": "防空火炮命中修正系数",
+        "stage": 1
+    }
+]

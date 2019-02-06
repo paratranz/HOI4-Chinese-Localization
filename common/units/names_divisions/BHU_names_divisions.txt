@@ -1,0 +1,666 @@
+BHU_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dth Infantry Division"
+  ordered = {
+    24 = {
+      "Household Division"
+    }
+    25 = {
+      "Royal Division"
+    }
+    1 = {
+      "%dst Infantry Division"
+    }
+    2 = {
+      "%dnd Infantry Division"
+    }
+    3 = {
+      "%drd Infantry Division"
+    }
+    4 = {
+      "%dth Infantry Division"
+    }
+    5 = {
+      "%dth Infantry Division"
+    }
+    6 = {
+      "%dth Infantry Division"
+    }
+    7 = {
+      "%dth Infantry Division"
+    }
+    8 = {
+      "%dth Infantry Division"
+    }
+    9 = {
+      "%dth Infantry Division"
+    }
+    10 = {
+      "%dth Infantry Division"
+    }
+    11 = {
+      "%dth Infantry Division"
+    }
+    12 = {
+      "%dth Infantry Division"
+    }
+    13 = {
+      "%dth Infantry Division"
+    }
+    14 = {
+      "%dth Infantry Division"
+    }
+    15 = {
+      "%dth Infantry Division"
+    }
+    16 = {
+      "%dth Infantry Division"
+    }
+    17 = {
+      "%dth Infantry Division"
+    }
+    18 = {
+      "%dth Infantry Division"
+    }
+    19 = {
+      "%dth Infantry Division"
+    }
+    20 = {
+      "%dth Infantry Division"
+    }
+    21 = {
+      "%dst Infantry Division"
+    }
+    22 = {
+      "%dnd Infantry Division"
+    }
+    23 = {
+      "%drd Infantry Division"
+    }
+  }
+}
+BHU_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dth Cavalry Division"
+  ordered = {
+    1 = {
+      "%dst Cavalry Division"
+    }
+    2 = {
+      "%dnd Cavalry Division"
+    }
+    3 = {
+      "%drd Cavalry Division"
+    }
+    4 = {
+      "%dth Cavalry Division"
+    }
+    5 = {
+      "%dth Cavalry Division"
+    }
+    6 = {
+      "%dth Cavalry Division"
+    }
+    7 = {
+      "%dth Cavalry Division"
+    }
+    8 = {
+      "%dth Cavalry Division"
+    }
+    9 = {
+      "%dth Cavalry Division"
+    }
+    10 = {
+      "%dth Cavalry Division"
+    }
+    11 = {
+      "%dth Cavalry Division"
+    }
+    12 = {
+      "%dth Cavalry Division"
+    }
+    13 = {
+      "%dth Cavalry Division"
+    }
+    14 = {
+      "%dth Cavalry Division"
+    }
+    15 = {
+      "%dth Cavalry Division"
+    }
+    16 = {
+      "%dth Cavalry Division"
+    }
+    17 = {
+      "%dth Cavalry Division"
+    }
+    18 = {
+      "%dth Cavalry Division"
+    }
+    19 = {
+      "%dth Cavalry Division"
+    }
+    20 = {
+      "%dth Cavalry Division"
+    }
+    21 = {
+      "%dst Cavalry Division"
+    }
+    22 = {
+      "%dnd Cavalry Division"
+    }
+    23 = {
+      "%drd Cavalry Division"
+    }
+  }
+}
+BHU_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    BHU_INF_01
+  }
+  fallback_name = "%dth Motorised Division"
+  ordered = {
+    24 = {
+      "Household Division"
+    }
+    25 = {
+      "Royal Division"
+    }
+    1 = {
+      "%dst Motorised Division"
+    }
+    2 = {
+      "%dnd Motorised Division"
+    }
+    3 = {
+      "%drd Motorised Division"
+    }
+    4 = {
+      "%dth Motorised Division"
+    }
+    5 = {
+      "%dth Motorised Division"
+    }
+    6 = {
+      "%dth Motorised Division"
+    }
+    7 = {
+      "%dth Motorised Division"
+    }
+    8 = {
+      "%dth Motorised Division"
+    }
+    9 = {
+      "%dth Motorised Division"
+    }
+    10 = {
+      "%dth Motorised Division"
+    }
+    11 = {
+      "%dth Motorised Division"
+    }
+    12 = {
+      "%dth Motorised Division"
+    }
+    13 = {
+      "%dth Motorised Division"
+    }
+    14 = {
+      "%dth Motorised Division"
+    }
+    15 = {
+      "%dth Motorised Division"
+    }
+    16 = {
+      "%dth Motorised Division"
+    }
+    17 = {
+      "%dth Motorised Division"
+    }
+    18 = {
+      "%dth Motorised Division"
+    }
+    19 = {
+      "%dth Motorised Division"
+    }
+    20 = {
+      "%dth Motorised Division"
+    }
+    21 = {
+      "%dst Motorised Division"
+    }
+    22 = {
+      "%dnd Motorised Division"
+    }
+    23 = {
+      "%drd Motorised Division"
+    }
+  }
+}
+BHU_ARM_01 = {
+  name = "Armored Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dth Armored Division"
+  ordered = {
+    1 = {
+      "%dst Armored Division"
+    }
+    2 = {
+      "%dnd Armored Division"
+    }
+    3 = {
+      "%drd Armored Division"
+    }
+    4 = {
+      "%dth Armored Division"
+    }
+    5 = {
+      "%dth Armored Division"
+    }
+    6 = {
+      "%dth Armored Division"
+    }
+    7 = {
+      "%dth Armored Division"
+    }
+    8 = {
+      "%dth Armored Division"
+    }
+    9 = {
+      "%dth Armored Division"
+    }
+    10 = {
+      "%dth Armored Division"
+    }
+    11 = {
+      "%dth Armored Division"
+    }
+    12 = {
+      "%dth Armored Division"
+    }
+    13 = {
+      "%dth Armored Division"
+    }
+    14 = {
+      "%dth Armored Division"
+    }
+    15 = {
+      "%dth Armored Division"
+    }
+    16 = {
+      "%dth Armored Division"
+    }
+    17 = {
+      "%dth Armored Division"
+    }
+    18 = {
+      "%dth Armored Division"
+    }
+    19 = {
+      "%dth Armored Division"
+    }
+    20 = {
+      "%dth Armored Division"
+    }
+    21 = {
+      "%dst Armored Division"
+    }
+    22 = {
+      "%dnd Armored Division"
+    }
+    23 = {
+      "%drd Armored Division"
+    }
+  }
+}
+BHU_MEC_01 = {
+  name = "Mechanized Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    BHU_INF_01
+  }
+  fallback_name = "%dth Mechanized Division"
+  ordered = {
+    24 = {
+      "Household Division"
+    }
+    25 = {
+      "Royal Division"
+    }
+    1 = {
+      "%dst Mechanized Division"
+    }
+    2 = {
+      "%dnd Mechanized Division"
+    }
+    3 = {
+      "%drd Mechanized Division"
+    }
+    4 = {
+      "%dth Mechanized Division"
+    }
+    5 = {
+      "%dth Mechanized Division"
+    }
+    6 = {
+      "%dth Mechanized Division"
+    }
+    7 = {
+      "%dth Mechanized Division"
+    }
+    8 = {
+      "%dth Mechanized Division"
+    }
+    9 = {
+      "%dth Mechanized Division"
+    }
+    10 = {
+      "%dth Mechanized Division"
+    }
+    11 = {
+      "%dth Mechanized Division"
+    }
+    12 = {
+      "%dth Mechanized Division"
+    }
+    13 = {
+      "%dth Mechanized Division"
+    }
+    14 = {
+      "%dth Mechanized Division"
+    }
+    15 = {
+      "%dth Mechanized Division"
+    }
+    16 = {
+      "%dth Mechanized Division"
+    }
+    17 = {
+      "%dth Mechanized Division"
+    }
+    18 = {
+      "%dth Mechanized Division"
+    }
+    19 = {
+      "%dth Mechanized Division"
+    }
+    20 = {
+      "%dth Mechanized Division"
+    }
+    21 = {
+      "%dst Mechanized Division"
+    }
+    22 = {
+      "%dnd Mechanized Division"
+    }
+    23 = {
+      "%drd Mechanized Division"
+    }
+  }
+}
+BHU_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dth Garrison Division"
+  ordered = {
+    1 = {
+      "%dst Garrison Division"
+    }
+    2 = {
+      "%dnd Garrison Division"
+    }
+    3 = {
+      "%drd Garrison Division"
+    }
+    4 = {
+      "%dth Garrison Division"
+    }
+    5 = {
+      "%dth Garrison Division"
+    }
+    6 = {
+      "%dth Garrison Division"
+    }
+    7 = {
+      "%dth Garrison Division"
+    }
+    8 = {
+      "%dth Garrison Division"
+    }
+    9 = {
+      "%dth Garrison Division"
+    }
+    10 = {
+      "%dth Garrison Division"
+    }
+    11 = {
+      "%dth Garrison Division"
+    }
+    12 = {
+      "%dth Garrison Division"
+    }
+    13 = {
+      "%dth Garrison Division"
+    }
+    14 = {
+      "%dth Garrison Division"
+    }
+    15 = {
+      "%dth Garrison Division"
+    }
+    16 = {
+      "%dth Garrison Division"
+    }
+    17 = {
+      "%dth Garrison Division"
+    }
+    18 = {
+      "%dth Garrison Division"
+    }
+    19 = {
+      "%dth Garrison Division"
+    }
+    20 = {
+      "%dth Garrison Division"
+    }
+    21 = {
+      "%dst Garrison Division"
+    }
+    22 = {
+      "%dnd Garrison Division"
+    }
+    23 = {
+      "%drd Garrison Division"
+    }
+  }
+}
+BHU_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dth Marine Division"
+  ordered = {
+    1 = {
+      "%dst Marine Division"
+    }
+    2 = {
+      "%dnd Marine Division"
+    }
+    3 = {
+      "%drd Marine Division"
+    }
+    4 = {
+      "%dth Marine Division"
+    }
+    5 = {
+      "%dth Marine Division"
+    }
+    6 = {
+      "%dth Marine Division"
+    }
+    7 = {
+      "%dth Marine Division"
+    }
+    8 = {
+      "%dth Marine Division"
+    }
+    9 = {
+      "%dth Marine Division"
+    }
+    10 = {
+      "%dth Marine Division"
+    }
+  }
+}
+BHU_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%dth Gurkha Division"
+  ordered = {
+    1 = {
+      "%dst Gurkha Division"
+    }
+    2 = {
+      "%dnd Gurkha Division"
+    }
+    3 = {
+      "%drd Gurkha Division"
+    }
+    4 = {
+      "%dth Gurkha Division"
+    }
+    5 = {
+      "%dth Gurkha Division"
+    }
+    6 = {
+      "%dth Gurkha Division"
+    }
+    7 = {
+      "%dth Gurkha Division"
+    }
+    8 = {
+      "%dth Gurkha Division"
+    }
+    9 = {
+      "%dth Gurkha Division"
+    }
+    10 = {
+      "%dth Gurkha Division"
+    }
+  }
+}
+BHU_PAR_01 = {
+  name = "Airborne Divisions"
+  for_countries = {
+    BHU
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dth Airborne Division"
+  ordered = {
+    1 = {
+      "%dst Airborne Division"
+    }
+    2 = {
+      "%dnd Airborne Division"
+    }
+    3 = {
+      "%drd Airborne Division"
+    }
+    4 = {
+      "%dth Airborne Division"
+    }
+    5 = {
+      "%dth Airborne Division"
+    }
+    6 = {
+      "%dth Airborne Division"
+    }
+    7 = {
+      "%dth Airborne Division"
+    }
+    8 = {
+      "%dth Airborne Division"
+    }
+    9 = {
+      "%dth Airborne Division"
+    }
+    10 = {
+      "%dth Airborne Division"
+    }
+  }
+}

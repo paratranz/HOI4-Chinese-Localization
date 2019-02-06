@@ -1,0 +1,597 @@
+ARM_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dya Armyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+  }
+}
+ARM_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dya Armyanska Kavaleriyskaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    2 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    3 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    4 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    5 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    6 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    7 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    8 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    9 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+    10 = {
+      "%dya Armyanska Kavaleriyskaya Div."
+    }
+  }
+}
+ARM_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    ARM_INF_01
+  }
+  fallback_name = "%dya Armyanska Motorizovannaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    2 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    3 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    4 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    5 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    6 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    7 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    8 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    9 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    10 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    11 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    12 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    13 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    14 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    15 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    16 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    17 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    18 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    19 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    20 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    21 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    22 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    23 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    24 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+    25 = {
+      "%dya Armyanska Motorizovannaya Div."
+    }
+  }
+}
+ARM_ARM_01 = {
+  name = "Armored Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dya Armyanska Tankovaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    2 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    3 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    4 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    5 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    6 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    7 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    8 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    9 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+    10 = {
+      "%dya Armyanska Tankovaya Div."
+    }
+  }
+}
+ARM_MEC_01 = {
+  name = "Mechanized Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    ARM_INF_01
+  }
+  fallback_name = "%dya Armyanska Motostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    2 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    3 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    4 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    5 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    6 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    7 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    8 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    9 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    10 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    11 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    12 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    13 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    14 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    15 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    16 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    17 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    18 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    19 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    20 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    21 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    22 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    23 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    24 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+    25 = {
+      "%dya Armyanska Motostrelkovaya Div."
+    }
+  }
+}
+ARM_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    ARM_INF_01
+  }
+  fallback_name = "%dya Armyanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    7 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    9 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    15 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    18 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    20 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Armyanska Strelkovaya Div."
+    }
+  }
+}
+ARM_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dya Armyanska Div. Morskoi Pekhoty"
+  ordered = {
+    1 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    2 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    3 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    4 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    5 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    6 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    7 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    8 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    9 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+    10 = {
+      "%dya Armyanska Div. Morskoi Pekhoty"
+    }
+  }
+}
+ARM_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%dya Armyanska Gornostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    2 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    3 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    4 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    5 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    6 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    7 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    8 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    9 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+    10 = {
+      "%dya Armyanska Gornostrelkovaya Div."
+    }
+  }
+}
+ARM_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    ARM
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dya Armyanska Vozdushno-Desantnaya Div."
+  ordered = {
+    1 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    2 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    3 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    4 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    5 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    6 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    7 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    8 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    9 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+    10 = {
+      "%dya Armyanska Vozdushno-Desantnaya Div."
+    }
+  }
+}

@@ -1,0 +1,537 @@
+TAN_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%dya Tuvanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+  }
+}
+TAN_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%dya Tuvanska Kavaleriyskaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    7 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    9 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Kavaleriyskaya Div."
+    }
+  }
+}
+TAN_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    TAN_INF_01
+  }
+  fallback_name = "%dya Tuvanska Motorizovannaya Div."
+  ordered = {
+    2 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    1 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    11 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    12 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    13 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    14 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    16 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    17 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    19 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    21 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    22 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    23 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    24 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+    25 = {
+      "%dya Tuvanska Motorizovannaya Div."
+    }
+  }
+}
+TAN_ARM_01 = {
+  name = "Armored Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%dya Tuvanska Tankovaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    7 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    9 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Tankovaya Div."
+    }
+  }
+}
+TAN_MEC_01 = {
+  name = "Mechanized Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    TAN_INF_01
+  }
+  fallback_name = "%dya Tuvanska Motostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    11 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    12 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    13 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    14 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    16 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    17 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    19 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    21 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    22 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    23 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    24 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+    25 = {
+      "%dya Tuvanska Motostrelkovaya Div."
+    }
+  }
+}
+TAN_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    TAN_INF_01
+  }
+  fallback_name = "%dya Tuvanska Strelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    11 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    12 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    13 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    14 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    16 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    17 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    19 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    21 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    22 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    23 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    24 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+    25 = {
+      "%dya Tuvanska Strelkovaya Div."
+    }
+  }
+}
+TAN_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%dya Tuvanska Div. Morskoi Pekhoty"
+  ordered = {
+    1 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    2 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    3 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    4 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    5 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    6 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    7 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    8 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    9 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+    10 = {
+      "%dya Tuvanska Div. Morskoi Pekhoty"
+    }
+  }
+}
+TAN_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%dya Tuvanska Gornostrelkovaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    7 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    9 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Gornostrelkovaya Div."
+    }
+  }
+}
+TAN_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    TAN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%dya Tuvanska Vozdushno-Desantnaya Div."
+  ordered = {
+    1 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    2 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    3 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    4 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    5 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    6 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    7 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    8 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    9 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+    10 = {
+      "%dya Tuvanska Vozdushno-Desantnaya Div."
+    }
+  }
+}

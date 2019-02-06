@@ -1,0 +1,770 @@
+[
+    {
+        "key": "POL_fighter_equipment_0:0",
+        "original": "PZL.11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_0_short:0",
+        "original": "PZL.11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_0:0",
+        "original": "PZL.11 Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_0_short:0",
+        "original": "PZL.11 Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_1:0",
+        "original": "PZL.50 Jastrząb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_1_short:0",
+        "original": "Jastrząb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_1:0",
+        "original": "PZL.50 Jastrząb Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_1_short:0",
+        "original": "Jastrząb Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_2:0",
+        "original": "PZL.56 Kania",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_2_short:0",
+        "original": "Kania",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_2:0",
+        "original": "PZL.56 Kania Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_2_short:0",
+        "original": "Kania Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_3:0",
+        "original": "PZL.62 Pustułka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_fighter_equipment_3_short:0",
+        "original": "Pustułka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_3:0",
+        "original": "PZL.62 Pustułka Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_fighter_equipment_3_short:0",
+        "original": "Pustułka Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_fighter_equipment_1:0",
+        "original": "PZL.71 Orzeł",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_fighter_equipment_1_short:0",
+        "original": "Orzeł",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_fighter_equipment_2:0",
+        "original": "PZL.76 Sęp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_fighter_equipment_2_short:0",
+        "original": "Sęp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_1:0",
+        "original": "PZL.23 Karaś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_1_short:0",
+        "original": "Karaś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_1:0",
+        "original": "PZL.23 Karaś Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_1_short:0",
+        "original": "Karaś Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_2:0",
+        "original": "PZL.46 Sum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_2_short:0",
+        "original": "Sum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_2:0",
+        "original": "PZL.46 Sum Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_2_short:0",
+        "original": "Sum Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_3:0",
+        "original": "PZL.59 Okoń",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_CAS_equipment_3_short:0",
+        "original": "Okoń",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_3:0",
+        "original": "PZL.59 Okoń Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_CAS_equipment_3_short:0",
+        "original": "Okoń Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_1:0",
+        "original": "PZL.38 Wilk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_1_short:0",
+        "original": "Wilk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_2:0",
+        "original": "PZL.54 Ryś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_2_short:0",
+        "original": "Ryś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_3:0",
+        "original": "PZL.65 Lis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_fighter_equipment_3_short:0",
+        "original": "Lis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_0:0",
+        "original": "LWS-6 Żubr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_0_short:0",
+        "original": "Żubr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_1:0",
+        "original": "PZL.37 Łoś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_1_short:0",
+        "original": "Łoś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_2:0",
+        "original": "PZL.49 Miś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_2_short:0",
+        "original": "Miś",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_3:0",
+        "original": "PZL.63 Dzik",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_tac_bomber_equipment_3_short:0",
+        "original": "Dzik",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_tac_bomber_equipment_1:0",
+        "original": "PZL.70 Borsuk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_tac_bomber_equipment_1_short:0",
+        "original": "Borsuk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_tac_bomber_equipment_2:0",
+        "original": "PZL.78 Rosomak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_tac_bomber_equipment_2_short:0",
+        "original": "Rosomak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_1:0",
+        "original": "PZL.57 Foka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_1_short:0",
+        "original": "Foka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_1:0",
+        "original": "PZL.57 Foka Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_1_short:0",
+        "original": "Foka Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_2:0",
+        "original": "PZL.60 Lew Morski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_2_short:0",
+        "original": "Lew Morski",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_2:0",
+        "original": "PZL.60 Lew Morski Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_2_short:0",
+        "original": "Lew Morski Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_3:0",
+        "original": "PZL.75 Mors",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_nav_bomber_equipment_3_short:0",
+        "original": "Mors",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_3:0",
+        "original": "PZL.75 Mors Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_cv_nav_bomber_equipment_3_short:0",
+        "original": "Mors Floty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_1:0",
+        "original": "PZL.58 Pszczoła",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_1_short:0",
+        "original": "Pszczoła",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_2:0",
+        "original": "PZL.61 Osa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_2_short:0",
+        "original": "Osa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_3:0",
+        "original": "PZL.72 Szerszeń",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_strat_bomber_equipment_3_short:0",
+        "original": "Szerszeń",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_strat_bomber_equipment_1:0",
+        "original": "PZL 79 Komar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_jet_strat_bomber_equipment_1_short:0",
+        "original": "Komar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_gw_tank_equipment:0",
+        "original": "Renault FT",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_gw_tank_equipment_short:0",
+        "original": "Renault FT",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_1:0",
+        "original": "TKS",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_1_short:0",
+        "original": "TKS",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_2:0",
+        "original": "7TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_2_short:0",
+        "original": "7TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_3:0",
+        "original": "9TP Chart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_tank_equipment_3_short:0",
+        "original": "9TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_1:0",
+        "original": "10TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_1_short:0",
+        "original": "10TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_2:0",
+        "original": "14TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_2_short:0",
+        "original": "14TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_3:0",
+        "original": "41TP Husarz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_medium_tank_equipment_3_short:0",
+        "original": "Husarz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_1:0",
+        "original": "27TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_1_short:0",
+        "original": "27TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_2:0",
+        "original": "32TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_2_short:0",
+        "original": "32TP",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_3:0",
+        "original": "45TP Bestia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_tank_equipment_3_short:0",
+        "original": "Bestia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_super_heavy_tank_equipment_1:0",
+        "original": "52TP Behemot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_super_heavy_tank_equipment_1_short:0",
+        "original": "Behemot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_modern_tank_equipment_1:0",
+        "original": "57TP Ułan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_modern_tank_equipment_1_short:0",
+        "original": "Ułan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_1:0",
+        "original": "Wilk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_1_desc:0",
+        "original": "The Wilk class consisted of three submarines built by the French for the Polish Navy and commissioned in the early 1930s. They were based on the French Saphir-class design. They were fairly large submarines, displacing nearly 1,000 tons. They were armed with six 550mm torpedo tubes and could dive up to 80m.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_2:0",
+        "original": "Orzeł Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_2_desc:0",
+        "original": "The Orzeł class consisted of two Submarines built in the Netherlands for the Polish Navy. The ships were completed just months before the German invasion. They were large submarines, displacing 1,100 tons. They were armed with twelve 550mm torpedo tubes and had a diving depth of 80m.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_3:0",
+        "original": "Sokół Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_3_desc:0",
+        "original": "The two submarines of the Sokół class were British U-class submarines completed for the Polish Navy in exile in 1941-42. The ships displaced 540 tons and were armed with four 533mm torpedo tubes. They had a good complement of British radar and sonar, and a diving depth of 60m.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_submarine_4:0",
+        "original": "Delfin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_1:0",
+        "original": "Wicher Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_1_desc:0",
+        "original": "The two Wicher-class destroyers were the first large surface ships of the Polish Navy, and were commissioned between 1930 and 1932. They were large, displacing 1,540 tons. As designed, they were armed with four 130mm/40 M1924 guns, though these were upgraded to 120mm Swedish guns just before the German invasion. Their torpedo tubes and AA armament were improved as well.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_2:0",
+        "original": "Grom Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_2_desc:0",
+        "original": "The two destroyers of the Grom class were built in Britain for the Polish Navy and commissioned in 1937. They were among the largest and fastest destroyers of World War II. They displaced nearly 2,000 tons and were armed with five 120mm/50 caliber Bofors M34 cannon in their main armament. They also had six 533mm torpedo tubes and a good ASW complement.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_3:0",
+        "original": "Piorun Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_3_desc:0",
+        "original": "The Polish destroyer Piorun was a British N-class destroyer built for Polish Navy in exile and commissioned in 1940. It displaced 1,770 tons and had decent speed and reliability. It was armed with six 120mm/45 QF Mk XII cannon as its main guns, and also had five 533mm torpedo tubes, decent ASW equipment, and the then latest British radar and sonar.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_destroyer_4:0",
+        "original": "Burza Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_cruiser_1:0",
+        "original": "Warszawa Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_cruiser_2:0",
+        "original": "Łódź Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_cruiser_3:0",
+        "original": "Lwów Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_light_cruiser_4:0",
+        "original": "Poznań Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_cruiser_1:0",
+        "original": "Niemen Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_cruiser_2:0",
+        "original": "Wisła Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_cruiser_3:0",
+        "original": "Żuk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_heavy_cruiser_4:0",
+        "original": "San Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battle_cruiser_1:0",
+        "original": "Gdańsk Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battle_cruiser_2:0",
+        "original": "Cieszyn Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battleship_1:0",
+        "original": "Piast Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battleship_2:0",
+        "original": "Przemyślid Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battleship_3:0",
+        "original": "Andegawen Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_battleship_4:0",
+        "original": "Jagiellon Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_SH_battleship_1:0",
+        "original": "Piłsudski Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_SH_battleship_2:0",
+        "original": "Poniatowski Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_carrier_1:0",
+        "original": "Jan Sobieski Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_carrier_2:0",
+        "original": "Zygmunt Waza Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_carrier_3:0",
+        "original": "Stanisław August Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "POL_carrier_4:0",
+        "original": "Fryderyk August Class",
+        "translation": "",
+        "stage": 0
+    }
+]

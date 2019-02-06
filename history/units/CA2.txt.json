@@ -1,0 +1,44 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "1 Test Test",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "2 Test Test",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "2 Test Test",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Azad Hind Infantry Corps",
+        "translation": "",
+        "stage": 0
+    }
+]

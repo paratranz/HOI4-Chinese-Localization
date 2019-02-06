@@ -1,0 +1,1178 @@
+[
+    {
+        "key": "XSM_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_INF_01|fallback_name",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|102#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|101#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|103#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|104#|Xin 4 Juntuán",
+        "original": "Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|113#|3 Juntuán Linshi",
+        "original": "3 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|111#|1 Juntuán Linshi",
+        "original": "1 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|112#|2 Juntuán Linshi",
+        "original": "2 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|114#|4 Juntuán Linshi",
+        "original": "4 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|115#|5 Juntuán Linshi",
+        "original": "5 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|1#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|2#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|3#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|4#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|5#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|6#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|7#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|8#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|9#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|10#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|11#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|12#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|13#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|14#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|15#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|16#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|17#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|18#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|19#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_INF_01|ordered|20#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_CAV_01|fallback_name",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|1#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|2#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|3#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|4#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|6#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|5#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|7#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|8#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|9#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|10#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|11#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|12#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|13#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|14#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_CAV_01|ordered|15#|%d Ma Qibing Jun",
+        "original": "%d Ma Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MOT_01|name",
+        "original": "Motorized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MOT_01|fallback_name",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|102#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|101#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|103#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|104#|Xin 4 Juntuán",
+        "original": "Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|113#|3 Juntuán Linshi",
+        "original": "3 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|111#|1 Juntuán Linshi",
+        "original": "1 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|112#|2 Juntuán Linshi",
+        "original": "2 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|114#|4 Juntuán Linshi",
+        "original": "4 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|115#|5 Juntuán Linshi",
+        "original": "5 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|1#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|2#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|3#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|4#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|5#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|6#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|7#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|8#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|9#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|10#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|11#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|12#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|13#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|14#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|15#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|16#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|17#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|18#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|19#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MOT_01|ordered|20#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MEC_01|fallback_name",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|102#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|101#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|103#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|104#|Xin 4 Juntuán",
+        "original": "Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|113#|3 Juntuán Linshi",
+        "original": "3 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|111#|1 Juntuán Linshi",
+        "original": "1 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|112#|2 Juntuán Linshi",
+        "original": "2 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|114#|4 Juntuán Linshi",
+        "original": "4 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|115#|5 Juntuán Linshi",
+        "original": "5 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|1#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|2#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|3#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|4#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|5#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|6#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|7#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|8#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|9#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|10#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|11#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|12#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|13#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|14#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|15#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|16#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|17#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|18#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|19#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MEC_01|ordered|20#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_MNT_01|fallback_name",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|102#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|101#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|103#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|104#|Xin 4 Juntuán",
+        "original": "Xin 4 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|113#|3 Juntuán Linshi",
+        "original": "3 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|111#|1 Juntuán Linshi",
+        "original": "1 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|112#|2 Juntuán Linshi",
+        "original": "2 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|114#|4 Juntuán Linshi",
+        "original": "4 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|115#|5 Juntuán Linshi",
+        "original": "5 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|1#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|2#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|3#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|4#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|5#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|6#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|7#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|8#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|9#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|10#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|11#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|12#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|13#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|14#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|15#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|16#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|17#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|18#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|19#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_MNT_01|ordered|20#|%d Ma Juntuán",
+        "original": "%d Ma Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "XSM_GAR_01|fallback_name",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|101#|1 Golmud Jingbei",
+        "original": "1 Golmud Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|111#|1 Ningxia Jingbei",
+        "original": "1 Ningxia Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|121#|1 Qinghai Jingbei",
+        "original": "1 Qinghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|102#|2 Golmud Jingbei",
+        "original": "2 Golmud Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|103#|3 Golmud Jingbei",
+        "original": "3 Golmud Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|112#|2 Ningxia Jingbei",
+        "original": "2 Ningxia Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|113#|3 Ningxia Jingbei",
+        "original": "3 Ningxia Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|122#|2 Qinghai Jingbei",
+        "original": "2 Qinghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|104#|4 Golmud Jingbei",
+        "original": "4 Golmud Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|105#|5 Golmud Jingbei",
+        "original": "5 Golmud Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|123#|3 Qinghai Jingbei",
+        "original": "3 Qinghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|114#|1 Qinghai Jingbei",
+        "original": "1 Qinghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|115#|2 Qinghai Jingbei",
+        "original": "2 Qinghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|131#|Ningxia Baoan Ke",
+        "original": "Ningxia Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|132#|1 Tianshui Baoan Ke",
+        "original": "1 Tianshui Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|133#|1 Golmud Baoan Ke",
+        "original": "1 Golmud Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|134#|2 Golmud Baoan Ke",
+        "original": "2 Golmud Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|135#|3 Golmud Baoan Ke",
+        "original": "3 Golmud Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|136#|2 Tianshui Baoan Ke",
+        "original": "2 Tianshui Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|137#|3 Tianshui Baoan Ke",
+        "original": "3 Tianshui Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|138#|Qinghai Baoan Ke",
+        "original": "Qinghai Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|139#|1 Gansu Baoan Ke",
+        "original": "1 Gansu Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|140#|2 Gansu Baoan Ke",
+        "original": "2 Gansu Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|1#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|2#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|3#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|4#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|5#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|6#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|7#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|8#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|9#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|XSM_GAR_01|ordered|10#|%d Ma Jingbei",
+        "original": "%d Ma Jingbei",
+        "translation": "",
+        "stage": 0
+    }
+]

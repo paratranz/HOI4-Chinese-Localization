@@ -1,0 +1,26 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Syngman Rhee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Yi Kang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Kim Il-sung",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Yi Un",
+        "translation": "",
+        "stage": 0
+    }
+]

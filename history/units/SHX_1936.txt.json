@@ -1,0 +1,32 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "Suiyuan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "Chahar Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Juntuán",
+        "translation": "",
+        "stage": 0
+    }
+]

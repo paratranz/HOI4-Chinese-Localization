@@ -1,0 +1,20 @@
+[
+    {
+        "key": "battleofwuhan:0",
+        "original": "Battle of Wuhan",
+        "translation": "武汉会战",
+        "stage": 1
+    },
+    {
+        "key": "empireofthesun:0",
+        "original": "Empire of the Sun",
+        "translation": "太阳帝国",
+        "stage": 1
+    },
+    {
+        "key": "warofresistance:0",
+        "original": "War of Resistance",
+        "translation": "抗战",
+        "stage": 1
+    }
+]

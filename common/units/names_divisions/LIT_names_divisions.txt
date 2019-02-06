@@ -1,0 +1,474 @@
+LIT_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s. Divizija"
+  ordered = {
+    1 = {
+      "%s. Divizija"
+    }
+    2 = {
+      "%s. Divizija"
+    }
+    3 = {
+      "%s. Divizija"
+    }
+    4 = {
+      "%s. Divizija"
+    }
+    5 = {
+      "%s. Divizija"
+    }
+    6 = {
+      "%s. Divizija"
+    }
+    7 = {
+      "%s. Divizija"
+    }
+    8 = {
+      "%s. Divizija"
+    }
+    9 = {
+      "%s. Divizija"
+    }
+    10 = {
+      "%s. Divizija"
+    }
+    11 = {
+      "%s. Divizija"
+    }
+    12 = {
+      "%s. Divizija"
+    }
+    13 = {
+      "%s. Divizija"
+    }
+    14 = {
+      "%s. Divizija"
+    }
+    15 = {
+      "%s. Divizija"
+    }
+    16 = {
+      "%s. Divizija"
+    }
+    17 = {
+      "%s. Divizija"
+    }
+    18 = {
+      "%s. Divizija"
+    }
+    19 = {
+      "%s. Divizija"
+    }
+    20 = {
+      "%s. Divizija"
+    }
+  }
+}
+LIT_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%s. Kavalerija Divizija"
+  ordered = {
+    1 = {
+      "%s. Kavalerija Divizija"
+    }
+    2 = {
+      "%s. Kavalerija Divizija"
+    }
+    3 = {
+      "%s. Kavalerija Divizija"
+    }
+    4 = {
+      "%s. Kavalerija Divizija"
+    }
+    5 = {
+      "%s. Kavalerija Divizija"
+    }
+    6 = {
+      "%s. Kavalerija Divizija"
+    }
+    7 = {
+      "%s. Kavalerija Divizija"
+    }
+    8 = {
+      "%s. Kavalerija Divizija"
+    }
+    9 = {
+      "%s. Kavalerija Divizija"
+    }
+    10 = {
+      "%s. Kavalerija Divizija"
+    }
+  }
+}
+LIT_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  fallback_name = "%s. Motorizavimas Divizija"
+  ordered = {
+    1 = {
+      "%s. Motorizavimas Divizija"
+    }
+    2 = {
+      "%s. Motorizavimas Divizija"
+    }
+    3 = {
+      "%s. Motorizavimas Divizija"
+    }
+    4 = {
+      "%s. Motorizavimas Divizija"
+    }
+    5 = {
+      "%s. Motorizavimas Divizija"
+    }
+    6 = {
+      "%s. Motorizavimas Divizija"
+    }
+    7 = {
+      "%s. Motorizavimas Divizija"
+    }
+    8 = {
+      "%s. Motorizavimas Divizija"
+    }
+    9 = {
+      "%s. Motorizavimas Divizija"
+    }
+    10 = {
+      "%s. Motorizavimas Divizija"
+    }
+  }
+}
+LIT_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  fallback_name = "%s. Mechanizavimas Divizija"
+  ordered = {
+    1 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    2 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    3 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    4 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    5 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    6 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    7 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    8 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    9 = {
+      "%s. Mechanizavimas Divizija"
+    }
+    10 = {
+      "%s. Mechanizavimas Divizija"
+    }
+  }
+}
+LIT_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%s. Apsisarvavimas Divizija"
+  ordered = {
+    1 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    2 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    3 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    4 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    5 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    6 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    7 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    8 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    9 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+    10 = {
+      "%s. Apsisarvavimas Divizija"
+    }
+  }
+}
+LIT_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%s. Gabenamas Divizija"
+  ordered = {
+    1 = {
+      "%s. Gabenamas Divizija"
+    }
+    2 = {
+      "%s. Gabenamas Divizija"
+    }
+    3 = {
+      "%s. Gabenamas Divizija"
+    }
+    4 = {
+      "%s. Gabenamas Divizija"
+    }
+    5 = {
+      "%s. Gabenamas Divizija"
+    }
+    6 = {
+      "%s. Gabenamas Divizija"
+    }
+    7 = {
+      "%s. Gabenamas Divizija"
+    }
+    8 = {
+      "%s. Gabenamas Divizija"
+    }
+    9 = {
+      "%s. Gabenamas Divizija"
+    }
+    10 = {
+      "%s. Gabenamas Divizija"
+    }
+  }
+}
+LIT_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%s. Juras Peizazas Divizija"
+  ordered = {
+    1 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    2 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    3 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    4 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    5 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    6 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    7 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    8 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    9 = {
+      "%s. Juras Peizazas Divizija"
+    }
+    10 = {
+      "%s. Juras Peizazas Divizija"
+    }
+  }
+}
+LIT_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    LIT_INF_01
+  }
+  fallback_name = "%s Bjeshkë Divizija"
+  ordered = {
+    1 = {
+      "%s. Divizija"
+    }
+    2 = {
+      "%s. Divizija"
+    }
+    3 = {
+      "%s. Divizija"
+    }
+    4 = {
+      "%s. Divizija"
+    }
+    5 = {
+      "%s. Divizija"
+    }
+    6 = {
+      "%s. Divizija"
+    }
+    7 = {
+      "%s. Divizija"
+    }
+    8 = {
+      "%s. Divizija"
+    }
+    9 = {
+      "%s. Divizija"
+    }
+    10 = {
+      "%s. Divizija"
+    }
+  }
+}
+LIT_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    LIT
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    LIT_INF_01
+  }
+  fallback_name = "%s. Divizija"
+  ordered = {
+    1 = {
+      "%s. Divizija"
+    }
+    2 = {
+      "%s. Divizija"
+    }
+    3 = {
+      "%s. Divizija"
+    }
+    4 = {
+      "%s. Divizija"
+    }
+    5 = {
+      "%s. Divizija"
+    }
+    6 = {
+      "%s. Divizija"
+    }
+    7 = {
+      "%s. Divizija"
+    }
+    8 = {
+      "%s. Divizija"
+    }
+    9 = {
+      "%s. Divizija"
+    }
+    10 = {
+      "%s. Divizija"
+    }
+    11 = {
+      "%s. Divizija"
+    }
+    12 = {
+      "%s. Divizija"
+    }
+    13 = {
+      "%s. Divizija"
+    }
+    14 = {
+      "%s. Divizija"
+    }
+    15 = {
+      "%s. Divizija"
+    }
+    16 = {
+      "%s. Divizija"
+    }
+    17 = {
+      "%s. Divizija"
+    }
+    18 = {
+      "%s. Divizija"
+    }
+    19 = {
+      "%s. Divizija"
+    }
+    20 = {
+      "%s. Divizija"
+    }
+  }
+}

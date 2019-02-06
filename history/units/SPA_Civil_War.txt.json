@@ -1,0 +1,572 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|name",
+        "original": "1a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|name",
+        "original": "2a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "3a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "4a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|name",
+        "original": "5a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|name",
+        "original": "6a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "7a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "8a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|name",
+        "original": "9a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|name",
+        "original": "10a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "11a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "12a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "13a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|name",
+        "original": "14a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|name",
+        "original": "15a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|name",
+        "original": "16a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|name",
+        "original": "17a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|name",
+        "original": "18a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|name",
+        "original": "19a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|name",
+        "original": "20a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|name",
+        "original": "21a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|name",
+        "original": "22a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|name",
+        "original": "23a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|name",
+        "original": "24a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|name",
+        "original": "25a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|name",
+        "original": "26a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|name",
+        "original": "27a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "28a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|name",
+        "original": "29a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|name",
+        "original": "30a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|name",
+        "original": "31a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "32a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|name",
+        "original": "33a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|name",
+        "original": "34a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|name",
+        "original": "35a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|name",
+        "original": "36a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|name",
+        "original": "37a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|name",
+        "original": "38a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|name",
+        "original": "39a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|name",
+        "original": "40a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|name",
+        "original": "41a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|name",
+        "original": "42a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|name",
+        "original": "43a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|name",
+        "original": "44a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|name",
+        "original": "45a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|name",
+        "original": "46a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|name",
+        "original": "47a Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Brigada Legionario",
+        "translation": "",
+        "stage": 0
+    }
+]

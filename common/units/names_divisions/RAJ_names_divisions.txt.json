@@ -1,0 +1,3002 @@
+[
+    {
+        "key": "RAJ_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_INF_01|fallback_name",
+        "original": "%d Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|4#|%dth Indian 'Red Eagle' Division",
+        "original": "%dth Indian 'Red Eagle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|9#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|11#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|8#|%dth Indian 'Clover' Division",
+        "original": "%dth Indian 'Clover' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|10#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|14#|%dth Indian 'Quetta' Division",
+        "original": "%dth Indian 'Quetta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|6#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|17#|%dth Indian 'Black Cat' Division",
+        "original": "%dth Indian 'Black Cat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|19#|%dth Indian 'Dagger' Division",
+        "original": "%dth Indian 'Dagger' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|23#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|34#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|20#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|26#|%dth Indian 'Tiger Head' Division",
+        "original": "%dth Indian 'Tiger Head' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|25#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|2#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|36#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|12#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|39#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|3#|%drd Indian 'Chindits' Division",
+        "original": "%drd Indian 'Chindits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|21#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|1#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|13#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|15#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|16#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|18#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|22#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|24#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|27#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|28#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|29#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|30#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|33#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|35#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|37#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|38#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|40#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|41#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|42#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|45#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|46#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|47#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|48#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|49#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|50#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|51#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|52#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|53#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|54#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|55#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|56#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|57#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|58#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|59#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|60#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|31#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|32#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|43#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|44#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|61#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|62#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|63#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|64#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|65#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|66#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|67#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|68#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|69#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|70#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|71#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|72#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|73#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|74#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|75#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|76#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|77#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|78#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|79#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|80#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|81#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|82#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|83#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|84#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|85#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|86#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|87#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|88#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|89#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|90#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|91#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|92#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|93#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|94#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|95#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|96#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|97#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|98#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|99#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_INF_01|ordered|100#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_CAV_01|fallback_name",
+        "original": "%d Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|1#|%dst Indian Cavalry Division",
+        "original": "%dst Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|2#|%dnd Indian Cavalry Division",
+        "original": "%dnd Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|3#|%drd Indian Cavalry Division",
+        "original": "%drd Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|4#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|5#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|6#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|7#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|8#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|9#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|10#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|11#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|12#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|13#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|14#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|15#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|16#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|17#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|18#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|19#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|20#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|21#|%dst Indian Cavalry Division",
+        "original": "%dst Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|22#|%dnd Indian Cavalry Division",
+        "original": "%dnd Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|23#|%drd Indian Cavalry Division",
+        "original": "%drd Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|24#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_CAV_01|ordered|25#|%dth Indian Cavalry Division",
+        "original": "%dth Indian Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MOT_01|name",
+        "original": "Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MOT_01|fallback_name",
+        "original": "%d Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|10#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|6#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|4#|%dth Indian 'Red Eagle' Division",
+        "original": "%dth Indian 'Red Eagle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|8#|%dth Indian 'Clover' Division",
+        "original": "%dth Indian 'Clover' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|14#|%dth Indian 'Quetta' Division",
+        "original": "%dth Indian 'Quetta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|23#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|25#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|9#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|11#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|17#|%dth Indian 'Black Cat' Division",
+        "original": "%dth Indian 'Black Cat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|19#|%dth Indian 'Dagger' Division",
+        "original": "%dth Indian 'Dagger' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|34#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|20#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|26#|%dth Indian 'Tiger Head' Division",
+        "original": "%dth Indian 'Tiger Head' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|2#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|36#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|12#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|39#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|3#|%drd Indian 'Chindits' Division",
+        "original": "%drd Indian 'Chindits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|21#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|1#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|13#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|15#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|16#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|18#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|22#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|24#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|27#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|28#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|29#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|30#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|33#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|35#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|37#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|38#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|40#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|41#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|42#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|45#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|46#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|47#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|48#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|49#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|50#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|51#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|52#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|53#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|54#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|55#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|56#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|57#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|58#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|59#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|60#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|31#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|32#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|43#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|44#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|61#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|62#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|63#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|64#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|65#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|66#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|67#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|68#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|69#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|70#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|71#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|72#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|73#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|74#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|75#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|76#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|77#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|78#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|79#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|80#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|81#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|82#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|83#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|84#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|85#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|86#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|87#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|88#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|89#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|90#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|91#|%dst Indian Motor Division",
+        "original": "%dst Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|92#|%dnd Indian Motor Division",
+        "original": "%dnd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|93#|%drd Indian Motor Division",
+        "original": "%drd Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|94#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|95#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|96#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|97#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|98#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|99#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MOT_01|ordered|100#|%dth Indian Motor Division",
+        "original": "%dth Indian Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|4#|%dth Indian 'Red Eagle' Division",
+        "original": "%dth Indian 'Red Eagle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|8#|%dth Indian 'Clover' Division",
+        "original": "%dth Indian 'Clover' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|14#|%dth Indian 'Quetta' Division",
+        "original": "%dth Indian 'Quetta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|17#|%dth Indian 'Black Cat' Division",
+        "original": "%dth Indian 'Black Cat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|19#|%dth Indian 'Dagger' Division",
+        "original": "%dth Indian 'Dagger' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|26#|%dth Indian 'Tiger Head' Division",
+        "original": "%dth Indian 'Tiger Head' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|36#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MEC_01|ordered|3#|%drd Indian 'Chindits' Division",
+        "original": "%drd Indian 'Chindits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_ARM_01|name",
+        "original": "Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_ARM_01|fallback_name",
+        "original": "%d Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|31#|%dst Indian Armoured Division",
+        "original": "%dst Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|32#|%dnd Indian Armoured Division",
+        "original": "%dnd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|43#|%drd Indian Armoured Division",
+        "original": "%drd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|44#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|1#|%dst Indian Armoured Division",
+        "original": "%dst Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|2#|%dnd Indian Armoured Division",
+        "original": "%dnd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|33#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|35#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|37#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|38#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|40#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|41#|%dst Indian Armoured Division",
+        "original": "%dst Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|42#|%dnd Indian Armoured Division",
+        "original": "%dnd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|13#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|15#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|16#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|18#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|22#|%dnd Indian Armoured Division",
+        "original": "%dnd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|24#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|27#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|28#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|29#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|30#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|4#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|5#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|9#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|11#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|6#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|7#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|8#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|12#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|14#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|17#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|19#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|20#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|21#|%dst Indian Armoured Division",
+        "original": "%dst Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|23#|%drd Indian Armoured Division",
+        "original": "%drd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|25#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|26#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|34#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|36#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|39#|%dth Indian Armoured Division",
+        "original": "%dth Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_ARM_01|ordered|3#|%drd Indian Armoured Division",
+        "original": "%drd Indian Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_PAR_01|fallback_name",
+        "original": "%d Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|44#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|9#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|33#|%drd Indian Airborne Division",
+        "original": "%drd Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|35#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|37#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|38#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|40#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|41#|%dst Indian Airborne Division",
+        "original": "%dst Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|42#|%dnd Indian Airborne Division",
+        "original": "%dnd Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|13#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|15#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|18#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|22#|%dnd Indian Airborne Division",
+        "original": "%dnd Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|24#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|27#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|28#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|29#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|30#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|2#|%dnd Indian Airborne Division",
+        "original": "%dnd Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|4#|%dth Indian 'Red Eagle' Division",
+        "original": "%dth Indian 'Red Eagle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|6#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|8#|%dth Indian 'Clover' Division",
+        "original": "%dth Indian 'Clover' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|10#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_PAR_01|ordered|11#|%dth Indian Airborne Division",
+        "original": "%dth Indian Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MAR_01|fallback_name",
+        "original": "%d Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|1#|%dst Indian Marines Division",
+        "original": "%dst Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|2#|%dnd Indian Marines Division",
+        "original": "%dnd Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|3#|%drd Indian Marines Division",
+        "original": "%drd Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|4#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|5#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|6#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|7#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|8#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|9#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|10#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|11#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|12#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|13#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|14#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|15#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|16#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|17#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|18#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|19#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MAR_01|ordered|20#|%dth Indian Marines Division",
+        "original": "%dth Indian Marines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_MNT_01|fallback_name",
+        "original": "%d Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|8#|%dth Indian 'Clover' Division",
+        "original": "%dth Indian 'Clover' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|14#|%dth Indian 'Quetta' Division",
+        "original": "%dth Indian 'Quetta' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|6#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|3#|%drd Indian 'Chindits' Division",
+        "original": "%drd Indian 'Chindits' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|23#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|25#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|10#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|4#|%dth Indian 'Red Eagle' Division",
+        "original": "%dth Indian 'Red Eagle' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|17#|%dth Indian 'Black Cat' Division",
+        "original": "%dth Indian 'Black Cat' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|9#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|11#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|19#|%dth Indian 'Dagger' Division",
+        "original": "%dth Indian 'Dagger' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|34#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|20#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|26#|%dth Indian 'Tiger Head' Division",
+        "original": "%dth Indian 'Tiger Head' Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|2#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|36#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|12#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|39#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|21#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|1#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|13#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|15#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|16#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|18#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|22#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|24#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|27#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|28#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|29#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|30#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|33#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|35#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|37#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|38#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|40#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|41#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|42#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|45#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|46#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|47#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|48#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|49#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|50#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|51#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|52#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|53#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|54#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|55#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|56#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|57#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|58#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|59#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|60#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|31#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|32#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|43#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|44#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|61#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|62#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|63#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|64#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|65#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|66#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|67#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|68#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|69#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|70#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|71#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|72#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|73#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|74#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|75#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|76#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|77#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|78#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|79#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|80#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|81#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|82#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|83#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|84#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|85#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|86#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|87#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|88#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|89#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|90#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|91#|%dst Indian Division",
+        "original": "%dst Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|92#|%dnd Indian Division",
+        "original": "%dnd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|93#|%drd Indian Division",
+        "original": "%drd Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|94#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|95#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|96#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|97#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|98#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|99#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_MNT_01|ordered|100#|%dth Indian Division",
+        "original": "%dth Indian Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "RAJ_GAR_01|fallback_name",
+        "original": "%d Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|101#|Pashawar District",
+        "original": "Pashawar District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|102#|Kohat District",
+        "original": "Kohat District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|103#|Rawalpindi District",
+        "original": "Rawalpindi District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|104#|Lahore District",
+        "original": "Lahore District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|105#|Waziristan District",
+        "original": "Waziristan District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|106#|Meerut District",
+        "original": "Meerut District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|107#|Lucknow District",
+        "original": "Lucknow District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|108#|Assam District",
+        "original": "Assam District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|109#|Deccan District",
+        "original": "Deccan District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|110#|Bombay District",
+        "original": "Bombay District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|111#|Madras District",
+        "original": "Madras District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|112#|Western District",
+        "original": "Western District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|113#|Rangoon District",
+        "original": "Rangoon District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|114#|Mandalay District",
+        "original": "Mandalay District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|115#|Calcutta District",
+        "original": "Calcutta District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|116#|Dehli District",
+        "original": "Dehli District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|117#|Bangalore District",
+        "original": "Bangalore District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|118#|Thal District",
+        "original": "Thal District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|119#|Quetta District",
+        "original": "Quetta District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|120#|Zhob District",
+        "original": "Zhob District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|121#|Sind District",
+        "original": "Sind District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|122#|Nowshera District",
+        "original": "Nowshera District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|123#|Landikotal District",
+        "original": "Landikotal District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|124#|Abbottabad District",
+        "original": "Abbottabad District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|125#|Jhelum District",
+        "original": "Jhelum District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|126#|Jammu District",
+        "original": "Jammu District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|127#|Kashmir District",
+        "original": "Kashmir District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|128#|Sealkot District",
+        "original": "Sealkot District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|129#|Ferozepore District",
+        "original": "Ferozepore District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|130#|Jullundur District",
+        "original": "Jullundur District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|131#|Ampala District",
+        "original": "Ampala District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|132#|Ramzak District",
+        "original": "Ramzak District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|133#|Bannu District",
+        "original": "Bannu District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|134#|Wana District",
+        "original": "Wana District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|135#|Dehra District",
+        "original": "Dehra District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|136#|Bareilly District",
+        "original": "Bareilly District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|137#|Jhansi District",
+        "original": "Jhansi District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|138#|Gwalior District",
+        "original": "Gwalior District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|139#|Allahabad District",
+        "original": "Allahabad District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|140#|Eastern Bengal District",
+        "original": "Eastern Bengal District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|141#|Jubbulpore District",
+        "original": "Jubbulpore District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|142#|Poona District",
+        "original": "Poona District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|143#|Mhow District",
+        "original": "Mhow District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|144#|Hyderabad District",
+        "original": "Hyderabad District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|1#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|2#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|3#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|4#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|5#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|6#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|7#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|8#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|9#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|10#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|11#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|12#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|13#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|14#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|15#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|16#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|17#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|18#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|19#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|20#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|21#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|22#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|23#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|24#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|RAJ_GAR_01|ordered|25#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    }
+]

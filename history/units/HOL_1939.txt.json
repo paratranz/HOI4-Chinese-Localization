@@ -1,0 +1,446 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Leichte Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Koloniale Garnizoen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Leichte Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|name",
+        "original": "Oostfront VH",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "Westfront VH",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "Groep Spui & Kil VH",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Infanterie Divisie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Koninklijke Marine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "HrMs Hertog Hendrik",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HrMs Jacob van Heemskerck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "HrMs Van Galen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Koninklijke Onderzeeboot Smaldeel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "HrMs O-9",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "HrMs O-10",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "HrMs O-11",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "HrMs O-12",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "HrMs O-13",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "HrMs O-14",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "HrMs O-15",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "HrMs O-16",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "HrMs O-19",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "HrMs O-20",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "Nederlands-Indië Eskader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "HrMs Soerabaja",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "HrMs Tromp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "HrMs De Ruyter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "HrMs Java",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "HrMs Sumatra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "HrMs Van Ghent",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "HrMs Evertsen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "HrMs Kortenaer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "HrMs Piet Hein",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "HrMs Witte de With",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|name",
+        "original": "HrMs Banckert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|name",
+        "original": "HrMs Van Nes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "Nederlands-Indië Onderzeeboot Smaldeel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "HrMs K-VII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "HrMs K-VIII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "HrMs K-X",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "HrMs K-XVII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "HrMs K-XVIII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "HrMs K-IX",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "HrMs K-XI",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "HrMs K-XII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship########|name",
+        "original": "HrMs K-XIII",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|name",
+        "original": "HrMs K-XIV",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#########|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|name",
+        "original": "HrMs K-XV",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##########|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###########|name",
+        "original": "HrMs K-XVI",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###########|equipment|submarine_1|version_name",
+        "original": "K-XIV Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|673#|tac_bomber_equipment_0|version_name",
+        "original": "Martin M166",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "air_wings|673#|tac_bomber_equipment_0#|version_name",
+        "original": "Martin M166",
+        "translation": "",
+        "stage": 0
+    }
+]

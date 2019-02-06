@@ -1,0 +1,1070 @@
+[
+    {
+        "key": "MEN_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_INF_01|fallback_name",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|1#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|2#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|3#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|4#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|5#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|6#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|7#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|8#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|9#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|10#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|11#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|12#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|13#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|14#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|15#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|16#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|17#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|18#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|19#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|20#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|21#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|22#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|23#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|24#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|25#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|26#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|27#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|28#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|29#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_INF_01|ordered|30#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_CAV_01|fallback_name",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|1#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|2#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|3#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|4#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|5#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|6#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|7#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|8#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|9#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|10#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|11#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|12#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|13#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|14#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_CAV_01|ordered|15#|%d Mengjiang Qibing Jun",
+        "original": "%d Mengjiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MOT_01|name",
+        "original": "Motor Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MOT_01|fallback_name",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|1#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|2#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|3#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|4#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|5#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|6#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|7#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|8#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|9#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|10#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|11#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|12#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|13#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|14#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MOT_01|ordered|15#|%d Mengjiang Jidonghua Juntuán",
+        "original": "%d Mengjiang Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MEC_01|fallback_name",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|1#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|2#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|3#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|4#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|5#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|6#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|7#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|8#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|9#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|10#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|11#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|12#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|13#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|14#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MEC_01|ordered|15#|%d Mengjiang Jixiehua Juntuán",
+        "original": "%d Mengjiang Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_ARM_01|name",
+        "original": "Tank Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_ARM_01|fallback_name",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|1#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|2#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|3#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|4#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|5#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|6#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|7#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|8#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|9#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|10#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|11#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|12#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|13#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|14#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_ARM_01|ordered|15#|%d Mengjiang Zhuangjia Shi",
+        "original": "%d Mengjiang Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_PAR_01|name",
+        "original": "Parachute Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_PAR_01|fallback_name",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|1#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|2#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|3#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|4#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|5#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|6#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|7#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|8#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|9#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_PAR_01|ordered|10#|%d Mengjiang Sanbing Shi",
+        "original": "%d Mengjiang Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MAR_01|name",
+        "original": "Marine Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MAR_01|fallback_name",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|1#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|2#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|3#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|4#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|5#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|6#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|7#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|8#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|9#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MAR_01|ordered|10#|%d Mengjiang Luzhan Dui Shi",
+        "original": "%d Mengjiang Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_MNT_01|fallback_name",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|1#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|2#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|3#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|4#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|5#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|6#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|7#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|8#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|9#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|10#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|11#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|12#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|13#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|14#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|15#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|16#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|17#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|18#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|19#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|20#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|21#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|22#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|23#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|24#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|25#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|26#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|27#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|28#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|29#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_MNT_01|ordered|30#|%d Mengjiang Juntuán",
+        "original": "%d Mengjiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MEN_GAR_01|fallback_name",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|1#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|2#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|3#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|4#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|5#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|6#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|7#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|8#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|9#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|10#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|11#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|12#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|13#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|14#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|15#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|16#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|17#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|18#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|19#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MEN_GAR_01|ordered|20#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    }
+]

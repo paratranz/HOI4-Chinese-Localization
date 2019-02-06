@@ -1,0 +1,1532 @@
+[
+    {
+        "key": "SPQR_INF_01|name",
+        "original": "Roman Infantry Legions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_INF_01|fallback_name",
+        "original": "Legio %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|1#|Legio %s Germanica",
+        "original": "Legio %s Germanica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|2#|Legio %s Sabina",
+        "original": "Legio %s Sabina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|3#|Legio %s Cyrenaica",
+        "original": "Legio %s Cyrenaica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|4#|Legio %s Macedonica",
+        "original": "Legio %s Macedonica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|5#|Legio %s Alaudae",
+        "original": "Legio %s Alaudae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|6#|Legio %s Ferrata",
+        "original": "Legio %s Ferrata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|7#|Legio %s Gemina",
+        "original": "Legio %s Gemina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|8#|Legio %s Augusta",
+        "original": "Legio %s Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|9#|Legio %s Hispana Triumphalis",
+        "original": "Legio %s Hispana Triumphalis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|10#|Legio %s Equestris",
+        "original": "Legio %s Equestris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|11#|Legio %s Claudia",
+        "original": "Legio %s Claudia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|12#|Legio %s Fulminata",
+        "original": "Legio %s Fulminata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|13#|Legio %s Italica",
+        "original": "Legio %s Italica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|14#|Legio %s Macriana",
+        "original": "Legio %s Macriana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|15#|Legio %s Apollinaris",
+        "original": "Legio %s Apollinaris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|16#|Legio %s Flavia Firma",
+        "original": "Legio %s Flavia Firma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|17#|Legio %s Gallica",
+        "original": "Legio %s Gallica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|18#|Legio %s Libyca",
+        "original": "Legio %s Libyca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|19#|Legio %s Scythica",
+        "original": "Legio %s Scythica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|20#|Legio %s Victrix",
+        "original": "Legio %s Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|21#|Legio %s Rapax",
+        "original": "Legio %s Rapax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|22#|Legio %s Deiotariana",
+        "original": "Legio %s Deiotariana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|23#|Legio %s Flavia Felix",
+        "original": "Legio %s Flavia Felix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|24#|Legio %s Minervia",
+        "original": "Legio %s Minervia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|25#|Legio %s Primigenia",
+        "original": "Legio %s Primigenia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|26#|Legio %s Parthica",
+        "original": "Legio %s Parthica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|28#|Legio %s Fretensis",
+        "original": "Legio %s Fretensis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|29#|Legio %s Traiana",
+        "original": "Legio %s Traiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|30#|Legio %s Classica",
+        "original": "Legio %s Classica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|31#|Legio %s Ulpia Victrix",
+        "original": "Legio %s Ulpia Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|32#|Legio %s Armeniaca",
+        "original": "Legio %s Armeniaca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|33#|Legio %s Iovia",
+        "original": "Legio %s Iovia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|34#|Legio %s Martia",
+        "original": "Legio %s Martia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|35#|Legio %s Illyricorum",
+        "original": "Legio %s Illyricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|36#|Legio %s Flavia Pacis",
+        "original": "Legio %s Flavia Pacis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|37#|Legio %s Flavia Constantia",
+        "original": "Legio %s Flavia Constantia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|38#|Legio %s Noricorum",
+        "original": "Legio %s Noricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|39#|Legio %s Pontica",
+        "original": "Legio %s Pontica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|40#|Legio %s Britannica",
+        "original": "Legio %s Britannica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|41#|Legio %s Flavia Virtutis",
+        "original": "Legio %s Flavia Virtutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|42#|Legio %s Herculia",
+        "original": "Legio %s Herculia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|43#|Legio %s Isaura",
+        "original": "Legio %s Isaura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|44#|Legio %s Diocletiana",
+        "original": "Legio %s Diocletiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|45#|Legio %s Flavia Salutis",
+        "original": "Legio %s Flavia Salutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|46#|Legio %s Gemella",
+        "original": "Legio %s Gemella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|47#|Legio %s",
+        "original": "Legio %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_INF_01|ordered|48#|Legio %s",
+        "original": "Legio %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_CAV_01|name",
+        "original": "Roman Cavalry Formations",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_CAV_01|fallback_name",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|1#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|2#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|3#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|4#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|5#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|6#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|7#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|9#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|8#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_CAV_01|ordered|10#|Equites %s",
+        "original": "Equites %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MOT_01|name",
+        "original": "Roman Motorised Legions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MOT_01|fallback_name",
+        "original": "Legio Motricium %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|1#|Legio Motricium %s Germanica",
+        "original": "Legio Motricium %s Germanica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|2#|Legio Motricium %s Sabina",
+        "original": "Legio Motricium %s Sabina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|3#|Legio Motricium %s Cyrenaica",
+        "original": "Legio Motricium %s Cyrenaica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|4#|Legio Motricium %s Macedonica",
+        "original": "Legio Motricium %s Macedonica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|5#|Legio Motricium %s Alaudae",
+        "original": "Legio Motricium %s Alaudae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|6#|Legio Motricium %s Ferrata",
+        "original": "Legio Motricium %s Ferrata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|7#|Legio Motricium %s Gemina",
+        "original": "Legio Motricium %s Gemina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|8#|Legio Motricium %s Augusta",
+        "original": "Legio Motricium %s Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|9#|Legio Motricium %s Hispana Triumphalis",
+        "original": "Legio Motricium %s Hispana Triumphalis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|10#|Legio Motricium %s Equestris",
+        "original": "Legio Motricium %s Equestris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|11#|Legio Motricium %s Claudia",
+        "original": "Legio Motricium %s Claudia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|12#|Legio Motricium %s Fulminata",
+        "original": "Legio Motricium %s Fulminata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|13#|Legio Motricium %s Italica",
+        "original": "Legio Motricium %s Italica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|14#|Legio Motricium %s Macriana",
+        "original": "Legio Motricium %s Macriana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|15#|Legio Motricium %s Apollinaris",
+        "original": "Legio Motricium %s Apollinaris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|16#|Legio Motricium %s Flavia Firma",
+        "original": "Legio Motricium %s Flavia Firma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|17#|Legio Motricium %s Gallica",
+        "original": "Legio Motricium %s Gallica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|18#|Legio Motricium %s Libyca",
+        "original": "Legio Motricium %s Libyca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|19#|Legio Motricium %s Scythica",
+        "original": "Legio Motricium %s Scythica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|20#|Legio Motricium %s Victrix",
+        "original": "Legio Motricium %s Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|21#|Legio Motricium %s Rapax",
+        "original": "Legio Motricium %s Rapax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|22#|Legio Motricium %s Deiotariana",
+        "original": "Legio Motricium %s Deiotariana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|23#|Legio Motricium %s Flavia Felix",
+        "original": "Legio Motricium %s Flavia Felix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|24#|Legio Motricium %s Minervia",
+        "original": "Legio Motricium %s Minervia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|25#|Legio Motricium %s Primigenia",
+        "original": "Legio Motricium %s Primigenia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|26#|Legio Motricium %s Parthica",
+        "original": "Legio Motricium %s Parthica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|28#|Legio Motricium %s Fretensis",
+        "original": "Legio Motricium %s Fretensis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|29#|Legio Motricium %s Traiana",
+        "original": "Legio Motricium %s Traiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|30#|Legio Motricium %s Classica",
+        "original": "Legio Motricium %s Classica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|31#|Legio Motricium %s Ulpia Victrix",
+        "original": "Legio Motricium %s Ulpia Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|32#|Legio Motricium %s Armeniaca",
+        "original": "Legio Motricium %s Armeniaca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|33#|Legio Motricium %s Iovia",
+        "original": "Legio Motricium %s Iovia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|34#|Legio Motricium %s Martia",
+        "original": "Legio Motricium %s Martia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|35#|Legio Motricium %s Illyricorum",
+        "original": "Legio Motricium %s Illyricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|36#|Legio Motricium %s Flavia Pacis",
+        "original": "Legio Motricium %s Flavia Pacis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|37#|Legio Motricium %s Flavia Constantia",
+        "original": "Legio Motricium %s Flavia Constantia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|38#|Legio Motricium %s Noricorum",
+        "original": "Legio Motricium %s Noricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|39#|Legio Motricium %s Pontica",
+        "original": "Legio Motricium %s Pontica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|40#|Legio Motricium %s Britannica",
+        "original": "Legio Motricium %s Britannica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|41#|Legio Motricium %s Flavia Virtutis",
+        "original": "Legio Motricium %s Flavia Virtutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|42#|Legio Motricium %s Herculia",
+        "original": "Legio Motricium %s Herculia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|43#|Legio Motricium %s Isaura",
+        "original": "Legio Motricium %s Isaura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|44#|Legio Motricium %s Diocletiana",
+        "original": "Legio Motricium %s Diocletiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|45#|Legio Motricium %s Flavia Salutis",
+        "original": "Legio Motricium %s Flavia Salutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|46#|Legio Motricium %s Gemella",
+        "original": "Legio Motricium %s Gemella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|47#|Legio Motricium %s",
+        "original": "Legio Motricium %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MOT_01|ordered|48#|Legio Motricium %s",
+        "original": "Legio Motricium %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_ARM_01|name",
+        "original": "Roman Armored Legions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_ARM_01|fallback_name",
+        "original": "Legio Loricatorum %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|1#|Legio Loricatorum %s Germanica",
+        "original": "Legio Loricatorum %s Germanica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|2#|Legio Loricatorum %s Sabina",
+        "original": "Legio Loricatorum %s Sabina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|3#|Legio Loricatorum %s Cyrenaica",
+        "original": "Legio Loricatorum %s Cyrenaica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|4#|Legio Loricatorum %s Macedonica",
+        "original": "Legio Loricatorum %s Macedonica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|5#|Legio Loricatorum %s Alaudae",
+        "original": "Legio Loricatorum %s Alaudae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|6#|Legio Loricatorum %s Ferrata",
+        "original": "Legio Loricatorum %s Ferrata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|7#|Legio Loricatorum %s Gemina",
+        "original": "Legio Loricatorum %s Gemina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|8#|Legio Loricatorum %s Augusta",
+        "original": "Legio Loricatorum %s Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|9#|Legio Loricatorum %s Hispana Triumphalis",
+        "original": "Legio Loricatorum %s Hispana Triumphalis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|10#|Legio Loricatorum %s Equestris",
+        "original": "Legio Loricatorum %s Equestris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|11#|Legio Loricatorum %s Claudia",
+        "original": "Legio Loricatorum %s Claudia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|12#|Legio Loricatorum %s Fulminata",
+        "original": "Legio Loricatorum %s Fulminata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|13#|Legio Loricatorum %s Italica",
+        "original": "Legio Loricatorum %s Italica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|14#|Legio Loricatorum %s Macriana",
+        "original": "Legio Loricatorum %s Macriana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|15#|Legio Loricatorum %s Apollinaris",
+        "original": "Legio Loricatorum %s Apollinaris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|16#|Legio Loricatorum %s Flavia Firma",
+        "original": "Legio Loricatorum %s Flavia Firma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|17#|Legio Loricatorum %s Gallica",
+        "original": "Legio Loricatorum %s Gallica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|18#|Legio Loricatorum %s Libyca",
+        "original": "Legio Loricatorum %s Libyca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|19#|Legio Loricatorum %s Scythica",
+        "original": "Legio Loricatorum %s Scythica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|20#|Legio Loricatorum %s Victrix",
+        "original": "Legio Loricatorum %s Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|21#|Legio Loricatorum %s Rapax",
+        "original": "Legio Loricatorum %s Rapax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|22#|Legio Loricatorum %s Deiotariana",
+        "original": "Legio Loricatorum %s Deiotariana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|23#|Legio Loricatorum %s Flavia Felix",
+        "original": "Legio Loricatorum %s Flavia Felix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|24#|Legio Loricatorum %s Minervia",
+        "original": "Legio Loricatorum %s Minervia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|25#|Legio Loricatorum %s Primigenia",
+        "original": "Legio Loricatorum %s Primigenia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|26#|Legio Loricatorum %s Parthica",
+        "original": "Legio Loricatorum %s Parthica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|28#|Legio Loricatorum %s Fretensis",
+        "original": "Legio Loricatorum %s Fretensis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|29#|Legio Loricatorum %s Traiana",
+        "original": "Legio Loricatorum %s Traiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|30#|Legio Loricatorum %s Classica",
+        "original": "Legio Loricatorum %s Classica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|31#|Legio Loricatorum %s Ulpia Victrix",
+        "original": "Legio Loricatorum %s Ulpia Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|32#|Legio Loricatorum %s Armeniaca",
+        "original": "Legio Loricatorum %s Armeniaca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|33#|Legio Loricatorum %s Iovia",
+        "original": "Legio Loricatorum %s Iovia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|34#|Legio Loricatorum %s Martia",
+        "original": "Legio Loricatorum %s Martia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|35#|Legio Loricatorum %s Illyricorum",
+        "original": "Legio Loricatorum %s Illyricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|36#|Legio Loricatorum %s Flavia Pacis",
+        "original": "Legio Loricatorum %s Flavia Pacis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|37#|Legio Loricatorum %s Flavia Constantia",
+        "original": "Legio Loricatorum %s Flavia Constantia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|38#|Legio Loricatorum %s Noricorum",
+        "original": "Legio Loricatorum %s Noricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|39#|Legio Loricatorum %s Pontica",
+        "original": "Legio Loricatorum %s Pontica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|40#|Legio Loricatorum %s Britannica",
+        "original": "Legio Loricatorum %s Britannica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|41#|Legio Loricatorum %s Flavia Virtutis",
+        "original": "Legio Loricatorum %s Flavia Virtutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|42#|Legio Loricatorum %s Herculia",
+        "original": "Legio Loricatorum %s Herculia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|43#|Legio Loricatorum %s Isaura",
+        "original": "Legio Loricatorum %s Isaura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|44#|Legio Loricatorum %s Diocletiana",
+        "original": "Legio Loricatorum %s Diocletiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|45#|Legio Loricatorum %s Flavia Salutis",
+        "original": "Legio Loricatorum %s Flavia Salutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|46#|Legio Loricatorum %s Gemella",
+        "original": "Legio Loricatorum %s Gemella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|47#|Legio Loricatorum %s",
+        "original": "Legio Loricatorum %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_ARM_01|ordered|48#|Legio Loricatorum %s",
+        "original": "Legio Loricatorum %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MEC_01|fallback_name",
+        "original": "Legio Mechanica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|1#|Legio Mechanica %s Germanica",
+        "original": "Legio Mechanica %s Germanica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|2#|Legio Mechanica %s Sabina",
+        "original": "Legio Mechanica %s Sabina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|3#|Legio Mechanica %s Cyrenaica",
+        "original": "Legio Mechanica %s Cyrenaica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|4#|Legio Mechanica %s Macedonica",
+        "original": "Legio Mechanica %s Macedonica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|5#|Legio Mechanica %s Alaudae",
+        "original": "Legio Mechanica %s Alaudae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|6#|Legio Mechanica %s Ferrata",
+        "original": "Legio Mechanica %s Ferrata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|7#|Legio Mechanica %s Gemina",
+        "original": "Legio Mechanica %s Gemina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|8#|Legio Mechanica %s Augusta",
+        "original": "Legio Mechanica %s Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|9#|Legio Mechanica %s Hispana Triumphalis",
+        "original": "Legio Mechanica %s Hispana Triumphalis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|10#|Legio Mechanica %s Equestris",
+        "original": "Legio Mechanica %s Equestris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|11#|Legio Mechanica %s Claudia",
+        "original": "Legio Mechanica %s Claudia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|12#|Legio Mechanica %s Fulminata",
+        "original": "Legio Mechanica %s Fulminata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|13#|Legio Mechanica %s Italica",
+        "original": "Legio Mechanica %s Italica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|14#|Legio Mechanica %s Macriana",
+        "original": "Legio Mechanica %s Macriana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|15#|Legio Mechanica %s Apollinaris",
+        "original": "Legio Mechanica %s Apollinaris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|16#|Legio Mechanica %s Flavia Firma",
+        "original": "Legio Mechanica %s Flavia Firma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|17#|Legio Mechanica %s Gallica",
+        "original": "Legio Mechanica %s Gallica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|18#|Legio Mechanica %s Libyca",
+        "original": "Legio Mechanica %s Libyca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|19#|Legio Mechanica %s Scythica",
+        "original": "Legio Mechanica %s Scythica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|20#|Legio Mechanica %s Victrix",
+        "original": "Legio Mechanica %s Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|21#|Legio Mechanica %s Rapax",
+        "original": "Legio Mechanica %s Rapax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|22#|Legio Mechanica %s Deiotariana",
+        "original": "Legio Mechanica %s Deiotariana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|23#|Legio Mechanica %s Flavia Felix",
+        "original": "Legio Mechanica %s Flavia Felix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|24#|Legio Mechanica %s Minervia",
+        "original": "Legio Mechanica %s Minervia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|25#|Legio Mechanica %s Primigenia",
+        "original": "Legio Mechanica %s Primigenia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|26#|Legio Mechanica %s Parthica",
+        "original": "Legio Mechanica %s Parthica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|28#|Legio Mechanica %s Fretensis",
+        "original": "Legio Mechanica %s Fretensis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|29#|Legio Mechanica %s Traiana",
+        "original": "Legio Mechanica %s Traiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|30#|Legio Mechanica %s Classica",
+        "original": "Legio Mechanica %s Classica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|31#|Legio Mechanica %s Ulpia Victrix",
+        "original": "Legio Mechanica %s Ulpia Victrix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|32#|Legio Mechanica %s Armeniaca",
+        "original": "Legio Mechanica %s Armeniaca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|33#|Legio Mechanica %s Iovia",
+        "original": "Legio Mechanica %s Iovia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|34#|Legio Mechanica %s Martia",
+        "original": "Legio Mechanica %s Martia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|35#|Legio Mechanica %s Illyricorum",
+        "original": "Legio Mechanica %s Illyricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|36#|Legio Mechanica %s Flavia Pacis",
+        "original": "Legio Mechanica %s Flavia Pacis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|37#|Legio Mechanica %s Flavia Constantia",
+        "original": "Legio Mechanica %s Flavia Constantia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|38#|Legio Mechanica %s Noricorum",
+        "original": "Legio Mechanica %s Noricorum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|39#|Legio Mechanica %s Pontica",
+        "original": "Legio Mechanica %s Pontica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|40#|Legio Mechanica %s Britannica",
+        "original": "Legio Mechanica %s Britannica",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|41#|Legio Mechanica %s Flavia Virtutis",
+        "original": "Legio Mechanica %s Flavia Virtutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|42#|Legio Mechanica %s Herculia",
+        "original": "Legio Mechanica %s Herculia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|43#|Legio Mechanica %s Isaura",
+        "original": "Legio Mechanica %s Isaura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|44#|Legio Mechanica %s Diocletiana",
+        "original": "Legio Mechanica %s Diocletiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|45#|Legio Mechanica %s Flavia Salutis",
+        "original": "Legio Mechanica %s Flavia Salutis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|46#|Legio Mechanica %s Gemella",
+        "original": "Legio Mechanica %s Gemella",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|47#|Legio Mechanica %s",
+        "original": "Legio Mechanica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MEC_01|ordered|48#|Legio Mechanica %s",
+        "original": "Legio Mechanica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_GAR_01|name",
+        "original": "Roman Auxiliaries",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_GAR_01|fallback_name",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|1#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|2#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|3#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|4#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|5#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|6#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|7#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|9#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|8#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_GAR_01|ordered|10#|Auxilia %s",
+        "original": "Auxilia %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MAR_01|name",
+        "original": "Roman Marine Units",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MAR_01|fallback_name",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|1#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|2#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|3#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|4#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|5#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|6#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|7#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|9#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|8#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MAR_01|ordered|10#|Classica %s",
+        "original": "Classica %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MTN_01|name",
+        "original": "Roman Mountain Legions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_MTN_01|fallback_name",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|1#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|2#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|3#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|4#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|5#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|6#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|7#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|9#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|8#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_MTN_01|ordered|10#|Legio Mons %s",
+        "original": "Legio Mons %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_PAR_01|name",
+        "original": "Roman Paratrooper Legions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SPQR_PAR_01|fallback_name",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|1#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|2#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|3#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|4#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|5#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|6#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|7#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|9#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|8#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SPQR_PAR_01|ordered|10#|Legio Caeli %s",
+        "original": "Legio Caeli %s",
+        "translation": "",
+        "stage": 0
+    }
+]

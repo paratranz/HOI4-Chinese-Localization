@@ -1,0 +1,465 @@
+SHX_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Shanxi Juntuán"
+  ordered = {
+    1 = {
+      "%d Shanxi Juntuán"
+    }
+    2 = {
+      "%d Shanxi Juntuán"
+    }
+    3 = {
+      "%d Shanxi Juntuán"
+    }
+    4 = {
+      "%d Shanxi Juntuán"
+    }
+    5 = {
+      "%d Shanxi Juntuán"
+    }
+    6 = {
+      "%d Shanxi Juntuán"
+    }
+    7 = {
+      "%d Shanxi Juntuán"
+    }
+    8 = {
+      "%d Shanxi Juntuán"
+    }
+    9 = {
+      "%d Shanxi Juntuán"
+    }
+    10 = {
+      "%d Shanxi Juntuán"
+    }
+    11 = {
+      "%d Shanxi Juntuán"
+    }
+    12 = {
+      "%d Shanxi Juntuán"
+    }
+    13 = {
+      "%d Shanxi Juntuán"
+    }
+    14 = {
+      "%d Shanxi Juntuán"
+    }
+    15 = {
+      "%d Shanxi Juntuán"
+    }
+    16 = {
+      "%d Shanxi Juntuán"
+    }
+    17 = {
+      "%d Shanxi Juntuán"
+    }
+    18 = {
+      "%d Shanxi Juntuán"
+    }
+    19 = {
+      "%d Shanxi Juntuán"
+    }
+    20 = {
+      "%d Shanxi Juntuán"
+    }
+  }
+}
+SHX_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Shanxi Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Shanxi Qibing Jun"
+    }
+    2 = {
+      "%d Shanxi Qibing Jun"
+    }
+    3 = {
+      "%d Shanxi Qibing Jun"
+    }
+    4 = {
+      "%d Shanxi Qibing Jun"
+    }
+    6 = {
+      "%d Shanxi Qibing Jun"
+    }
+    5 = {
+      "%d Shanxi Qibing Jun"
+    }
+    7 = {
+      "%d Shanxi Qibing Jun"
+    }
+    8 = {
+      "%d Shanxi Qibing Jun"
+    }
+    9 = {
+      "%d Shanxi Qibing Jun"
+    }
+    10 = {
+      "%d Shanxi Qibing Jun"
+    }
+    11 = {
+      "%d Shanxi Qibing Jun"
+    }
+    12 = {
+      "%d Shanxi Qibing Jun"
+    }
+    13 = {
+      "%d Shanxi Qibing Jun"
+    }
+    14 = {
+      "%d Shanxi Qibing Jun"
+    }
+    15 = {
+      "%d Shanxi Qibing Jun"
+    }
+  }
+}
+SHX_MOT_01 = {
+  name = "Motorized Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    SHX_INF_01
+  }
+  fallback_name = "%d Shanxi Juntuán"
+  ordered = {
+    1 = {
+      "%d Shanxi Juntuán"
+    }
+    2 = {
+      "%d Shanxi Juntuán"
+    }
+    3 = {
+      "%d Shanxi Juntuán"
+    }
+    4 = {
+      "%d Shanxi Juntuán"
+    }
+    5 = {
+      "%d Shanxi Juntuán"
+    }
+    6 = {
+      "%d Shanxi Juntuán"
+    }
+    7 = {
+      "%d Shanxi Juntuán"
+    }
+    8 = {
+      "%d Shanxi Juntuán"
+    }
+    9 = {
+      "%d Shanxi Juntuán"
+    }
+    10 = {
+      "%d Shanxi Juntuán"
+    }
+    11 = {
+      "%d Shanxi Juntuán"
+    }
+    12 = {
+      "%d Shanxi Juntuán"
+    }
+    13 = {
+      "%d Shanxi Juntuán"
+    }
+    14 = {
+      "%d Shanxi Juntuán"
+    }
+    15 = {
+      "%d Shanxi Juntuán"
+    }
+    16 = {
+      "%d Shanxi Juntuán"
+    }
+    17 = {
+      "%d Shanxi Juntuán"
+    }
+    18 = {
+      "%d Shanxi Juntuán"
+    }
+    19 = {
+      "%d Shanxi Juntuán"
+    }
+    20 = {
+      "%d Shanxi Juntuán"
+    }
+  }
+}
+SHX_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    SHX_INF_01
+  }
+  fallback_name = "%d Shanxi Juntuán"
+  ordered = {
+    1 = {
+      "%d Shanxi Juntuán"
+    }
+    2 = {
+      "%d Shanxi Juntuán"
+    }
+    3 = {
+      "%d Shanxi Juntuán"
+    }
+    4 = {
+      "%d Shanxi Juntuán"
+    }
+    5 = {
+      "%d Shanxi Juntuán"
+    }
+    6 = {
+      "%d Shanxi Juntuán"
+    }
+    7 = {
+      "%d Shanxi Juntuán"
+    }
+    8 = {
+      "%d Shanxi Juntuán"
+    }
+    9 = {
+      "%d Shanxi Juntuán"
+    }
+    10 = {
+      "%d Shanxi Juntuán"
+    }
+    11 = {
+      "%d Shanxi Juntuán"
+    }
+    12 = {
+      "%d Shanxi Juntuán"
+    }
+    13 = {
+      "%d Shanxi Juntuán"
+    }
+    14 = {
+      "%d Shanxi Juntuán"
+    }
+    15 = {
+      "%d Shanxi Juntuán"
+    }
+    16 = {
+      "%d Shanxi Juntuán"
+    }
+    17 = {
+      "%d Shanxi Juntuán"
+    }
+    18 = {
+      "%d Shanxi Juntuán"
+    }
+    19 = {
+      "%d Shanxi Juntuán"
+    }
+    20 = {
+      "%d Shanxi Juntuán"
+    }
+  }
+}
+SHX_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    SHX_INF_01
+  }
+  fallback_name = "%d Shanxi Juntuán"
+  ordered = {
+    1 = {
+      "%d Shanxi Juntuán"
+    }
+    2 = {
+      "%d Shanxi Juntuán"
+    }
+    3 = {
+      "%d Shanxi Juntuán"
+    }
+    4 = {
+      "%d Shanxi Juntuán"
+    }
+    5 = {
+      "%d Shanxi Juntuán"
+    }
+    6 = {
+      "%d Shanxi Juntuán"
+    }
+    7 = {
+      "%d Shanxi Juntuán"
+    }
+    8 = {
+      "%d Shanxi Juntuán"
+    }
+    9 = {
+      "%d Shanxi Juntuán"
+    }
+    10 = {
+      "%d Shanxi Juntuán"
+    }
+    11 = {
+      "%d Shanxi Juntuán"
+    }
+    12 = {
+      "%d Shanxi Juntuán"
+    }
+    13 = {
+      "%d Shanxi Juntuán"
+    }
+    14 = {
+      "%d Shanxi Juntuán"
+    }
+    15 = {
+      "%d Shanxi Juntuán"
+    }
+    16 = {
+      "%d Shanxi Juntuán"
+    }
+    17 = {
+      "%d Shanxi Juntuán"
+    }
+    18 = {
+      "%d Shanxi Juntuán"
+    }
+    19 = {
+      "%d Shanxi Juntuán"
+    }
+    20 = {
+      "%d Shanxi Juntuán"
+    }
+  }
+}
+SHX_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    SHX
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Shanxi Jingbei"
+  ordered = {
+    101 = {
+      "1 Suiyuan Jingbei"
+    }
+    111 = {
+      "1 Chahar Jingbei"
+    }
+    102 = {
+      "2 Suiyuan Jingbei"
+    }
+    103 = {
+      "3 Suiyuan Jingbei"
+    }
+    112 = {
+      "2 Chahar Jingbei"
+    }
+    113 = {
+      "3 Chahar Jingbei"
+    }
+    104 = {
+      "4 Suiyuan Jingbei"
+    }
+    105 = {
+      "5 Suiyuan Jingbei"
+    }
+    114 = {
+      "4 Chahar Jingbei"
+    }
+    115 = {
+      "5 Chahar Jingbei"
+    }
+    131 = {
+      "Shanxi Baoan Ke"
+    }
+    132 = {
+      "1 Suiyuan Baoan Ke"
+    }
+    133 = {
+      "1 Taiyuan Baoan Ke"
+    }
+    134 = {
+      "2 Taiyuan Baoan Ke"
+    }
+    135 = {
+      "3 Taiyuan Baoan Ke"
+    }
+    136 = {
+      "2 Suiyuan Baoan Ke"
+    }
+    137 = {
+      "3 Suiyuan Baoan Ke"
+    }
+    1 = {
+      "%d Shanxi Jingbei"
+    }
+    2 = {
+      "%d Shanxi Jingbei"
+    }
+    3 = {
+      "%d Shanxi Jingbei"
+    }
+    4 = {
+      "%d Shanxi Jingbei"
+    }
+    5 = {
+      "%d Shanxi Jingbei"
+    }
+    6 = {
+      "%d Shanxi Jingbei"
+    }
+    7 = {
+      "%d Shanxi Jingbei"
+    }
+    8 = {
+      "%d Shanxi Jingbei"
+    }
+    9 = {
+      "%d Shanxi Jingbei"
+    }
+    10 = {
+      "%d Shanxi Jingbei"
+    }
+  }
+}

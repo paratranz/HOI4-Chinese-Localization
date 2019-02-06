@@ -1,0 +1,1820 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Division Légère Mécanique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#######|name",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "3ème Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|name",
+        "original": "2ème Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Division Légère Mécanique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|name",
+        "original": "5ème Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "4ème Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Division d'Infanterie Motorisée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|name",
+        "original": "1ère Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Brigade de Chars de Combat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Division d'Infanterie Alpine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|name",
+        "original": "Groupement Cavalerie d'Algérienne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|name",
+        "original": "Groupement de Maroc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|division_template",
+        "original": "Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|name",
+        "original": "Mandat du Levant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|name",
+        "original": "Troupes de Madagascar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|name",
+        "original": "Troupes de Sénégalais",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|name",
+        "original": "Troupes de Afrique Equatoriale Française",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################|division_template",
+        "original": "Division Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|name",
+        "original": "Brigade d'Annam-Laos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|division_template",
+        "original": "Brigade Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "1ère Région Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "Le Terrible",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "L'Audacieux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "2ème Région Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "Béarn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "Jaguar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "Chacal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "Léopard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "Panthère",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "Fougueux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "Frondeur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "L'Adroit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "Bourrasque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "Ouragan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|name",
+        "original": "Orage",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|name",
+        "original": "Brestois",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############|name",
+        "original": "Le Foudroyant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############|name",
+        "original": "Boulonnais",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############|name",
+        "original": "Cyclone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###############|name",
+        "original": "Siroco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship################|name",
+        "original": "Mistral",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "3ème Région Navale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "Courbet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "Paris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "Algérie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "Foch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "Dupleix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "Colbert",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "Duquesne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "Tourville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "Lynx",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "Tigre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|name",
+        "original": "Tartu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|name",
+        "original": "Chevalier Paul",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############|name",
+        "original": "Vauquelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############|name",
+        "original": "Gerfaut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##############|name",
+        "original": "Albatros",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##############|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###############|name",
+        "original": "Vautour",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###############|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship################|name",
+        "original": "Cassard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship################|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#################|name",
+        "original": "Maillé Brézé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#################|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##################|name",
+        "original": "Kersaint",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##################|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "3ème Escadron Sous-Marins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "Le Glorieux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "Protée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "Actéon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "Fresnel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "Achéron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "L`Espoire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "Pégase",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "Monge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "4ème Escadron Sous-Marins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "Pasteur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "Achille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "Persée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "Poncelet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "Ajax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "Archimède",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|name",
+        "original": "Surcouf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship######|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|name",
+        "original": "Phénix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#######|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "5ème Escadron Sous-Marins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "Redoutable",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "Vengeur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "Circé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "Calypso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "Thétis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "Doris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "Argonaute",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|name",
+        "original": "Sirène",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|name",
+        "original": "Naïade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|name",
+        "original": "Galathée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "Sous-Marins Force du Nord",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "Orphée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "Amazone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "La Sybille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "Antiope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "Flottille de Haute Mers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "Lorraine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|equipment|battleship_1|version_name",
+        "original": "Bretagne Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "Bretagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|equipment|battleship_1|version_name",
+        "original": "Bretagne Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "Provence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|equipment|battleship_1|version_name",
+        "original": "Bretagne Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "Pluton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|name",
+        "original": "La Palme",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#####|name",
+        "original": "Le Mars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship######|name",
+        "original": "Tempête",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#######|name",
+        "original": "La Railleuse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship########|name",
+        "original": "Le Fortune",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#########|name",
+        "original": "Simoun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##########|name",
+        "original": "Tramontane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###########|name",
+        "original": "Typhon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship############|name",
+        "original": "Tornade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#############|name",
+        "original": "Le Bordelais",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##############|name",
+        "original": "L'Alcyon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###############|name",
+        "original": "Trombe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship################|name",
+        "original": "Forbin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#################|name",
+        "original": "Basque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|name",
+        "original": "Force d'Attaque Légère",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "La Galissonnière",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "Émile Bertin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "Lion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "Vauban",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "Bison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "Guépard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "Valmy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "Verdun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|equipment|destroyer_1|version_name",
+        "original": "Chacal Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|name",
+        "original": "Aigle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|name",
+        "original": "Milan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|name",
+        "original": "Épervier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|equipment|destroyer_1|version_name",
+        "original": "Aigle & Vauquelin Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|name",
+        "original": "Flotte du Afrique de l'Ouest",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "Jeanne d'Arc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "Duguay-Trouin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "Primauguet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "2ème Escadron Sous-Marins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "Le Centaure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "Argo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "Pascal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "Henri Poincaré",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|equipment|submarine_1|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "Orion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "Ondine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "Méduse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "Amphitrite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|name",
+        "original": "Oréade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|name",
+        "original": "La Psyché",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|name",
+        "original": "Diane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###########|name",
+        "original": "Ariane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship############|name",
+        "original": "Eurydice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#############|name",
+        "original": "Danaé",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|name",
+        "original": "6ème Escadron Sous-Marins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|name",
+        "original": "Caïman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|name",
+        "original": "Morse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|name",
+        "original": "Souffleur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|name",
+        "original": "Phoque",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|name",
+        "original": "Espadon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|name",
+        "original": "Dauphin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|name",
+        "original": "Aréthuse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|name",
+        "original": "Atalante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#######|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|name",
+        "original": "La Vestale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship########|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|name",
+        "original": "La Sultane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#########|equipment|submarine_1|version_name",
+        "original": "630 Series",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|name",
+        "original": "Sous-Marins Force de Levant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|name",
+        "original": "Requin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|name",
+        "original": "Marsouin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|name",
+        "original": "Narval",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|name",
+        "original": "Flotte du Extrême Orient",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship|name",
+        "original": "Suffren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#|name",
+        "original": "Lamotte-Picquet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production#####|equipment|version_name",
+        "original": "Redoutable Class",
+        "translation": "",
+        "stage": 0
+    }
+]

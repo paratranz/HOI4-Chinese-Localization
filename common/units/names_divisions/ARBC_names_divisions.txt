@@ -1,0 +1,621 @@
+EGY_INF_01 = {
+  name = "Infantry Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "al-Mushati al-%di"
+    }
+    2 = {
+      "al-Mushati al-%di"
+    }
+    3 = {
+      "al-Mushati al-%di"
+    }
+    4 = {
+      "al-Mushati al-%di"
+    }
+    5 = {
+      "al-Mushati al-%di"
+    }
+    6 = {
+      "al-Mushati al-%di"
+    }
+    7 = {
+      "al-Mushati al-%di"
+    }
+    8 = {
+      "al-Mushati al-%di"
+    }
+    9 = {
+      "al-Mushati al-%di"
+    }
+    10 = {
+      "al-Mushati al-%di"
+    }
+    12 = {
+      "al-Mushati al-%dr"
+    }
+    13 = {
+      "al-Mushati al-%dr"
+    }
+    14 = {
+      "al-Mushati al-%dr"
+    }
+    15 = {
+      "al-Mushati al-%dr"
+    }
+    16 = {
+      "al-Mushati al-%dr"
+    }
+    17 = {
+      "al-Mushati al-%dr"
+    }
+    18 = {
+      "al-Mushati al-%dr"
+    }
+    19 = {
+      "al-Mushati al-%dr"
+    }
+    20 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_CAV_01 = {
+  name = "Cavalry Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Sipahis al-%di"
+    }
+    2 = {
+      "Sipahis al-%di"
+    }
+    3 = {
+      "Sipahis al-%di"
+    }
+    4 = {
+      "Sipahis al-%di"
+    }
+    5 = {
+      "Sipahis al-%di"
+    }
+    6 = {
+      "Sipahis al-%di"
+    }
+    7 = {
+      "Sipahis al-%di"
+    }
+    8 = {
+      "Sipahis al-%di"
+    }
+    9 = {
+      "Sipahis al-%di"
+    }
+    10 = {
+      "Sipahis al-%di"
+    }
+    11 = {
+      "Sipahis al-%dr"
+    }
+    12 = {
+      "Sipahis al-%dr"
+    }
+    13 = {
+      "Sipahis al-%dr"
+    }
+    14 = {
+      "Sipahis al-%dr"
+    }
+    15 = {
+      "Sipahis al-%dr"
+    }
+  }
+}
+EGY_MOT_01 = {
+  name = "Motorised Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "al-Mushati al-%di"
+    }
+    2 = {
+      "al-Mushati al-%di"
+    }
+    3 = {
+      "al-Mushati al-%di"
+    }
+    4 = {
+      "al-Mushati al-%di"
+    }
+    5 = {
+      "al-Mushati al-%di"
+    }
+    6 = {
+      "al-Mushati al-%di"
+    }
+    7 = {
+      "al-Mushati al-%di"
+    }
+    8 = {
+      "al-Mushati al-%di"
+    }
+    9 = {
+      "al-Mushati al-%di"
+    }
+    10 = {
+      "al-Mushati al-%di"
+    }
+    12 = {
+      "al-Mushati al-%dr"
+    }
+    13 = {
+      "al-Mushati al-%dr"
+    }
+    14 = {
+      "al-Mushati al-%dr"
+    }
+    15 = {
+      "al-Mushati al-%dr"
+    }
+    16 = {
+      "al-Mushati al-%dr"
+    }
+    17 = {
+      "al-Mushati al-%dr"
+    }
+    18 = {
+      "al-Mushati al-%dr"
+    }
+    19 = {
+      "al-Mushati al-%dr"
+    }
+    20 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_ARM_01 = {
+  name = "Armoured Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    EGY_CAV_01
+  }
+  fallback_name = "Sipahis al-%dr"
+  ordered = {
+    1 = {
+      "Sipahis al-%di"
+    }
+    2 = {
+      "Sipahis al-%di"
+    }
+    3 = {
+      "Sipahis al-%di"
+    }
+    4 = {
+      "Sipahis al-%di"
+    }
+    5 = {
+      "Sipahis al-%di"
+    }
+    6 = {
+      "Sipahis al-%di"
+    }
+    7 = {
+      "Sipahis al-%di"
+    }
+    8 = {
+      "Sipahis al-%di"
+    }
+    9 = {
+      "Sipahis al-%di"
+    }
+    10 = {
+      "Sipahis al-%di"
+    }
+    11 = {
+      "Sipahis al-%dr"
+    }
+    12 = {
+      "Sipahis al-%dr"
+    }
+    13 = {
+      "Sipahis al-%dr"
+    }
+    14 = {
+      "Sipahis al-%dr"
+    }
+    15 = {
+      "Sipahis al-%dr"
+    }
+  }
+}
+EGY_MEC_01 = {
+  name = "Mechanised Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "al-Mushati al-%di"
+    }
+    2 = {
+      "al-Mushati al-%di"
+    }
+    3 = {
+      "al-Mushati al-%di"
+    }
+    4 = {
+      "al-Mushati al-%di"
+    }
+    5 = {
+      "al-Mushati al-%di"
+    }
+    6 = {
+      "al-Mushati al-%di"
+    }
+    7 = {
+      "al-Mushati al-%di"
+    }
+    8 = {
+      "al-Mushati al-%di"
+    }
+    9 = {
+      "al-Mushati al-%di"
+    }
+    10 = {
+      "al-Mushati al-%di"
+    }
+    12 = {
+      "al-Mushati al-%dr"
+    }
+    13 = {
+      "al-Mushati al-%dr"
+    }
+    14 = {
+      "al-Mushati al-%dr"
+    }
+    15 = {
+      "al-Mushati al-%dr"
+    }
+    16 = {
+      "al-Mushati al-%dr"
+    }
+    17 = {
+      "al-Mushati al-%dr"
+    }
+    18 = {
+      "al-Mushati al-%dr"
+    }
+    19 = {
+      "al-Mushati al-%dr"
+    }
+    20 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_GAR_01 = {
+  name = "Garrison Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    1 = {
+      "al-Mushati al-%di"
+    }
+    2 = {
+      "al-Mushati al-%di"
+    }
+    3 = {
+      "al-Mushati al-%di"
+    }
+    4 = {
+      "al-Mushati al-%di"
+    }
+    5 = {
+      "al-Mushati al-%di"
+    }
+    6 = {
+      "al-Mushati al-%di"
+    }
+    7 = {
+      "al-Mushati al-%di"
+    }
+    8 = {
+      "al-Mushati al-%di"
+    }
+    9 = {
+      "al-Mushati al-%di"
+    }
+    10 = {
+      "al-Mushati al-%di"
+    }
+    12 = {
+      "al-Mushati al-%dr"
+    }
+    13 = {
+      "al-Mushati al-%dr"
+    }
+    14 = {
+      "al-Mushati al-%dr"
+    }
+    15 = {
+      "al-Mushati al-%dr"
+    }
+    16 = {
+      "al-Mushati al-%dr"
+    }
+    17 = {
+      "al-Mushati al-%dr"
+    }
+    18 = {
+      "al-Mushati al-%dr"
+    }
+    19 = {
+      "al-Mushati al-%dr"
+    }
+    20 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_MAR_01 = {
+  name = "Marine Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "al-Mushati al-%dr"
+    }
+    21 = {
+      "al-Mushati al-%dr"
+    }
+    22 = {
+      "al-Mushati al-%dr"
+    }
+    23 = {
+      "al-Mushati al-%dr"
+    }
+    24 = {
+      "al-Mushati al-%dr"
+    }
+    25 = {
+      "al-Mushati al-%dr"
+    }
+    26 = {
+      "al-Mushati al-%dr"
+    }
+    27 = {
+      "al-Mushati al-%dr"
+    }
+    28 = {
+      "al-Mushati al-%dr"
+    }
+    29 = {
+      "al-Mushati al-%dr"
+    }
+    30 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_MTN_01 = {
+  name = "Mountain Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "al-Mushati al-%dr"
+    }
+    21 = {
+      "al-Mushati al-%dr"
+    }
+    22 = {
+      "al-Mushati al-%dr"
+    }
+    23 = {
+      "al-Mushati al-%dr"
+    }
+    24 = {
+      "al-Mushati al-%dr"
+    }
+    25 = {
+      "al-Mushati al-%dr"
+    }
+    26 = {
+      "al-Mushati al-%dr"
+    }
+    27 = {
+      "al-Mushati al-%dr"
+    }
+    28 = {
+      "al-Mushati al-%dr"
+    }
+    29 = {
+      "al-Mushati al-%dr"
+    }
+    30 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}
+EGY_PAR_01 = {
+  name = "Paratrooper Divisions"
+  for_countries = {
+    EGY
+    JOR
+    LBA
+    LEB
+    PAL
+    SYR
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  link_numbering_with = {
+    EGY_INF_01
+  }
+  fallback_name = "al-Mushati al-%dr"
+  ordered = {
+    20 = {
+      "al-Mushati al-%dr"
+    }
+    21 = {
+      "al-Mushati al-%dr"
+    }
+    22 = {
+      "al-Mushati al-%dr"
+    }
+    23 = {
+      "al-Mushati al-%dr"
+    }
+    24 = {
+      "al-Mushati al-%dr"
+    }
+    25 = {
+      "al-Mushati al-%dr"
+    }
+    26 = {
+      "al-Mushati al-%dr"
+    }
+    27 = {
+      "al-Mushati al-%dr"
+    }
+    28 = {
+      "al-Mushati al-%dr"
+    }
+    29 = {
+      "al-Mushati al-%dr"
+    }
+    30 = {
+      "al-Mushati al-%dr"
+    }
+  }
+}

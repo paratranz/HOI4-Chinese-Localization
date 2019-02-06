@@ -1,0 +1,1070 @@
+[
+    {
+        "key": "MAN_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_INF_01|fallback_name",
+        "original": "%d Man'chu Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|1#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|2#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|3#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|4#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|5#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|6#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|7#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|8#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|9#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|10#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|11#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|12#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|13#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|14#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|15#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|16#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|17#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|18#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|19#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|20#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|21#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|22#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|23#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|24#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|25#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|26#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|27#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|28#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|29#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_INF_01|ordered|30#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_CAV_01|fallback_name",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|1#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|2#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|3#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|4#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|5#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|6#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|7#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|8#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|9#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|10#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|11#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|12#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|13#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|14#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_CAV_01|ordered|15#|%d Man'chu Qibing Shi",
+        "original": "%d Man'chu Qibing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MOT_01|name",
+        "original": "Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MOT_01|fallback_name",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|1#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|2#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|3#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|4#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|5#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|6#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|7#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|8#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|9#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|10#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|11#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|12#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|13#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|14#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MOT_01|ordered|15#|%d Man'chu Jidonghua Shi",
+        "original": "%d Man'chu Jidonghua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MEC_01|fallback_name",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|1#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|2#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|3#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|4#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|5#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|6#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|7#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|8#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|9#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|10#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|11#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|12#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|13#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|14#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MEC_01|ordered|15#|%d Man'chu Jixiehua Shi",
+        "original": "%d Man'chu Jixiehua Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_ARM_01|name",
+        "original": "Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_ARM_01|fallback_name",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|1#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|2#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|3#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|4#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|5#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|6#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|7#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|8#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|9#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|10#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|11#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|12#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|13#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|14#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_ARM_01|ordered|15#|%d Man'chu Zhuangjia Shi",
+        "original": "%d Man'chu Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_PAR_01|name",
+        "original": "Parachute Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_PAR_01|fallback_name",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|1#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|2#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|3#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|4#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|5#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|6#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|7#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|8#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|9#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_PAR_01|ordered|10#|%d Man'chu Sanbing Shi",
+        "original": "%d Man'chu Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MAR_01|fallback_name",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|1#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|2#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|3#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|4#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|5#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|6#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|7#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|8#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|9#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MAR_01|ordered|10#|%d Man'chu Luzhan Dui Shi",
+        "original": "%d Man'chu Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_MNT_01|fallback_name",
+        "original": "%d Man'chu Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|1#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|2#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|3#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|4#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|5#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|6#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|7#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|8#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|9#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|10#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|11#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|12#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|13#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|14#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|15#|%d Mukden Bubing Shi",
+        "original": "%d Mukden Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|16#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|17#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|18#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|19#|%d Hsinking Bubing Shi",
+        "original": "%d Hsinking Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|20#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|21#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|22#|%d Fang'tien Bubing Shi",
+        "original": "%d Fang'tien Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|23#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|24#|%d Qiqihar Bubing Shi",
+        "original": "%d Qiqihar Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|25#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|26#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|27#|%d Harbin Bubing Shi",
+        "original": "%d Harbin Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|28#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|29#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_MNT_01|ordered|30#|%d Dalian Bubing Shi",
+        "original": "%d Dalian Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MAN_GAR_01|fallback_name",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|1#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|2#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|3#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|4#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|5#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|6#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|7#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|8#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|9#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|10#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|11#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|12#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|13#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|14#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|15#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|16#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|17#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|18#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|19#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MAN_GAR_01|ordered|20#|%d Qu Jun",
+        "original": "%d Qu Jun",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "División de Infanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|name",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "División de Caballería",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|name",
+        "original": "Destacamento de Montaña Cuyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "Destacamento de Montaña Norte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Brigada Montaña",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Armada Argentina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "ARA Rivadavia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "ARA Moreno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "ARA Veinticinco de Mayo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "Veinticinco de Mayo Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "ARA Almirante Brown",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Veinticinco de Mayo Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "ARA Pueyrredon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "ARA Libertad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "ARA Independencia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "ARA La Argentina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "ARA Catamarca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "ARA Jujuy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "ARA Córdoba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|name",
+        "original": "ARA La Plata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############|name",
+        "original": "ARA Cervantes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship############|equipment|destroyer_1|version_name",
+        "original": "Cervantes Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############|name",
+        "original": "ARA Juan de Garay",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#############|equipment|destroyer_1|version_name",
+        "original": "Cervantes Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|name",
+        "original": "ARA Mendoza",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##############|equipment|destroyer_1|version_name",
+        "original": "Cervantes Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###############|name",
+        "original": "ARA La Rioja",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###############|equipment|destroyer_1|version_name",
+        "original": "Cervantes Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship################|name",
+        "original": "ARA Tucumán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship################|equipment|destroyer_1|version_name",
+        "original": "Cervantes Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#################|name",
+        "original": "ARA Buenos Aires",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##################|name",
+        "original": "ARA Entre Rios",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###################|name",
+        "original": "ARA Corrientes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####################|name",
+        "original": "ARA San Juan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####################|name",
+        "original": "ARA San Luis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######################|name",
+        "original": "ARA Misiones",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######################|name",
+        "original": "ARA Santa Cruz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "Flotilla de Submarinos",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "ARA Santa Fe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "ARA Santiago del Estero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "ARA Salta",
+        "translation": "",
+        "stage": 0
+    }
+]

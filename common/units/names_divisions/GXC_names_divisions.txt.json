@@ -1,0 +1,1076 @@
+[
+    {
+        "key": "GXC_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_INF_01|fallback_name",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|1#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|2#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|3#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|4#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|5#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|6#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|7#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|8#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|9#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|10#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|11#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|12#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|13#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|14#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|15#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|16#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|17#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|18#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|19#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_INF_01|ordered|20#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_CAV_01|fallback_name",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|1#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|2#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|3#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|4#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|6#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|5#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|7#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|8#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|9#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|10#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|11#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|12#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|13#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|14#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_CAV_01|ordered|15#|%d Guangxi Qibing Jun",
+        "original": "%d Guangxi Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MOT_01|name",
+        "original": "Motorized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MOT_01|fallback_name",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|1#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|2#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|3#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|4#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|5#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|6#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|7#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|8#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|9#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|10#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|11#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|12#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|13#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|14#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|15#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|16#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|17#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|18#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|19#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MOT_01|ordered|20#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MEC_01|fallback_name",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|1#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|2#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|3#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|4#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|5#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|6#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|7#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|8#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|9#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|10#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|11#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|12#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|13#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|14#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|15#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|16#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|17#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|18#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|19#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MEC_01|ordered|20#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_MNT_01|fallback_name",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|1#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|2#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|3#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|4#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|5#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|6#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|7#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|8#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|9#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|10#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|11#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|12#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|13#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|14#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|15#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|16#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|17#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|18#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|19#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_MNT_01|ordered|20#|%d Guangxi Juntuán",
+        "original": "%d Guangxi Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GXC_GAR_01|fallback_name",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|101#|1 Guangzhou Jingbei",
+        "original": "1 Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|111#|1 Hainan Jingbei",
+        "original": "1 Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|121#|1 Guilin Jingbei",
+        "original": "1 Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|102#|2 Guangzhou Jingbei",
+        "original": "2 Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|103#|3 Guangzhou Jingbei",
+        "original": "3 Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|112#|2 Hainan Jingbei",
+        "original": "2 Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|113#|3 Hainan Jingbei",
+        "original": "3 Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|122#|2 Guilin Jingbei",
+        "original": "2 Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|104#|4 Guangzhou Jingbei",
+        "original": "4 Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|105#|5 Guangzhou Jingbei",
+        "original": "5 Guangzhou Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|123#|3 Guilin Jingbei",
+        "original": "3 Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|124#|4 Guilin Jingbei",
+        "original": "4 Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|114#|4 Hainan Jingbei",
+        "original": "4 Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|115#|5 Hainan Jingbei",
+        "original": "5 Hainan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|125#|5 Guilin Jingbei",
+        "original": "5 Guilin Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|131#|Guangzhou Baoan Ke",
+        "original": "Guangzhou Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|132#|1 Nanning Baoan Ke",
+        "original": "1 Nanning Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|133#|1 Guangdong Baoan Ke",
+        "original": "1 Guangdong Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|134#|2 Guangdong Baoan Ke",
+        "original": "2 Guangdong Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|135#|3 Guangdong Baoan Ke",
+        "original": "3 Guangdong Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|136#|2 Nanning Baoan Ke",
+        "original": "2 Nanning Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|137#|3 Nanning Baoan Ke",
+        "original": "3 Nanning Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|1#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|2#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|3#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|4#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|5#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|6#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|7#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|8#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|9#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GXC_GAR_01|ordered|10#|%d Guangxi Jingbei",
+        "original": "%d Guangxi Jingbei",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,1562 @@
+[
+    {
+        "key": "#LIST#|GER|submarine|generic|U-Boot",
+        "original": "U-Boot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|destroyer|generic|Zerstörer",
+        "original": "Zerstörer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|generic|Leichter Kreuzer",
+        "original": "Leichter Kreuzer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Emden",
+        "original": "Emden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Königsberg",
+        "original": "Königsberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Karlsruhe",
+        "original": "Karlsruhe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Köln",
+        "original": "Köln",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Leipzig",
+        "original": "Leipzig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Nürnberg",
+        "original": "Nürnberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|München",
+        "original": "München",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Berlin",
+        "original": "Berlin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hamburg",
+        "original": "Hamburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Stuttgart",
+        "original": "Stuttgart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bremen",
+        "original": "Bremen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Lübeck",
+        "original": "Lübeck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Danzig",
+        "original": "Danzig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Stettin",
+        "original": "Stettin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Dresden",
+        "original": "Dresden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Mainz",
+        "original": "Mainz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Augsburg",
+        "original": "Augsburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Magdeburg",
+        "original": "Magdeburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Breslau",
+        "original": "Breslau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hannover",
+        "original": "Hannover",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Stralsund",
+        "original": "Stralsund",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Frankfurt",
+        "original": "Frankfurt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Rostock",
+        "original": "Rostock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Elbing",
+        "original": "Elbing",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Straßburg",
+        "original": "Straßburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Regensburg",
+        "original": "Regensburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Wiesbaden",
+        "original": "Wiesbaden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Aachen",
+        "original": "Aachen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Potsdam",
+        "original": "Potsdam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Heidelberg",
+        "original": "Heidelberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Kiel",
+        "original": "Kiel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Würzburg",
+        "original": "Würzburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Münster",
+        "original": "Münster",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Darmstadt",
+        "original": "Darmstadt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Chemnitz",
+        "original": "Chemnitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Braunschweig",
+        "original": "Braunschweig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Kassel",
+        "original": "Kassel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Oldenburg",
+        "original": "Oldenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Düsseldorf",
+        "original": "Düsseldorf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Halle",
+        "original": "Halle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Wien",
+        "original": "Wien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Dortmund",
+        "original": "Dortmund",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Freiburg",
+        "original": "Freiburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Duisburg",
+        "original": "Duisburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Mannheim",
+        "original": "Mannheim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Erfurt",
+        "original": "Erfurt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Osnabrück",
+        "original": "Osnabrück",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Essen",
+        "original": "Essen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Wolfsburg",
+        "original": "Wolfsburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Wuppertal",
+        "original": "Wuppertal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Prag",
+        "original": "Prag",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Innsbruck",
+        "original": "Innsbruck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Saarbrücken",
+        "original": "Saarbrücken",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Posen",
+        "original": "Posen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Mülhausen",
+        "original": "Mülhausen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Paderborn",
+        "original": "Paderborn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Brünn",
+        "original": "Brünn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Ingolstadt",
+        "original": "Ingolstadt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bielefeld",
+        "original": "Bielefeld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Salzburg",
+        "original": "Salzburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Pilsen",
+        "original": "Pilsen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Mülheim",
+        "original": "Mülheim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Heilbronn",
+        "original": "Heilbronn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bonn",
+        "original": "Bonn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Graz",
+        "original": "Graz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Oberhausen",
+        "original": "Oberhausen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Ludwigshafen",
+        "original": "Ludwigshafen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bochum",
+        "original": "Bochum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Solingen",
+        "original": "Solingen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Linz",
+        "original": "Linz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Mönchengladbach",
+        "original": "Mönchengladbach",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Fürth",
+        "original": "Fürth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Trier",
+        "original": "Trier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hagen",
+        "original": "Hagen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Krefeld",
+        "original": "Krefeld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Ulm",
+        "original": "Ulm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Göttingen",
+        "original": "Göttingen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Gelsenkirchen",
+        "original": "Gelsenkirchen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Recklinghausen",
+        "original": "Recklinghausen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Pforzheim",
+        "original": "Pforzheim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hamm",
+        "original": "Hamm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bottrop",
+        "original": "Bottrop",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bremerhaven",
+        "original": "Bremerhaven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Reutlingen",
+        "original": "Reutlingen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Jena",
+        "original": "Jena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Koblenz",
+        "original": "Koblenz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Leverkusen",
+        "original": "Leverkusen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Neuss",
+        "original": "Neuss",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Offenbach",
+        "original": "Offenbach",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Herne",
+        "original": "Herne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Remscheid",
+        "original": "Remscheid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Kaiserslautern",
+        "original": "Kaiserslautern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Salzgitter",
+        "original": "Salzgitter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Schwerin",
+        "original": "Schwerin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Cottbus",
+        "original": "Cottbus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Wilhelmshaven",
+        "original": "Wilhelmshaven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Erlangen",
+        "original": "Erlangen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Siegen",
+        "original": "Siegen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hildesheim",
+        "original": "Hildesheim",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Zwickau",
+        "original": "Zwickau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Medusa",
+        "original": "Medusa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Niobe",
+        "original": "Niobe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Nymphe",
+        "original": "Nymphe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Brummer",
+        "original": "Brummer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Bremse",
+        "original": "Bremse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Gazelle",
+        "original": "Gazelle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Thetis",
+        "original": "Thetis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Ariadne",
+        "original": "Ariadne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Amazone",
+        "original": "Amazone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Frauenlob",
+        "original": "Frauenlob",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Arcona",
+        "original": "Arcona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Undine",
+        "original": "Undine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Hela",
+        "original": "Hela",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_cruiser|unique|Gefion",
+        "original": "Gefion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|generic|Schwerer Kreuzer",
+        "original": "Schwerer Kreuzer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|generic|Panzerschiff",
+        "original": "Panzerschiff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Admiral Graf Spee",
+        "original": "Admiral Graf Spee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Admiral Hipper",
+        "original": "Admiral Hipper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Blücher",
+        "original": "Blücher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Prinz Eugen",
+        "original": "Prinz Eugen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Seydlitz",
+        "original": "Seydlitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Lützow",
+        "original": "Lützow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Roon",
+        "original": "Roon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Deutschland",
+        "original": "Deutschland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Herta",
+        "original": "Herta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Freya",
+        "original": "Freya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Vineta",
+        "original": "Vineta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Siegfried",
+        "original": "Siegfried",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Hansa",
+        "original": "Hansa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Friedrich Carl",
+        "original": "Friedrich Carl",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Buddenbrock",
+        "original": "Buddenbrock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Bittenfeld",
+        "original": "Bittenfeld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Schwarzenberg",
+        "original": "Schwarzenberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Eichhorn",
+        "original": "Eichhorn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Flemming",
+        "original": "Flemming",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Boyen",
+        "original": "Boyen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Haeseler",
+        "original": "Haeseler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Woyrsch",
+        "original": "Woyrsch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Mansfeld",
+        "original": "Mansfeld",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Kalckreuth",
+        "original": "Kalckreuth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Kleist",
+        "original": "Kleist",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Wrangel",
+        "original": "Wrangel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Daun",
+        "original": "Daun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Heyde",
+        "original": "Heyde",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_cruiser|unique|Krockow",
+        "original": "Krockow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|generic|Schlachtkreuzer",
+        "original": "Schlachtkreuzer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Von der Tann",
+        "original": "Von der Tann",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Moltke",
+        "original": "Moltke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Goeben",
+        "original": "Goeben",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Derfflinger",
+        "original": "Derfflinger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Holtzendorff",
+        "original": "Holtzendorff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|York",
+        "original": "York",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Von Mackensen",
+        "original": "Von Mackensen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Von Lettow-Vorbeck",
+        "original": "Von Lettow-Vorbeck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Friedrich Barbarossa",
+        "original": "Friedrich Barbarossa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battle_cruiser|unique|Karl der Große",
+        "original": "Karl der Große",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|generic|Schlachtschiff",
+        "original": "Schlachtschiff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Scharnhorst",
+        "original": "Scharnhorst",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Gneisenau",
+        "original": "Gneisenau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Bismarck",
+        "original": "Bismarck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Tirpitz",
+        "original": "Tirpitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Hindenburg",
+        "original": "Hindenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Ludendorff",
+        "original": "Ludendorff",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Friedrich der Große",
+        "original": "Friedrich der Große",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Großdeutschland",
+        "original": "Großdeutschland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Ulrich von Hutten",
+        "original": "Ulrich von Hutten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Götz von Berlichingen",
+        "original": "Götz von Berlichingen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Brandenburg",
+        "original": "Brandenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Hessen",
+        "original": "Hessen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Zähringen",
+        "original": "Zähringen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Mecklenburg",
+        "original": "Mecklenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Elsass",
+        "original": "Elsass",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Lothringen",
+        "original": "Lothringen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Hannover",
+        "original": "Hannover",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Nassau",
+        "original": "Nassau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Pommern",
+        "original": "Pommern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Westfalen",
+        "original": "Westfalen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Rheinland",
+        "original": "Rheinland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Thüringen",
+        "original": "Thüringen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Württemberg",
+        "original": "Württemberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Braunschweig",
+        "original": "Braunschweig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Bayern",
+        "original": "Bayern",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Sachsen",
+        "original": "Sachsen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Baden",
+        "original": "Baden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Weissenburg",
+        "original": "Weissenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Ostfriesland",
+        "original": "Ostfriesland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Oldenburg",
+        "original": "Oldenburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Posen",
+        "original": "Posen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Preussen",
+        "original": "Preussen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Pillau",
+        "original": "Pillau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Helgoland",
+        "original": "Helgoland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Schwaben",
+        "original": "Schwaben",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Wörth",
+        "original": "Wörth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Wettin",
+        "original": "Wettin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Wittelsbach",
+        "original": "Wittelsbach",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Orbotrit",
+        "original": "Orbotrit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Ostmark",
+        "original": "Ostmark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Schleswig",
+        "original": "Schleswig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Holstein",
+        "original": "Holstein",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Franken",
+        "original": "Franken",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|battleship|unique|Strelitz",
+        "original": "Strelitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|generic|Flugzeugträger",
+        "original": "Flugzeugträger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Graf Zeppelin",
+        "original": "Graf Zeppelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Peter Strasser",
+        "original": "Peter Strasser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Seydlitz",
+        "original": "Seydlitz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Europa",
+        "original": "Europa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Potsdam",
+        "original": "Potsdam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Otto Lilienthal",
+        "original": "Otto Lilienthal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Aurora",
+        "original": "Aurora",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Jade",
+        "original": "Jade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Elbe",
+        "original": "Elbe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Manfred von Richthofen",
+        "original": "Manfred von Richthofen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|carrier|unique|Max Immelman",
+        "original": "Max Immelman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|generic|Jagdgeschwader",
+        "original": "Jagdgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 1 Oesau",
+        "original": "JG 1 Oesau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 2 Richthofen",
+        "original": "JG 2 Richthofen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 3 Udet",
+        "original": "JG 3 Udet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 5 Eismeer",
+        "original": "JG 5 Eismeer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 6 Horst Wessel",
+        "original": "JG 6 Horst Wessel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 7 Nowotny",
+        "original": "JG 7 Nowotny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 26 Schlageter",
+        "original": "JG 26 Schlageter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 27 Afrika",
+        "original": "JG 27 Afrika",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 51 Mölders",
+        "original": "JG 51 Mölders",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 53 Pik As",
+        "original": "JG 53 Pik As",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 54 Grünherz",
+        "original": "JG 54 Grünherz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|fighter_equipment|unique|JG 77 Herz As",
+        "original": "JG 77 Herz As",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_fighter_equipment|generic|Sonder-Jagdverband",
+        "original": "Sonder-Jagdverband",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_fighter_equipment|generic|Jagdverband",
+        "original": "Jagdverband",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_fighter_equipment|generic|Erprobungskommando",
+        "original": "Erprobungskommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_fighter_equipment|generic|Lehrgeschwader",
+        "original": "Lehrgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_fighter_equipment|generic|Erprobungsgruppe",
+        "original": "Erprobungsgruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_fighter_equipment|generic|Zerstörergeschwader",
+        "original": "Zerstörergeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|heavy_fighter_equipment|generic|Nachtjagdgeschwader",
+        "original": "Nachtjagdgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|CAS_equipment|generic|Schlachtgeschwader",
+        "original": "Schlachtgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|CAS_equipment|generic|Stukageschwader",
+        "original": "Stukageschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|CAS_equipment|generic|Schnellkampfgeschwader",
+        "original": "Schnellkampfgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|cv_fighter_equipment|generic|Träger-Jagdgruppe",
+        "original": "Träger-Jagdgruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|cv_CAS_equipment|generic|Träger-Stukagruppe",
+        "original": "Träger-Stukagruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|cv_nav_bomber_equipment|generic|Torpedobombergruppe",
+        "original": "Torpedobombergruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|tac_bomber_equipment|generic|Kampfgeschwader",
+        "original": "Kampfgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|tac_bomber_equipment|generic|Kampfschulgeschwader",
+        "original": "Kampfschulgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_tac_bomber_equipment|generic|Sonder-Kampfverband",
+        "original": "Sonder-Kampfverband",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_tac_bomber_equipment|generic|Erprobungskommando",
+        "original": "Erprobungskommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_tac_bomber_equipment|generic|Lehrkampfgeschwader",
+        "original": "Lehrkampfgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_tac_bomber_equipment|generic|Schnellbombergeschwader",
+        "original": "Schnellbombergeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_tac_bomber_equipment|generic|Erprobungsgruppe",
+        "original": "Erprobungsgruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|nav_bomber_equipment|generic|Küstenfliegergruppe",
+        "original": "Küstenfliegergruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|strat_bomber_equipment|generic|Fernkampfgeschwader",
+        "original": "Fernkampfgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_strat_bomber_equipment|generic|Schnellbombergeschwader",
+        "original": "Schnellbombergeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_strat_bomber_equipment|generic|Erprobungskommando",
+        "original": "Erprobungskommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|jet_strat_bomber_equipment|generic|Erprobungsgruppe",
+        "original": "Erprobungsgruppe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|transport_plane_equipment|generic|Transportgeschwader",
+        "original": "Transportgeschwader",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|infantry|generic|Infanterie-Division",
+        "original": "Infanterie-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|mountaineers|generic|Gebirgsbrigade",
+        "original": "Gebirgsbrigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|cavalry|generic|Kavallerie-Kommando",
+        "original": "Kavallerie-Kommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|light_armor|generic|Panzer-Division",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|GER|medium_armor|generic|Panzer-Division",
+        "original": "Panzer-Division",
+        "translation": "",
+        "stage": 0
+    }
+]

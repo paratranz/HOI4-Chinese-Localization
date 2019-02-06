@@ -1,0 +1,146 @@
+[
+    {
+        "key": "PERMISSION_CONTESTED:0",
+        "original": "Contested",
+        "translation": "战争",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_CONTESTED_DESC:0",
+        "original": "Due to the war of controllers: $SIDE1|H$ vs $SIDE2|H$",
+        "translation": "控制者正在交战：$SIDE1|H$对$SIDE2|H$",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_ENEMY:0",
+        "original": "Enemy",
+        "translation": "敌对",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_ENEMY_DESC:0",
+        "original": "Due to our rival relations with one of the controllers: $ENEMY|H$",
+        "translation": "我们与其中一个控制者处于敌对关系：$ENEMY|H$",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_FRIEND:0",
+        "original": "Friend",
+        "translation": "友好",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_FRIEND_DESC:0",
+        "original": "Due to our friendly relations with one of the controllers: $FRIEND|H$",
+        "translation": "我们与其中一个控制者处于友好关系：$FRIEND|H$",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_NEUTRAL:0",
+        "original": "Neutral",
+        "translation": "中立",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_NEUTRAL_DESC:0",
+        "original": "Due to our neutral relations with all of the controllers.",
+        "translation": "我们与所有的控制者处于中立关系。",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_HEADER:0",
+        "original": "Permission type $PERMISSION|H$:",
+        "translation": "通行权$PERMISSION|H$：",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_CURRENT_HEADER:0",
+        "original": "Permission type $PERMISSION|H$ (§HCurrent§!):",
+        "translation": "通行权类型$PERMISSION|H$ (§H当前状态§!)：",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_BLOCKED_DUE_TO:0",
+        "original": "Permission blocked due to: $REASON$",
+        "translation": "因为以下原因没有通行权：$REASON$",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_BLOCKED:0",
+        "original": "Permission blocked.\\n",
+        "translation": "没有通行权。\\n",
+        "stage": 1
+    },
+    {
+        "key": "PERMISSION_DESC:0",
+        "original": " - Armies can pass: $ARMY$\\n - Navies can pass: $NAVY$\\n - Submarines can pass: $SUBMARINES$\\n - Trade can pass: $TRADE$",
+        "translation": " - 可以通过军队：$ARMY$\\n - 可以通过海军：$NAVY$\\n - 可以通过潜艇：$SUBMARINES$\\n - 可以通过民船：$TRADE$",
+        "stage": 1
+    },
+    {
+        "key": "SUEZ_CANAL:0",
+        "original": "Suez canal",
+        "translation": "苏伊士运河",
+        "stage": 1
+    },
+    {
+        "key": "GIBRALTAR_STRAIT:0",
+        "original": "Gibraltar Strait",
+        "translation": "直布罗陀海峡",
+        "stage": 1
+    },
+    {
+        "key": "DANISH_BELTS_STRAIT:0",
+        "original": "The Danish Belts",
+        "translation": "丹麦贝尔特海峡",
+        "stage": 1
+    },
+    {
+        "key": "PANAMA_CANAL:0",
+        "original": "Panama Canal",
+        "translation": "巴拿马运河",
+        "stage": 1
+    },
+    {
+        "key": "KIEL_CANAL:0",
+        "original": "Kiel Canal",
+        "translation": "基尔运河",
+        "stage": 1
+    },
+    {
+        "key": "BOSPHORUS_STRAIT:0",
+        "original": "Bosphorus Strait",
+        "translation": "博斯普鲁斯海峡",
+        "stage": 1
+    },
+    {
+        "key": "disable_canal_tt:0",
+        "original": "§RThis canal has been partly demolished, and must be repaired before it can once again be traversed by ships.§!",
+        "translation": "§R这条运河正处于半毁状态，必须先进行修复，之后军舰才能再次通过运河。§!",
+        "stage": 1
+    },
+    {
+        "key": "SUEZ_CANAL_BLOCKED:0",
+        "original": "Suez Canal Blown",
+        "translation": "苏伊士运河被炸",
+        "stage": 1
+    },
+    {
+        "key": "PANAMA_CANAL_BLOCKED:0",
+        "original": "Panama Canal Blown",
+        "translation": "巴拿马运河被炸",
+        "stage": 1
+    },
+    {
+        "key": "SUEZ_CANAL_BLOCKED_FOR_COUNTRY:0",
+        "original": "Suez Canal Blocked for [Root.GetName]",
+        "translation": "[Root.GetName]无法通过苏伊士运河",
+        "stage": 1
+    },
+    {
+        "key": "PANAMA_CANAL_BLOCKED_FOR_COUNTRY:0",
+        "original": "Panama Canal Blocked for [Root.GetName]",
+        "translation": "[Root.GetName]无法通过巴拿马运河",
+        "stage": 1
+    }
+]

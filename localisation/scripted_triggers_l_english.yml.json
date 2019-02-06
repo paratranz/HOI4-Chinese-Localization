@@ -1,0 +1,8 @@
+[
+    {
+        "key": "is_controlled_by_ROOT_or_ally:0",
+        "original": "Controlled by §H[Root.GetNameDef]§! or one of their allies.",
+        "translation": "受§H[Root.GetNameDef]§!或他的盟友控制。",
+        "stage": 1
+    }
+]

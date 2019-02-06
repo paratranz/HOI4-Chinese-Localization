@@ -1,0 +1,2102 @@
+[
+    {
+        "key": "rhineland:0",
+        "original": "Remilitarize the Rhineland",
+        "translation": "进军莱茵兰",
+        "stage": 1
+    },
+    {
+        "key": "rhineland_desc:0",
+        "original": "The Rhineland has been demilitarized since the end of the First World War, but this insult shall stand no longer! Germany is a sovereign nation and is free to move troops anywhere within her borders!",
+        "translation": "莱茵兰自一战后便被非军事化，从今往后我们将不再忍受这份屈辱!德国作为主权国家有权利派遣军队到其境内的任何地方!",
+        "stage": 1
+    },
+    {
+        "key": "rhineland_short_desc:0",
+        "original": "§LMove German forces west of the Rhine in defiance of the Versailles Treaty.§!",
+        "translation": "§L进军莱茵兰西部，挑衅凡尔赛条约。§!",
+        "stage": 1
+    },
+    {
+        "key": "rhineland_1:0",
+        "original": "Remilitarize Mosselland",
+        "translation": "进军摩泽尔兰",
+        "stage": 1
+    },
+    {
+        "key": "rhineland_2:0",
+        "original": "Remilitarize Rheinland",
+        "translation": "进军莱茵兰",
+        "stage": 1
+    },
+    {
+        "key": "anschluss:0",
+        "original": "Enact the Anschluss",
+        "translation": "实现德奥合并",
+        "stage": 1
+    },
+    {
+        "key": "anschluss_desc:0",
+        "original": "The Anschluss, or union with Austria, is a long held goal of the German people. Although forbidden by the Treaty of Versailles, the time has finally come to bring it about. We must increase local support for fascism in Austria to lay the groundwork for the annexation.",
+        "translation": "德奥合并是每个德国人民长久以来的梦想。尽管比凡尔赛条约所禁止，但是这个时刻重要要来临了。我们必须在奥地利当地增加法西斯注意的影响力以为合并创造条件。",
+        "stage": 1
+    },
+    {
+        "key": "anschluss_short_desc:0",
+        "original": "§LUse covert means to boost popular support for Fascism in Austria.§!",
+        "translation": "§L通过隐秘手段在奥地利推动对法西斯的支持。§!",
+        "stage": 1
+    },
+    {
+        "key": "anschluss_1:0",
+        "original": "Influence politics",
+        "translation": "政治影响",
+        "stage": 1
+    },
+    {
+        "key": "take_state:0",
+        "original": "Conquer",
+        "translation": "征服",
+        "stage": 1
+    },
+    {
+        "key": "take_state_desc:0",
+        "original": "Take $STATE|Y$ from $TARGET|Y$.",
+        "translation": "从$TARGET|Y$夺取$STATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "take_state_short_desc:0",
+        "original": "This war goal will make selected states cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价获得已选择的地区。",
+        "stage": 1
+    },
+    {
+        "key": "take_state_focus:0",
+        "original": "Conquer (Focus)",
+        "translation": "征服(策略)",
+        "stage": 1
+    },
+    {
+        "key": "take_state_focus_desc:0",
+        "original": "Take $STATE|Y$ from $TARGET|Y$.",
+        "translation": "从$TARGET|Y$夺取$STATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "take_state_focus_short_desc:0",
+        "original": "This war goal will make selected states cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价获得已选择的地区。",
+        "stage": 1
+    },
+    {
+        "key": "liberate_wargoal:0",
+        "original": "Liberate",
+        "translation": "解放",
+        "stage": 1
+    },
+    {
+        "key": "liberate_wargoal_short_desc:0",
+        "original": "Liberate",
+        "translation": "解放",
+        "stage": 1
+    },
+    {
+        "key": "liberate_wargoal_desc:0",
+        "original": "This war goal will make liberation cheaper to pick in the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价解放。",
+        "stage": 1
+    },
+    {
+        "key": "puppet_wargoal_focus:0",
+        "original": "Puppet (Focus)",
+        "translation": "傀儡(策略)",
+        "stage": 1
+    },
+    {
+        "key": "puppet_wargoal_focus_desc:0",
+        "original": "Puppet (Focus)",
+        "translation": "傀儡(策略)",
+        "stage": 1
+    },
+    {
+        "key": "puppet_wargoal_focus_short_desc:0",
+        "original": "This war goal will make it cheaper to puppet state at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价傀儡国家。",
+        "stage": 1
+    },
+    {
+        "key": "take_claimed_state:0",
+        "original": "Take claimed state",
+        "translation": "割让领土",
+        "stage": 1
+    },
+    {
+        "key": "take_claimed_state_desc:0",
+        "original": "Take $STATE|Y$ from $TARGET|Y$",
+        "translation": "从$STATE|Y$夺取$TARGET|Y$",
+        "stage": 1
+    },
+    {
+        "key": "take_claimed_state_short_desc:0",
+        "original": "This war goal will make selected states cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价获得已选择的地区。",
+        "stage": 1
+    },
+    {
+        "key": "take_core_state:0",
+        "original": "Retake core state",
+        "translation": "收复核心领土",
+        "stage": 1
+    },
+    {
+        "key": "take_core_state_desc:0",
+        "original": "Retake $STATE|Y$ from $TARGET|Y$",
+        "translation": "从$STATE|Y$夺回$TARGET|Y$",
+        "stage": 1
+    },
+    {
+        "key": "take_core_state_short_desc:0",
+        "original": "This war goal will make selected states cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价获得已选择的地区。",
+        "stage": 1
+    },
+    {
+        "key": "annex_everything:0",
+        "original": "Annex",
+        "translation": "吞并",
+        "stage": 1
+    },
+    {
+        "key": "annex_everything_desc:0",
+        "original": "Annex selected state.",
+        "translation": "吞并已选择国家。",
+        "stage": 1
+    },
+    {
+        "key": "annex_everything_short_desc:0",
+        "original": "This war goal will make annexation cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价吞并已选择的国家。",
+        "stage": 1
+    },
+    {
+        "key": "civil_war:0",
+        "original": "Civil War",
+        "translation": "内战 ",
+        "stage": 1
+    },
+    {
+        "key": "civil_war_desc:0",
+        "original": "Civil war! The nation is split into factions who battle for control of the state.",
+        "translation": "内战!国家被分裂成不同的派系，互相争夺地区的控制权。",
+        "stage": 1
+    },
+    {
+        "key": "civil_war_short_desc:0",
+        "original": "This war goal will make annexation cheaper to pick at the peace conference.",
+        "translation": "设定此战争目标可以在和谈中用更小的代价吞并已选择的国家。",
+        "stage": 1
+    },
+    {
+        "key": "topple_government:0",
+        "original": "Topple Government",
+        "translation": "颠覆政权",
+        "stage": 1
+    },
+    {
+        "key": "topple_government_desc:0",
+        "original": "Overthrow the ruling government.",
+        "translation": "颠覆现有政权。",
+        "stage": 1
+    },
+    {
+        "key": "topple_government_short_desc:0",
+        "original": "This war goal will make topple government cheaper to pick at the peace conference.",
+        "translation": "这个战争目标可以降低和谈时颠覆政府的花费。",
+        "stage": 1
+    },
+    {
+        "key": "anti_comintern_pact:0",
+        "original": "Anti-Comintern Pact",
+        "translation": "反共产国际条约",
+        "stage": 1
+    },
+    {
+        "key": "anti_comintern_pact_desc:0",
+        "original": "It is time to make a pact \"recognizing that the aim of the Communist International, known as the Comintern, is to disintegrate and subdue existing States by all the means at its command; convinced that the toleration of interference by the Communist International in the internal affairs of the nations not only endangers their internal peace and social well-being, but is also a menace to the peace of the world desirous of co-operating in the defense against Communist subversive activities.\"\\nThis will improve relations with nations which join the pact.",
+        "translation": "是时候缔结如下条约了： \"认清共产国际（即第三国际）之目的在采取一切手段以破坏威胁现存的国家;深信忽视共产国际对于各国国内关系的干涉，不但将危及其国家安宁及社会福利，且将威胁全世界合作防范共产主义颠覆合同的渴望。\"\\n此举将改善签约国之间的关系。",
+        "stage": 1
+    },
+    {
+        "key": "anti_comintern_pact_short_desc:0",
+        "original": "§LForm a united front against communism together with Italy and Japan.§!",
+        "translation": "§L和意大利与日本组成联合阵线共同对抗共产国际。§!",
+        "stage": 1
+    },
+    {
+        "key": "tripartite_pact:0",
+        "original": "Tripartite Pact",
+        "translation": "三国同盟条约",
+        "stage": 1
+    },
+    {
+        "key": "tripartite_pact_desc:0",
+        "original": "To strengthen the Anti-Comintern Pact, for the next ten years the signing nations agree that \"their prime purpose is to establish and maintain a new order of things, to promote the mutual prosperity and welfare of the peoples concerned.",
+        "translation": "为了巩固反共产国际条约，签约国同意在接下来的十年中“他们的首要目标是建立和维持一个新的世界秩序，促进共同繁荣和人民的关心的福祉。”",
+        "stage": 1
+    },
+    {
+        "key": "tripartite_pact_short_desc:0",
+        "original": "§LForge even closer ties with Italy and Japan by signing a new treaty.§!",
+        "translation": "§L同意大利和日本签署新的条约以建立更加稳固的关系。§!",
+        "stage": 1
+    },
+    {
+        "key": "demand_sudetenland:0",
+        "original": "Demand the Sudetenland",
+        "translation": "索要苏台德",
+        "stage": 1
+    },
+    {
+        "key": "demand_sudetenland_desc:0",
+        "original": "The German people of the Sudetenland are being cruelly mistreated by their Czechoslovakian overlords, a crime which cannot be allowed to go on for any longer! The Sudetenland and its people must be immediately ceded to Germany.",
+        "translation": "苏台的的日耳曼人正在遭受捷克斯洛伐克的统治阶级残酷对待，我们决不允许这种犯罪行为持续下去！必须立刻把苏台德地区及其人民割让给德国。",
+        "stage": 1
+    },
+    {
+        "key": "demand_sudetenland_short_desc:0",
+        "original": "§LMass forces along the Czechoslovakian border to put pressure on Prague.§!",
+        "translation": "§L在捷克斯洛伐克边境集结军队以向布拉格施压。§!",
+        "stage": 1
+    },
+    {
+        "key": "fate_of_czechoslovakia:0",
+        "original": "The Fate of Czechoslovakia",
+        "translation": "捷克斯洛伐克的命运",
+        "stage": 1
+    },
+    {
+        "key": "fate_of_czechoslovakia_desc:0",
+        "original": "With the Sudetenland in our hands, Czechoslovakia lies defenseless. It is time to end this sad rump-state.",
+        "translation": "失去苏台德的捷克斯洛伐克毫无防御之力。是时候终结这个可悲又残破的国家了。",
+        "stage": 1
+    },
+    {
+        "key": "fate_of_czechoslovakia_short_desc:0",
+        "original": "§LAssemble forces in the Sudetenland to annex what remains of the Czech state.§!",
+        "translation": "§L在苏台德集结军队吞并捷克剩余的地区。§!",
+        "stage": 1
+    },
+    {
+        "key": "molotov_ribbentrop_pact:0",
+        "original": "Molotov-Ribbentrop Pact",
+        "translation": "莫洛托夫-里宾特洛甫条约",
+        "stage": 1
+    },
+    {
+        "key": "molotov_ribbentrop_pact_desc:0",
+        "original": "By signing a treaty of friendship and non-aggression with the USSR, we can come to some agreement about what to do with the states that lie between our current borders as well as engaging in higher volumes of trade. In addition to stipulations of non-aggression, the treaty includes a secret protocol that divides the territories of Romania, Poland, Lithuania, Latvia, Estonia and Finland into Nazi and Soviet spheres of influence, anticipating the potential territorial and political rearrangements of these countries.",
+        "translation": "通过与苏联签署友好的互不侵犯条约，我们可以对如何处理两国之间的这些国家达成一致，同时还可以签署大量贸易协议。关于故不侵犯条约的附加条款，包含了一份关于瓜分纳粹德国和苏联在罗马尼亚，波兰，立陶宛，拉脱维亚，爱沙尼亚和芬兰的势力范围的秘密协议，并确定了可能的关于这些国家的领土和政权重新分配。",
+        "stage": 1
+    },
+    {
+        "key": "molotov_ribbentrop_pact_short_desc:0",
+        "original": "§LSign a non-aggression pact with the USSR to avoid Soviet intervention.§!",
+        "translation": "§L和苏联签署互不侵犯条约以避免其干预。§!",
+        "stage": 1
+    },
+    {
+        "key": "poland_goal:0",
+        "original": "Danzig or war!",
+        "translation": "但泽或战争!",
+        "stage": 1
+    },
+    {
+        "key": "poland_goal_desc:0",
+        "original": "Danzig was German, Danzig has remained German, and Danzig shall be German from now on! We must prepare the German people for the inevitable war with Poland. A propaganda campaign will steel their will for the coming battle, while the crimes of the Polish nation are exposed to the world. Danzig and the surrounding lands will return to Germany!",
+        "translation": "但泽在过去，现在和将来都应该是德国的!我们动员德国民众为不可避免的与波兰的战争做好准备。一项宣传活动将能坚定他们对未来战争的信心，同时会把波兰人的罪恶宣告给整个世界。但泽及其周边领土将回归德国!",
+        "stage": 1
+    },
+    {
+        "key": "poland_goal_short_desc:0",
+        "original": "§LPrepare the German people for war with Poland, then march on Warsaw!§!",
+        "translation": "§L动员动员德国民众为与波兰的战争做好准备，然后向华沙进军!§!",
+        "stage": 1
+    },
+    {
+        "key": "poland_goal_1:0",
+        "original": "Prepare for war",
+        "translation": "战争动员",
+        "stage": 1
+    },
+    {
+        "key": "poland_goal_2:0",
+        "original": "Declare war",
+        "translation": "宣战",
+        "stage": 1
+    },
+    {
+        "key": "test_the_chinese_focus:0",
+        "original": "Chinese Border Incident",
+        "translation": "中国边境事件",
+        "stage": 1
+    },
+    {
+        "key": "test_the_chinese_focus_desc:0",
+        "original": "The Chinese still refuse to acknowledge our liberation of Manchuria, and tensions along the border near Beijing have resulted in several skirmishes. If we manufacture an incident, we can escalate the conflict into full-scale war. This will give us the excuse we need to deal with the Chinese once and for all!",
+        "translation": "中国仍然拒绝承认满洲国独立，北京附近紧张的边境局势已经造成多次小规模冲突。如果我们捏造一场事端，便可以把小规模冲突升级为全方面战争。这将给我们充足的借口一劳永逸的解决中国!",
+        "stage": 1
+    },
+    {
+        "key": "test_the_chinese_focus_short_desc:0",
+        "original": "§LProvoke a confrontation by massing forces along the Chinese border.§!",
+        "translation": "§L在边境集结军队挑起事端。§!",
+        "stage": 1
+    },
+    {
+        "key": "chinese_border_incident_SUCCEEDED:0",
+        "original": "The Marco Polo Bridge Incident",
+        "translation": "卢沟桥事变",
+        "stage": 1
+    },
+    {
+        "key": "chinese_border_incident_SUCCEEDED_DESC:0",
+        "original": "Elements of our forces were pulled into a violent skirmish with Chinese soldiers while attempting to establish control over the strategic Marco Polo Bridge just south of Beijing. The fighting ended inconclusively, but we have demanded an apology and additional territorial concessions.",
+        "translation": "我们的部队在试图控制北京城南具有战略价值的卢沟桥的时候，和中国军队发生了一场激烈的冲突。战斗并没有分出胜负，但是我们已经要求对方道歉并割让更多的土地。",
+        "stage": 1
+    },
+    {
+        "key": "south_pacific_mandate:0",
+        "original": "The South Pacific Mandate",
+        "translation": "南洋厅",
+        "stage": 1
+    },
+    {
+        "key": "south_pacific_mandate_desc:0",
+        "original": "Our holdings in the Pacific, granted to us by the League of Nations after the last war, will constitute Japan's first line of defense in any future wars against America. These islands are unsinkable aircraft carriers, and we should take steps to fortify them.",
+        "translation": "在上次大战后由国联授予我们的太平洋上的岛屿，将会在未来与美国发生战争时，成为日本的第一道防线。这些岛屿是不沉的航母，我们应该加强其上的守备。",
+        "stage": 1
+    },
+    {
+        "key": "south_pacific_mandate_short_desc:0",
+        "original": "§LConstruct new coastal forts on our Pacific islands.§!",
+        "translation": "§L在我们太平洋的岛屿上建立新的海岸要塞。§!",
+        "stage": 1
+    },
+    {
+        "key": "south_pacific_mandate_SUCCEEDED:0",
+        "original": "The South Pacific Mandate has been fortified",
+        "translation": "南洋厅已经要塞化了",
+        "stage": 1
+    },
+    {
+        "key": "south_pacific_mandate_SUCCEEDED_DESC:0",
+        "original": "Our engineers have fortified our islands in the South Pacific Mandate. Any attackers will find our forces difficult to dislodge.",
+        "translation": "我们的工兵已经在南洋厅的岛屿上修筑了工事。任何攻击者都会发现我们的部队坚如磐石。",
+        "stage": 1
+    },
+    {
+        "key": "demand_indochina_focus:0",
+        "original": "Demand French Indochina",
+        "translation": "索取法属印度支那",
+        "stage": 1
+    },
+    {
+        "key": "demand_indochina_focus_desc:0",
+        "original": "After its defeat in Europe, France's hold over its overseas colonies is tenuous at best. Pressure the new French government into granting Japan full access to its bases in Indochina. This region will be useful as a springboard for future campaigns.",
+        "translation": "在欧洲的失败后。法国的海外殖民地非常微妙。威逼法国新政府向我们开放所有印度支那的基地。这一地区会成为未来战役的很好的跳板。",
+        "stage": 1
+    },
+    {
+        "key": "demand_indochina_focus_tt:0",
+        "original": "At war with France or France does not own Indochina. \\nIs in faction with France.",
+        "translation": "和法国处于战争状态或法国不拥有印度支那。 \\n和法国在同一阵营。",
+        "stage": 1
+    },
+    {
+        "key": "demand_indochina_focus_short_desc:0",
+        "original": "§LPressure the new French government into giving up Indochina.§!",
+        "translation": "§L威逼法国新政府放弃印度支那。§!",
+        "stage": 1
+    },
+    {
+        "key": "demand_french_indochina_SUCCEEDED:0",
+        "original": "The Demands Are Sent",
+        "translation": "对法属印度支那的最后通牒",
+        "stage": 1
+    },
+    {
+        "key": "demand_french_indochina_SUCCEEDED_DESC:0",
+        "original": "Our forces are positioned along the borders of French Indochina, making it clear that there will be serious consequences should our proposal be rejected.",
+        "translation": "我们的部队已经在法属印度支那附近准备就绪，清晰地表明了我们的要求被拒绝后可能会有很严重的后果。",
+        "stage": 1
+    },
+    {
+        "key": "test_the_ussr_focus:0",
+        "original": "Reinforce the Soviet Border",
+        "translation": "加强苏联边境防御",
+        "stage": 1
+    },
+    {
+        "key": "test_the_ussr_focus_desc:0",
+        "original": "We must respond to the continued Soviet provocations along our northern frontier. Their incessant violations of the established Manchurian borders can no longer be tolerated. Mass forces in northern Manchuria to discourage future transgressions.",
+        "translation": "我们必须对苏联在我们北疆持续的挑衅做出回应。我们不能再容忍他们对满洲既有边界的不断侵犯。在北满集结大量部队来吓阻以后的侵犯。",
+        "stage": 1
+    },
+    {
+        "key": "test_the_ussr_focus_short_desc:0",
+        "original": "§LMass forces in Manchuria to discourage Soviet provocations.§!",
+        "translation": "§L在满洲集结部队以吓阻苏联的挑衅。§!",
+        "stage": 1
+    },
+    {
+        "key": "naval_expansion_focus:0",
+        "original": "Increase Naval Production",
+        "translation": "加强造船能力",
+        "stage": 1
+    },
+    {
+        "key": "naval_expansion_focus_desc:0",
+        "original": "We are no longer bound by the Washington Naval Treaty, and as an island-nation the navy is critical to our very survival. Expand our port facilities to increase naval production. Only then can Japan build the fleet it deserves.",
+        "translation": "我们不再受到华盛顿海军条约的约束，并且作为一个岛国，海军对我们的生存至关重要。扩建我们的港口设施，增加造船能力。只有这样。日本才能建设应有的舰队。",
+        "stage": 1
+    },
+    {
+        "key": "naval_expansion_focus_short_desc:0",
+        "original": "§LIncrease Japan's naval production by building more dockyards.§!",
+        "translation": "§L建造更多的干船坞来增加日本的造船能力。§!",
+        "stage": 1
+    },
+    {
+        "key": "increase_naval_production_SUCCEEDED:0",
+        "original": "Naval Production Increased",
+        "translation": "提升造船能力完成",
+        "stage": 1
+    },
+    {
+        "key": "increase_naval_production_SUCCEEDED_DESC:0",
+        "original": "We have successfully increased our naval production. Soon the Emperor will command the mightiest armada the world has ever seen!",
+        "translation": "我们成功加强了我们的造船能力。不久天皇陛下就能够指挥这个世界上有史以来最强大的舰队！",
+        "stage": 1
+    },
+    {
+        "key": "siamese_puppet_focus:0",
+        "original": "Pressure Siam",
+        "translation": "对暹罗施压",
+        "stage": 1
+    },
+    {
+        "key": "siamese_puppet_focus_desc:0",
+        "original": "Our forces need access to Siam in order to reach British possessions in Burma and Malaya. A display of force may convince the Siamese government to sign an alliance with us as loyal partners in the Greater East Asia Co-Prosperity Sphere.",
+        "translation": "我们的部队需要需要通过暹罗才能到达英国人在缅甸和马来亚的据点。展示一些军力也许能说服暹罗政府和我们签订盟约，成为大东亚共荣圈中忠实的伙伴。",
+        "stage": 1
+    },
+    {
+        "key": "siamese_puppet_focus_short_desc:0",
+        "original": "§LConvince Siam to align with us.§!",
+        "translation": "§L说服暹罗倒向我们。§!",
+        "stage": 1
+    },
+    {
+        "key": "occupy_philippines:0",
+        "original": "Occupy the Philippines",
+        "translation": "占领菲律宾",
+        "stage": 1
+    },
+    {
+        "key": "occupy_philippines_desc:0",
+        "original": "The first step in a successful Pacific campaign is the occupation of the Philippines. The Americans will not hesitate to use the islands as an advance base from which to strike directly at Japan, but we can use it for that same purpose in future operations against the Southern Resource Area.",
+        "translation": "一个成功的太平洋战役的第一步将会是占领菲律宾。美国人一定会毫不迟疑地使用这些岛屿作为直接袭击日本的前进基地，而我们亦可在将来征服南洋资源产地的战役中将其用于同一目的。",
+        "stage": 1
+    },
+    {
+        "key": "occupy_philippines_short_desc:0",
+        "original": "§LLand forces on the Philippines to deny its use as a base against us.§!",
+        "translation": "§L登录菲律宾以确保那里不会成为对我们发动攻击的基地。§!",
+        "stage": 1
+    },
+    {
+        "key": "southern_resource_area:0",
+        "original": "The Southern Resource Area",
+        "translation": "南面的战略资源",
+        "stage": 1
+    },
+    {
+        "key": "southern_resource_area_desc:0",
+        "original": "British Borneo and the rich Dutch East Indies constitute vital strategic objectives that are ripe for the taking. Japan must secure access to the oil fields and rubber plantations, or its industries will starve and its war machine collapse.",
+        "translation": "英属婆罗洲和富饶的荷属印度群岛成为了随时可以摘取的至关重要的战略目标。日本必须获取这些油田和橡胶种植园，否则她的工业就会原料短缺，她的战争机器就会崩溃。",
+        "stage": 1
+    },
+    {
+        "key": "southern_resource_area_short_desc:0",
+        "original": "§LOccupy the Southern Resource Area to secure raw material for our war industry.§!",
+        "translation": "§L占领南方的战略资源来为我们的战争工业获取原料。§!",
+        "stage": 1
+    },
+    {
+        "key": "british_far_east:0",
+        "original": "The British Far East",
+        "translation": "大英帝国的远东地区",
+        "stage": 1
+    },
+    {
+        "key": "british_far_east_desc:0",
+        "original": "Britain needs to be stripped of its Asian colonial empire if Japan is to take its rightful place as the leader of a new order in Greater East Asia. Seize Hong Kong, occupy the Malay Peninsula and advance into Burma. Establish a new frontier along the border towards India.",
+        "translation": "如果日本想在新的秩序下取得大东亚的领导地位，英国的亚洲殖民帝国必须被夺走。夺取香港，占领马来半岛，进军缅甸。在印度边境建立新的前线。",
+        "stage": 1
+    },
+    {
+        "key": "british_far_east_short_desc:0",
+        "original": "§LComplete the conquest of Hong Kong, Singapore and Burma.§!",
+        "translation": "§L完成对香港，新加坡和缅甸的征服。§!",
+        "stage": 1
+    },
+    {
+        "key": "isolate_australia:0",
+        "original": "Isolate Australia",
+        "translation": "孤立澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "isolate_australia_desc:0",
+        "original": "Australia is vital to the Allied war effort in the Pacific, and it must not be allowed to serve as a base where forces are marshaled against Japan and its rightful conquests. By taking key islands in the southwestern Pacific, we can isolate Australia from the United States.",
+        "translation": "澳大利亚对盟军在太平洋的作战至关重要。我们不能允许它成为指挥军队对抗日本和她正义的征服的基地。通过占领西南太平洋关键的岛屿，我们能够将澳大利亚和美国隔离。",
+        "stage": 1
+    },
+    {
+        "key": "isolate_australia_short_desc:0",
+        "original": "§LIsolate Australia by occupying key islands surrounding it.§!",
+        "translation": "§L通过占领澳大利亚周围的关键岛屿鼓励澳大利亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "invade_australia:0",
+        "original": "Invade Australia",
+        "translation": "入侵澳大利亚",
+        "stage": 1
+    },
+    {
+        "key": "invade_australia_desc:0",
+        "original": "The time has come to conduct a full-scale invasion of Australia. This will permanently remove the largest bastion of Allied power in the Pacific and secure the southern flank of the Greater East Asian Co-Prosperity Sphere.",
+        "translation": "是时候全面入侵澳大利亚了。这将永久清除盟军在太平洋最大的堡垒并且确保大东亚共荣圈的南疆。",
+        "stage": 1
+    },
+    {
+        "key": "invade_australia_short_desc:0",
+        "original": "§LLaunch a full-scale invasion of Australia.§!",
+        "translation": "§L全面入侵澳大利亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_pacific:0",
+        "original": "Secure the Pacific",
+        "translation": "稳固的太平洋",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_pacific_desc:0",
+        "original": "American bases throughout the Pacific must be seized, to diminish the force projection capability of their fleet inside our territory. The Imperial Navy General Staff have identified several islands which must be occupied, including the main base of the US Pacific Fleet at Hawaii.",
+        "translation": "我们必须夺取美国人在整个太平洋的基地来消除他们的舰队对我们领地的投射能力。帝国海军参谋本部已经确认了几个必须要占领的岛屿，其中包括美国太平洋舰队的主基地夏威夷。",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_pacific_short_desc:0",
+        "original": "§LOccupy key American islands to secure control over the Pacific.§!",
+        "translation": "§L占领美国治下岛屿以确保对太平洋的控制。§!",
+        "stage": 1
+    },
+    {
+        "key": "close_panama_canal:0",
+        "original": "Close the Panama Canal",
+        "translation": "封锁巴拿马运河",
+        "stage": 1
+    },
+    {
+        "key": "close_panama_canal_desc:0",
+        "original": "The Americans rely on the Panama Canal to transfer naval assets between their west and east coasts, and this is their weakness! We must seize the Galapagos Islands to establish a forward base, and then land forces in Panama to close the canal. For the Emperor!",
+        "translation": "美国人对巴拿马运河航运的依赖是他们的致命弱点！我们要抢占加拉帕斯群岛作为前进阵地，并依托着它登陆巴拿马、封锁运河，进而阻断美国东西海岸的命脉！为了帝国！",
+        "stage": 1
+    },
+    {
+        "key": "close_panama_canal_short_desc:0",
+        "original": "§LOccupy the Panama Canal to deny its use to the Americans.§!",
+        "translation": "§L占领巴拿马运河 阻断美国东西航运。§!",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_alaska:0",
+        "original": "The Invasion of Alaska",
+        "translation": "入侵阿拉斯加",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_alaska_desc:0",
+        "original": "The northern approaches to the Home Islands must be secured by occupying the Aleutian Islands. Control of these islands will further enable us to establish a foothold in North America by invading Alaska. The remoteness of this region should make it difficult for the Americans to reinforce.",
+        "translation": "我等必须占领阿留申群岛以巩固本土的防御。另外，我们还可借此跳板，入侵阿拉斯加。这般荒无人烟的地方，美国人想防御都无所适从。",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_alaska_short_desc:0",
+        "original": "§LInvade and occupy American territory in Alaska.§!",
+        "translation": "§L抢占阿拉斯加。§!",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_west_coast:0",
+        "original": "Operation Ketsu-Go",
+        "translation": "决号作战",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_west_coast_desc:0",
+        "original": "The Imperial General Headquarters have opted to bring our war with America to a decisive end by staging an invasion of their West Coast. Objectives for this operation include Los Angeles, San Francisco and Seattle. Be prepared for possible counterattacks against our beachheads.",
+        "translation": "战争进行到了决定性的阶段——帝国大本营决定将战火烧到美国人的土地上。届时，我们将登陆美国西岸重镇洛杉矶、旧金山以及西雅图。现在就要做好抢滩登陆的准备了。",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_west_coast_short_desc:0",
+        "original": "§LCommence an invasion of the American West Coast.§!",
+        "translation": "§L登陆美国西海岸。§!",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_india:0",
+        "original": "The Invasion of India",
+        "translation": "入侵印度",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_india_desc:0",
+        "original": "At long last, the era of British dominion over the Indian subcontinent will come to an end. We must press on from Burma and drive the British completely out of Asia. This will be a blow from which their empire can never recover!",
+        "translation": "是时候终结大英帝国对南亚次大陆的统治了——我们要从缅甸开始席卷亚洲，彻底打垮大英帝国！",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_india_short_desc:0",
+        "original": "§LDrive the British out of India by occupying the entire subcontinent.§!",
+        "translation": "§L将英国逐出南亚次大陆。§!",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_indian_ocean:0",
+        "original": "Secure the Indian Ocean",
+        "translation": "平定印度洋",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_indian_ocean_desc:0",
+        "original": "We must establish control over the Indian Ocean to prevent Allied fleet movements towards Asia. Several objectives must be seized, including Madagascar off the coast of Africa. The island could be used as a base from which to disrupt British convoys bound for the Middle East.",
+        "translation": "我们要稳固我们在印度洋的控制、防止同盟国舰队进入亚洲。为此，我们要攻占几个战略要点，而非洲以东的马达加斯加岛就是其中之一。我军可以此作为据点，伺机袭扰英国的运输船队。",
+        "stage": 1
+    },
+    {
+        "key": "secure_the_indian_ocean_short_desc:0",
+        "original": "§LEstablish control over the Indian Ocean with the seizure of key objectives.§!",
+        "translation": "§L占领印度洋上的战略要点。§!",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_south_africa:0",
+        "original": "The Invasion of South Africa",
+        "translation": "入侵南非",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_south_africa_desc:0",
+        "original": "Our unstoppable forces are now in a position to strike at South Africa. Its conquest should make it very difficult for Allied naval units to enter the Indian Ocean without use of the Suez Canal. The decadent British Empire is unraveling before our eyes.",
+        "translation": "所向披靡的帝国军即将向南非发起进攻：一旦我们攻占南非，同盟国再想进入印度洋，就只剩苏伊士运河一途了。垂暮的大英帝国就要在帝国之前分崩离析了。",
+        "stage": 1
+    },
+    {
+        "key": "invasion_of_south_africa_short_desc:0",
+        "original": "§LLand forces in South Africa and destroy all opposition.§!",
+        "translation": "§L彻底压制南非。§!",
+        "stage": 1
+    },
+    {
+        "key": "extend_maginot_line:0",
+        "original": "Extend the Maginot Line",
+        "translation": "拓宽马奇诺防线",
+        "stage": 1
+    },
+    {
+        "key": "extend_maginot_line_desc:0",
+        "original": "Our border towards Germany is protected by the formidable Maginot Line, but a flanking German thrust through Belgium and Luxembourg, just as in 1914, is always a possibility. We must extend our heavy fortifications all the way to the English Channel, even if this means leaving Belgium at the mercy of the Germans.",
+        "translation": "坚不可摧的马奇诺防线是我国应对德国入侵的保障。但是，德国人还是很有可能像1914年时一样，直接在比利时与卢森堡的方向打开突破口。我们可以将防线一路延长到英吉利海峡——但这也意味着比利时将任德国人宰割了。",
+        "stage": 1
+    },
+    {
+        "key": "extend_maginot_line_short_desc:0",
+        "original": "§LExtend the Maginot Line all the way to the English Channel.§!",
+        "translation": "§L延长马奇诺防线至英吉利海峡。§!",
+        "stage": 1
+    },
+    {
+        "key": "improve_alpine_line:0",
+        "original": "Improve the Alpine Line",
+        "translation": "巩固阿尔卑斯防线",
+        "stage": 1
+    },
+    {
+        "key": "improve_alpine_line_desc:0",
+        "original": "The 'Little Maginot Line' defending our southern border towards Italy has always been of secondary importance in our military planning. Fascist Italy is becoming increasingly aggressive, however, and we know they have territorial ambitions in southern France. We must bring the fortifications of the Alpine Line up to the same standards of those of the Maginot Line.",
+        "translation": "号称'小马奇诺防线'的阿尔卑斯防线一直以来都不是我国国防重点。然而，最近意大利的动向越来越可疑，而且他们对我国南方领土那些小心思也是路人皆知。是时候按照马奇诺防线的标准，对阿尔卑斯防线进行全面升级了。",
+        "stage": 1
+    },
+    {
+        "key": "improve_alpine_line_short_desc:0",
+        "original": "§LImprove our defensive fortifications along the Italian border.§!",
+        "translation": "§L升级阿尔卑斯防线。§!",
+        "stage": 1
+    },
+    {
+        "key": "expand_french_air_force:0",
+        "original": "Expand the Armée de l'Air",
+        "translation": "空军扩招",
+        "stage": 1
+    },
+    {
+        "key": "expand_french_air_force_desc:0",
+        "original": "Air power will be critical in the next war - the surrender of our skies will inevitably mean the surrender of France itself. We must continue expanding the Armée de l'Air to ensure that France possesses one of the finest air forces in the world.",
+        "translation": "在往后的战争中，空军将是不可忽视的重要因素——失去制空权就意味着法兰西的沦陷。我们要不断扩招空军，直至法兰西空军再次成为世界最强空军！",
+        "stage": 1
+    },
+    {
+        "key": "expand_french_air_force_short_desc:0",
+        "original": "§LIncrease the size of our air force to protect the skies over France.§!",
+        "translation": "§L扩招空军防御领空。§!",
+        "stage": 1
+    },
+    {
+        "key": "french_arms_industry:0",
+        "original": "Increase the Arms Industry",
+        "translation": "军工升级",
+        "stage": 1
+    },
+    {
+        "key": "french_arms_industry_desc:0",
+        "original": "Another war with Germany seems increasingly likely at this point. We must prepare ourselves by expanding the arms industry. The French Army is all that stands between Germany and dominion over Western Europe!",
+        "translation": "战争的阴霾笼罩着法兰西。我们必须抓紧进行军工产业升级，尽快建造更多的军工厂。法兰西是西欧最后的屏障！",
+        "stage": 1
+    },
+    {
+        "key": "french_arms_industry_short_desc:0",
+        "original": "§LBuild up the French arms industry to prepare for the coming war.§!",
+        "translation": "§L升级军工抓紧备战。§!",
+        "stage": 1
+    },
+    {
+        "key": "scandinavian_expedition:0",
+        "original": "The Scandinavian Expedition",
+        "translation": "远征北欧",
+        "stage": 1
+    },
+    {
+        "key": "scandinavian_expedition_desc:0",
+        "original": "We must do what we can to keep the war from French territory, and an expedition to Norway and northern Sweden will open a new front for Germany to consider. Much of Germany's steel comes from this region, and by cutting off the supply it may be possible to cripple their industry.",
+        "translation": "我等当务之急就是避免战火蔓延至法兰西本土，解决方法便是开拓新战场——远征北欧。一旦挪威、瑞典战事告急，纳粹必定会班师回援、保护其钢铁来源。如若他们置之不理，我们也可以借此机会，重创其工业。",
+        "stage": 1
+    },
+    {
+        "key": "scandinavian_expedition_short_desc:0",
+        "original": "§LOpen a new front for Germany from northern Scandinavia.§!",
+        "translation": "§L开拓北欧新战场。§!",
+        "stage": 1
+    },
+    {
+        "key": "grand_offensive:0",
+        "original": "Launch Grand Offensive",
+        "translation": "发动总攻",
+        "stage": 1
+    },
+    {
+        "key": "grand_offensive_desc:0",
+        "original": "While the Wehrmacht is busy contending with the brave Polish forces in the east, we must fulfill the obligations of our alliance and strike deeply into Germany! Occupy their industrial heartland in the Rhine Valley. That should get the attention of the OKW, and possibly force them to abandon their offensive into Poland.",
+        "translation": "纳粹国防军正在东线与英勇的波兰军队进行着激烈的拉锯战。到我们达成我们诺言的时候了！出兵莱茵兰，彻底摧毁其工业心脏！这样一来，国防军总指挥部很有可能就会停止对波兰的侵略。",
+        "stage": 1
+    },
+    {
+        "key": "grand_offensive_short_desc:0",
+        "original": "§LOccupy the German industry in the Rhine Valley.§!",
+        "translation": "§L占领莱茵兰。§!",
+        "stage": 1
+    },
+    {
+        "key": "seize_berlin_fra:0",
+        "original": "Seize Berlin",
+        "translation": "占领柏林",
+        "stage": 1
+    },
+    {
+        "key": "seize_berlin_fra_desc:0",
+        "original": "We have no choice but to march on Berlin and plant the Tricolor on top of the Reichstag building. Let us bring this war to a swift conclusion before it has a chance to begin in earnest.",
+        "translation": "我们别无选择，只有迅速地将三色旗插上帝国国会大厦，才能够避免法兰西再次陷入战争的泥潭。",
+        "stage": 1
+    },
+    {
+        "key": "seize_berlin_fra_short_desc:0",
+        "original": "§LOccupy the German capital.§!",
+        "translation": "§L占领德国首都。§!",
+        "stage": 1
+    },
+    {
+        "key": "occupy_libya_fra:0",
+        "original": "Occupy Italian Libya",
+        "translation": "占领利比亚",
+        "stage": 1
+    },
+    {
+        "key": "occupy_libya_fra_desc:0",
+        "original": "Italy's colonial empire must be dismantled. Launch an offensive into Italian Libya from our Tunisian protectorate and occupy the Mediterranean coast. Vital objectives include the strategic port cities of Tripoli and Benghazi.",
+        "translation": "我们必须肢解意大利的殖民帝国。让我们从突尼斯保护领横扫利比亚、一举抢占北非战略重地的黎波里与班加西。",
+        "stage": 1
+    },
+    {
+        "key": "occupy_libya_fra_short_desc:0",
+        "original": "§LLaunch an offensive to occupy Tripoli and Benghazi.§!",
+        "translation": "§L进攻北非，抢占的黎波里与班加西。§!",
+        "stage": 1
+    },
+    {
+        "key": "occupy_north_italy_fra:0",
+        "original": "Occupy Northern Italy",
+        "translation": "占领北意大利",
+        "stage": 1
+    },
+    {
+        "key": "occupy_north_italy_fra_desc:0",
+        "original": "It is once again time for French armies to march into northern Italy. Much of the Italian war industry is concentrated there, and Rome must be deprived of its use. Breach the vaunted Vallo Alpino and surge into the Po Valley. Vive la France!",
+        "translation": "到了法兰西军队再次踏上意大利土地的时候了！北意大利是全意大利的工业中心，同时也是罗马之所在。让我等击碎高山防线、突入波河平原。法兰西万岁！",
+        "stage": 1
+    },
+    {
+        "key": "occupy_north_italy_fra_short_desc:0",
+        "original": "§LBreach the vaunted Vallo Alpino and surge into the Po Valley.§!",
+        "translation": "§L击穿高山防线、突入波河平原。§!",
+        "stage": 1
+    },
+    {
+        "key": "occupy_south_italy_fra:0",
+        "original": "Occupy Southern Italy",
+        "translation": "占领南意大利",
+        "stage": 1
+    },
+    {
+        "key": "occupy_south_italy_fra_desc:0",
+        "original": "The southern half of the Italian peninsula must be secured, along with Sicily and Sardinia. Seize all objectives, but do not be distracted from our main target: Rome. Once you have occupied the Eternal City, continue your push along the coast and eliminate any remaining pockets of resistance.",
+        "translation": "我等必须确保对南亚平宁半岛、西西里和撒丁岛的控制。抢占所有战略重地，当然，也别忘了我们最重要的目标：罗马。拿下永恒之都后，再挥军南下、扫平剩余抵抗。",
+        "stage": 1
+    },
+    {
+        "key": "occupy_south_italy_fra_short_desc:0",
+        "original": "§LSeize Sicily and Sardinia along with the Italian capital.§!",
+        "translation": "§L攻占罗马、西西里和撒丁。§!",
+        "stage": 1
+    },
+    {
+        "key": "claim_bessarabia:0",
+        "original": "Claim Bessarabia",
+        "translation": "索取比萨拉比亚",
+        "stage": 1
+    },
+    {
+        "key": "claim_bessarabia_desc:0",
+        "original": "The territory of Bessarabia was illegally occupied by Romania in the turbulent period that followed the Russian Revolution. It rightfully belongs to us and must be returned. The Molotov - Ribbentrop Pact gives us a free hand to deal with the Romanians without the threat of German intervention, so the time to act is now.",
+        "translation": "比萨拉比亚是我国自古以来的固有领土——罗马尼亚在我国建国之初非法侵占了这块土地。新签订的苏德互不侵犯条约给了我们一个夺回这片土地的机会。",
+        "stage": 1
+    },
+    {
+        "key": "claim_bessarabia_short_desc:0",
+        "original": "§LForce the Romanians to return Bessarabia to us.§!",
+        "translation": "§L威胁罗马尼亚人归还比萨拉比亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "claim_baltic_states:0",
+        "original": "Claim the Baltic States",
+        "translation": "索取波罗的海三国",
+        "stage": 1
+    },
+    {
+        "key": "claim_baltic_states_desc:0",
+        "original": "The Baltic States are a failed experiment in capitalism that must be ended. Our pact with Germany enables us to act with impunity in the region, and we have prepared ultimatums for Estonia, Latvia and Lithuania to let us establish military bases inside their borders. It will then be a simple matter to incorporate these nations as full members of the Union of Soviet Socialist Republics.",
+        "translation": "波罗的海三国是一场彻底失败的资本主义实验，是时候该终结这场闹剧了。苏德互不侵犯条约已经将它们交在我们手中、任我们宰割了。我们已经发出最后通牒，勒令他们放开边境、迎接红军。接下来，要将他们纳入苏联成员国，也不过就是走走程序罢了。",
+        "stage": 1
+    },
+    {
+        "key": "claim_baltic_states_short_desc:0",
+        "original": "§LIncorporate the Baltic States into the Soviet Union.§!",
+        "translation": "§L吞并波罗的海三国。§!",
+        "stage": 1
+    },
+    {
+        "key": "claim_karelia:0",
+        "original": "Claim Karelia",
+        "translation": "索取卡累利阿",
+        "stage": 1
+    },
+    {
+        "key": "claim_karelia_desc:0",
+        "original": "As per the Molotov - Ribbentrop Pact, Finland lies inside our sphere of interest, and the time has come to revise their generous borders. Their southeastern border on the Karelian Isthmus lies unacceptably close to Leningrad, compromising the security of our nation. We will issue a demand to Helsinki for Finnish territorial concessions, but we must be prepared to fight if they refuse.",
+        "translation": "依据苏德互不侵犯条约，芬兰也属于我方辖区之下——是时候该修正修正我们与芬兰的边境了。我国战略重地列宁格勒就紧贴着芬兰的卡累利阿地区——这是不可忽视的巨大隐患。我们将对赫尔辛基发出这一领土要求，同时，我们也要抓紧备战以便自取。",
+        "stage": 1
+    },
+    {
+        "key": "claim_karelia_short_desc:0",
+        "original": "§LDemand Karelia from Finland to improve the security of Leningrad.§!",
+        "translation": "§L要求芬兰割让卡累利阿。§!",
+        "stage": 1
+    },
+    {
+        "key": "improve_stalin_line:0",
+        "original": "Improve the Stalin Line",
+        "translation": "巩固斯大林防线",
+        "stage": 1
+    },
+    {
+        "key": "improve_stalin_line_desc:0",
+        "original": "Work on the Stalin Line began in the 1920s along our western frontier, to defend against the bourgeoisie nations of Western Europe who would like nothing more than to bring about our destruction. We must continue to improve these defenses.",
+        "translation": "斯大林防线的建设于建国之初便开始进行——它是我们在西欧资本主义国家面前安身立命之本。我等需要尽可能继续升级、加固这一防线。",
+        "stage": 1
+    },
+    {
+        "key": "improve_stalin_line_short_desc:0",
+        "original": "§LImprove defenses along the Stalin Line to guard against foreign invasion.§!",
+        "translation": "§L加固斯大林防线以备不时之需。§!",
+        "stage": 1
+    },
+    {
+        "key": "five_year_plans:0",
+        "original": "The Five-Year Plans",
+        "translation": "五年计划",
+        "stage": 1
+    },
+    {
+        "key": "five_year_plans_desc:0",
+        "original": "The five-year plans for the development of the national economy are absolutely vital to the future of the Soviet Union. Economic and industrial backwardness will mean our eventual destruction at the hands of the capitalist and fascist powers abroad. We must continue to expand our industry and production output!",
+        "translation": "五年计划是苏维埃发展工业、经济的必要手段，也关系着苏维埃的未来。经济、工业上的落后必将引向共产主义的毁灭。要抓紧时间提升工业！",
+        "stage": 1
+    },
+    {
+        "key": "five_year_plans_short_desc:0",
+        "original": "§LExpand the civilian industrial output of the Soviet Union.§!",
+        "translation": "§L扩大苏维埃民用工业产出。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_zet:0",
+        "original": "Operation Zet",
+        "translation": "Zet行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_zet_desc:0",
+        "original": "The Japanese fascists are waging a war to conquer all of China. Needless to say, it is not in the interest of the Soviet Union to see them succeed. We must provide what support we can to the Chinese. With luck, the Imperial Japanese Army will be dragged into a quagmire that weakens their empire and keeps them occupied for the foreseeable future.",
+        "translation": "日本法西斯分子正在侵略中国——苏维埃绝不希望他们成功。我们要尽可能的援助中国人民将这场抗日战争进行下去，以期将日本人拖入战争的泥潭。",
+        "stage": 1
+    },
+    {
+        "key": "operation_zet_short_desc:0",
+        "original": "§LOffer support to the Chinese in their war against Japan.§!",
+        "translation": "§L援助中国人民的抗日战争。§!",
+        "stage": 1
+    },
+    {
+        "key": "annex_tannu_tuva:0",
+        "original": "Annex Tannu Tuva",
+        "translation": "吞并唐努图瓦",
+        "stage": 1
+    },
+    {
+        "key": "annex_tannu_tuva_desc:0",
+        "original": "The Tuvan People's Republic is a member of the Soviet Union in all but name. Let us formalize the relationship by officially annexing them into our great nation.",
+        "translation": "唐努图瓦已经成为苏维埃一员很久了，所缺不过就是名分罢了。让他们正式成为伟大苏维埃的成员国之一吧。",
+        "stage": 1
+    },
+    {
+        "key": "annex_tannu_tuva_short_desc:0",
+        "original": "§LIncorporate Tannu Tuva into the Soviet Union.§!",
+        "translation": "§L让唐努图瓦加盟苏维埃。§!",
+        "stage": 1
+    },
+    {
+        "key": "second_vienna_award:0",
+        "original": "Second Vienna Award",
+        "translation": "第二维也纳仲裁",
+        "stage": 1
+    },
+    {
+        "key": "second_vienna_award_desc:0",
+        "original": "The Treaty of Trianon unjustly stripped Hungary of more than two thirds of its territory. Losing Transylvania to the Romanians was particularly hard to stomach. A new order has been established in Europe, however, and we must petition our friends in Germany for the return of stolen Hungarian land.",
+        "translation": "匈牙利在特里亚农条约中失去了超过三分二的领土——其中又以割让特兰西瓦尼亚最是难以接受。现在，新的秩序已经确立，是时候发动我们在德意志帝国的能量，请求他们帮助我们索回特兰西瓦尼亚了。",
+        "stage": 1
+    },
+    {
+        "key": "second_vienna_award_short_desc:0",
+        "original": "§LPetition Germany for the return of Transylvania to Hungary.§!",
+        "translation": "§L请求德国帮助索回特兰西瓦尼亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "claim_memel:0",
+        "original": "Claim Memel",
+        "translation": "索取梅美尔",
+        "stage": 1
+    },
+    {
+        "key": "claim_memel_desc:0",
+        "original": "Memel is yet another injustice to come out of the hated Treaty of Versailles. The province belonged to Prussia for hundreds of years, and yet the Entente decided to separate it from Germany and leave it to be illegally annexed by Lithuania. It is time to right this wrong.",
+        "translation": "梅美尔是丧国辱权的凡尔赛条约中最不平等条款之一。梅美尔自古以来就是普鲁士的固有领土——而协约国却强行将它从帝国剥离，并入立陶宛。是时候修正这一错误了！",
+        "stage": 1
+    },
+    {
+        "key": "claim_memel_short_desc:0",
+        "original": "§LDemand the repatriation of Memel to the Greater German Reich.§!",
+        "translation": "§L让梅美尔回归大德意志帝国。§!",
+        "stage": 1
+    },
+    {
+        "key": "treaty_of_craiova:0",
+        "original": "Treaty of Craiova",
+        "translation": "克拉约瓦条约",
+        "stage": 1
+    },
+    {
+        "key": "treaty_of_craiova_desc:0",
+        "original": "Southern Dobrudja was taken from us by Romania after the Second Balkan War. The borders of Europe are in the process of being redrawn, however, and Romania has already been forced to make concessions. We must demand the return of our lost territory.",
+        "translation": "在第二次巴尔干战争失败后，南多布罗加被割让给了罗马尼亚。现在，新的秩序已经建立，是时候要求他们返还我们这一固有领土了。",
+        "stage": 1
+    },
+    {
+        "key": "treaty_of_craiova_short_desc:0",
+        "original": "§LDemand the return of southern Dobrudja from Romania.§!",
+        "translation": "§L要求罗马尼亚归还南多布罗加。§!",
+        "stage": 1
+    },
+    {
+        "key": "german_advisors_china:0",
+        "original": "German Advisors in China",
+        "translation": "德国军事顾问团",
+        "stage": 1
+    },
+    {
+        "key": "german_advisors_china_desc:0",
+        "original": "German military advisors have been present in China since at least the twenties, providing critical support to the Kuomintang. Given our present war, this can no longer be tolerated. As a signatory of the Anti-Comintern Pact, we are within our rights to demand the immediate withdrawal of all German support to the Chinese. It is time for the Germans to choose sides.",
+        "translation": "自二十年代起，德意志所派出的军事顾问团便是国民党的一大臂助。然而，帝国现在已经与中国宣战，这一行为违反了帝国与德意志签订的防共协定！我们要让他们立即撤回顾问团！不能让德意志继续摇摆下去。",
+        "stage": 1
+    },
+    {
+        "key": "german_advisors_china_short_desc:0",
+        "original": "§LDemand the return of the German advisors aiding China.§!",
+        "translation": "§L要求德国撤回军事顾问团。§!",
+        "stage": 1
+    },
+    {
+        "key": "chinese_coastal_regions:0",
+        "original": "Occupy Chinese Coastal Regions",
+        "translation": "占领中国沿海",
+        "stage": 1
+    },
+    {
+        "key": "chinese_coastal_regions_desc:0",
+        "original": "We must take advantage of our naval superiority and isolate the Chinese by occupying key ports along their coast. The Imperial General Headquarters have designated several regions that need to come under Japanese control.",
+        "translation": "我等要利用大日本海军的压倒性优势，彻底攻占中国沿海重要港口，以此孤立民国。帝国大本营已经圈定了几个进攻点。",
+        "stage": 1
+    },
+    {
+        "key": "chinese_coastal_regions_short_desc:0",
+        "original": "§LIsolate the Chinese by occupying their coast.§!",
+        "translation": "§L攻占沿海孤立民国。§!",
+        "stage": 1
+    },
+    {
+        "key": "chinese_interior:0",
+        "original": "Occupy Chinese Interior",
+        "translation": "占领大陆",
+        "stage": 1
+    },
+    {
+        "key": "chinese_interior_desc:0",
+        "original": "Let us put an end to Chinese resistance once and for all by advancing into their interior. Show them that our reach knows no bounds by crushing all opposition. This will ensure Japanese dominance in Asia.",
+        "translation": "彻底消灭中国的剩余抵抗力量——一路碾压所有敌人，直至占领中国内陆、确立帝国对亚洲的统治。",
+        "stage": 1
+    },
+    {
+        "key": "chinese_interior_short_desc:0",
+        "original": "§LPursue the Chinese west into their interior.§!",
+        "translation": "§L一路向西征服中国。§!",
+        "stage": 1
+    },
+    {
+        "key": "russian_far_east:0",
+        "original": "The Russian Far East",
+        "translation": "苏联远东",
+        "stage": 1
+    },
+    {
+        "key": "russian_far_east_desc:0",
+        "original": "The Soviets must be shown that they are no longer welcome in Asia. Occupy the Russian Far East, starting with the base of their Pacific Fleet in Vladivostok. Northern Sakhalin and Kamchatka also need to be secured.",
+        "translation": "彻底摧毁海参崴的苏联太平洋舰队并占领萨哈林与勘察加。用惨痛的代价，让苏联人明白：东亚不欢迎他们。",
+        "stage": 1
+    },
+    {
+        "key": "russian_far_east_short_desc:0",
+        "original": "§LConquer the Russian Far East for Japan!§!",
+        "translation": "§L征服苏联远东！§!",
+        "stage": 1
+    },
+    {
+        "key": "siberia_beckons:0",
+        "original": "Siberia Beckons",
+        "translation": "向西伯利亚进军",
+        "stage": 1
+    },
+    {
+        "key": "siberia_beckons_desc:0",
+        "original": "We must press on and continue our advance into Siberia. Drive the Russians west until they no longer threaten our possessions in Asia. The Siberian wilderness will serve as a buffer to our empire, and the region's untapped natural resources are sure to benefit future generations of Japanese.",
+        "translation": "继续前进，占领西伯利亚——一路西进直到将苏联人赶出我们视野范围！西伯利亚的丰饶资源将是帝国未来的宝藏。",
+        "stage": 1
+    },
+    {
+        "key": "siberia_beckons_short_desc:0",
+        "original": "§LMarch onwards and seize Siberia in the name of the Emperor.§!",
+        "translation": "§L向西前进占领西伯利亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_abyssinia:0",
+        "original": "Conquest of Abyssinia",
+        "translation": "征服阿比西尼亚",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_abyssinia_desc:0",
+        "original": "The painful memories of the First Italo-Abyssinian War and the defeat at Adwa are behind us now. We are committed to the complete conquest of the Ethiopian Empire and its integration into Italian East Africa. Push forward to victory!",
+        "translation": "是时候发动战争，清洗第一次意大利-阿比西尼亚战争的失利还有阿杜瓦战役之殇了！我们要彻底征服埃塞俄比亚！为了胜利！",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_abyssinia_short_desc:0",
+        "original": "§LCarry out the invasion of Ethiopia.§!",
+        "translation": "§L彻底征服埃塞尔比亚。§!",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_albania:0",
+        "original": "Conquest of Albania",
+        "translation": "征服阿尔巴尼亚",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_albania_desc:0",
+        "original": "Italian forces were humiliatingly forced to withdraw from the parts of Albania they occupied in 1920, but the time is now right for our return. The annexation of Albania will give us full control over the entrance to the Adriatic, and the territory can serve as a foothold for future campaigns in the Balkans.",
+        "translation": "十余年前，意大利军队在阿尔巴尼亚经历了惨痛的失利，最终只得灰头土脸地退出阿尔巴尼亚。这次，我们要彻底征服阿尔巴尼亚，一举获得亚得里亚海的完全控制权、并建立进攻巴尔干的前进基地",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_albania_short_desc:0",
+        "original": "§LSecure the Adriatic by seizing Albania.§!",
+        "translation": "§L征服阿尔巴尼亚以确保对亚得里亚海的控制。§!",
+        "stage": 1
+    },
+    {
+        "key": "strengthen_vallo_alpino:0",
+        "original": "Strengthen the Vallo Alpino",
+        "translation": "强化阿尔卑斯墙",
+        "stage": 1
+    },
+    {
+        "key": "strengthen_vallo_alpino_desc:0",
+        "original": "Threats can come from any direction along our northern border. The French, the Austrians and their German friends, even the dastardly Swiss could strike at any moment! Work has begun on a line of fortifications, but progress is slow. Finish the Alpine Wall to make any future invasion of Northern Italy a costly one!",
+        "translation": "我们的北方边境受到多个方向的威胁。 法国，奥地利和他们的德国朋友，甚至卑鄙懦弱的瑞士都有可能随时发动进攻! 北部防线的防御工事已经开始建设，但是进度十分缓慢。 完善阿尔卑斯墙以保证未来任何对意大利北部的入侵都将付出惨重代价!",
+        "stage": 1
+    },
+    {
+        "key": "strengthen_vallo_alpino_short_desc:0",
+        "original": "§LSecure Italy's northern border by improving fortifications.§!",
+        "translation": "§L强化防御工事以保证意大利北部边境的安全。§!",
+        "stage": 1
+    },
+    {
+        "key": "industrialize_southern_italy:0",
+        "original": "Industrialize Southern Italy",
+        "translation": "意大利南部工业化",
+        "stage": 1
+    },
+    {
+        "key": "industrialize_southern_italy_desc:0",
+        "original": "Northern Italy has always been the industrial heartland of our nation, while the south has remained poor and underdeveloped in comparison. We must take steps to close this economic division by building more industries in our southern states.",
+        "translation": "意大利北部一直是我国的工业心脏，然而相比之下南部却仍然保持着贫穷落后的局面。我们必须采取措施，通过在南部各省建立更多工厂来缩小南北经济差距。",
+        "stage": 1
+    },
+    {
+        "key": "industrialize_southern_italy_short_desc:0",
+        "original": "§LThe poor southern half of our country must be industrialized.§!",
+        "translation": "§L占我国一半领土的落后的南部必须被工业化。§!",
+        "stage": 1
+    },
+    {
+        "key": "regia_marina:0",
+        "original": "The Regia Marina",
+        "translation": "The 意大利皇家海军",
+        "stage": 1
+    },
+    {
+        "key": "regia_marina_desc:0",
+        "original": "The fortunes of Italy are directly tied to the Mediterranean, something the old Romans understood well. It is clear that the Regia Marina will play a critical role in any future conflicts against Britain or France. We must expand our dockyards to increase ship production.",
+        "translation": "地中海直接关系到意大利的命运，这件事古罗马人十分清楚。显然意大利皇家海军在未来与英国或法国的冲突中将扮演至关重要的角色。我们必须扩建海军工厂来增加舰艇制造能力。",
+        "stage": 1
+    },
+    {
+        "key": "regia_marina_short_desc:0",
+        "original": "§LBuild more dockyards to increase naval productions.§!",
+        "translation": "§L建造更多的海军工厂来增加海军舰艇产量。§!",
+        "stage": 1
+    },
+    {
+        "key": "condemn_japan:0",
+        "original": "Condemn Japan",
+        "translation": "谴责日本",
+        "stage": 1
+    },
+    {
+        "key": "condemn_japan_desc:0",
+        "original": "The Japanese war of aggression against China is an outrage against civility and liberty, as well as an endangerment to American lives, rights and economic interests in China! Japan must cease their attacks or face the repercussions.",
+        "translation": "日本对中国的侵略战争公然践踏了自由和文明，同时也威胁了美国在中国的权利和经济利益以及美国人民的生命安全! 日本必须停止侵略否则将自食其果。",
+        "stage": 1
+    },
+    {
+        "key": "condemn_japan_short_desc:0",
+        "original": "§LCondemn the Japanese war of aggression on China.§!",
+        "translation": "§L谴责日本对中国的侵略战争。§!",
+        "stage": 1
+    },
+    {
+        "key": "embargo_japan:0",
+        "original": "Embargo Japan",
+        "translation": "对日本实施贸易禁运",
+        "stage": 1
+    },
+    {
+        "key": "embargo_japan_desc:0",
+        "original": "Japan's attacks on China have continued despite our warning. The time has come to embargo all trade with Japan.",
+        "translation": "日本无视我们的警告继续侵略中国。 是时候对日本实施全面贸易禁运了。",
+        "stage": 1
+    },
+    {
+        "key": "embargo_japan_short_desc:0",
+        "original": "§LEmbargo all trade with Japan in retaliation to their attacks on China.§!",
+        "translation": "§L对日本实施全面贸易禁运以报复其对中国的侵略。§!",
+        "stage": 1
+    },
+    {
+        "key": "threaten_japan:0",
+        "original": "Show the flag in the Pacific",
+        "translation": "在太平洋展示武力",
+        "stage": 1
+    },
+    {
+        "key": "threaten_japan_desc:0",
+        "original": "To ensure that Japan knows we mean business it is vital to maintain a power fleet in Pearl Harbor.",
+        "translation": "我们有必要在珍珠港维持一只强大的舰队以使日本知道我们是认真的。",
+        "stage": 1
+    },
+    {
+        "key": "threaten_japan_short_desc:0",
+        "original": "§LMaintain a power fleet in Pearl Harbor.§!",
+        "translation": "§L在珍珠港维持一只强大的舰队。§!",
+        "stage": 1
+    },
+    {
+        "key": "build_infrastructure:0",
+        "original": "Build Infrastructure",
+        "translation": "建设基础设施",
+        "stage": 1
+    },
+    {
+        "key": "build_infrastructure_desc:0",
+        "original": "Building infrastructure won't just make it easier to travel throughout our nation, more importantly it will create jobs and help ease us out of the current recession.",
+        "translation": "建设基础设施不仅能使在国内旅行变得更加容易，更重要的是它可以创建很多工作岗位以缓解目前的萧条场面。",
+        "stage": 1
+    },
+    {
+        "key": "build_infrastructure_short_desc:0",
+        "original": "§LExpand the infrastructure in our country.§!",
+        "translation": "§L扩建国内基础设施。§!",
+        "stage": 1
+    },
+    {
+        "key": "build_factories:0",
+        "original": "Build factories",
+        "translation": "建造工厂",
+        "stage": 1
+    },
+    {
+        "key": "build_factories_desc:0",
+        "original": "Building new factories creates jobs both during and after the construction process, a vital step in improving the economy.",
+        "translation": "建造新的工厂在建设过程中和建设后都能提供工作岗位，这是提振经济的重要步骤。",
+        "stage": 1
+    },
+    {
+        "key": "build_factories_short_desc:0",
+        "original": "§LConstruct new civilian factories to improve the economy.§!",
+        "translation": "§L建造更多民用工厂以提振经济。§!",
+        "stage": 1
+    },
+    {
+        "key": "anglo_egypt_treaty:0",
+        "original": "The Anglo-Egyptian Treaty",
+        "translation": "英埃条约",
+        "stage": 1
+    },
+    {
+        "key": "anglo_egypt_treaty_desc:0",
+        "original": "Though nominally independent, Egypt has been under our protection since 1882. King Farouk wishes to formalize our relationship by treaty in light of the Italian military operations in Abyssinia. Egypt will join us as an ally, while we retain control over the Suez Canal and pledge to assist in their defense in case of war.",
+        "translation": "尽管名义上是独立的，埃及自1882年以来一直处于我们的保护之下。 法鲁克国王鉴于意大利在埃塞尔比亚的军事行动而希望通往签订条约以使双边关系更加正式化。 埃及将作为盟友加入我们，且允许我们继续控制苏伊士运河，作为交换我们保证在战争中帮助他们进行防御。",
+        "stage": 1
+    },
+    {
+        "key": "anglo_egypt_treaty_short_desc:0",
+        "original": "§LFormalize Egypt independence while retaining them as an ally.§!",
+        "translation": "§L使埃及独立正式化同时保留其为我们的盟友。§!",
+        "stage": 1
+    },
+    {
+        "key": "shadow_scheme:0",
+        "original": "The Shadow Scheme",
+        "translation": "影子计划",
+        "stage": 1
+    },
+    {
+        "key": "shadow_scheme_desc:0",
+        "original": "The Air Ministry has developed a plan for the creation of 'shadow factories' - civilian factories that will be prepared and expanded so that they can more easily switch to military production in the event of war.",
+        "translation": "航空部实施了一项建设'影子工厂'的计划 - 民用工厂将进行扩建和准备工作以保证战争发生时可以轻易的切换进行军事生产。",
+        "stage": 1
+    },
+    {
+        "key": "shadow_scheme_short_desc:0",
+        "original": "§LPrepare and expand civilian factories for the eventuality of war.§!",
+        "translation": "§L准备并扩建民用工厂为可能的战争做准备。§!",
+        "stage": 1
+    },
+    {
+        "key": "chain_home:0",
+        "original": "Chain Home Radar Network",
+        "translation": "建设链向雷达网",
+        "stage": 1
+    },
+    {
+        "key": "chain_home_desc:0",
+        "original": "The advent of air warfare has rendered Britain vulnerable - we can no longer depend solely on our great fleets to keep us safe. Plans have been drawn up for a network of radar stations along our coast codenamed 'Chain Home.' Its construction will greatly aid us in the defense of our airspace.",
+        "translation": "目前的空战使不列颠异常的脆弱-我们不能再寄希望只通过强大的舰队来保证我们的安全。目前已经开始规划代号为'本土雷达链'的沿海岸雷达网建设工程。雷达网的建设将极大地有利于我们的空中防御。",
+        "stage": 1
+    },
+    {
+        "key": "chain_home_short_desc:0",
+        "original": "§LBuild a network of radar stations along the British coast.§!",
+        "translation": "§L沿海岸建设雷达站网络。§!",
+        "stage": 1
+    },
+    {
+        "key": "gibraltar_east:0",
+        "original": "The Gibraltar of the East",
+        "translation": "东方直布罗陀",
+        "stage": 1
+    },
+    {
+        "key": "gibraltar_east_desc:0",
+        "original": "Work on turning Singapore into a major naval base has been ongoing since the end of the Great War. This port is to serve as a bastion for the Royal Navy, enabling us to project our influence all across Asia. Finish the work that has begun and improve Singapore's defenses.",
+        "translation": "将新加坡建设为重要的海军基地的工作自一战后便一直在进行。这个港口将成为皇家海军的堡垒，使我们能维持在整个亚洲的影响力。尽快完成已开始的工作并提高新加坡的防御力量。",
+        "stage": 1
+    },
+    {
+        "key": "gibraltar_east_short_desc:0",
+        "original": "§LImprove Singapore's naval defenses.§!",
+        "translation": "§L提高新加坡海军防御能力。§!",
+        "stage": 1
+    },
+    {
+        "key": "home_guard:0",
+        "original": "The Home Guard",
+        "translation": "地方军",
+        "stage": 1
+    },
+    {
+        "key": "home_guard_desc:0",
+        "original": "France has been lost, and now Britain itself faces the threat of invasion. A suggestion has been put forward to establish a new defense organization consisting of local volunteers. Many veterans from the previous war are too old for regular military service, but in this way they can still contribute to our defense.",
+        "translation": "法国已经战败，现在不列颠肚子面对入侵的威胁。有人建议可以组建由当地志愿者组成的新的防御组织。很多一战老兵因为太老已经不适合正常的军队服役，但是通过地方军他们仍然能对我们的防御力量做出贡献。",
+        "stage": 1
+    },
+    {
+        "key": "home_guard_short_desc:0",
+        "original": "§LEstablish a local volunteer defense organization.§!",
+        "translation": "§L建立地方志愿者防御组织。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_laudabiliter:0",
+        "original": "Operation Laudabiliter",
+        "translation": "爱尔兰行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_laudabiliter_desc:0",
+        "original": "The independence of Ireland is a stain upon British honor. For their own good, the Irish must be governed by a firm hand from London. Planning is underway for an invasion that will bring these stray sheep back into the fold.",
+        "translation": "独立的爱尔兰是不列颠荣耀上的污点。为他们自己着想，爱尔兰人应该被坚定的伦敦政府统治。入侵计划已经开始制定，我们会把这些迷途的羔羊带回来的。",
+        "stage": 1
+    },
+    {
+        "key": "operation_laudabiliter_short_desc:0",
+        "original": "Invade Ireland and reconquer it for Britain.",
+        "translation": "入侵并未不列颠重新夺回爱尔兰。",
+        "stage": 1
+    },
+    {
+        "key": "expand_the_luftwaffe:0",
+        "original": "Expand the Luftwaffe",
+        "translation": "扩建德国空军",
+        "stage": 1
+    },
+    {
+        "key": "expand_the_luftwaffe_desc:0",
+        "original": "The Treaty of Versailles did not permit Germany to maintain an air force, so we have had to build the Luftwaffe from the ground up in record time. We have made significant progress, but much remains to be done. Continue the expansion of the Luftwaffe and turn it into the finest air force in the world.",
+        "translation": "凡尔赛条约不允许德国拥有空军，所以我们需要白手起家在较短的时间内建立起德国空军。我们已经取得巨大进展，但是仍有很多工作要做。继续扩建德国空军并使其成为世界上最强大的空军力量。",
+        "stage": 1
+    },
+    {
+        "key": "expand_the_luftwaffe_short_desc:0",
+        "original": "§LIncrease the size of the Luftwaffe to prepare for the coming war.§!",
+        "translation": "§L扩大德国空军规模为即将到来的战争做准备。§!",
+        "stage": 1
+    },
+    {
+        "key": "panzerwaffe:0",
+        "original": "Create the Panzerwaffe",
+        "translation": "创立德国装甲部队",
+        "stage": 1
+    },
+    {
+        "key": "panzerwaffe_desc:0",
+        "original": "Our new theories of mobile warfare necessitates the creation of a hard-hitting tank force. We must further increase the size of our Panzerwaffe in preparation for the inevitable coming war.",
+        "translation": "我们新型的闪击战理论使创建攻击力强大的装甲力量显得至关重要。我们必须扩建装甲部队的规模为不可避免的战争做好准备。",
+        "stage": 1
+    },
+    {
+        "key": "panzerwaffe_short_desc:0",
+        "original": "§LForm an armored force by raising new panzer divisions for the Heer.§!",
+        "translation": "§L组建装甲力量为国防军装备新的装甲师。§!",
+        "stage": 1
+    },
+    {
+        "key": "reichsautobahn:0",
+        "original": "Finish the Reichsautobahn",
+        "translation": "完成高速公路建设",
+        "stage": 1
+    },
+    {
+        "key": "reichsautobahn_desc:0",
+        "original": "Since its inception in 1933, the autobahn project has been a glorious success. The construction efforts have reduced unemployment, and the wide roads stand as a monument to Germany's economic recovery. Much work remains to be done, however.",
+        "translation": "自1933年开工以来，高速公路计划取得了巨大的成功。建设工作降低了失业率，扩宽的公路成为了德国经济复苏的纪念碑。尽管如此，还是有很多工作需要完善。",
+        "stage": 1
+    },
+    {
+        "key": "reichsautobahn_short_desc:0",
+        "original": "§LFinish construction of the autobahn by increasing infrastructure in key states.§!",
+        "translation": "§L通过增大关键省份基础设施建设来完成高速公路建设。§!",
+        "stage": 1
+    },
+    {
+        "key": "fortify_the_westwall:0",
+        "original": "Fortify the Westwall",
+        "translation": "强化西方墙",
+        "stage": 1
+    },
+    {
+        "key": "fortify_the_westwall_desc:0",
+        "original": "The Westwall runs parallel to France's vaunted Maginot Line, occupying much of the same ground as the Siegfried Line did in the previous Weltkrieg. Fortifying its defenses will allow us to hold the border with fewer men, freeing up divisions to participate in any potential eastern campaigns.",
+        "translation": "西方墙平行于华而不实的法国马奇诺防线建设，利用了一战中齐格非防线使用过的大部分地区。强化西方墙的防御将使我们可以用更少的人力守住边境，使更多的部队参与东方的潜在战事。",
+        "stage": 1
+    },
+    {
+        "key": "fortify_the_westwall_short_desc:0",
+        "original": "§LIncrease the defenses of the Westwall by building new forts.§!",
+        "translation": "§L建造新的堡垒来加强西方墙的防御。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_weserubung:0",
+        "original": "Operation Weserübung",
+        "translation": "威塞尔演习",
+        "stage": 1
+    },
+    {
+        "key": "operation_weserubung_desc:0",
+        "original": "Scandinavian iron is critical to the German war industry, and our supply must be safeguarded. We will preempt an Allied occupation of Norway by staging an invasion of our own. As a step towards realizing this goal, Denmark must also be occupied. This will have the added benefit of closing off the Baltic Sea to our enemies.",
+        "translation": "瑞典的钢铁对德国的战争工业至关重要，因此钢铁的供应必须被保障。我们将在盟军介入前先发制人的入侵挪威。为了实现这个目标，必须先占领丹麦。此举的附加好处是可以对我们的敌人封锁波罗的海。",
+        "stage": 1
+    },
+    {
+        "key": "operation_weserubung_short_desc:0",
+        "original": "§LInvade Denmark and Norway to secure the Scandinavian iron trade.§!",
+        "translation": "§L入侵丹麦和挪威以保证和瑞典的钢铁贸易。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_tannenbaum:0",
+        "original": "Operation Tannenbaum",
+        "translation": "圣诞树计划 ",
+        "stage": 1
+    },
+    {
+        "key": "operation_tannenbaum_desc:0",
+        "original": "Switzerland is a pimple on the face of Europe, and the Swiss themselves represent a wayward branch of the German people. They must be integrated into Greater Germany at any cost. Storm their mountain redoubts and put an end to this farce of a nation.",
+        "translation": "瑞士是欧洲脸上的脓疮，而瑞士人代表了德国人民刚愎自用的一面。我们必须不惜代价把他们整合成大德意志的一部分。突袭他们山上堡垒，终结这个国家的闹剧。",
+        "stage": 1
+    },
+    {
+        "key": "operation_tannenbaum_short_desc:0",
+        "original": "§LInvade Switzerland and annex it into the German Reich.§!",
+        "translation": "§L入侵瑞士并把它并入德意志帝国。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_felix:0",
+        "original": "Operation Felix",
+        "translation": "菲力克斯行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_felix_desc:0",
+        "original": "Allied operations in the Mediterranean must be curtailed by closing off the Strait of Gibraltar, but the Spanish cannot be relied on to support our cause. We must force the issue by launching a full-scale invasion across the Pyrenees. Both Spain and Portugal need to be occupied in order to safeguard Germany's southwestern flank.",
+        "translation": "地中海内盟军的行动可以通过封锁直布罗陀海峡进行限制，但是我们不能指望西班牙为我们提供帮助。我们必须越过比利牛斯山发动全面入侵来实现这个计划。必须占领西班牙和葡萄牙来保证德国西南侧翼的安全。",
+        "stage": 1
+    },
+    {
+        "key": "operation_felix_short_desc:0",
+        "original": "§LInvade the Iberian peninsula and effect the capture Gibraltar.§!",
+        "translation": "§L入侵伊比利亚半岛并占领直布罗陀。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_ikarus:0",
+        "original": "Operation Ikarus",
+        "translation": "伊卡路斯行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_ikarus_desc:0",
+        "original": "To support Kriegsmarine operations in the North Atlantic, the OKW has green-lighted an invasion of Iceland. Control of this island will extend our operational reach farther west, and should greatly aid our efforts in bringing the Battle of the Atlantic to a successful conclusion.",
+        "translation": "为了支持德意志德国海军在北大西洋的行动，最高统帅部给入侵冰岛计划开了绿灯。控制此岛可以使我们的行动到达更远的西方，并极大的增加我们在大西洋的战斗中取得最后胜利的可能性。",
+        "stage": 1
+    },
+    {
+        "key": "operation_ikarus_short_desc:0",
+        "original": "§LInvade Iceland as a step towards winning the Battle of the Atlantic.§!",
+        "translation": "§L入侵冰岛作为赢得大西洋战斗胜利的一步。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_herkules:0",
+        "original": "Operation Herkules",
+        "translation": "大力神行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_herkules_desc:0",
+        "original": "The British base on Malta has been a thorn in our side for too long. It continues to interfere with operations in North Africa, and as long as the island is under Allied control the Central Mediterranean will remain contested. We must see to its capture.",
+        "translation": "马耳他的英国基地已经让我们如鲠在喉太长时间了。它持续的干预我们在北非的行动，只要盟军还掌握着该岛，地中海的中部将始终保持冲突状态。我们必须占领该岛。",
+        "stage": 1
+    },
+    {
+        "key": "operation_herkules_short_desc:0",
+        "original": "§LCapture Malta and deny its use as a base to the British.§!",
+        "translation": "§L占领马耳他使不列颠不能把它作为基地使用。§!",
+        "stage": 1
+    },
+    {
+        "key": "fall_grun:0",
+        "original": "Fall Grün",
+        "translation": "绿色方案",
+        "stage": 1
+    },
+    {
+        "key": "fall_grun_desc:0",
+        "original": "Circumvent the main British defenses by establishing a beachhead on Ireland. When the island is under our control, Britain will be in a far more isolated position. From this new base our air and naval forces can pummel the stubborn British into submission!",
+        "translation": "在爱尔兰建立前进基地以避开不列颠的主要防御力量。当此岛处于我方控制之下后，不列颠将处于更加孤立的地位。从这个新基地出发，我们的空中和海上力量将持续打击顽固的英国人直到其屈服!",
+        "stage": 1
+    },
+    {
+        "key": "fall_grun_short_desc:0",
+        "original": "§LConduct an invasion of Ireland to isolate Britain and secure new naval bases.§!",
+        "translation": "§L入侵爱尔兰以孤立英国并保证新海军基地的安全。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_seelowe:0",
+        "original": "Operation Seelöwe",
+        "translation": "海狮计划",
+        "stage": 1
+    },
+    {
+        "key": "operation_seelowe_desc:0",
+        "original": "Our victory in the West can only be assured by the complete occupation of Great Britain. We must conduct a landing operation across the Channel and establish a beachhead on English soil. Our spearheads can then fan out into the countryside and push forward until all of Britain has been occupied. Their empire should then collapse like a house of cards. Vorwärts!",
+        "translation": "只有完全占领了大不列颠才能保证我们在西方获得的胜利。我们必须越过海峡实施登陆行动并在英国的土地上建立前进基地。只有这样我们的先头部队才能展开深入敌境并向前推进直至占领整个不列颠。届时他们的帝国将如纸牌屋一般轰然倒塌。前进!",
+        "stage": 1
+    },
+    {
+        "key": "operation_seelowe_short_desc:0",
+        "original": "§LLaunch a massive amphibious invasion of Britain and seize London.§!",
+        "translation": "§L发动大规模两栖登陆作战入侵不列颠并占领伦敦。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_barbarossa:0",
+        "original": "Operation Barbarossa",
+        "translation": "巴巴罗沙计划 ",
+        "stage": 1
+    },
+    {
+        "key": "operation_barbarossa_desc:0",
+        "original": "We are about to embark on the greatest military campaign in history - the invasion of the Soviet Union! Where Napoleon failed, we will succeed. Surge forward across the border, encircle and destroy Soviet troop concentrations and continue pushing eastward. The operation will be considered a success if we seize Moscow and manage to establish a front line running along the Arkhangelsk - Astrakhan axis. Drang nach Osten!",
+        "translation": "我们将要进行史上最伟大的军事行动-入侵苏联!拿破仑在此地战败，而我们将取得胜利。前仆后继的越过边境，包围歼灭苏联军队主力并持续向东推进。当我们占领莫斯科并沿阿尔汉格尔斯克-阿斯特拉罕轴线建立了前线阵地时，行动才算取得了成功。向东扩张!",
+        "stage": 1
+    },
+    {
+        "key": "operation_barbarossa_short_desc:0",
+        "original": "§LInvade the Soviet Union and reach the Arkhangelsk - Astrakhan line.§!",
+        "translation": "§L入侵苏联并前进到阿尔汉格尔斯克-阿斯特拉罕沿线。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_gertrude:0",
+        "original": "Operation Gertrude",
+        "translation": "格特鲁德行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_gertrude_desc:0",
+        "original": "The occupation of Turkey will allow us to more easily shift forces from Europe to the Middle East, and it will give us full control over the only entrance to the Black Sea. Under no circumstances must the Turks be permitted to align with the Allies!",
+        "translation": "占领土耳其能使我们更轻易的将军队从欧洲调往中东，并使我们控制黑海的唯一入海口。无论如何不能允许土耳其与盟国结盟!",
+        "stage": 1
+    },
+    {
+        "key": "operation_gertrude_short_desc:0",
+        "original": "§LSecure the entrance to the Black Sea by staging an invasion of Turkey.§!",
+        "translation": "§L入侵土耳其以保障黑海入海口。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_mungo:0",
+        "original": "Operation Mungo",
+        "translation": "芒戈行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_mungo_desc:0",
+        "original": "Following in the footsteps of Alexander the Great, our forces have reached the Indus Valley. We are now in a position to rob the British of the jewel in their empire. Commence a full-scale invasion of India!",
+        "translation": "追寻伟大的亚历山大大帝的足迹，我们的军队已抵达印度河流域。我们现在可以掠夺不列颠帝国的珍珠。开始全面入侵印度!",
+        "stage": 1
+    },
+    {
+        "key": "operation_mungo_short_desc:0",
+        "original": "§LCommence an invasion of British India and conquer it for the Vaterland.§!",
+        "translation": "§L开始入侵英属印度，为了祖国将其征服。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_knickerbocker:0",
+        "original": "Operation Knickerbocker",
+        "translation": "尼克博克行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_knickerbocker_desc:0",
+        "original": "We must bring the war across the Atlantic. Before we can launch an invasion of the American East Coast, we must secure bases where we can mass our forces. The Kriegsmarine has prepared invasion plans for both Newfoundland and Bermuda. Either of these islands will suit our purposes.",
+        "translation": "我们必须把战火烧到大西洋彼岸。但是在对美国东海岸发动入侵行动前，我们必须确保用于集结军队的基地的安全。德意志帝国海军已经做好了入侵纽芬兰和百慕大的准备工作。这两个基地都很适合我们今后的行动。",
+        "stage": 1
+    },
+    {
+        "key": "operation_knickerbocker_short_desc:0",
+        "original": "§LSecure bases in the Atlantic in preparation for an invasion of America.§!",
+        "translation": "§L确保大西洋基地的安全为入侵美国做准备。§!",
+        "stage": 1
+    },
+    {
+        "key": "operation_buffel:0",
+        "original": "Operation Büffel",
+        "translation": "水牛行动",
+        "stage": 1
+    },
+    {
+        "key": "operation_buffel_desc:0",
+        "original": "To secure Germany's leadership in the new world order we have created, a full-scale invasion of the continental United States must be conducted. Important political and industrial targets along the northeastern American coast are to be immediately occupied, including the White House in Washington.",
+        "translation": "为了保证德国在我们创建的世界新秩序中的领导地位，全面入侵美利坚大陆十分重要。必须立即占领美国东北海岸的重要政治经济目标，其中当然包括华盛顿的白宫。",
+        "stage": 1
+    },
+    {
+        "key": "operation_buffel_short_desc:0",
+        "original": "§LInvade North America and occupy important targets on the US East Coast.§!",
+        "translation": "§L入侵北美并占领美国东海岸重要目标。§!",
+        "stage": 1
+    },
+    {
+        "key": "deutsches_afrikakorps:0",
+        "original": "Deutsches Afrikakorps",
+        "translation": "德意志非洲军团",
+        "stage": 1
+    },
+    {
+        "key": "deutsches_afrikakorps_desc:0",
+        "original": "We must aid the Italians in their struggle against the British in North Africa. Transport an expeditionary force to Libya and support the Italian drive towards Egypt!",
+        "translation": "意大利正在与不列颠在北非艰难作战，我们必须帮助他们。派遣远征军到利比亚并帮助意大利把英国人赶回埃及!",
+        "stage": 1
+    },
+    {
+        "key": "deutsches_afrikakorps_short_desc:0",
+        "original": "§LSupport Italian operations in North Africa by landing forces in Libya.§!",
+        "translation": "§L在利比亚登陆军队来帮助意大利人在北非的行动。§!",
+        "stage": 1
+    },
+    {
+        "key": "fall_weiss:0",
+        "original": "Fall Weiss",
+        "translation": "白色方案",
+        "stage": 1
+    },
+    {
+        "key": "fall_weiss_desc:0",
+        "original": "The invasion of Poland must be commenced. Important strategic objectives include Warsaw, Krakow and Lwow. We must also establish a land corridor to our forces in East Prussia as soon as possible. Meanwhile, our border towards France must be defended at every cost. Do not let Moselland or Württemberg fall to the French!",
+        "translation": "必须实施入侵波兰计划。重要的战略目标有华沙，克拉科夫和利沃夫。我们还必须尽快建立和东普鲁士军队的路上走廊。同时我们必须不计代价保卫德法边境。决不允许摩泽尔兰或符腾堡陷落给法国!",
+        "stage": 1
+    },
+    {
+        "key": "fall_weiss_short_desc:0",
+        "original": "§LInvade Poland while holding the Westwall against the French.§!",
+        "translation": "§L入侵波兰同时坚守西方墙。§!",
+        "stage": 1
+    },
+    {
+        "key": "fall_gelb:0",
+        "original": "Fall Gelb",
+        "translation": "黄色方案",
+        "stage": 1
+    },
+    {
+        "key": "fall_gelb_desc:0",
+        "original": "The Maginot Line would make a direct assault on France from across our border very costly. Borrowing from the Schlieffen Plan, the OKH have prepared for an invasion through the Low Countries instead. If possible, isolate and destroy Allied forces crossing into Belgium by driving a wedge between them and the rest of France.",
+        "translation": "直接从我方边境进攻马奇诺防线将付出较大的哀家代价。最高统帅部借鉴了施里芬计划，准备通过入侵并穿越低地国家来进攻法国。如果可能，可以通过穿插比利时在盟军和剩余的法国军队中锲入以孤立和歼灭盟军部队。",
+        "stage": 1
+    },
+    {
+        "key": "fall_gelb_short_desc:0",
+        "original": "§LCircumvent the Maginot Line by invading and occupying the Low Countries.§!",
+        "translation": "§L通过入侵和占领低地国家绕过马奇诺防线。§!",
+        "stage": 1
+    },
+    {
+        "key": "fall_rot:0",
+        "original": "Fall Rot",
+        "translation": "红色方案",
+        "stage": 1
+    },
+    {
+        "key": "fall_rot_desc:0",
+        "original": "We are now in a position to launch an offensive along a broad front into France. Drive south, force a crossing of the Marne and seize Paris. The Channel coast must also be occupied, and the Maginot Line should be encircled and destroyed when opportunity presents itself.",
+        "translation": "我们现在正在宽广的战线上向法国发动进攻。向南推进，越过马恩河占领巴黎。同时必须占领海峡沿岸，当时机成熟时应当包围并摧毁马奇诺防线。",
+        "stage": 1
+    },
+    {
+        "key": "fall_rot_short_desc:0",
+        "original": "§LAdvance south into France. The Marne will not stop us this time!§!",
+        "translation": "§L向南进军进入法国。这一次马恩河再也不能阻止我们了！§!",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction1:0",
+        "original": "Improve our industry",
+        "translation": "提振我们的工业",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction1_desc:0",
+        "original": "A modern military requires a powerful economy to provide the weapons, planes, ships, and tanks that dominate today's wars.",
+        "translation": "现代军队需要强有力的经济支援以提供主导当今战场的武器，战机，舰船和装甲部队。",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction1_short_desc:0",
+        "original": "§LA powerful military requires industrial muscle, build more factories!§!",
+        "translation": "§L一个强大的军队需要强力的工业肌肉，建设更多的工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction2:0",
+        "original": "Improve our industry",
+        "translation": "提振我们的工业",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction2_desc:0",
+        "original": "A modern military requires a powerful economy to provide the weapons, planes, ships, and tanks that dominate today's wars.",
+        "translation": "现代军队需要强有力的经济支援以提供主导当今战场的武器，战机，舰船和装甲部队。",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction2_short_desc:0",
+        "original": "§LA powerful military requires industrial muscle, build more factories!§!",
+        "translation": "§L一个强大的军队需要强力的工业肌肉，建设更多的工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction3:0",
+        "original": "Improve our industry",
+        "translation": "提振我们的工业",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction3_desc:0",
+        "original": "A modern military requires a powerful economy to provide the weapons, planes, ships, and tanks that dominate today's wars.",
+        "translation": "现代军队需要强有力的经济支援以提供主导当今战场的武器，战机，舰船和装甲部队。",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction3_short_desc:0",
+        "original": "§LA powerful military requires industrial muscle, build more factories!§!",
+        "translation": "§L一个强大的军队需要强力的工业肌肉，建设更多的工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction4:0",
+        "original": "Improve our industry",
+        "translation": "提振我们的工业",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction4_desc:0",
+        "original": "A modern military requires a powerful economy to provide the weapons, planes, ships, and tanks that dominate today's wars.",
+        "translation": "现代军队需要强有力的经济支援以提供主导当今战场的武器，战机，舰船和装甲部队。",
+        "stage": 1
+    },
+    {
+        "key": "goal_construction4_short_desc:0",
+        "original": "§LA powerful military requires industrial muscle, build more factories!§!",
+        "translation": "§L一个强大的军队需要强力的工业肌肉，建设更多的工厂！§!",
+        "stage": 1
+    },
+    {
+        "key": "repel_invaders:0",
+        "original": "Repel the invaders",
+        "translation": "驱逐侵略者",
+        "stage": 1
+    },
+    {
+        "key": "repel_invaders_desc:0",
+        "original": "Our country has been cruelly attacked and at this very moment filthy enemy troops are marching through our fields and towns! This cannot be allowed to continue, rally our forces and repel the invaders!",
+        "translation": "我们的国家正在遭受攻击！此刻卑鄙的地方军队正在向我们的城镇和田野进军!我们不能容忍这种情况持续下去，集结我们的部队并驱逐侵略者!",
+        "stage": 1
+    },
+    {
+        "key": "repel_invaders_short_desc:0",
+        "original": "§LDrive the invaders from our nation!§!",
+        "translation": "§L把侵略者逐出我们的国家！§!",
+        "stage": 1
+    },
+    {
+        "key": "support_democracy:0",
+        "original": "Support Democracy",
+        "translation": "支持民主党派",
+        "stage": 1
+    },
+    {
+        "key": "support_democracy_desc:0",
+        "original": "The current political leadership has taken the wrong direction. With a little manipulation, a touch of propaganda, and perhaps a scandal or two, the government could be made to fall and a more Democratic party could be swept into power.",
+        "translation": "当今的政坛领导人正在走向错误的方向，通过少量的操纵，小小的宣传或者再加一两个丑闻，现在的政府就会下台而一个更加民主的党派便能当政。",
+        "stage": 1
+    },
+    {
+        "key": "support_democracy_short_desc:0",
+        "original": "§LUsher in a more Democratic government.§!",
+        "translation": "§L引导一个更加民主的政府。§!",
+        "stage": 1
+    },
+    {
+        "key": "support_democracy_1:0",
+        "original": "Get opposition into power",
+        "translation": "利用反对派获得权力",
+        "stage": 1
+    },
+    {
+        "key": "support_communism:0",
+        "original": "Support Communism",
+        "translation": "支持共产主义",
+        "stage": 1
+    },
+    {
+        "key": "support_communism_desc:0",
+        "original": "The current political leadership has taken the wrong direction. With a little manipulation, a touch of propaganda, and perhaps a scandal or two, the government could be made to fall and a more Communist party could be swept into power.",
+        "translation": "当今的政坛领导人正在走向错误的方向，通过少量的操纵，小小的宣传或者再加一两个丑闻，现在的政府就会下台而一个更加共产主义的党派便能当政。",
+        "stage": 1
+    },
+    {
+        "key": "support_communism_short_desc:0",
+        "original": "§LUsher in a more Communist government.§!",
+        "translation": "§L引导一个更加共产主义的政府。§!",
+        "stage": 1
+    },
+    {
+        "key": "support_communism_1:0",
+        "original": "Get opposition into power",
+        "translation": "利用反对派获得权力",
+        "stage": 1
+    },
+    {
+        "key": "support_fascism:0",
+        "original": "Support Fascism",
+        "translation": "支持法西斯主义",
+        "stage": 1
+    },
+    {
+        "key": "support_fascism_desc:0",
+        "original": "The current political leadership has taken the wrong direction. With a little manipulation, a touch of propaganda, and perhaps a scandal or two, the government could be made to fall and a more Fascist party could be swept into power.",
+        "translation": "当今的政坛领导人正在走向错误的方向，通过少量的操纵，小小的宣传或者再加一两个丑闻，现在的政府就会下台而一个更加法西斯的党派便能当政。",
+        "stage": 1
+    },
+    {
+        "key": "support_fascism_short_desc:0",
+        "original": "§LUsher in a more Fascist government.§!",
+        "translation": "§L引导一个更加法西斯的政府。§!",
+        "stage": 1
+    },
+    {
+        "key": "support_fascism_1:0",
+        "original": "Get opposition into power",
+        "translation": "利用反对派获得权力",
+        "stage": 1
+    },
+    {
+        "key": "sov_yes_pact:0",
+        "original": "Soviet Union agrees to the Pact",
+        "translation": "苏联接受条约",
+        "stage": 1
+    },
+    {
+        "key": "take_claim_goal:0",
+        "original": "Rightful claims",
+        "translation": "正当的索求",
+        "stage": 1
+    },
+    {
+        "key": "take_claim_goal_desc:0",
+        "original": "Take back what is ours from $TARGET|Y$",
+        "translation": "从$TARGET|Y$夺回我们的土地",
+        "stage": 1
+    },
+    {
+        "key": "take_claim_goal_1:0",
+        "original": "Prepare for war",
+        "translation": "准备开战",
+        "stage": 1
+    },
+    {
+        "key": "take_claim_goal_2:0",
+        "original": "Declare war",
+        "translation": "宣战",
+        "stage": 1
+    },
+    {
+        "key": "take_claim_goal_short_desc:0",
+        "original": "§LTake back what is ours from $TARGET|Y$§!",
+        "translation": "§L从$TARGET|Y$夺回原属于我们的土地§!",
+        "stage": 1
+    },
+    {
+        "key": "take_core_goal:0",
+        "original": "Reclaim our land",
+        "translation": "收回我们的领土",
+        "stage": 1
+    },
+    {
+        "key": "take_core_goal_desc:0",
+        "original": "Take back what is ours from $TARGET|Y$",
+        "translation": "从$TARGET|Y$夺回原属于我们的土地",
+        "stage": 1
+    },
+    {
+        "key": "take_core_goal_short_desc:0",
+        "original": "§LTake back our core states!§!",
+        "translation": "§L夺回我们的核心地区!§!",
+        "stage": 1
+    },
+    {
+        "key": "take_core_goal_1:0",
+        "original": "Prepare for war",
+        "translation": "准备开战",
+        "stage": 1
+    },
+    {
+        "key": "take_core_goal_2:0",
+        "original": "Declare war",
+        "translation": "宣战",
+        "stage": 1
+    },
+    {
+        "key": "victory_or_death:0",
+        "original": "Defeat $TARGET|Y$!",
+        "translation": "击败$TARGET|Y$!",
+        "stage": 1
+    },
+    {
+        "key": "victory_or_death_desc:0",
+        "original": "This war must take the highest priority of our nation, all our resources must be turned against them.",
+        "translation": "必须把此次战争列为我国最高优先级，我们所有的资源均应该投入到这里。",
+        "stage": 1
+    },
+    {
+        "key": "victory_or_death_short_desc:0",
+        "original": "§LVictory at any cost!§!",
+        "translation": "§L不惜代价取得胜利!§!",
+        "stage": 1
+    },
+    {
+        "key": "support_republican_spain:0",
+        "original": "Support Republican Spain",
+        "translation": "支持西班牙共和国",
+        "stage": 1
+    },
+    {
+        "key": "support_republican_spain_desc:0",
+        "original": "The Spanish Civil War is viewed by many as a domestic version of the global ideological conflicts that define our times. Sending equipment to the Republican side, we can take a stand against the fascist thugs who seek to oppress the Spanish population.",
+        "translation": "西班牙内战被很多人视为其内部对当今世界意识形态的冲突。发送装备援助共和国，由此我们可以表明反对法西斯暴徒压制西班牙民众的立场。",
+        "stage": 1
+    },
+    {
+        "key": "support_republican_spain_short_desc:0",
+        "original": "Send equipment to support Republican Spain in the Civil War",
+        "translation": "发送装备在内战中援助西班牙共和国",
+        "stage": 1
+    },
+    {
+        "key": "support_nationalist_spain:0",
+        "original": "Support Nationalist Spain",
+        "translation": "支持西班牙王国",
+        "stage": 1
+    },
+    {
+        "key": "support_nationalist_spain_desc:0",
+        "original": "The Spanish Civil War is viewed by many as a domestic version of the global ideological conflicts that define our times. Sending equipment to the Nationalist side, we can take a stand against the anarchists and Reds who would destroy the Spanish nation.",
+        "translation": "西班牙内战被很多人视为其内部对当今世界意识形态的冲突。发送装备援助西班牙王国，由此我们可以表明反对无政府主义者和赤色分子摧毁西班牙的立场。",
+        "stage": 1
+    },
+    {
+        "key": "support_nationalist_spain_short_desc:0",
+        "original": "Send equipment to support Nationalist Spain in the Civil War",
+        "translation": "发送装备，在内战中援助西班牙王国",
+        "stage": 1
+    },
+    {
+        "key": "may_provoke_hostility:0",
+        "original": "§R[This.GetName] and other nations may respond with hostility to this course of action.§!",
+        "translation": "§R[This.GetName]和其他国家可能对我们的行动报以敌对的反应。§!",
+        "stage": 1
+    }
+]

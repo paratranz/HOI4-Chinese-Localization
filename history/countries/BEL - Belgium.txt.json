@@ -1,0 +1,26 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Hubert Pierlot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Joseph Jacquemotte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Léon Degrelle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Georges Timmermans",
+        "translation": "",
+        "stage": 0
+    }
+]

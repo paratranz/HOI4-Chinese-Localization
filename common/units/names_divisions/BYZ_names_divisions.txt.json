@@ -1,0 +1,776 @@
+[
+    {
+        "key": "BYZ_INF_01|fallback_name",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|1#|%s 'Scholai' Tagma",
+        "original": "%s 'Scholai' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|2#|%s 'Exkoubitoi' Tagma",
+        "original": "%s 'Exkoubitoi' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|3#|%s 'Arithmos' Tagma",
+        "original": "%s 'Arithmos' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|4#|%s 'Hikanatoi' Tagma",
+        "original": "%s 'Hikanatoi' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|5#|%s 'Noumeroi' Tagma",
+        "original": "%s 'Noumeroi' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|6#|%s 'Optimatoi' Tagma",
+        "original": "%s 'Optimatoi' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|7#|%s 'Hetaireaia' Tagma",
+        "original": "%s 'Hetaireaia' Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|8#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|9#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|10#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|11#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|12#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|13#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|14#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|15#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|16#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|17#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|18#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|19#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_INF_01|ordered|20#|%s Tagma",
+        "original": "%s Tagma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_CAV_01|fallback_name",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|1#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|2#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|3#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|4#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|5#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|6#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|7#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|9#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|8#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_CAV_01|ordered|10#|%s Tagma Ippikoú",
+        "original": "%s Tagma Ippikoú",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_MOT_01|fallback_name",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|1#|%s 'Scholai' Tagma Michanopoiiméni",
+        "original": "%s 'Scholai' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|2#|%s 'Exkoubitoi' Tagma Michanopoiiméni",
+        "original": "%s 'Exkoubitoi' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|3#|%s 'Arithmos' Tagma Michanopoiiméni",
+        "original": "%s 'Arithmos' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|4#|%s 'Hikanatoi' Tagma Michanopoiiméni",
+        "original": "%s 'Hikanatoi' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|5#|%s 'Noumeroi' Tagma Michanopoiiméni",
+        "original": "%s 'Noumeroi' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|6#|%s 'Optimatoi' Tagma Michanopoiiméni",
+        "original": "%s 'Optimatoi' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|7#|%s 'Hetaireaia' Tagma Michanopoiiméni",
+        "original": "%s 'Hetaireaia' Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|8#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|9#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|10#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|11#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|12#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|13#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|14#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|15#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|16#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|17#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|18#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|19#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MOT_01|ordered|20#|%s Tagma Michanopoiiméni",
+        "original": "%s Tagma Michanopoiiméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_ARM_01|fallback_name",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|1#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|2#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|3#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|4#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|5#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|6#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|7#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|9#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|8#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_ARM_01|ordered|10#|%s Tagma Tethorakisméni",
+        "original": "%s Tagma Tethorakisméni",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_MEC_01|fallback_name",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|1#|%s 'Scholai' Tagma Michanokíniti",
+        "original": "%s 'Scholai' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|2#|%s 'Exkoubitoi' Tagma Michanokíniti",
+        "original": "%s 'Exkoubitoi' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|3#|%s 'Arithmos' Tagma Michanokíniti",
+        "original": "%s 'Arithmos' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|4#|%s 'Hikanatoi' Tagma Michanokíniti",
+        "original": "%s 'Hikanatoi' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|5#|%s 'Noumeroi' Tagma Michanokíniti",
+        "original": "%s 'Noumeroi' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|6#|%s 'Optimatoi' Tagma Michanokíniti",
+        "original": "%s 'Optimatoi' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|7#|%s 'Hetaireaia' Tagma Michanokíniti",
+        "original": "%s 'Hetaireaia' Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|8#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|9#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|10#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|11#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|12#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|13#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|14#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|15#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|16#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|17#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|18#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|19#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MEC_01|ordered|20#|%s Tagma Michanokíniti",
+        "original": "%s Tagma Michanokíniti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_GAR_01|fallback_name",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|1#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|2#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|3#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|4#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|5#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|6#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|7#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|9#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|8#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_GAR_01|ordered|10#|%s Akritai",
+        "original": "%s Akritai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_MAR_01|fallback_name",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|1#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|2#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|3#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|4#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|5#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|6#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|7#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|9#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|8#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MAR_01|ordered|10#|%s Tagma Pezonavton",
+        "original": "%s Tagma Pezonavton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_MTN_01|fallback_name",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|1#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|2#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|3#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|4#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|5#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|6#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|7#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|9#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|8#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_MTN_01|ordered|10#|%s Tagma Vounó",
+        "original": "%s Tagma Vounó",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BYZ_PAR_01|fallback_name",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|1#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|2#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|3#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|4#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|5#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|6#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|7#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|9#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|8#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BYZ_PAR_01|ordered|10#|%s Tagma Alexiptotiston",
+        "original": "%s Tagma Alexiptotiston",
+        "translation": "",
+        "stage": 0
+    }
+]

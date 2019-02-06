@@ -1,0 +1,74 @@
+[
+    {
+        "key": "1939.1.1|if|create_country_leader|name",
+        "original": "Carol II",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader|name",
+        "original": "Gheorghe Tatarescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Constantin Ion Parhon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Armand Calinescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Octavian Goga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader####|name",
+        "original": "Ion Antonescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Petre Dumitrescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal#|name",
+        "original": "Ion Antonescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Ioan Mihail Racovita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "Gheorghe Avramescu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader|name",
+        "original": "Horia Macellariu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Regele Ferdinand Class",
+        "translation": "",
+        "stage": 0
+    }
+]

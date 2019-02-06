@@ -1,0 +1,492 @@
+EST_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s Jalaväediviisi"
+  ordered = {
+    1 = {
+      "%s Jalaväediviisi"
+    }
+    2 = {
+      "%s Jalaväediviisi"
+    }
+    3 = {
+      "%s Jalaväediviisi"
+    }
+    4 = {
+      "%s Jalaväediviisi"
+    }
+    5 = {
+      "%s Jalaväediviisi"
+    }
+    6 = {
+      "%s Jalaväediviisi"
+    }
+    7 = {
+      "%s Jalaväediviisi"
+    }
+    8 = {
+      "%s Jalaväediviisi"
+    }
+    9 = {
+      "%s Jalaväediviisi"
+    }
+    10 = {
+      "%s Jalaväediviisi"
+    }
+    11 = {
+      "%s Jalaväediviisi"
+    }
+    12 = {
+      "%s Jalaväediviisi"
+    }
+    13 = {
+      "%s Jalaväediviisi"
+    }
+    14 = {
+      "%s Jalaväediviisi"
+    }
+    15 = {
+      "%s Jalaväediviisi"
+    }
+    16 = {
+      "%s Jalaväediviisi"
+    }
+    17 = {
+      "%s Jalaväediviisi"
+    }
+    18 = {
+      "%s Jalaväediviisi"
+    }
+    19 = {
+      "%s Jalaväediviisi"
+    }
+    20 = {
+      "%s Jalaväediviisi"
+    }
+  }
+}
+EST_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Ratsaväediviisi"
+  ordered = {
+    1 = {
+      "%s Ratsaväediviisi"
+    }
+    2 = {
+      "%s Ratsaväediviisi"
+    }
+    3 = {
+      "%s Ratsaväediviisi"
+    }
+    4 = {
+      "%s Ratsaväediviisi"
+    }
+    5 = {
+      "%s Ratsaväediviisi"
+    }
+    6 = {
+      "%s Ratsaväediviisi"
+    }
+    7 = {
+      "%s Ratsaväediviisi"
+    }
+    8 = {
+      "%s Ratsaväediviisi"
+    }
+    9 = {
+      "%s Ratsaväediviisi"
+    }
+    10 = {
+      "%s Ratsaväediviisi"
+    }
+  }
+}
+EST_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Motoriseeritud diviisi"
+  ordered = {
+    1 = {
+      "%s Motoriseeritud diviisi"
+    }
+    2 = {
+      "%s Motoriseeritud diviisi"
+    }
+    3 = {
+      "%s Motoriseeritud diviisi"
+    }
+    4 = {
+      "%s Motoriseeritud diviisi"
+    }
+    5 = {
+      "%s Motoriseeritud diviisi"
+    }
+    6 = {
+      "%s Motoriseeritud diviisi"
+    }
+    7 = {
+      "%s Motoriseeritud diviisi"
+    }
+    8 = {
+      "%s Motoriseeritud diviisi"
+    }
+    9 = {
+      "%s Motoriseeritud diviisi"
+    }
+    10 = {
+      "%s Motoriseeritud diviisi"
+    }
+  }
+}
+EST_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Mehhaniseeritud diviisi"
+  ordered = {
+    1 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    2 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    3 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    4 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    5 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    6 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    7 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    8 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    9 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+    10 = {
+      "%s Mehhaniseeritud diviisi"
+    }
+  }
+}
+EST_ARM_01 = {
+  name = "Tank Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Tankidiviisi"
+  ordered = {
+    1 = {
+      "%s Tankidiviisi"
+    }
+    2 = {
+      "%s Tankidiviisi"
+    }
+    3 = {
+      "%s Tankidiviisi"
+    }
+    4 = {
+      "%s Tankidiviisi"
+    }
+    5 = {
+      "%s Tankidiviisi"
+    }
+    6 = {
+      "%s Tankidiviisi"
+    }
+    7 = {
+      "%s Tankidiviisi"
+    }
+    8 = {
+      "%s Tankidiviisi"
+    }
+    9 = {
+      "%s Tankidiviisi"
+    }
+    10 = {
+      "%s Tankidiviisi"
+    }
+  }
+}
+EST_PAR_01 = {
+  name = "Paratrooper Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Õhudessantdiviisi"
+  ordered = {
+    1 = {
+      "%s Õhudessantdiviisi"
+    }
+    2 = {
+      "%s Õhudessantdiviisi"
+    }
+    3 = {
+      "%s Õhudessantdiviisi"
+    }
+    4 = {
+      "%s Õhudessantdiviisi"
+    }
+    5 = {
+      "%s Õhudessantdiviisi"
+    }
+    6 = {
+      "%s Õhudessantdiviisi"
+    }
+    7 = {
+      "%s Õhudessantdiviisi"
+    }
+    8 = {
+      "%s Õhudessantdiviisi"
+    }
+    9 = {
+      "%s Õhudessantdiviisi"
+    }
+    10 = {
+      "%s Õhudessantdiviisi"
+    }
+  }
+}
+EST_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Merejalaväediviisi"
+  ordered = {
+    1 = {
+      "%s Merejalaväediviisi"
+    }
+    2 = {
+      "%s Merejalaväediviisi"
+    }
+    3 = {
+      "%s Merejalaväediviisi"
+    }
+    4 = {
+      "%s Merejalaväediviisi"
+    }
+    5 = {
+      "%s Merejalaväediviisi"
+    }
+    6 = {
+      "%s Merejalaväediviisi"
+    }
+    7 = {
+      "%s Merejalaväediviisi"
+    }
+    8 = {
+      "%s Merejalaväediviisi"
+    }
+    9 = {
+      "%s Merejalaväediviisi"
+    }
+    10 = {
+      "%s Merejalaväediviisi"
+    }
+  }
+}
+EST_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Mägidiviisi"
+  ordered = {
+    1 = {
+      "%s Mägidiviisi"
+    }
+    2 = {
+      "%s Mägidiviisi"
+    }
+    3 = {
+      "%s Mägidiviisi"
+    }
+    4 = {
+      "%s Mägidiviisi"
+    }
+    5 = {
+      "%s Mägidiviisi"
+    }
+    6 = {
+      "%s Mägidiviisi"
+    }
+    7 = {
+      "%s Mägidiviisi"
+    }
+    8 = {
+      "%s Mägidiviisi"
+    }
+    9 = {
+      "%s Mägidiviisi"
+    }
+    10 = {
+      "%s Mägidiviisi"
+    }
+  }
+}
+EST_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    EST
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    EST_INF_01
+  }
+  fallback_name = "%s Jalaväediviisi"
+  ordered = {
+    1 = {
+      "%s Jalaväediviisi"
+    }
+    2 = {
+      "%s Jalaväediviisi"
+    }
+    3 = {
+      "%s Jalaväediviisi"
+    }
+    4 = {
+      "%s Jalaväediviisi"
+    }
+    5 = {
+      "%s Jalaväediviisi"
+    }
+    6 = {
+      "%s Jalaväediviisi"
+    }
+    7 = {
+      "%s Jalaväediviisi"
+    }
+    8 = {
+      "%s Jalaväediviisi"
+    }
+    9 = {
+      "%s Jalaväediviisi"
+    }
+    10 = {
+      "%s Jalaväediviisi"
+    }
+    11 = {
+      "%s Jalaväediviisi"
+    }
+    12 = {
+      "%s Jalaväediviisi"
+    }
+    13 = {
+      "%s Jalaväediviisi"
+    }
+    14 = {
+      "%s Jalaväediviisi"
+    }
+    15 = {
+      "%s Jalaväediviisi"
+    }
+    16 = {
+      "%s Jalaväediviisi"
+    }
+    17 = {
+      "%s Jalaväediviisi"
+    }
+    18 = {
+      "%s Jalaväediviisi"
+    }
+    19 = {
+      "%s Jalaväediviisi"
+    }
+    20 = {
+      "%s Jalaväediviisi"
+    }
+  }
+}

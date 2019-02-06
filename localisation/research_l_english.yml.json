@@ -1,0 +1,5156 @@
+[
+    {
+        "key": "RESEARCH_BONUSES_TOOLTIP:0",
+        "original": "Limited technology bonuses we have:",
+        "translation": "我们所拥有的有次数限制的科技加成：",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUSES_EMPTY_TOOLTIP:0",
+        "original": "Limited technology bonuses will be listed here.",
+        "translation": "我们所拥有的有次数限制的科技加成会在此列出。",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_SPEED_DESC:0",
+        "original": "§Y$COUNT$x§! $VALUE|G%0$ research speed $NAME$",
+        "translation": "§Y$COUNT$x§! $VALUE|G%0$研发速度 $NAME$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_AHEAD_DESC:0",
+        "original": "§Y$COUNT$x§! $VALUE|G%0$ ahead of time $NAME$",
+        "translation": "§Y$COUNT$x§! $VALUE|G%0$超前惩罚 $NAME$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_SPEED_AHEAD_DESC:0",
+        "original": "§Y$COUNT$x§! $VALUE1|G%0$ research speed and $VALUE2|G%0$ ahead of time $NAME$",
+        "translation": "§Y$COUNT$x§! $VALUE1|G%0$ 的研发速度加成，及 $VALUE2|G%0$ 的超前惩罚减轻于 $NAME$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_SPEED_NO_COUNT_DESC:0",
+        "original": "Research time will be reduced by $VALUE|G%0$",
+        "translation": "研发耗时将减少$VALUE|G%0$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_AHEAD_NO_COUNT_DESC:0",
+        "original": "Ahead of time penalty will be reduced by $VALUE|G%0$",
+        "translation": "超前惩罚将减轻$VALUE|G%0$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_SPEED_AHEAD_NO_COUNT_DESC:0",
+        "original": "Research time will be reduced by $VALUE|G%0$ and ahead of time penalty reduced by $VALUE2|G%0$",
+        "translation": "研发耗时将减少$VALUE|G%0$，且科研超前惩罚将减轻$VALUE2|G%0$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_BONUS_VALUE_DESC:0",
+        "original": "Research bonus: $VALUE|Y%0$",
+        "translation": "研究加成：$VALUE|Y%0$",
+        "stage": 1
+    },
+    {
+        "key": "TECH_BASE_COST:0",
+        "original": "Base Cost: $BASE|Y0$ days\\n",
+        "translation": "基础耗时：$BASE|Y0$日\\n",
+        "stage": 1
+    },
+    {
+        "key": "TECH_ALREADY_RESEARCHED_COST:0",
+        "original": "Already researched: $POINTS|0Y$ days\\n",
+        "translation": "已研发：$POINTS|0Y$日\\n",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_NO_RESEARCH:0",
+        "original": "Unused",
+        "translation": "未使用",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_RESEARCH:0",
+        "original": "Research",
+        "translation": "科研",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_DONE:0",
+        "original": "Researched",
+        "translation": "已研发",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_TIME_TO_COMPLETE:0",
+        "original": "Research time: $TIME|H$",
+        "translation": "研发时间：$TIME|H$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_IDEA_BONUS_ENTRY:0",
+        "original": "$IDEA$: $FACTOR|G=0%$",
+        "translation": "$IDEA$：$FACTOR|G=0%$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_IDEA_PENALTY_ENTRY:0",
+        "original": "$IDEA$: $FACTOR|R=0%$",
+        "translation": "$IDEA$：$FACTOR|R=0%$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REPLACE_TITLE:0",
+        "original": "Replace Research",
+        "translation": "更换科研项目",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REPLACE_DESC:0",
+        "original": "Are you sure you want to research §Y$NEW_TECH$§! instead of §Y$OLD_TECH$§! with §Y$PROGRESS|%0$§! progress?",
+        "translation": "你确定要放弃已进行了§Y$PROGRESS|%0$§!的§Y$OLD_TECH$§!，改而研究§Y$NEW_TECH$§!？",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REPLACE_TRANSFER:0",
+        "original": "\\n$SAVED|H0$ day(s) of previously saved research will be transfereed to the new technology.",
+        "translation": "\\n其中已完成的$SAVED|H0$日进度将转移到新科技项目的研发进度上。",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REPLACE_EXCLUSIVE_TITLE:0",
+        "original": "Replace Mutually Exclusive Research",
+        "translation": "更换互斥研究项目",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REPLACE_EXCLUSIVE_DESC:0",
+        "original": "Are you sure you want to research §Y$NEW_TECH$§! instead of §Y$OLD_TECH$§! and all its sub technologies?",
+        "translation": "你确定要放弃§Y$OLD_TECH$§!及其后续研究，改而研究§Y$NEW_TECH$§!？",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_EXCLUSIVE_INFO_TITLE_TOOLTIP:0",
+        "original": "§RThe technology is mutually exclusive with:§!",
+        "translation": "§R该科技与下列科技互斥：§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_EXCLUSIVE_INFO_DESC:0",
+        "original": "Mutually exclusive with",
+        "translation": "与下列科技互斥：",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_EXCLUSIVE_INFO_ENTRY:0",
+        "original": "$TECH|Y$",
+        "translation": "$TECH|Y$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE:0",
+        "original": "§RTechnology is $YEARS|2$ years ahead of time. The more ahead it is, the bigger the time penalty.§!",
+        "translation": "§R该科技目前超前$YEARS|2$年。超前越多，研发受到的超前惩罚越大。§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_YEAR_AHEAD_PENALTY:1",
+        "original": "§RTechnology is $YEARS|2$ years ahead of time (+$VALUE|%0$). The penalty will decrease over time.§!",
+        "translation": "§R该科技目前超前$YEARS|2$年（+$VALUE|%0$）。超前惩罚将会随时间的过去而降低。§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_YEAR_AHEAD_PENALTY_RED:1",
+        "original": "§RTechnology is $YEARS|2$ years ahead of time (+$VALUE|%0$), but the ahead of time penalty have been reduced to (+$RED|%0$) due to national focuses. The penalty will decrease over time.§!",
+        "translation": "§R该科技目前超前$YEARS|2$年（+$VALUE|%0$），但由于国策影响，超前惩罚降低为（+$RED|%0$）。超前惩罚将会随时间的过去而降低。§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_TECH_UNUSED:1",
+        "original": "§GClick to research§!\\nWithin 30 days, you can choose a new area to research without loss of research time.",
+        "translation": "§G点击选择科研项目§!\\n你有30天的时间来选定一个新的科研项目而不承受任何研发时间损失。",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_NO_LONGER_AVAILABLE:0",
+        "original": "$RESEARCH|H$\\n§RNo longer available - Will be removed next day§!",
+        "translation": "$RESEARCH|H$\\n§R已经无效 - 会在下一天移除§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_EQUIPMENT_HEADER:0",
+        "original": "Equipment",
+        "translation": "装备",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UPGRADES_HEADER:0",
+        "original": "Upgrades",
+        "translation": "升级",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UNLOCKS_HEADER:0",
+        "original": "Unlocks",
+        "translation": "解锁",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UNLOCKS_EQUIPMENT_HEADER:0",
+        "original": "§TEnables $EQUIPMENTS$§!",
+        "translation": "§T允许生产$EQUIPMENTS$§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UNLOCKS_BUILDINGS_HEADER:0",
+        "original": "§TEnables Building: $BUILDINGS$§!",
+        "translation": "§T允许建造$BUILDINGS$§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UNLOCKS_SUBUNITS_HEADER:0",
+        "original": "§TEnables $SUBUNITS$§!",
+        "translation": "§T允许编制$SUBUNITS$§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_UNLOCKS_TACTICS_HEADER:0",
+        "original": "§TEnables Tactic: $TACTICS$§!",
+        "translation": "§T解锁战术 $TACTICS$§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_MODIFIERS_HEADER:0",
+        "original": "Global stats",
+        "translation": "全局数据",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_MESSAGE_UNLOCKED_TITLE:0",
+        "original": "Research Finished!",
+        "translation": "研究完成！",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_MESSAGE_UNLOCKED_DESC:0",
+        "original": "Our country has completed research into $NAME|Y$.\\n $DESC$",
+        "translation": "我国已经完成了$NAME|Y$的研究。\\n $DESC$",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_INSTANT_DESC:0",
+        "original": "Research is instant when changing the tree with more than one technology researched in the current tree.",
+        "translation": "从已经研发过至少一项科技的路线切换到另一个路线时，研究会瞬间完成。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_folder:0",
+        "original": "Infantry",
+        "translation": "步兵",
+        "stage": 1
+    },
+    {
+        "key": "infantry_folder_desc:0",
+        "original": "Equipment and weapons for Infantry forces.",
+        "translation": "步兵部队所使用的武器和装备。",
+        "stage": 1
+    },
+    {
+        "key": "support_folder:1",
+        "original": "Support Companies",
+        "translation": "辅助部队",
+        "stage": 1
+    },
+    {
+        "key": "support_folder_desc:0",
+        "original": "Recon, Engineers, Field Hospitals & other support companies.",
+        "translation": "侦察兵、工兵、野战医院及其他支援连队。",
+        "stage": 1
+    },
+    {
+        "key": "armour_folder:0",
+        "original": "Armor",
+        "translation": "装甲车辆",
+        "stage": 1
+    },
+    {
+        "key": "armour_folder_desc:0",
+        "original": "Tanks and their variants.",
+        "translation": "各型坦克及其变种。",
+        "stage": 1
+    },
+    {
+        "key": "artillery_folder:0",
+        "original": "Artillery",
+        "translation": "火炮",
+        "stage": 1
+    },
+    {
+        "key": "artillery_folder_desc:0",
+        "original": "Artillery, Anti-Tank & Anti-Aircraft weapons for divisions.",
+        "translation": "各型火炮、反坦克武器和防空武器。",
+        "stage": 1
+    },
+    {
+        "key": "land_doctrine_folder:0",
+        "original": "Land doctrine",
+        "translation": "陆军学说",
+        "stage": 1
+    },
+    {
+        "key": "land_doctrine_folder_desc:0",
+        "original": "Land doctrine, the ways in which your ground forces fight.",
+        "translation": "陆军学说决定了地面部队战斗时的指导理念。",
+        "stage": 1
+    },
+    {
+        "key": "naval_folder:0",
+        "original": "Naval",
+        "translation": "海军",
+        "stage": 1
+    },
+    {
+        "key": "naval_folder_desc:0",
+        "original": "Ships and submarines.",
+        "translation": "水面舰只和潜艇。",
+        "stage": 1
+    },
+    {
+        "key": "naval_doctrine_folder:0",
+        "original": "Naval doctrine",
+        "translation": "海军学说",
+        "stage": 1
+    },
+    {
+        "key": "naval_doctrine_folder_desc:0",
+        "original": "Naval doctrine, how your Navy fights.",
+        "translation": "海军学说决定了舰队进行战斗时的指导理念。",
+        "stage": 1
+    },
+    {
+        "key": "air_techs_folder:0",
+        "original": "Air",
+        "translation": "空军",
+        "stage": 1
+    },
+    {
+        "key": "air_techs_folder_desc:0",
+        "original": "Aircraft.",
+        "translation": "各式飞行器。",
+        "stage": 1
+    },
+    {
+        "key": "air_doctrine_folder:0",
+        "original": "Air doctrine",
+        "translation": "空军学说",
+        "stage": 1
+    },
+    {
+        "key": "air_doctrine_folder_desc:0",
+        "original": "Air doctrine, how your Airforce fights.",
+        "translation": "空军学说决定了空军进行战斗时的指导理念。",
+        "stage": 1
+    },
+    {
+        "key": "industry_folder:0",
+        "original": "Industry",
+        "translation": "工业",
+        "stage": 1
+    },
+    {
+        "key": "industry:0",
+        "original": "Industry",
+        "translation": "工业",
+        "stage": 1
+    },
+    {
+        "key": "industry_folder_desc:0",
+        "original": "Industry and production.",
+        "translation": "工业及生产。",
+        "stage": 1
+    },
+    {
+        "key": "electronics_folder:0",
+        "original": "Engineering",
+        "translation": "工程学",
+        "stage": 1
+    },
+    {
+        "key": "electronics_folder_desc:0",
+        "original": "Engineering, radar, encryption and advanced tech research.",
+        "translation": "工程学、雷达、密码学及先进高科技研究。",
+        "stage": 1
+    },
+    {
+        "key": "secret_weapons_folder:0",
+        "original": "Secret Weapons",
+        "translation": "秘密武器",
+        "stage": 1
+    },
+    {
+        "key": "secret_weapons_folder_desc:0",
+        "original": "Wonder weapons, the product of mad science.",
+        "translation": "令人叹为观止的武器，“不科学”的科学产物。",
+        "stage": 1
+    },
+    {
+        "key": "mobile_warfare:0",
+        "original": "Mobile Warfare",
+        "translation": "机动作战",
+        "stage": 1
+    },
+    {
+        "key": "mobile_warfare_desc:0",
+        "original": "Mobile Warfare is a focus on speed and maneuver to cut off and disorganize enemy forces.\\n\\n",
+        "translation": "机动作战专注于以速度和机动分割并瓦解敌军。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "delay:0",
+        "original": "Delay",
+        "translation": "迟滞",
+        "stage": 1
+    },
+    {
+        "key": "delay_desc:0",
+        "original": "Even when a battle cannot be won, it can be advantageous to slow the progress of attacking forces with ambushes and delaying tactics.",
+        "translation": "即使无法取胜，在战斗中以埋伏和迟滞战术拖延敌军对我方也是有利的。",
+        "stage": 1
+    },
+    {
+        "key": "elastic_defence:0",
+        "original": "Elastic Defense",
+        "translation": "弹性防御",
+        "stage": 1
+    },
+    {
+        "key": "elastic_defence_desc:0",
+        "original": "Rather than focusing all strength on the front line, an elastic defense creates a 'deeper' layer of defenses which allows the defender more time to react and counter-attack while the attacker is spread out and bogged down.",
+        "translation": "不同于将所有力量投入第一线，弹性防御能创造具有纵深的多层防线。在进攻方力量被分散并停滞时，防守方将有更充裕的时间作出反应和反击。",
+        "stage": 1
+    },
+    {
+        "key": "mobile_infantry:0",
+        "original": "Mobile Infantry",
+        "translation": "机动步兵",
+        "stage": 1
+    },
+    {
+        "key": "mobile_infantry_desc:0",
+        "original": "Regular Infantry is often too slow to keep up with, react to, or escape from rapidly moving Armored forces. The answer is to focus on Motorized or Mechanized Infantry which can keep up with the pace of modern warfare.\\n\\n",
+        "translation": "面对高速挺进的装甲部队，常规步兵跟进不及，反应迟钝，逃脱亦无能。能够跟上现代战争步伐的摩托化/机械化步兵应运而生。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "mass_motorization:0",
+        "original": "Mass Motorization",
+        "translation": "大规模摩托化",
+        "stage": 1
+    },
+    {
+        "key": "mass_motorization_desc:0",
+        "original": "An even greater focus on Motorized troops.",
+        "translation": "更加专注于摩托化部队。",
+        "stage": 1
+    },
+    {
+        "key": "mechanised_offensive:0",
+        "original": "Mechanized Offensive",
+        "translation": "机械化攻势",
+        "stage": 1
+    },
+    {
+        "key": "mechanised_offensive_desc:0",
+        "original": "Motorized troops are well and good, but to lead offensives we need Infantry that can ride into battle in armored transports which protect them and carry heavy weapons.",
+        "translation": "摩托化部队表现尚可，但要主导攻势，需要我方机械化步兵乘坐能搭载重武器并提供乘员保护的装甲运输车辆进入战场。",
+        "stage": 1
+    },
+    {
+        "key": "armored_spearhead:0",
+        "original": "Armored Spearhead",
+        "translation": "装甲先锋",
+        "stage": 1
+    },
+    {
+        "key": "armored_spearhead_desc:0",
+        "original": "To use Tanks to their fullest potential they cannot be tied down supporting Infantry. Instead they must be formed into fast moving, independent units which can spearhead attacks.\\n\\n",
+        "translation": "要让坦克充分发挥潜能，就不能使其局限于步兵支援，应将其组成独立高机动单位担任进攻先锋。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "schwerpunk:0",
+        "original": "Schwerpunkt",
+        "translation": "重点突破战术",
+        "stage": 1
+    },
+    {
+        "key": "schwerpunk_desc:0",
+        "original": "In any operation the Schwerpunkt, or Focal point, must be identified and maximum force concentrated to win at that point.",
+        "translation": "在任何作战行动中，都需锁定重点并向其投入最大化武力以将其攻陷。",
+        "stage": 1
+    },
+    {
+        "key": "blitzkrieg:0",
+        "original": "Blitzkrieg",
+        "translation": "闪电战",
+        "stage": 1
+    },
+    {
+        "key": "blitzkrieg_desc:0",
+        "original": "Blitzkrieg refers to the strategy of fast moving Armored forces supported by Mobile Infantry and air support breaking through enemy lines to disorganize and encircle them.",
+        "translation": "闪电战，是指在机动步兵和空军支援下的快速装甲部队突破、包围并瓦解敌军的战略。",
+        "stage": 1
+    },
+    {
+        "key": "kampfgruppe:0",
+        "original": "Kampfgruppe",
+        "translation": "战斗群",
+        "stage": 1
+    },
+    {
+        "key": "kampfgruppe_desc:0",
+        "original": "A Kampfgruppe was an ad hoc formation which was organized to carry out a specific task.",
+        "translation": "战斗群是指为完成一项特定任务而临时编制的混成部队。",
+        "stage": 1
+    },
+    {
+        "key": "firebrigades:0",
+        "original": "Fire brigades",
+        "translation": "战场救火队",
+        "stage": 1
+    },
+    {
+        "key": "firebrigades_desc:0",
+        "original": "'Fire brigades' were hastily scrambled forces thrown together to react to enemy breakthroughs or other critical issues.\\n\\n",
+        "translation": "战场救火队是指为应对敌方突破或其他紧急战况而匆忙拼凑的部队。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "backhand_blow:0",
+        "original": "Backhand Blow",
+        "translation": "后发制人",
+        "stage": 1
+    },
+    {
+        "key": "backhand_blow_desc:0",
+        "original": "Rather than fighting for every inch of ground, enemy penetrations are largely avoided until they have extended themselves, at which point they can be cut off and destroyed by counterattacks.",
+        "translation": "与其寸土必争，不如暂避锋芒，直到突破后的敌军阵线过于拉长时再加以反击分割。",
+        "stage": 1
+    },
+    {
+        "key": "modern_blitzkrieg:0",
+        "original": "Modern Blitzkrieg",
+        "translation": "现代闪电战",
+        "stage": 1
+    },
+    {
+        "key": "modern_blitzkrieg_desc:0",
+        "original": "The pinnacle of Mobile Warfare, Modern Blitzkrieg incorporates all the latest advances of technology and the lessons learned from previous doctrines.",
+        "translation": "作为机动作战的最终形态，现代闪电战充分运用了最新科技成果和以往战略经验。",
+        "stage": 1
+    },
+    {
+        "key": "volkssturm:0",
+        "original": "Volkssturm",
+        "translation": "国民突击队",
+        "stage": 1
+    },
+    {
+        "key": "volkssturm_desc:0",
+        "original": "The Volkssturm, or People's Militia, consisted of men who were too old, too young, or otherwise unfit for regular military service.\\n\\n",
+        "translation": "国民突击队是由老人、儿童及其他不符合常规服役要求的人群组成的军队。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "nd_conscription:0",
+        "original": "Non-Discriminatory Conscription",
+        "translation": "无差别征兵",
+        "stage": 1
+    },
+    {
+        "key": "nd_conscription_desc:0",
+        "original": "Even invalids and cripples must be drafted, there can be no such thing as a civilian.",
+        "translation": "伤残退伍者与残障人亦须入伍。我们的词典里再无“平民”二字。",
+        "stage": 1
+    },
+    {
+        "key": "werwolf_guerillas:0",
+        "original": "Werwolf Guerrillas",
+        "translation": "狼人游击兵",
+        "stage": 1
+    },
+    {
+        "key": "werwolf_guerillas_desc:0",
+        "original": "The Werwolves were a planned German resistance group that would fight on against the occupying powers when the war was lost.",
+        "translation": "狼人游击兵是计划在德国战败后对占领军继续抵抗的反抗势力。",
+        "stage": 1
+    },
+    {
+        "key": "superior_firepower:0",
+        "original": "Superior Firepower",
+        "translation": "优势火力",
+        "stage": 1
+    },
+    {
+        "key": "superior_firepower_desc:0",
+        "original": "This doctrine focuses on throwing shells, not men, at the enemy. Our manpower is precious, bullets are cheap.\\n\\n",
+        "translation": "优势火力学说重视以倾泻炮火而非投入士兵来制敌。人命关天，但子弹价廉。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "sup_delay:0",
+        "original": "Delay",
+        "translation": "迟滞",
+        "stage": 1
+    },
+    {
+        "key": "sup_delay_desc:0",
+        "original": "Even when a battle cannot be won, it can be advantageous to slow the progress of attacking forces with ambushes and delaying tactics.",
+        "translation": "即使无法取胜，在战斗中以埋伏和迟滞战术拖延敌军对我方也是有利的。",
+        "stage": 1
+    },
+    {
+        "key": "mobile_defence:0",
+        "original": "Mobile Defense",
+        "translation": "机动防御",
+        "stage": 1
+    },
+    {
+        "key": "mobile_defence_desc:0",
+        "original": "Mobile forces can be used to reinforce the defense wherever the enemy may attack.",
+        "translation": "机动预备队能驰援任何遭敌攻击的防线。",
+        "stage": 1
+    },
+    {
+        "key": "intergrated_support:0",
+        "original": "Integrated Support",
+        "translation": "协调支援",
+        "stage": 1
+    },
+    {
+        "key": "intergrated_support_desc:0",
+        "original": "Closely integrating support forces with combat troops results in divisions which are stronger on the attack.\\n\\n",
+        "translation": "将支援部队和战斗部队更紧密的结合在一起能够提高单位的进攻能力。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "regimental_combat_teams:0",
+        "original": "Regimental Combat Teams",
+        "translation": "团级战斗队",
+        "stage": 1
+    },
+    {
+        "key": "regimental_combat_teams_desc:0",
+        "original": "A regimental combat team is an Infantry regiment closely integrated with supporting units such as Artillery, Tanks, and Reconnaissance elements to form a small self-sufficient unit which allows for greater flexibility when attacking.",
+        "translation": "团级战斗队是指与炮兵、坦克、侦察兵紧密结合的团级步兵单位，这样就形成了在进攻行动中更加灵活的自立单位。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_support:0",
+        "original": "Dispersed Support",
+        "translation": "分散支援",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_support_desc:0",
+        "original": "By dispersing our Support units they can cover a wider area while remaining out of the line of fire, resulting in divisions with greater defense.\\n\\n",
+        "translation": "将支援单位在前线后方分散开来能够覆盖更大的范围，增强单位的防御能力。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "overwhelming_firepower:0",
+        "original": "Overwhelming Firepower",
+        "translation": "优势火力",
+        "stage": 1
+    },
+    {
+        "key": "overwhelming_firepower_desc:0",
+        "original": "Calling on all available support units to give overwhelming firepower can greatly soften up a target, or better yet, seriously ruin an attacker's day.",
+        "translation": "将所有支援单位的火力集中在一点上能够有效地击溃敌方防御，或压制敌方进攻。",
+        "stage": 1
+    },
+    {
+        "key": "sup_mechanized_offensive:0",
+        "original": "Mechanized Offensive",
+        "translation": "机械化攻势",
+        "stage": 1
+    },
+    {
+        "key": "sup_mechanized_offensive_desc:0",
+        "original": "Motorized troops are well and good, but to lead offensives we need Infantry that can ride into battle in armored transports which protect them and carry heavy weapons.",
+        "translation": "摩托化部队表现尚可，但要主导攻势，需要我方机械化步兵乘坐能搭载重武器并提供乘员保护的装甲运输车辆进入战场。",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_fire_plans:0",
+        "original": "Concentrated Fire Plans",
+        "translation": "集中火力计划",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_fire_plans_desc:0",
+        "original": "By concentrating the fire of different batteries into a synchronized bombardment much greater damage can be inflicted on the enemy.\\n\\n",
+        "translation": "将不同炮兵阵地火力协调并同步炮击能对敌方造成更大杀伤。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "combined_arms:0",
+        "original": "Combined Arms",
+        "translation": "步坦协同作战",
+        "stage": 1
+    },
+    {
+        "key": "combined_arms_desc:0",
+        "original": "Armor, Infantry, and Support units working together in well-organized teams are far more effective than the same forces used separately.",
+        "translation": "坦克、步兵和支援单位在组织良好的团队中协同作战能发挥出比各自为战高得多的战斗效率。",
+        "stage": 1
+    },
+    {
+        "key": "tactical_control:0",
+        "original": "Tactical Control",
+        "translation": "战术管制",
+        "stage": 1
+    },
+    {
+        "key": "tactical_control_desc:0",
+        "original": "Officers familiar with combined arms operations in forward positions can now directly control all branch's operations.",
+        "translation": "熟悉兵种协调的前线军官现在可以方便的控制部队作战。",
+        "stage": 1
+    },
+    {
+        "key": "air_land_battle:0",
+        "original": "AirLand Battle",
+        "translation": "空地一体化作战",
+        "stage": 1
+    },
+    {
+        "key": "air_land_battle_desc:0",
+        "original": "With the ground forces already operating in combined arms formations, AirLand Battle now also emphasizes close coordination between land forces and air forces, merging the Air and Land battlefields into a seamless whole.",
+        "translation": "在地面部队已经协同化之后，空地协同理论也强调陆军和空军的紧密合作，将地面和天空的两大战场合为一体。",
+        "stage": 1
+    },
+    {
+        "key": "centralized_fire_control:0",
+        "original": "Centralized Fire Control",
+        "translation": "集中火力管制",
+        "stage": 1
+    },
+    {
+        "key": "centralized_fire_control_desc:0",
+        "original": "A Centralized Fire Control system allows all calls for artillery support to be evaluated in one location, and if needed, a division's entire firepower to be concentrated on a target rather than a unit only being able to request fire from the artillery assigned to them.\\n\\n",
+        "translation": "集中的火力管制系统使炮兵支援只需要一次评估就能将全师的火力投射到一点上，而不是每个单位都只能请求其所属的炮兵支援。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "forward_observers:0",
+        "original": "Forward Observers",
+        "translation": "前线观测",
+        "stage": 1
+    },
+    {
+        "key": "forward_observers_desc:0",
+        "original": "Forward Observers take up positions where they can directly observe the accuracy and effects of artillery fire, and relay the results back to the guns for correction.",
+        "translation": "前线观测员能直接掌握炮兵火力的打击效果，并回报后方的炮兵单位以修正火力。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_firebases:0",
+        "original": "Advanced Firebases",
+        "translation": "前沿重火力",
+        "stage": 1
+    },
+    {
+        "key": "advanced_firebases_desc:0",
+        "original": "Artillery camps can be positioned close to the front lines in fortified bases in order to give the maximum possible support to advancing forces.",
+        "translation": "为了给挺进的部队提供尽可能多的火力支援，炮兵阵地可以部署在靠近前线的筑垒工事中。",
+        "stage": 1
+    },
+    {
+        "key": "shock_and_awe:0",
+        "original": "Shock and Awe",
+        "translation": "震慑行动",
+        "stage": 1
+    },
+    {
+        "key": "shock_and_awe_desc:0",
+        "original": "A massive concentration of firepower will impose this overwhelming level of Shock and Awe against an adversary on an immediate or sufficiently timely basis to paralyze its will to carry on.",
+        "translation": "将强大的火力集中起来能够对敌方造成巨大的震撼效果，在一定时间内削弱其抵抗意志。",
+        "stage": 1
+    },
+    {
+        "key": "grand_battle_plan:0",
+        "original": "Grand Battle Plan",
+        "translation": "决战计划 ",
+        "stage": 1
+    },
+    {
+        "key": "grand_battle_plan_desc:0",
+        "original": "Extensive planning and preparation before engaging in battle is the key to success.\\n\\n",
+        "translation": "成功的关键在于行动前的周密计划和准备。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "trench_warfare:0",
+        "original": "Trench Warfare",
+        "translation": "堑壕战",
+        "stage": 1
+    },
+    {
+        "key": "trench_warfare_desc:0",
+        "original": "A shovel is often the best weapon of the infantry. Units learn the value of entrenching in any position they take up.",
+        "translation": "铁锹常常是士兵最好的武器，士兵们知晓夺取地点后挖掘战壕的价值。",
+        "stage": 1
+    },
+    {
+        "key": "prepared_defense:0",
+        "original": "Prepared Defense",
+        "translation": "防御工事",
+        "stage": 1
+    },
+    {
+        "key": "prepared_defense_desc:0",
+        "original": "More extensive systems of field fortification greatly improve a unit's defense.",
+        "translation": "更巩固的野战工事能极大增强部队防御能力。",
+        "stage": 1
+    },
+    {
+        "key": "grand_assault:0",
+        "original": "Grand Assault",
+        "translation": "大规模强袭",
+        "stage": 1
+    },
+    {
+        "key": "grand_assault_desc:0",
+        "original": "Once sufficient forces have been built up and their objectives well planned out, a powerful assault cannot help but to destroy the enemy.",
+        "translation": "一旦准备好庞大军队并明确其目标，敌人在强大攻势面前唯有坐以待毙。",
+        "stage": 1
+    },
+    {
+        "key": "grand_mechanized_offensive:0",
+        "original": "Mechanized Offensive",
+        "translation": "大规模机械化攻势",
+        "stage": 1
+    },
+    {
+        "key": "grand_mechanized_offensive_desc:0",
+        "original": "Motorized troops are well and good, but to lead offensives we need Infantry that can ride into battle in armored transports which protect them and carry heavy weapons.\\n\\n",
+        "translation": "摩托化部队表现尚可，但要主导攻势，需要我方机械化步兵乘坐能搭载重武器并提供乘员保护的装甲运输车辆进入战场。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "assault_concentration:0",
+        "original": "Assault Concentration",
+        "translation": "集中突击",
+        "stage": 1
+    },
+    {
+        "key": "assault_concentration_desc:0",
+        "original": "Before an attack, the leading elements are carefully prepared and placed in forward positions, ensuring maximum force can be applied in the opening moments.",
+        "translation": "发起攻势前，尖兵已被精心安排于前沿阵地以便在发起瞬间就投入尽可能多的军力。",
+        "stage": 1
+    },
+    {
+        "key": "branch_interoperation:0",
+        "original": "Branch Inter-Operation",
+        "translation": "多兵种协调作战",
+        "stage": 1
+    },
+    {
+        "key": "branch_interoperation_desc:0",
+        "original": "Increased coordination between the different branches of the armed forces allows them to work better in combined arms operations.",
+        "translation": "不同兵种之间沟通的加强使得多兵种协同作战的效率提高。",
+        "stage": 1
+    },
+    {
+        "key": "assault_breakthrough:0",
+        "original": "Assault Breakthrough",
+        "translation": "强袭突破",
+        "stage": 1
+    },
+    {
+        "key": "assault_breakthrough_desc:0",
+        "original": "Rather than launching a grand assault across the entire front, it can be much more effective to concentrate the strike on only one, or a few, points of the enemy line and achieve a breakthrough there.",
+        "translation": "与其在整条战线散布攻势不如专攻敌阵单点或数点并取得突破来得有效。",
+        "stage": 1
+    },
+    {
+        "key": "central_planning:0",
+        "original": "Central Planning",
+        "translation": "集中计划",
+        "stage": 1
+    },
+    {
+        "key": "central_planning_desc:0",
+        "original": "Officers from all branches now contribute to the planning of a given operation to make sure it operates at maximum efficiency.",
+        "translation": "各兵种军官现已集中起来制订统一行动计划以确保作战效率最大化。",
+        "stage": 1
+    },
+    {
+        "key": "c3i_theory:0",
+        "original": "C3I",
+        "translation": "C3I系统理论",
+        "stage": 1
+    },
+    {
+        "key": "c3i_theory_desc:0",
+        "original": "Effective staff officers ensure the flow of Command, Control, Communications & Intelligence between a commanding officer and the units he controls.",
+        "translation": "高效的参谋军官能确保指挥官与所辖部队间的指挥、控制、通讯和情报的流畅性。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_offensive:0",
+        "original": "Infantry Offensive",
+        "translation": "步兵攻势",
+        "stage": 1
+    },
+    {
+        "key": "infantry_offensive_desc:0",
+        "original": "The offensive spirit of the infantry is the decisive element of winning battles. Our infantry must lead the way.\\n\\n",
+        "translation": "步兵的进攻精神是任何胜利的重要基石，我军一定要让步兵带头冲锋。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "armored_operations:0",
+        "original": "Armored Operations",
+        "translation": "装甲行动",
+        "stage": 1
+    },
+    {
+        "key": "armored_operations_desc:0",
+        "original": "Tanks and other armored vehicles are highly useful for delivering infantry to battlefields and offering direct support in combat.",
+        "translation": "坦克及其他装甲车辆在运送步兵及提供直接支援方面的作用至关重要。",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_assault:0",
+        "original": "Infiltration Assault",
+        "translation": "渗透突击",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_assault_desc:0",
+        "original": "In the opening moves of an attack infantry must target weak points in the enemy line to bypass and isolate the more well-defended sections, which can then be wiped out by the rest of the attacking forces.",
+        "translation": "在进攻发起阶段，步兵须找出敌方防线薄弱环节，以迂回并孤立防线上坚固地段以留待大部队清除。",
+        "stage": 1
+    },
+    {
+        "key": "night_assault_tactics:0",
+        "original": "Night Assault Tactics",
+        "translation": "夜间突击战术",
+        "stage": 1
+    },
+    {
+        "key": "night_assault_tactics_desc:0",
+        "original": "Soldiers who are used to moving and fighting at night can either pre-position themselves for an attack, or directly attack unsuspecting enemy forces.",
+        "translation": "善于夜间移动、战斗的部队可以悄无声息地预先占领阵位或直接突袭毫无知觉的敌军。",
+        "stage": 1
+    },
+    {
+        "key": "attritional_containment:0",
+        "original": "Attritional Containment",
+        "translation": "牵制消耗",
+        "stage": 1
+    },
+    {
+        "key": "attritional_containment_desc:0",
+        "original": "If we are unable to launch an attack to remove an enemy position it must nonetheless be subjected to constant minor attacks which will cause losses and prevent the enemy from launching attacks of their own.",
+        "translation": "即使无力发动拔除敌方阵地的攻势，亦须对敌进行不间断的小规模袭扰以消耗其军力并使其无暇反击。",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_in_depth:0",
+        "original": "Infiltration in Depth",
+        "translation": "纵深渗透",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_in_depth_desc:0",
+        "original": "Our forces are now trained to bypass and isolate enemy strongpoints to a much greater depth, ideally our assault forces should not stop until they reach the enemy's rear areas and their forces are completely cut off.",
+        "translation": "我方部队受训在更大纵深上迂回并孤立硬钉子。理想状态下他们将一直穿插到敌军后方并完全切断敌军。",
+        "stage": 1
+    },
+    {
+        "key": "mass_assault:0",
+        "original": "Mass Assault",
+        "translation": "人海突击",
+        "stage": 1
+    },
+    {
+        "key": "mass_assault_desc:0",
+        "original": "'Perfect' weapons are overrated, a large number of 'good enough' weapons is the path to victory!\\n\\n",
+        "translation": "“完美无缺”的武器被高估了，海量“可堪一用”的武器才能将我军导向胜利！\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "pocket_defence:0",
+        "original": "Pocket Defense",
+        "translation": "口袋防御",
+        "stage": 1
+    },
+    {
+        "key": "pocket_defence_desc:0",
+        "original": "It is possible that, on the defensive, our troops may be caught in a pocket. In this case they must merely hold out until the inevitable counter-attack relieves them.",
+        "translation": "在防御战中，我方部队有可能陷入口袋阵包围。若真如此，他们须固守自保，等待终将到来的友军解围。",
+        "stage": 1
+    },
+    {
+        "key": "defence_in_depth:0",
+        "original": "Defense in Depth",
+        "translation": "纵深防御",
+        "stage": 1
+    },
+    {
+        "key": "defence_in_depth_desc:0",
+        "original": "By offering relatively light resistance and temporarily giving ground we can trade space for time and allow attacking forces to exhaust themselves before counter-attacking.",
+        "translation": "我方可借相对温和的抵抗和暂时让出阵地来以空间换时间，待侵攻方显露疲态后再行反击。",
+        "stage": 1
+    },
+    {
+        "key": "large_front_operations:0",
+        "original": "Large Front Operations",
+        "translation": "宽大战线作战",
+        "stage": 1
+    },
+    {
+        "key": "large_front_operations_desc:0",
+        "original": "Fighting over a large front involves coordinating the efforts of multiple units over long distances: At an operational level, rather than tactical.\\n\\n",
+        "translation": "在宽大战线作战需要在长距离进行复数战斗单位间协同，并且协同重在战役层面而非战术层面。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "deep_operations:0",
+        "original": "Deep Operations",
+        "translation": "大纵深作战",
+        "stage": 1
+    },
+    {
+        "key": "deep_operations_desc:0",
+        "original": "The concept of Deep Operations, or Deep Battle, is to break through the enemy's defensive lines at multiple points and destroy his operational reserves, his operational depth, and occupy as much of his strategic depth as possible.",
+        "translation": "大纵深作战的基本概念为：在敌方防线上达成多点突破并摧毁其战役预备队，而后尽可能的夺取其战役乃至战略纵深。",
+        "stage": 1
+    },
+    {
+        "key": "operational_concentration:0",
+        "original": "Operational Concentration",
+        "translation": "集中攻击",
+        "stage": 1
+    },
+    {
+        "key": "operational_concentration_desc:0",
+        "original": "The key to any military action is overwhelming local superiority. Short of being overwhelmingly superior along the entire front, this involves weakening parts of your front line to concentrate troops where needed rather than trying to be strong everywhere.",
+        "translation": "任何军事行动的关键都在于集中局部优势力量。若不能在整条战线全面压制敌方，就只能削弱战线某些地段来集中兵力到需要的场合，而非四处平摊兵力。",
+        "stage": 1
+    },
+    {
+        "key": "vast_offensives:0",
+        "original": "Vast Offensives",
+        "translation": "纵深突破",
+        "stage": 1
+    },
+    {
+        "key": "vast_offensives_desc:0",
+        "original": "If a breakthrough can be achieved it must be exploited strongly as possible: A vast offensive pushing through enemy lines as deeply as possible will render the defense of their front more difficult, impossible, or irrelevant.",
+        "translation": "若在敌方防线上打开突破口，就该尽其所用，以一波巨大攻势推进至敌方防线的极限，使敌方防御变得艰难无比、无关紧要乃至毫不可能。",
+        "stage": 1
+    },
+    {
+        "key": "breakthrough_priority:0",
+        "original": "Breakthrough Priority",
+        "translation": "优先突破",
+        "stage": 1
+    },
+    {
+        "key": "breakthrough_priority_desc:0",
+        "original": "Expanding upon Operational Concentration, all needs of the front are subordinated to the need to concentrate forces for Breakthroughs. Local defeats are inconsequential compared to striking a decisive blow.",
+        "translation": "从战役重点升华至战略中心，整条战线的需求都须让位于中央部队打开突破口。局部失利相比决定性胜利显得无关紧要。",
+        "stage": 1
+    },
+    {
+        "key": "mechanized_wave:0",
+        "original": "Mechanized Wave",
+        "translation": "机械化洪流",
+        "stage": 1
+    },
+    {
+        "key": "mechanized_wave_desc:0",
+        "original": "Mechanized forces are ideal for conducting the rapid advances needed to properly exploit Breakthroughs, both for supporting the Armored forces and for securing the flanks of the breach.",
+        "translation": "用机械化部队来通过突破口进行快速挺进十分理想，无论其目标是支援装甲部队还是巩固侧翼。",
+        "stage": 1
+    },
+    {
+        "key": "continuous_offensive:0",
+        "original": "Continuous Offensive",
+        "translation": "持久攻势",
+        "stage": 1
+    },
+    {
+        "key": "continuous_offensive_desc:0",
+        "original": "While properly exploited Breakthroughs are often very effective, sooner or later the attacker always becomes exhausted and the defender is able to reorganize and reform new defensive lines. However, with enough reserves and the right organization, an offensive could be continued to a much greater depth with devastating results to the enemy.",
+        "translation": "虽然利用突破优势进攻往往奏效，但早晚防守方会趁进攻方疲惫之机以喘息重整，重建防线。然而，若预备军力充足，组织有序得当，攻势即可拓展至更深处并对敌方造成毁灭性打击。 ",
+        "stage": 1
+    },
+    {
+        "key": "human_wave_offensive:0",
+        "original": "Human Wave Offensive",
+        "translation": "人海攻势",
+        "stage": 1
+    },
+    {
+        "key": "human_wave_offensive_desc:0",
+        "original": "A Human Wave Offensive is an infantry tactic in which an attacker conducts a frontal assault with densely concentrated infantry formations against the enemy line, with the intent to overrun the defenders by engaging in melee combat.",
+        "translation": "人海攻势指进攻方以密集队形的步兵部队进行正面冲锋，以近接战斗压制守军防线的战术。",
+        "stage": 1
+    },
+    {
+        "key": "human_infantry_offensive:0",
+        "original": "Infantry Offensive",
+        "translation": "步兵攻势",
+        "stage": 1
+    },
+    {
+        "key": "human_infantry_offensive_desc:0",
+        "original": "The offensive spirit of the infantry is the decisive element of winning battles. Our infantry must lead the way.",
+        "translation": "步兵的进攻精神是任何胜利的重要基石，我军一定要让步兵带头冲锋。",
+        "stage": 1
+    },
+    {
+        "key": "large_front_offensive:0",
+        "original": "Large Front Offensive",
+        "translation": "人海压制",
+        "stage": 1
+    },
+    {
+        "key": "large_front_offensive_desc:0",
+        "original": "By conducting, or threatening, Human Wave Offensives across multiple areas of the front we can prevent the enemy from concentrating his firepower against any single attack.",
+        "translation": "无论开展进攻或佯攻威吓，在战线多区域同时开展人海攻势能使敌军无法集中火力应对任何一处进攻。",
+        "stage": 1
+    },
+    {
+        "key": "peoples_army:0",
+        "original": "People's Army",
+        "translation": "人民军队",
+        "stage": 1
+    },
+    {
+        "key": "peoples_army_desc:0",
+        "original": "The People's Army believes in the primacy of men over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\\n\\n",
+        "translation": "人民军队理论认为，战争中决定因素是人而非武器：调动积极性以弥补技术装备差距，并广泛赢得人民群众的支持。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "guerilla_warfare:0",
+        "original": "Guerrilla Warfare",
+        "translation": "游击战",
+        "stage": 1
+    },
+    {
+        "key": "guerilla_warfare_desc:0",
+        "original": "The enemy advances, we retreat; the enemy camps, we harass; the enemy tires, we attack; the enemy retreats, we pursue.",
+        "translation": "敌进我退，敌驻我扰，敌疲我打，敌退我追。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_weapons2:0",
+        "original": "Improved Infantry Equipment I",
+        "translation": "改良步兵装备 I",
+        "stage": 1
+    },
+    {
+        "key": "infantry_weapons2_desc:0",
+        "original": "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Improved weapon models and more specialized equipment.",
+        "translation": "步兵适用的单兵或重武器，亦涵括其他所需杂项装备；武器采用更先进型号，装备也更专业。",
+        "stage": 1
+    },
+    {
+        "key": "improved_infantry_weapons_2:0",
+        "original": "Improved Infantry Equipment II",
+        "translation": "改良步兵装备 II",
+        "stage": 1
+    },
+    {
+        "key": "improved_infantry_weapons_2_desc:0",
+        "original": "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Improved weapon models and more specialized equipment.",
+        "translation": "步兵适用的单兵或重武器，亦涵括其他所需杂项装备；武器采用更先进型号，装备也更专业。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_infantry_weapons2:0",
+        "original": "Improved Infantry Equipment III",
+        "translation": "改良步兵装备 III",
+        "stage": 1
+    },
+    {
+        "key": "advanced_infantry_weapons2_desc:0",
+        "original": "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Further Modernized to include personal Assault Rifles and anti-tank rockets. Improved availability of weapons previously distributed to a limited extent.",
+        "translation": "步兵适用的单兵或重武器，亦涵括其他所需杂项装备；包含突击步枪和反坦克火箭筒等先进武器；将原本小范围列装的武器普及。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_at:0",
+        "original": "Infantry Anti-Tank I",
+        "translation": "步兵反坦克武器 I",
+        "stage": 1
+    },
+    {
+        "key": "infantry_at_desc:0",
+        "original": "Arming our infantry units with anti-tank rifles will allow them to take out lighter armored vehicles while maintaining mobility.",
+        "translation": "给我方步兵单位装备反坦克步枪能让他们对抗轻型装甲车辆的同时也保证不丧失机动力。",
+        "stage": 1
+    },
+    {
+        "key": "infantry_at2:0",
+        "original": "Infantry Anti-Tank II",
+        "translation": "步兵反坦克武器 II",
+        "stage": 1
+    },
+    {
+        "key": "infantry_at2_desc:0",
+        "original": "For infantry to effectively engage heavier armored units, high-explosive anti-tank weapons need to be made smaller and lighter.",
+        "translation": "为使步兵有效对抗更重型的装甲车辆，必须制造更小型轻量化的空心装药武器。",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons:0",
+        "original": "Support Weapons I",
+        "translation": "支援武器 I",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons_desc:0",
+        "original": "Automatic weapons are becoming more portable. Submachine guns have already proven effective and the development of hand-held support weapons must continue.",
+        "translation": "自动武器变得更轻便，冲锋枪亦已经被证明有效：手持式支援武器应当继续发展。",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons2:0",
+        "original": "Support Weapons II",
+        "translation": "支援武器 II",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons2_desc:0",
+        "original": "The development of automatic weapons which combine the aspects of light and heavy machine guns allows versatility in how our infantry employ their equipment.",
+        "translation": "结合轻、重机枪两方面特点开发出的自动武器使我方士兵能多样化地进行使用。",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons3:0",
+        "original": "Support Weapons III",
+        "translation": "支援武器 III",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons3_desc:0",
+        "original": "While maintaining and improving reliability of machine guns, we can also experiment with higher firing rates to ensure lethality of the constant stream of bullets.",
+        "translation": "在保持、提高机枪可靠性同时亦可尝试提高其射速，以确保弹幕源源不绝，杀伤骇人。",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons4:0",
+        "original": "Support Weapons IV",
+        "translation": "支援武器 IV",
+        "stage": 1
+    },
+    {
+        "key": "support_weapons4_desc:0",
+        "original": "With the increased use of assault rifles, developing reliable automatic weapons that can be used in any environment by all soldiers is a priority for a modern army.",
+        "translation": "随着突击步枪的推广应用，发展能在任何环境下被任何兵种使用的可靠自动武器对现代军队已是一项当务之急。",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers:0",
+        "original": "Paratroopers I",
+        "translation": "伞兵 I",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers_desc:0",
+        "original": "By incorporating airborne forces into our army, we can make forced entries and position key troops in previously inaccessible areas, allowing for new tactical opportunities.",
+        "translation": "将空降部队引入陆军后，我方能强行打开突破口并在过去无法进入的地区部署关键点部队，这带来新的战术机遇。",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers2:0",
+        "original": "Paratroopers II",
+        "translation": "伞兵 II",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers2_desc:0",
+        "original": "Transitioning from small operations with only a few paratroopers to larger airborne divisions paves way for massive airborne landings, taking these forces beyond a novelty to a natural part of warfare.",
+        "translation": "寥寥数名空降兵组成的小型行动组到大型空降师的转变为大规模空降行动铺平了道路。曾让人耳目一新的空降部队现已在战场上数见不鲜。",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers3:0",
+        "original": "Paratroopers III",
+        "translation": "伞兵 III",
+        "stage": 1
+    },
+    {
+        "key": "paratroopers3_desc:0",
+        "original": "Learning to adapt paradrop operations according to weather, standardizing equipment such as jump boots and extended specialized training will minimize the confusion and risks involved in these dangerous missions.",
+        "translation": "学习根据天气变化来调整空降行动、将诸如伞兵靴之类的必须装备标准化以及更长期的特别训练将使危险的空降任务中的混乱与风险降到最低点。",
+        "stage": 1
+    },
+    {
+        "key": "marines:0",
+        "original": "Marines I",
+        "translation": "海军陆战队 I",
+        "stage": 1
+    },
+    {
+        "key": "marines_desc:0",
+        "original": "Troops specializing in amphibious warfare are growing ever more indispensable. Improvised methods and equipment become things of the past as our naval infantry is supported by specialized landing craft and training.",
+        "translation": "擅长两栖作战的部队越来越不可或缺。临时拼凑的手段、装备已经成为历史，我方海军陆战兵现在已接受相关训练并拥有专属登陆舰船支持。",
+        "stage": 1
+    },
+    {
+        "key": "marines2:0",
+        "original": "Marines II",
+        "translation": "海军陆战队 II",
+        "stage": 1
+    },
+    {
+        "key": "marines2_desc:0",
+        "original": "Amphibious warfare requires constant innovation. Improved logistical support and portable harbors can enable our marines to perform landings that may otherwise have been impossible.",
+        "translation": "两栖作战需要持续不断的创新。改良的后勤保障和移动式临时港口让我方海军陆战队能在过去不可能的情况下进行登陆。",
+        "stage": 1
+    },
+    {
+        "key": "marines3:0",
+        "original": "Marines III",
+        "translation": "海军陆战队 III",
+        "stage": 1
+    },
+    {
+        "key": "marines3_desc:0",
+        "original": "Marines can be more than just amphibious infantry. In the future, our marine corps will be among the most disciplined and organized special forces.",
+        "translation": "海军陆战队无须单纯专精于两栖登陆。在未来，我方海军陆战队将成为最有组织纪律的特种部队。",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers:0",
+        "original": "Mountain Infantry I",
+        "translation": "山地步兵 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers_desc:0",
+        "original": "Combat in mountain ranges exposes troops to many perils, but sometimes cannot be avoided. We can minimize these risks by providing our soldiers with specialized training for this environment.",
+        "translation": "在山脉上战斗会使部队暴露在许多致命风险下，然而有时这无可避免。士兵将接受山地特种训练以将风险最小化。",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers2:0",
+        "original": "Mountain Infantry II",
+        "translation": "山地步兵 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers2_desc:0",
+        "original": "Going beyond survival, our forces can be trained to use mountains to their advantage. With light equipment and mule transports, they can maneuver this terrain better than other infantry.",
+        "translation": "我方部队接受训练后不仅能保存自己，甚至能灵活利用山脉地形创造优势。利用轻量型装备与骡马运输，山地部队在山脉地形中将有比其他步兵更优秀的机动性。",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers3:0",
+        "original": "Mountain Infantry III",
+        "translation": "山地步兵 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_mountaineers3_desc:0",
+        "original": "Preparing for the most arduous mountain missions in high altitudes and low temperatures will require extraordinary training and discipline from our mountain troops.",
+        "translation": "在高海拔低气温的艰苦山地环境执行任务，我军山地部队必须接受非比寻常的训练并拥有坚定纪律。",
+        "stage": 1
+    },
+    {
+        "key": "tech_special_forces:0",
+        "original": "Special Forces",
+        "translation": "特种部队",
+        "stage": 1
+    },
+    {
+        "key": "tech_special_forces_desc:0",
+        "original": "Unconventional fighting requires specialist training. We need to ensure that our troops are prepared and able to adapt to harsh conditions.",
+        "translation": "非传统的战斗需要专业的培训。 我们需要确保我们的部队能够做好准备并够适应严酷的环境。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_special_forces:0",
+        "original": "Advanced Special Forces Training",
+        "translation": "先进特种部队训练",
+        "stage": 1
+    },
+    {
+        "key": "advanced_special_forces_desc:0",
+        "original": "With extensive training, we can ensure that our special forces will be able perform above and beyond that of normal men.",
+        "translation": "通过大量的训练，我们可以确保我们的特种部队能够表现地超越常人。",
+        "stage": 1
+    },
+    {
+        "key": "improved_special_forces:1",
+        "original": "Expanded Special Forces Program",
+        "translation": "扩大特种部队项目",
+        "stage": 1
+    },
+    {
+        "key": "improved_special_forces_desc:1",
+        "original": "Special forces are able to perform missions that ordinary soldiers can not. We need to expand the training programs to get more of our soldiers qualified.",
+        "translation": "特种部队能够执行普通士兵无法完成的任务。 我们需要扩大训练计划，让更多的士兵能够合格。",
+        "stage": 1
+    },
+    {
+        "key": "extreme_environment_training:0",
+        "original": "Extreme Environment Training",
+        "translation": "极端环境训练",
+        "stage": 1
+    },
+    {
+        "key": "extreme_environment_training_desc:0",
+        "original": "We need to be able to fight in the harshest of environments. With the right training and equipment, our troops will be able to fight in the most extreme conditions.",
+        "translation": "我们需要能够在最恶劣的环境下进行战斗。 通过合适的训练和装备，我们的部队将能够在最极端的条件下进行战斗。  ",
+        "stage": 1
+    },
+    {
+        "key": "survival_training:0",
+        "original": "Survival Training",
+        "translation": "生存训练",
+        "stage": 1
+    },
+    {
+        "key": "survival_training_desc:0",
+        "original": "Our special forces will often fight behind enemy lines and in short supply. We need to train them to endure harsh weather and fight with limited supplies.",
+        "translation": "我们的特种部队经常会在敌后作战并且补给短缺。 我们需要训练他们忍受恶劣的天气并用有限的物资战斗。",
+        "stage": 1
+    },
+    {
+        "key": "elite_forces:0",
+        "original": "Elite Forces",
+        "translation": "精锐部队",
+        "stage": 1
+    },
+    {
+        "key": "elite_forces_desc:0",
+        "original": "Only the best of the best will become special forces. The soldiers that make it through the training will be stronger, faster and fight harder than anyone else.",
+        "translation": "只有万里挑一的人才能加入特种部队。 通过训练的士兵将会比其他任何人更强壮，更快，并参与更艰苦的战斗。",
+        "stage": 1
+    },
+    {
+        "key": "jungle_warfare:0",
+        "original": "Jungle Warfare",
+        "translation": "丛林作战",
+        "stage": 1
+    },
+    {
+        "key": "jungle_warfare_desc:0",
+        "original": "Special training to make our soldiers effective in the jungle.",
+        "translation": "让我们的士兵能在丛林更有效率的训练",
+        "stage": 1
+    },
+    {
+        "key": "HUN_light_infantry_tech:0",
+        "original": "Light Infantry Divisions Doctrine",
+        "translation": "轻型步兵师学说",
+        "stage": 1
+    },
+    {
+        "key": "HUN_light_infantry_tech_desc:0",
+        "original": "Reducing the amount of supporting arms in our infantry divisions makes them more flexible and gives them an edge in combat in restricted terrain like Cities and forests.",
+        "translation": "减少我们步兵师的支援装备以使他们更加灵活，这样可以在如城市或者要塞这种受限制的地型上的战斗中取得优势。",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon:0",
+        "original": "Recon Company I",
+        "translation": "侦察连 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon_desc:0",
+        "original": "Sending smaller groups to scout ahead before moving in the main force allows us to gather intelligence about where the enemy is and how many we are facing.",
+        "translation": "在大部队行动前预先派遣小股侦察兵将使我方获得要面对敌军之所在及数量的情报。",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon2:0",
+        "original": "Recon Company II",
+        "translation": "侦察连 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon2_desc:0",
+        "original": "Reconnaissance missions are often dangerous and casualties are high. Preparing our patrols to move and withdraw rapidly and equipping them to clear obstacles placed by the enemy will increase their chances of coming back alive.",
+        "translation": "侦查任务往往危机四伏伤亡重大。让侦查队做好频繁转移、撤退的准备，并提供工具以清理敌军布置的障碍物都将提高他们的生还几率。",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon3:0",
+        "original": "Recon Company III",
+        "translation": "侦察连 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon3_desc:0",
+        "original": "Improvements in radio technology change the way reconnaissance missions can be executed, enabling rapid communication of the gathered intelligence.",
+        "translation": "无线电技术的发展改变了侦查任务的执行方式，使得迅速传递情报变为可能。",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon4:0",
+        "original": "Recon Company IV",
+        "translation": "侦察连 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_recon4_desc:0",
+        "original": "Deep reconnaissance operations, mixing espionage, guerilla operations and commando training, will aid our tactical choices and allow us to adapt our decision-making rapidly.",
+        "translation": "结合了谍报，游击行动与别动队训练的深度侦查作战行动将有助于我方的战术抉择并让我方能随机应变调整决策。",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers:0",
+        "original": "Engineer Company I",
+        "translation": "工兵连 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers_desc:0",
+        "original": "Construction of fortifications and breaching obstacles make combat engineers vital in the field. Giving our engineers a versatile role enables us to deploy them in the diverse situations where they will be needed.",
+        "translation": "构筑工事及清理障碍的能力使工兵在战场上至关重要。让工兵扮演全能的战场角色将使我方能在各种各样需要他们的环境中部署他们。",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers2:0",
+        "original": "Engineer Company II",
+        "translation": "工兵连 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers2_desc:0",
+        "original": "With modern equipment and high explosives, our engineers can go beyond their traditional tasks and surprise the enemy with their ingenuity, at land and sea.",
+        "translation": "拥有了现代化装备和高爆炸药后，我方工兵将走出传统角色，在陆上与海洋利用创造力打敌人措手不及。",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers3:0",
+        "original": "Engineer Company III",
+        "translation": "工兵连 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers3_desc:0",
+        "original": "Military engineering projects are approaching a larger scale. The construction of advanced infrastructural aid enables operations requiring supplies beyond what is normally available in the field.",
+        "translation": "军事工程项目的规模正逐步扩大。先进的基础设施支援将使过去因需求大量补给而无法在战场上实行的作业变为现实。",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers4:0",
+        "original": "Engineer Company IV",
+        "translation": "工兵连 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_engineers4_desc:0",
+        "original": "Maintaining local mobility while constructing what would previously have been considered permanent fortifications and supply systems, combat engineers of the future will ensure that no matter where our troops are attacked, they will be prepared.",
+        "translation": "保持机动的同时还能构筑补给系统和过去被视作“永久性”的防御工事，未来的工兵将确保我军士兵无论在何处遭敌攻击都能作好万全准备。",
+        "stage": 1
+    },
+    {
+        "key": "hospital_tech:0",
+        "original": "Field Hospitals",
+        "translation": "野战医院",
+        "stage": 1
+    },
+    {
+        "key": "logistics_tech:0",
+        "original": "Logistics Company",
+        "translation": "后勤连",
+        "stage": 1
+    },
+    {
+        "key": "recon_tech:0",
+        "original": "Reconnaissance Company",
+        "translation": "侦察连",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital:0",
+        "original": "Field Hospital I",
+        "translation": "野战医院 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital_desc:0",
+        "original": "A casualty doesn't need to mean a dead soldier. Having immediate medical attention available for our wounded brought back to the rear is the first step towards ensuring this.",
+        "translation": "“伤亡者”并不应完全指代“烈士”。确保这点的第一步是对撤到后方的伤员进行第一时间急救。",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital2:0",
+        "original": "Field Hospital II",
+        "translation": "野战医院 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital2_desc:0",
+        "original": "By establishing the use of portable hospitals, bringing the medical care to where it is needed, we can stop many unnecessary deaths and permanent injuries.",
+        "translation": "通过设立战地医院并将医疗救助拓展至急需处，众多无谓的阵亡与永久伤残将得以避免。",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital3:0",
+        "original": "Field Hospital III",
+        "translation": "野战医院 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital3_desc:0",
+        "original": "Surgery is among the most common emergency procedures needed in the field. Procedures and tools for this must be available closer to the front, and we must ensure that skilled surgeons are part of the military medical units.",
+        "translation": "外科手术是战场最常见的急救措施之一。手术器械和工具必须足够贴近前线，亦应保证随军医疗单位中有熟练的外科医师。",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital4:0",
+        "original": "Field Hospital IV",
+        "translation": "野战医院 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_field_hospital4_desc:0",
+        "original": "Although many improvements have been made in field medicine, many advances are improvised and we lack an established doctrine. With more experience, we can explain the role of these units more clearly and make improvised innovations permanent fixtures.",
+        "translation": "尽管战场医疗已获得诸多改进和长足进步，但仍未建立好理论体系。活用积累下的经验，我方能更清楚地诠释这些单位的职责，并将各类创新手段变成固定程序。",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company:0",
+        "original": "Logistics Company I",
+        "translation": "后勤连 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company_desc:0",
+        "original": "Having specialized Logistics Officers among our ranks will ensure that support networks are leveraged to minimize waste.",
+        "translation": "全军上下的专业后勤军官将保证后勤网络的浪费降至最低。",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company2:0",
+        "original": "Logistics Company II",
+        "translation": "后勤连 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company2_desc:0",
+        "original": "Adapting our risk analyses to the new circumstances of war will improve the safety of our logistical support.",
+        "translation": "针对新的战争环境来调整我方风险评估会提高我方后勤支援的安全性。",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company3:0",
+        "original": "Logistics Company III",
+        "translation": "后勤连 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company3_desc:0",
+        "original": "Continued statistical evaluation of troop supply needs contribute to maximizing the utility of our resources.",
+        "translation": "对部队补给需求进行持续性统计评估将有助于我方资源使用效率的最大化。",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company4:0",
+        "original": "Logistics Company IV",
+        "translation": "后勤连 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_logistics_company4_desc:0",
+        "original": "Developing standardized classifications for supplies will minimize confusion and make planning more efficient.",
+        "translation": "对补给进行标准化分类将使混乱最小化并使规划过程更高效。",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police:0",
+        "original": "Military Police I",
+        "translation": "宪兵队 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police_desc:0",
+        "original": "Regular troops may be able to manage occupation for a shorter period of time, but they are first and foremost soldiers. Integrating military police into our forces will ensure we have people on the ground to respond to resistance and investigate sabotage.",
+        "translation": "一般士兵也许可以短暂管理占领区，但他们首要且最重要的角色是战士。将宪兵整合入我军将保证我方有余力应对抵抗势力并针对破坏行动展开调查。",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police2:0",
+        "original": "Military Police II",
+        "translation": "宪兵队 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police2_desc:0",
+        "original": "By engaging in regular police duties in occupied territories, such as traffic control and maintaining public order, our military police can minimize the chaos and confusion which partisan movements thrive in.",
+        "translation": "通过在占领区履行诸如交通管理和维持公共秩序类的一般警察职责，我方宪兵将使滋生反抗军运动的混乱与无序最小化。",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police3:0",
+        "original": "Military Police III",
+        "translation": "宪兵队 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police3_desc:0",
+        "original": "Cooperating with local spy networks and informers established before occupation, our military police can proactively prepare for where resistance is likely to arise.",
+        "translation": "通过与占领前发展的线人、建立的当地间谍网进行合作，我方宪兵能在抵抗势力可能产生的区域先行作好准备。",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police4:0",
+        "original": "Military Police IV",
+        "translation": "宪兵队 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_military_police4_desc:0",
+        "original": "Safely policing occupied territory is as much about returning to normalcy as it is about ruthlessly eliminating opposition. Our military police must ensure that this process starts early, to ensure safety for soldiers and civilians alike.",
+        "translation": "对妥善维持占领区治安来说，回归常态与拔除反抗同等重要。我方宪兵必须保证这个过程尽早展开以确保军民安全。",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company:0",
+        "original": "Signal Company I",
+        "translation": "通信连 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company_desc:0",
+        "original": "Establishing and maintaining communications in the field has always required special skills. With the advent of new communications and detection technology in the Great War, new possibilities for the practice lie ahead.",
+        "translation": "建立并维持战场通讯永远需要专业技能。新型通讯、侦测技术在一战中出现了，这个领域在未来还有新的可能性。",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company2:0",
+        "original": "Signal Company II",
+        "translation": "通信连 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company2_desc:0",
+        "original": "Signal companies focusing on communication between the different branches of the military can ensure that ground forces are able to coordinate efforts with sea and air operations and plan their movements more rapidly.",
+        "translation": "专精于跨军种通讯的通讯连可以保证地面部队能与海空协同并让行动的规划变得更迅速。",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company3:0",
+        "original": "Signal Company III",
+        "translation": "通信连 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company3_desc:0",
+        "original": "Increasingly portable communications technology is more viable to be personally carried as a backpack. This increased mobility of signal corps must be utilized.",
+        "translation": "逐步完善的便携通讯科技在单兵携带的背包形式下更加可行。由此得到改善的通讯连机动力应被利用。",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company4:0",
+        "original": "Signal Company IV",
+        "translation": "通信连 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_signal_company4_desc:0",
+        "original": "Among our signal specialists are people with unparalleled first-hand knowledge of field use of this equipment. By involving them in the research of new communication technologies, we can make use of their expertise.",
+        "translation": "我方通讯技术兵们在运用通讯装备上有着无可比拟的实地经验。让他们参与新型通讯科技的研究将活用他们的技能。",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company:0",
+        "original": "Maintenance Company I",
+        "translation": "维修连 I",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company_desc:0",
+        "original": "Maintenance, repair and overhaul are important to keep military equipment reliable and safe to use. Having companies dedicated to this will ensure that it's given appropriate attention.",
+        "translation": "维护、修理及检修对于保持装备安全可靠以供使用至关重要。派专门的连队负责将保证此方面得到合适的关注。",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company2:0",
+        "original": "Maintenance Company II",
+        "translation": "维修连 II",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company2_desc:0",
+        "original": "Routine operational maintenance procedures minimize the risks of equipment breaking down and alerts troops to replace it before it does.",
+        "translation": "例行维护程序将降低装备故障的风险并警示士兵在装备损坏前就更换。",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company3:0",
+        "original": "Maintenance Company III",
+        "translation": "维修连 III",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company3_desc:0",
+        "original": "Making sure that our troops always have the basic materials in the field to perform common repairs will prevent the continued use of equipment known to be damaged.",
+        "translation": "确保士兵在战场上总有基本素材进行常规修理可以避免装备在已知损坏的情况下被持续使用。",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company4:0",
+        "original": "Maintenance Company IV",
+        "translation": "维修连 IV",
+        "stage": 1
+    },
+    {
+        "key": "tech_maintenance_company4_desc:0",
+        "original": "Experiences with designing for active redundancy in the Great War can be renewed to work with more modern equipment to make maintenance easier.",
+        "translation": "一战中的主动冗余设计经验可以更新运用到更现代化的装备上以降低维护难度。",
+        "stage": 1
+    },
+    {
+        "key": "motorised_infantry:0",
+        "original": "Motorized Infantry",
+        "translation": "摩托化步兵",
+        "stage": 1
+    },
+    {
+        "key": "motorised_infantry_desc:0",
+        "original": "By extending the use of motor vehicles in infantry transports in the field, the mobility of otherwise slow-moving infantry units can be greatly improved, enabling faster responses and new strategies.",
+        "translation": "通过更多运用机动车辆进行战场步兵运输，步兵单位原本低下的机动力得到大幅提高，这使更快速的反应与新型战略变成现实。",
+        "stage": 1
+    },
+    {
+        "key": "night_vision:0",
+        "original": "Night Vision I",
+        "translation": "夜视仪 I",
+        "stage": 1
+    },
+    {
+        "key": "night_vision_desc:0",
+        "original": "Being able to see the enemy without being seen is key to night operations. With the invention of infra-red technology, we can outfit our army with devices which, though unwieldy, makes this possible.",
+        "translation": "敌不见我，我可见敌是夜战的关键。红外线科技上的发明让我军得以列装夜视装备到部队，虽然数量有限。",
+        "stage": 1
+    },
+    {
+        "key": "night_vision2:0",
+        "original": "Night Vision II",
+        "translation": "夜视仪 II",
+        "stage": 1
+    },
+    {
+        "key": "night_vision2_desc:0",
+        "original": "Early infra-red scopes, although initially intended for use by snipers, had a limited vision range. As both portability and vision improves, these devices can be used by more troops operating at night.",
+        "translation": "早期红外瞄准镜虽意图供狙击手使用，但视野范围有限。随着便携性与视野范围同步改善，夜视装置将供更多部队夜战使用。",
+        "stage": 1
+    },
+    {
+        "key": "basic_machine_tools:0",
+        "original": "Basic Machine Tools",
+        "translation": "基础机床",
+        "stage": 1
+    },
+    {
+        "key": "basic_machine_tools_desc:0",
+        "original": "A variety of newly developed milling machines can be used in military production, from the small and versatile types available to any machine shop to the large scale, advanced models that push the technological limits.",
+        "translation": "种类繁多的新型铣床均可用于军工生产：这包含任何车间都可见的小型多用途型号到技术尖端的大型先进型号铣床。",
+        "stage": 1
+    },
+    {
+        "key": "improved_machine_tools:0",
+        "original": "Improved Machine Tools",
+        "translation": "改良机床",
+        "stage": 1
+    },
+    {
+        "key": "improved_machine_tools_desc:0",
+        "original": "Turret lathes are proving indispensable for mass production. Ensuring efficient construction and use of the lathes themselves will give us a significant industrial advantage.",
+        "translation": "转塔式六角车床被证明对批量生产不可或缺。保证高效制造和使用转塔车床将给予我国工业显著优势。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_machine_tools:0",
+        "original": "Advanced Machine Tools",
+        "translation": "先进机床",
+        "stage": 1
+    },
+    {
+        "key": "advanced_machine_tools_desc:0",
+        "original": "Automating machine tools using servomechanisms has been discussed before. Putting these ideas into practice allows making use of other advancements in automation, such as computers.",
+        "translation": "使用伺服装置的自动化机床之可行性曾被探讨过。将这些想法付诸实践则可利用自动化领域的其他进步成果，例如计算机。",
+        "stage": 1
+    },
+    {
+        "key": "assembly_line_production:0",
+        "original": "Assembly Line Production",
+        "translation": "流水线生产",
+        "stage": 1
+    },
+    {
+        "key": "assembly_line_production_desc:0",
+        "original": "The powered assembly line, already in use in many industries, can change the course of war by allowing an unprecedented avalanche of production.",
+        "translation": "已在各个工业领域应用的动力流水线能促成前所未有的大规模生产，并能以此改变战争的进程。",
+        "stage": 1
+    },
+    {
+        "key": "flexible_line:0",
+        "original": "Flexible Line",
+        "translation": "柔性生产线",
+        "stage": 1
+    },
+    {
+        "key": "flexible_line_desc:0",
+        "original": "As well-oiled a machine as the assembly line may be, it is still manned by humans, which allows for adaptation when needed. We should make use of this in our industrial production.",
+        "translation": "流水线作为机器，无论如何运转流畅亦靠人工来操作。利用这点即可于工业生产中见机而行来进行调整。",
+        "stage": 1
+    },
+    {
+        "key": "streamlined_line:0",
+        "original": "Streamlined Line",
+        "translation": "一体化生产线",
+        "stage": 1
+    },
+    {
+        "key": "streamlined_line_desc:0",
+        "original": "The standardization and rigid structure of the assembly line are keys to its efficiency and safety. These should be the key aspects to develop in our industrial production.",
+        "translation": "流水线的标准化和刚性结构是确保其效率和安全性的关键。这些方面应是我国工业生产发展的重点。",
+        "stage": 1
+    },
+    {
+        "key": "improved_equipment_conversion:0",
+        "original": "Improved Equipment Conversion",
+        "translation": "改良装备改造",
+        "stage": 1
+    },
+    {
+        "key": "improved_equipment_conversion_desc:0",
+        "original": "Advancements in engineering allow us to fix the issues we found in previous models and update them to fit our current needs.",
+        "translation": "工程学的进步使得我们可以解决老旧型号上的问题以适应我们当前的需求。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_equipment_conversion:0",
+        "original": "Advanced Equipment Conversion",
+        "translation": "先进装备改造",
+        "stage": 1
+    },
+    {
+        "key": "advanced_equipment_conversion_desc:0",
+        "original": "Setting up specialized teams and assembly lines for retrofitting our outdated models will keep our war machine deadly at all times.",
+        "translation": "组建专业队伍和生产线来改造我们过时的装备以保证我们的战争机器永不停歇。",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry:0",
+        "original": "Concentrated Industry I",
+        "translation": "密集型工业 I",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry_desc:0",
+        "original": "Focusing our industrial production to a few key sites will allow us to dramatically improve its efficiency.\\n\\n",
+        "translation": "把工业生产集中在少数关键地点将显著提高效率。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry2:0",
+        "original": "Concentrated Industry II",
+        "translation": "密集型工业 II",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry2_desc:0",
+        "original": "Further concentrating manufacturing will help driving down the costs.",
+        "translation": "进一步集中工业生产将有助于拉低成本。",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry3:0",
+        "original": "Concentrated Industry III",
+        "translation": "密集型工业 III",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry3_desc:0",
+        "original": "Infrastructural expenses can be lowered by adapting networks to our more focused industry.",
+        "translation": "配套基础设施的开销也因为更集中的工业而降低。",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry4:0",
+        "original": "Concentrated Industry IV",
+        "translation": "密集型工业 IV",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry4_desc:0",
+        "original": "Keeping the key points in our industry close to each other increases the impact of these concentrated sites.",
+        "translation": "让工业生产的关键部分彼此靠近将增大这些地区的影响。",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry5:0",
+        "original": "Concentrated Industry V",
+        "translation": "密集型工业 V",
+        "stage": 1
+    },
+    {
+        "key": "concentrated_industry5_desc:0",
+        "original": "Major industrial complexes now combine many parts of our industry, minimizing the costs of transports and labor.",
+        "translation": "主要工业园区现已连接工业生产的许多方面，运输与人力成本因此最小化。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry:0",
+        "original": "Dispersed Industry I",
+        "translation": "离散型工业 I",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry_desc:0",
+        "original": "By spreading out our industries, we can ensure that it becomes difficult for the enemy to target in times of war.\\n\\n",
+        "translation": "通过分散工业，我方能确保敌人在战时将难以瞄准它。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry2:0",
+        "original": "Dispersed Industry II",
+        "translation": "离散型工业 II",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry2_desc:0",
+        "original": "Further decentralizing our manufacturing makes it harder to strike at specific parts of it.",
+        "translation": "进一步分散工业将使针对某一特定部分的袭击更困难。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry3:0",
+        "original": "Dispersed Industry III",
+        "translation": "离散型工业 III",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry3_desc:0",
+        "original": "Having factories operate under the guise of other operations will decrease the risk of direct attacks.",
+        "translation": "把工厂伪装成其他作业来运转将避免遭受直接攻击的风险。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry4:0",
+        "original": "Dispersed Industry IV",
+        "translation": "离散型工业 IV",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry4_desc:0",
+        "original": "Camouflaging and scattering our factories creates a network which is very difficult to completely disrupt.",
+        "translation": "伪装并分散工厂将创造一个极度难以完全被干扰的网络。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry5:0",
+        "original": "Dispersed Industry V",
+        "translation": "离散型工业 V",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_industry5_desc:0",
+        "original": "By having not only our industry, but the infrastructure tying it together operate in secrecy, we can make it even more difficult to destroy through aerial attacks.",
+        "translation": "不仅让工厂，也让基础设施秘密运作的话，想通过空袭摧毁我方工业便更加困难。",
+        "stage": 1
+    },
+    {
+        "key": "synth_oil_experiments:0",
+        "original": "Synthetic Oil Experiments",
+        "translation": "合成石油实验",
+        "stage": 1
+    },
+    {
+        "key": "synth_oil_experiments_desc:0",
+        "original": "To reduce dependence on oil, processes to manufacture substitutes from other substances and materials can be researched.",
+        "translation": "为减少对原油的依赖，可以研究从其他物质、材料生产原油替代物的方法。",
+        "stage": 1
+    },
+    {
+        "key": "early_refining:0",
+        "original": "Early Refining",
+        "translation": "早期精炼",
+        "stage": 1
+    },
+    {
+        "key": "early_refining_desc:0",
+        "original": "Crude oil can be refined into a number of substances and materials vital to any modern war. Staying ahead in these methods will be necessary to build a modern industry.",
+        "translation": "原油可被精炼为对现代战争至关重要的数种材料与物质。在精炼技术上保持领先对构筑现代工业是必要的。",
+        "stage": 1
+    },
+    {
+        "key": "oil_processing:0",
+        "original": "Oil Processing",
+        "translation": "石油加工",
+        "stage": 1
+    },
+    {
+        "key": "oil_processing_desc:0",
+        "original": "A network of factories for synthetic distillation and refining of oil products is the next step towards ensuring the fuel supply for our nation.",
+        "translation": "合成蒸馏和精炼石油产品的工厂网络是确保我国燃料供应的下一个步骤。",
+        "stage": 1
+    },
+    {
+        "key": "improved_oil_processing:0",
+        "original": "Improved Oil Processing",
+        "translation": "改进石油加工",
+        "stage": 1
+    },
+    {
+        "key": "improved_oil_processing_desc:0",
+        "original": "Moving previously experimental methods for distillation to large-scale operations will allow us to adapt better to available materials and needs.",
+        "translation": "将先前的蒸馏实验方法转移到大规模的操作将使我们能够更好地适应现有的材料和需求。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_oil_processing:0",
+        "original": "Advanced Oil Processing",
+        "translation": "先进石油加工",
+        "stage": 1
+    },
+    {
+        "key": "advanced_oil_processing_desc:0",
+        "original": "New experimental purification techniques like hydrotreating can be used in oil manufacturing to greatly improve the final product.",
+        "translation": "像加氢处理这样的新实验纯化技术可以用于石油生产，以大大改善最终产品。",
+        "stage": 1
+    },
+    {
+        "key": "modern_oil_processing:0",
+        "original": "Modern Oil Processing",
+        "translation": "现代石油加工",
+        "stage": 1
+    },
+    {
+        "key": "modern_oil_processing_desc:1",
+        "original": "Our oil refinineries can be further improved with new advanced oil processing methods like hydrocracking, alkylation, mercaptan oxidation and isomerization.",
+        "translation": "我们的炼油厂可以通过加氢裂化，烷基化，硫醇氧化和异构化等先进的石油加工方法进一步改善。",
+        "stage": 1
+    },
+    {
+        "key": "rubber_processing:0",
+        "original": "Rubber Processing",
+        "translation": "橡胶加工",
+        "stage": 1
+    },
+    {
+        "key": "rubber_processing_desc:1",
+        "original": "Industrial processing of synthetic rubber is needed to reduce our dependency on natural rubber.",
+        "translation": "我们对天然橡胶的依赖需要通过合成橡胶的工业加工来减少。",
+        "stage": 1
+    },
+    {
+        "key": "improved_rubber_processing:0",
+        "original": "Improved Rubber Processing",
+        "translation": "改进橡胶加工",
+        "stage": 1
+    },
+    {
+        "key": "improved_rubber_processing_desc:1",
+        "original": "Large scale production of synthetic rubber is possible with new processes to accelerate dehydrogenation reactions.",
+        "translation": "通过新工艺加速脱氢反应，可以大规模生产合成橡胶。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_rubber_processing:0",
+        "original": "Advanced Rubber Processing",
+        "translation": "先进橡胶加工",
+        "stage": 1
+    },
+    {
+        "key": "advanced_rubber_processing_desc:1",
+        "original": "A general purpose synthetic rubber recepie with improved processes such as dodecyl mercaptan polymerization modifiers will allow us to expand synthetic rubber production.",
+        "translation": "通过应用具有改进工艺的通用合成橡胶配方如十二烷基硫醇聚合改性剂将使我们能够扩大合成橡胶生产。",
+        "stage": 1
+    },
+    {
+        "key": "modern_rubber_processing:0",
+        "original": "Modern Rubber Processing",
+        "translation": "现代橡胶加工",
+        "stage": 1
+    },
+    {
+        "key": "modern_rubber_processing_desc:1",
+        "original": "Moving to more optimized polymerization processes will result in lower costs and higher output.",
+        "translation": "转向更优化的聚合工艺将带来更低的成本和更高的产量。",
+        "stage": 1
+    },
+    {
+        "key": "construction1:0",
+        "original": "Construction I",
+        "translation": "建筑技术 I",
+        "stage": 1
+    },
+    {
+        "key": "construction1_desc:0",
+        "original": "Improved methods and materials allow us to construct buildings, both civilian and military, faster.",
+        "translation": "改良建筑技术与建材将提高我方建造军民建筑的速度。",
+        "stage": 1
+    },
+    {
+        "key": "construction2:0",
+        "original": "Construction II",
+        "translation": "建筑技术 II",
+        "stage": 1
+    },
+    {
+        "key": "construction2_desc:0",
+        "original": "Modernizing our tools and equipment will further aid our construction efforts.",
+        "translation": "将工具与装备现代化有助于进一步提高建筑效率。",
+        "stage": 1
+    },
+    {
+        "key": "construction3:0",
+        "original": "Construction III",
+        "translation": "建筑技术 III",
+        "stage": 1
+    },
+    {
+        "key": "construction3_desc:0",
+        "original": "Adoption of modern vehicles and experience from our advancements in construction can be applied to make repairs vastly quicker.",
+        "translation": "引入现代化车辆及建筑方向上的进步经验将极大加快修理速度。",
+        "stage": 1
+    },
+    {
+        "key": "construction4:0",
+        "original": "Construction IV",
+        "translation": "建筑技术 IV",
+        "stage": 1
+    },
+    {
+        "key": "construction4_desc:0",
+        "original": "A higher degree of mechanization and better routines further improves building construction speeds.",
+        "translation": "更高程度的机械化与更好的工序进一步特高建筑速度。",
+        "stage": 1
+    },
+    {
+        "key": "construction5:0",
+        "original": "Construction V",
+        "translation": "建筑技术 V",
+        "stage": 1
+    },
+    {
+        "key": "construction5_desc:0",
+        "original": "The future of efficient construction will require more extensive planning for individual projects as well as standardized solutions wherever possible.",
+        "translation": "未来的高效施工将同时需要对个别工程的更长久的规划以及在尽可能的情形下使用标准解决方案。",
+        "stage": 1
+    },
+    {
+        "key": "excavation1:0",
+        "original": "Excavation I",
+        "translation": "挖掘技术 I",
+        "stage": 1
+    },
+    {
+        "key": "excavation1_desc:0",
+        "original": "Advancements in drilling techniques allows us to excavate resources that were impossible to reach earlier.",
+        "translation": "基于挖掘技术的进步，在过去不可企及的地点开采资源变得可能。",
+        "stage": 1
+    },
+    {
+        "key": "excavation2:0",
+        "original": "Excavation II",
+        "translation": "挖掘技术 II",
+        "stage": 1
+    },
+    {
+        "key": "excavation2_desc:0",
+        "original": "New techniques help us collect resources more efficiently. We no longer taint the resources upon extraction, leading to a greater yield.",
+        "translation": "新技术让我方更有效收集资源。采集的资源不再被污染，让产量更高。",
+        "stage": 1
+    },
+    {
+        "key": "excavation3:0",
+        "original": "Excavation III",
+        "translation": "挖掘技术 III",
+        "stage": 1
+    },
+    {
+        "key": "excavation3_desc:0",
+        "original": "Progress in geology helps us determine the location of resources. We can now focus our extraction efforts in places where there is a greater chance that large amounts of natural resources will be found.",
+        "translation": "地质学进步有助于资源勘探。我方现在能集中开发有更大可能发现大量自然资源的地点。",
+        "stage": 1
+    },
+    {
+        "key": "excavation4:0",
+        "original": "Excavation IV",
+        "translation": "挖掘技术 IV",
+        "stage": 1
+    },
+    {
+        "key": "excavation4_desc:0",
+        "original": "Automation of key processes and advancement within mechanics makes all our resource sites much more efficient.",
+        "translation": "关键程序上的自动化以及机械学方向上的进展让所有资源采集点的效率都提升了。",
+        "stage": 1
+    },
+    {
+        "key": "excavation5:0",
+        "original": "Excavation V",
+        "translation": "挖掘技术 V",
+        "stage": 1
+    },
+    {
+        "key": "excavation5_desc:0",
+        "original": "Advancements in fields such as surface mining gives us a greater yield of resources from our current extraction sites.",
+        "translation": "在露天开采等领域上的进展让现有资源采集点的产出进一步增长。",
+        "stage": 1
+    },
+    {
+        "key": "excavation_tech:0",
+        "original": "Excavation Technologies",
+        "translation": "挖掘技术",
+        "stage": 1
+    },
+    {
+        "key": "electronic_mechanical_engineering:0",
+        "original": "Electronic Mechanical Engineering",
+        "translation": "电子机械工程",
+        "stage": 1
+    },
+    {
+        "key": "electronic_mechanical_engineering_desc:0",
+        "original": "We live in an age when electrical machines can no longer only warm and light us, but help us think and communicate. Electronics will be key to military intelligence in the coming century.",
+        "translation": "这个时代的电子机械不再单纯用于发光发热，也帮助我们思考与交流。新世纪里电子产品将是军事情报的关键。",
+        "stage": 1
+    },
+    {
+        "key": "radio:0",
+        "original": "Radio",
+        "translation": "无线电",
+        "stage": 1
+    },
+    {
+        "key": "radio_desc:0",
+        "original": "Adopting the inventions of amateur radio operators and extending the use of FM radio will reduce radio interference and allow us to find new uses for radio technology.",
+        "translation": "应用业余无线电爱好者的发明并扩大FM无线电的使用可以减少干扰并让无线电技术拓展新用途。",
+        "stage": 1
+    },
+    {
+        "key": "radio_detection:0",
+        "original": "Radio Detection",
+        "translation": "无线电侦测",
+        "stage": 1
+    },
+    {
+        "key": "radio_detection_desc:0",
+        "original": "The development of RADAR, Radio Detection and Ranging, allows using radio waves to detect physical objects. Research is highly secretive, considering the impact these inventions could have on locating units.",
+        "translation": "雷达，或者“无线电侦测及定距”手段，将利用无线电波侦测物体。此研究高度机密化，设想一下这些发明将能对定位部队带来何等的影响。",
+        "stage": 1
+    },
+    {
+        "key": "decimetric_radar:0",
+        "original": "Decimetric Radar",
+        "translation": "分米波雷达",
+        "stage": 1
+    },
+    {
+        "key": "decimetric_radar_desc:0",
+        "original": "Many units rely on the element of surprise for their efficiency. Development of decimetric radar allows us to deprive them of this advantage.",
+        "translation": "许多作战单位依赖突然袭击发挥效用，而发展分米波雷达能使我方剥夺此类单位的优势。",
+        "stage": 1
+    },
+    {
+        "key": "improved_decimetric_radar:0",
+        "original": "Improved Decimetric Radar",
+        "translation": "改良分米波雷达",
+        "stage": 1
+    },
+    {
+        "key": "improved_decimetric_radar_desc:0",
+        "original": "The use of radar has already proven crucial, but our decimetric radar sets are too few to ensure good coverage. Fitting more units with radar will allow us to maximize our technological edge.",
+        "translation": "雷达运用已被证明至关重要，但我方紧缺的分米波雷达难以保障良好的战场覆盖。给更多作战单位装备雷达将使我方科研优势最大化。",
+        "stage": 1
+    },
+    {
+        "key": "centimetric_radar:0",
+        "original": "Centimetric Radar",
+        "translation": "厘米波雷达",
+        "stage": 1
+    },
+    {
+        "key": "centimetric_radar_desc:0",
+        "original": "New radar operating in the microwave bands enable us to detect objects too small for previous radars to pick up.",
+        "translation": "使用微波的新型雷达将让我方能侦测旧式雷达无法发现的小型物体。",
+        "stage": 1
+    },
+    {
+        "key": "improved_centimetric_radar:0",
+        "original": "Improved Centimetric Radar",
+        "translation": "改良分米波雷达",
+        "stage": 1
+    },
+    {
+        "key": "improved_centimetric_radar_desc:0",
+        "original": "Introducing cutting-edge radar techniques like monopulse radars in key operations will allow for extreme tracking accuracy.",
+        "translation": "在关键作战行动中引入最新雷达科技，例如单脉冲雷达，将使极度精准的追踪成为可能。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_centimetric_radar:0",
+        "original": "Advanced Centimetric Radar",
+        "translation": "先进厘米波雷达",
+        "stage": 1
+    },
+    {
+        "key": "advanced_centimetric_radar_desc:0",
+        "original": "Despite our advanced radars, there are still ways for the enemy to avoid detection. New developments like the Pulse-Doppler radar allows us to eliminate many of these limitations in our equipment.",
+        "translation": "即使我方拥有先进雷达，敌方仍有回避侦测的途径。脉冲多普勒雷达之类的新发明将超越我方现有装备中的诸多极限。",
+        "stage": 1
+    },
+    {
+        "key": "mechanical_computing:0",
+        "original": "Mechanical Computing",
+        "translation": "机械式计算机",
+        "stage": 1
+    },
+    {
+        "key": "mechanical_computing_desc:0",
+        "original": "Constructing machines capable of advanced differential analysis will radically change what sort of machine-assisted calculations can be made.",
+        "translation": "制造微分解析仪将从根本上改变机械运算的范围。",
+        "stage": 1
+    },
+    {
+        "key": "computing_machine:0",
+        "original": "Computing Machine",
+        "translation": "基础计算机",
+        "stage": 1
+    },
+    {
+        "key": "computing_machine_desc:0",
+        "original": "Developing a theoretical groundwork for modern computers and constructing electromechanical machines to start putting them into practice will be the first steps into this realm of possibilities.",
+        "translation": "为现代计算机奠定理论基础，制造电动机械式计算机并将之投入实用——这将是我们迈入这充满可能性的领域的第一步。",
+        "stage": 1
+    },
+    {
+        "key": "improved_computing_machine:0",
+        "original": "Improved Computing Machine",
+        "translation": "改良计算机",
+        "stage": 1
+    },
+    {
+        "key": "improved_computing_machine_desc:0",
+        "original": "Electronic digital computers can now be made which are programmable. Although still expensive and large, these machines allow for intelligence analysis far beyond human capacity.",
+        "translation": "可编程的数字电子计算机已被制造出来。虽然体积庞大价格昂贵，这类计算机能进行人所不及的情报解析。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_computing_machine:0",
+        "original": "Advanced Computing Machine",
+        "translation": "先进计算机",
+        "stage": 1
+    },
+    {
+        "key": "advanced_computing_machine_desc:0",
+        "original": "Beginning to work on computers capable of storing programs and making use of transistors will put us on the path to a Digital Revolution where these machines may be used in nearly any field.",
+        "translation": "着手研究存储程序计算机及晶体管将带我们步向数字革命并将计算机应用推广到近乎任何领域上。",
+        "stage": 1
+    },
+    {
+        "key": "basic_encryption:1",
+        "original": "Encryption - Polyalphabetical Ciphers",
+        "translation": "加密 - 多表置换密码",
+        "stage": 1
+    },
+    {
+        "key": "basic_encryption_desc:0",
+        "original": "With new methods of communication comes new risks for interception. Rotor cipher machines can be used to allow for rapid, complex encryption.",
+        "translation": "通讯的新手段必带来新的遭拦截风险。转子加密机将用作高速复杂的加密。",
+        "stage": 1
+    },
+    {
+        "key": "improved_encryption:1",
+        "original": "Encryption - Cyclic Permutations",
+        "translation": "加密 - 循环置换",
+        "stage": 1
+    },
+    {
+        "key": "improved_encryption_desc:0",
+        "original": "Limitation in the randomization of cipher machines can be exploited to break the ciphers. By improving the randomness of the rotor mechanics, we can make this kind of cryptanalysis more difficult.",
+        "translation": "加密机在随机化上的限制将被用于破译密码。提高转子加密机的随机性后，这类破译手段将更难得手。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_encryption:1",
+        "original": "Encryption - Pulse-code Modulation",
+        "translation": "加密 - 脉冲编码调制",
+        "stage": 1
+    },
+    {
+        "key": "advanced_encryption_desc:0",
+        "original": "Technological improvements and hard-earned experience allows us to implement more traffic flow security measures in our communication.",
+        "translation": "科研进步及经验积累让我方通讯时有了更多保障数据流流量安全的手段。",
+        "stage": 1
+    },
+    {
+        "key": "basic_decryption:1",
+        "original": "Decryption - Frequency Analysis",
+        "translation": "解密 - 频率分析",
+        "stage": 1
+    },
+    {
+        "key": "basic_decryption_desc:0",
+        "original": "Cryptanalysis is increasingly becoming an advanced mathematical science. Systems like card catalogs and devices like cyclometers can aid the necessary work.",
+        "translation": "密码解密学变得更具有高等数学性质。卡片目录等系统及马里安·雷耶夫斯基式“记转器”类仪器会有助于解密工作。",
+        "stage": 1
+    },
+    {
+        "key": "improved_decryption:1",
+        "original": "Decryption - Side-channel Attack",
+        "translation": "解密 - 旁路攻击",
+        "stage": 1
+    },
+    {
+        "key": "improved_decryption_desc:0",
+        "original": "The development of more sophisticated computers allows for new applications of cryptanalysis methods like differencing, which can be used to break advanced cyphers when combined with new hand codebreaking methods.",
+        "translation": "更复杂的计算机将带来新的密码分析学应用手段，例如和最新破译手段结合，用以破解新式暗号的差分攻击。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_decryption:1",
+        "original": "Decryption - Automated Deduction",
+        "translation": "解密 - 自动推演",
+        "stage": 1
+    },
+    {
+        "key": "advanced_decryption_desc:0",
+        "original": "The increased computation power that improved our cryptanalysis so far threatens to create nearly unbreakable ciphers in the future. To stay ahead, we must be prepared to work more aggressively on gaining inside information on the technology.",
+        "translation": "逐步改良并推动我国密码分析学发展至此的计算机计算能力恐将于未来创造几乎无懈可击的加密法。若要预防，我方必须作好准备积极获取与这项科技相关的机密信息。",
+        "stage": 1
+    },
+    {
+        "key": "experimental_rockets:0",
+        "original": "Experimental Rockets",
+        "translation": "实验火箭",
+        "stage": 1
+    },
+    {
+        "key": "experimental_rockets_desc:0",
+        "original": "Advancing the science of rocketry by improving the range and reliability of liquid-fuel rockets will teach us enough about the technology to allow the construction of launch sites for more advanced models.",
+        "translation": "靠提高液体燃料火箭可靠性与航程来推动火箭学科研进步，我方已掌握足够知识用以建设可供更先进型号火箭使用的发射基地。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_engines:0",
+        "original": "Rocket Engines",
+        "translation": "火箭引擎",
+        "stage": 1
+    },
+    {
+        "key": "rocket_engines_desc:0",
+        "original": "Knowledge of rocket propulsion is reaching a point where we can construct flying bombs and rocket-powered aircraft, operating at previously unreachable speeds.",
+        "translation": "我们积攒的火箭推进技术知识已足以制造拥有无可比拟速度的飞弹与喷气式飞行器。",
+        "stage": 1
+    },
+    {
+        "key": "improved_rocket_engines:0",
+        "original": "Improved Rocket Engines",
+        "translation": "改良火箭引擎",
+        "stage": 1
+    },
+    {
+        "key": "improved_rocket_engines_desc:0",
+        "original": "The first long-range ballistic missiles can be built and made ever more precise, reaching distant enemy cities and even into space.",
+        "translation": "第一批长程弹道导弹已被制造并拥有前所未有的精确度。敌方城市，乃至太空都不再遥不可及……但对波兰而言呢？",
+        "stage": 1
+    },
+    {
+        "key": "advanced_rocket_engines:0",
+        "original": "Advanced Rocket Engines",
+        "translation": "先进火箭引擎",
+        "stage": 1
+    },
+    {
+        "key": "advanced_rocket_engines_desc:0",
+        "original": "The future of rocketry opens up possibilities like intercontinental missiles, the range of which knows few limits while the payloads grow more lethal.",
+        "translation": "火箭学的未来发展开启了新可能性，例如射程愈发遥不可及，杀伤力愈发无法估量的洲际导弹。",
+        "stage": 1
+    },
+    {
+        "key": "atomic_research:0",
+        "original": "Atomic Research",
+        "translation": "原子能研究 ",
+        "stage": 1
+    },
+    {
+        "key": "atomic_research_desc:0",
+        "original": "In nuclear fission, splitting the atom yields enormous amounts of energy and limitless destructive capability.",
+        "translation": "核裂变中，原子分裂将释放大量能量并具有不可估量的毁灭性。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor:0",
+        "original": "Rocket Interceptor",
+        "translation": "喷气式截击机",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor_desc:0",
+        "original": "Rocket-powered interceptor aircraft based on gliders can, for short periods of time, move faster than any other plane. While volatility of the fuel puts the planes at risk, they can take off and react to attacks faster than any enemy will expect.",
+        "translation": "参考了滑翔机设计的喷气式截击机能在短时间内以超越任何其他飞行器的速度飞行。虽然冒着急剧燃料消耗的风险，其起飞拦截之迅捷将出乎任何敌机意料。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor_2:0",
+        "original": "Rocket Interceptor II",
+        "translation": "喷气式截击机 II型",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor_2_desc:0",
+        "original": "Still considered extremely dangerous to operate, the rocket-powered fighters are now aided by auto-pilots and towing by other aircraft to maximize the use of their extreme speed but short fuel window.",
+        "translation": "虽然仍被认为操作风险巨大，喷气式战机现已由自动驾驶辅助并由其他飞机牵引以在燃料有限的限制下将极速优势发挥至极致。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor_3:0",
+        "original": "Rocket Interceptor III",
+        "translation": "喷气式截击机 III型",
+        "stage": 1
+    },
+    {
+        "key": "rocket_interceptor_3_desc:0",
+        "original": "New landing techniques and safer fuel systems have improved rocket fighters' chance of success and survival significantly, fulfilling the once theoretical potential of these cutting-edge vehicles.",
+        "translation": "崭新的降落技术及更安全的燃料系统大幅提高喷气式截击机成功执行任务及生还的几率，并将这些尖端载具从前还停留在理论上的潜力发挥了出来。",
+        "stage": 1
+    },
+    {
+        "key": "nukes:0",
+        "original": "Nuclear Bombs",
+        "translation": "原子弹",
+        "stage": 1
+    },
+    {
+        "key": "nukes_desc:0",
+        "original": "A project to construct an atomic bomb will be one of the most secretive and difficult tasks a nation can undertake, but, if successful, may change not only the course of today's wars but of the future of the world.",
+        "translation": "旨在制造原子弹的工程项目是一国能进行的最艰巨而最隐秘的任务之一。但一旦成功，便可能改变眼下战争进程乃至未来世界走向。",
+        "stage": 1
+    },
+    {
+        "key": "interwar_artillery:0",
+        "original": "Interwar Artillery",
+        "translation": "战间期型火炮",
+        "stage": 1
+    },
+    {
+        "key": "interwar_artillery_desc:0",
+        "original": "Lessons learned in the development of different types of artillery can be cross-applied to the design of other pieces.",
+        "translation": "在发展各种火炮过程中积累的经验可被交叉应用到其他种类。",
+        "stage": 1
+    },
+    {
+        "key": "artillery1:0",
+        "original": "Artillery I",
+        "translation": "火炮 I型",
+        "stage": 1
+    },
+    {
+        "key": "artillery1_desc:0",
+        "original": "With more modern materials and mechanisms, howitzers and field guns from the Great War can be rechambered and modernized for modern warfare.",
+        "translation": "使用更新型的材料与机械装置后，一战遗留的榴弹炮与野战炮可扩膛并升级以适应当前的战争。",
+        "stage": 1
+    },
+    {
+        "key": "artillery2:0",
+        "original": "Improved Artillery Upgrade I",
+        "translation": "改良火炮升级 I",
+        "stage": 1
+    },
+    {
+        "key": "artillery2_desc:0",
+        "original": "Upgrading old pieces can only get us so far. New howitzer designs will be needed, taking advantage of new hydraulic recoil devices and longer barrels.",
+        "translation": "升级旧火炮必有其极限。设计急需的新式火炮时，利用好新型的液压反冲装置与长炮管。",
+        "stage": 1
+    },
+    {
+        "key": "artillery3:0",
+        "original": "Improved Artillery Upgrade II",
+        "translation": "改良火炮升级 II",
+        "stage": 1
+    },
+    {
+        "key": "artillery3_desc:0",
+        "original": "To enable heavier guns on lighter carriages, muzzle brakes can be included in howitzer designs.",
+        "translation": "火炮设计时可以添加炮口制动器以利于更重型的火炮搭载于较轻型的载具上。",
+        "stage": 1
+    },
+    {
+        "key": "artillery4:0",
+        "original": "Artillery IV",
+        "translation": "火炮 IV型",
+        "stage": 1
+    },
+    {
+        "key": "artillery4_desc:0",
+        "original": "Developing light-weight artillery capable of being broken down for transport will make it possible to bring artillery support to areas previously difficult to reach.",
+        "translation": "发展可拆卸运输的轻量化火炮可以将火炮支援延伸到过去无可企及的地方。",
+        "stage": 1
+    },
+    {
+        "key": "artillery5:0",
+        "original": "Advanced Artillery Upgrade",
+        "translation": "先进火炮升级",
+        "stage": 1
+    },
+    {
+        "key": "artillery5_desc:0",
+        "original": "Artillery designs with lower silhouettes will be more difficult for the enemy to target.",
+        "translation": "炮身设计更低矮的火炮将难以被瞄准。",
+        "stage": 1
+    },
+    {
+        "key": "mountain_gun:0",
+        "original": "Mountain Gun",
+        "translation": "山炮",
+        "stage": 1
+    },
+    {
+        "key": "mountain_gun_desc:0",
+        "original": "The mountainous terrain of Northern India led to the development of an artillery piece that could be dismantled and carried on muleback to wherever it was needed.",
+        "translation": "为适应印度北部的山地而设计的一种可以拆解放到驴背上移动到需要的地方的火炮。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery2:0",
+        "original": "Rocket Artillery Upgrade I",
+        "translation": "火箭炮升级 I",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery2_desc:0",
+        "original": "Self-propelled artillery utilizing multiple rockets will be able to cause large-scale destruction rapidly, while maintaining mobility to avoid counter-fire.",
+        "translation": "发射复数火箭弹的自行火炮可以快速制造大规模杀伤的同时保持机动以回避反击火力。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery3:0",
+        "original": "Rocket Artillery Upgrade II",
+        "translation": "火箭炮升级 II",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery3_desc:0",
+        "original": "Sacrificing range for impact, we can mount heavier rockets on larger vehicles. Operating in teams, these artillery batteries can cooperate to reload and relocate quickly.",
+        "translation": "牺牲一定射程后，更重型的火箭就能装载在更重型的载具上。透过小组行动，这些火炮单位可以合作一致进行快速的弹药装填与地点转移。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery4:0",
+        "original": "Rocket Artillery III",
+        "translation": "火箭炮 III型",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery4_desc:0",
+        "original": "Spin-stabilized rockets can increase the range of lighter artillery batteries.",
+        "translation": "自旋稳定火箭将提高火箭炮射程。",
+        "stage": 1
+    },
+    {
+        "key": "antiair1:0",
+        "original": "Anti-Air Upgrade",
+        "translation": "防空炮升级",
+        "stage": 1
+    },
+    {
+        "key": "antiair1_desc:0",
+        "original": "With faster reloading mechanisms, anti-air guns carrying large rounds can still maintain necessary firing rates.",
+        "translation": "附带更快速的装填装置后，使用大型弹药的防空炮就能保证必要的射速。",
+        "stage": 1
+    },
+    {
+        "key": "antiair2:0",
+        "original": "Anti-Air II",
+        "translation": "防空炮 II型",
+        "stage": 1
+    },
+    {
+        "key": "antiair2_desc:0",
+        "original": "To target high-flying aircraft, longer cartridges and barrels will be needed on anti-air guns.",
+        "translation": "防空炮需要更大型的弹药与更长的炮管以攻击高空飞行器。",
+        "stage": 1
+    },
+    {
+        "key": "antiair3:0",
+        "original": "Improved Anti-Air Upgrade I",
+        "translation": "改良防空炮升级 I",
+        "stage": 1
+    },
+    {
+        "key": "antiair3_desc:0",
+        "original": "As radar systems improve, employing radar direction of anti-aircraft guns becomes more viable. Keeping up with this technology will allow us to make some of the most accurate anti-air systems available.",
+        "translation": "随着雷达系统的改良，运用雷达指引防空炮变得更加可行。利用这项科技便能制造最准确的防空系统。",
+        "stage": 1
+    },
+    {
+        "key": "antiair4:0",
+        "original": "Improved Anti-Air Upgrade II",
+        "translation": "改良防空炮升级 II",
+        "stage": 1
+    },
+    {
+        "key": "antiair4_desc:0",
+        "original": "Combining modern systems of radar, computerization and autoloaders will be necessary to react quickly against faster aircraft.",
+        "translation": "结合现代化的雷达、计算机及自动装填系统将成为防空炮对高速飞行器进行及时应对的关键。",
+        "stage": 1
+    },
+    {
+        "key": "antiair5:0",
+        "original": "Anti-Air V",
+        "translation": "防空炮 V型",
+        "stage": 1
+    },
+    {
+        "key": "antiair5_desc:0",
+        "original": "Surface-to-air missiles are the future of anti-aircraft warfare. Developing a mobile platform for these should be our next goal.",
+        "translation": "地空导弹将是未来防空战斗的走向。设计地空导弹的机动平台是我们的下一步任务。",
+        "stage": 1
+    },
+    {
+        "key": "antitank1:0",
+        "original": "Anti-Tank Upgrade",
+        "translation": "反坦克炮升级",
+        "stage": 1
+    },
+    {
+        "key": "antitank1_desc:0",
+        "original": "The importance of effective anti-tank weapons was established in the Great War. Introducing a new generation of these weapons will be necessary to combat modern tank designs.",
+        "translation": "高效反坦武器的重要性在一战中确立。引入新一代反坦武器应对新型坦克是必要的。",
+        "stage": 1
+    },
+    {
+        "key": "antitank2:0",
+        "original": "Anti-Tank II",
+        "translation": "反坦克炮 II型",
+        "stage": 1
+    },
+    {
+        "key": "antitank2_desc:0",
+        "original": "Most anti-tank guns are so far fairly light. Larger caliber guns will be required to combat heavier tanks with sloped armor.",
+        "translation": "目前为止大多数反坦克炮属于轻型。为了对抗拥有倾斜装甲且以往更重型的坦克便需要更大型的反坦克炮。",
+        "stage": 1
+    },
+    {
+        "key": "antitank3:0",
+        "original": "Improved Anti-Tank Upgrade I",
+        "translation": "改良反坦克炮升级 I",
+        "stage": 1
+    },
+    {
+        "key": "antitank3_desc:0",
+        "original": "HEAT (high-explosive anti-tank) rounds can be used in anti-tank artillery to make up for limited muzzle velocity.",
+        "translation": "使用空心装药的破甲弹（HEAT）可被用于反坦克炮以弥补不足的炮口初速。",
+        "stage": 1
+    },
+    {
+        "key": "antitank4:0",
+        "original": "Improved Anti-Tank Upgrade II",
+        "translation": "改良反坦克炮升级 II",
+        "stage": 1
+    },
+    {
+        "key": "antitank4_desc:0",
+        "original": "New versatile anti-tank guns employing armor-piercing discarding sabot shots can penetrate the armor of nearly any tank.",
+        "translation": "使用脱壳穿甲弹（APDS）的新型多用途反坦克炮可以穿透几乎所有战车的装甲。",
+        "stage": 1
+    },
+    {
+        "key": "antitank5:0",
+        "original": "Anti-Tank V",
+        "translation": "反坦克炮 V型",
+        "stage": 1
+    },
+    {
+        "key": "antitank5_desc:0",
+        "original": "By combining different kinds of new ammunition technology with guns with higher muzzle velocities, we can be prepared for whatever new armor our enemies may develop.",
+        "translation": "结合多种新型弹药技术及高初速火炮，我军已准备好应对敌方新开发的任何装甲单位。",
+        "stage": 1
+    },
+    {
+        "key": "air_superiority:0",
+        "original": "Air Superiority",
+        "translation": "空中优势",
+        "stage": 1
+    },
+    {
+        "key": "air_superiority_desc:0",
+        "original": "Achieving Air Superiority will make it more difficult for enemy bombers to be used against our country, to allow our bombers to be used against our enemies.",
+        "translation": "取得空优将使敌方轰炸机无所作为，容我方轰炸机大展身手。",
+        "stage": 1
+    },
+    {
+        "key": "formation_flying:0",
+        "original": "Formation Flying",
+        "translation": "编队飞行",
+        "stage": 1
+    },
+    {
+        "key": "formation_flying_desc:0",
+        "original": "By flying in formation planes can provide support to each other or work together to attack enemies.",
+        "translation": "编队飞行的飞机能互相援助并携手歼敌。",
+        "stage": 1
+    },
+    {
+        "key": "air_offense:0",
+        "original": "Fighter Escorts",
+        "translation": "战斗机护航",
+        "stage": 1
+    },
+    {
+        "key": "air_offense_desc:0",
+        "original": "With a focus on bombing during the day we need to keep our bombers safe from intercepting fighters. Training our fighter pilots to work closely with the bombers will improve their fighting abilities when protecting the bombers in enemy airspace.",
+        "translation": "集中于日间轰炸后便需要从敌方拦截战斗机手中保护我方轰炸机。训练我方战斗机飞行员与轰炸机紧密合作将提高他们在敌方领空保护我方轰炸机的能力。",
+        "stage": 1
+    },
+    {
+        "key": "fighter_baiting:0",
+        "original": "Fighter Baiting",
+        "translation": "战斗机引诱",
+        "stage": 1
+    },
+    {
+        "key": "fighter_baiting_desc:0",
+        "original": "By appearing vulnerable, our fighters can lure hostile aircraft into ambushes.",
+        "translation": "故意示弱，我方战斗机就能将敌方飞机引入圈套中。",
+        "stage": 1
+    },
+    {
+        "key": "dogfighting_experience:0",
+        "original": "Dogfighting Experience",
+        "translation": "缠斗经验",
+        "stage": 1
+    },
+    {
+        "key": "dogfighting_experience_desc:0",
+        "original": "It's not easy to keep track of the relative positions of friends and foes in the hectic swirl of a dogfight, but as our pilots gain experience they become more adept at it.",
+        "translation": "在频繁盘旋的缠斗中掌握敌我相对位置并不容易，但随着经验增加我方飞行员已越发适应于此。",
+        "stage": 1
+    },
+    {
+        "key": "fighter_ace_initiative:0",
+        "original": "Fighter Ace Initiative",
+        "translation": "战斗机王牌主导",
+        "stage": 1
+    },
+    {
+        "key": "fighter_ace_initiative_desc:0",
+        "original": "Giving special awards and status to pilots who achieve Ace status, by shooting down five enemies, incentives risk-taking and brings about a sense of eliteness in Ace pilots - although this does tend to make experienced pilots stay in combat positions.",
+        "translation": "授予击落五架敌机的王牌飞行员特别的嘉奖与称号，激励冒险行为并营造王牌飞行员的“精英感”——虽然这倾向于让有经验的飞行员留在前线。",
+        "stage": 1
+    },
+    {
+        "key": "multialtitude_flying:0",
+        "original": "Multi-Altitude Flying",
+        "translation": "多高度编队飞行",
+        "stage": 1
+    },
+    {
+        "key": "multialtitude_flying_desc:0",
+        "original": "Air combat takes place in three dimensions, but most pilots find it harder to keep track of planes flying above or below them. We can take advantages of this by spreading our formations vertically.",
+        "translation": "尽管空战是三维的，但绝大多数飞行员更难持续掌握上下两方的敌机的位置。垂直方向编队可以利用这一点。",
+        "stage": 1
+    },
+    {
+        "key": "offensive_formations:0",
+        "original": "Offensive Formations",
+        "translation": "攻击队形",
+        "stage": 1
+    },
+    {
+        "key": "offensive_formations_desc:0",
+        "original": "Training in more offensively-oriented formations make our fighters deadlier in combat.",
+        "translation": "进行更多用侵略性阵型飞行的训练将让我方战斗机在战斗中更致命。",
+        "stage": 1
+    },
+    {
+        "key": "fighter_sweeps:0",
+        "original": "Fighter Sweeps",
+        "translation": "战斗机扫荡",
+        "stage": 1
+    },
+    {
+        "key": "fighter_sweeps_desc:0",
+        "original": "Aggressive patrols of fighters over enemy territory may catch their planes taking off or landing, when they are especially vulnerable, or disrupt enemy training flights.",
+        "translation": "在敌方领土进行侵略性战斗机巡逻可能赶上敌机起降的可乘之机或搅乱敌机的训练飞行。",
+        "stage": 1
+    },
+    {
+        "key": "force_rotation:0",
+        "original": "Force Rotation",
+        "translation": "部队轮换",
+        "stage": 1
+    },
+    {
+        "key": "force_rotation_desc:0",
+        "original": "Combat, or simply long periods of extensive focus, is exhausting, but by swapping in fresh forces whenever possible we can reduce errors due to pilot fatigue.",
+        "translation": "战争，或者说长时间高度集中注意力，会让人精疲力竭。在尽可能的条件下换上修整好的部队就能减少因飞行员疲劳而带来的失误。",
+        "stage": 1
+    },
+    {
+        "key": "air_defence:0",
+        "original": "Air Defense",
+        "translation": "对空防御",
+        "stage": 1
+    },
+    {
+        "key": "air_defence_desc:0",
+        "original": "By training our pilots to be constantly on the lookout, even when there is apparently no danger, their chances of intercepting enemy planes is increased.",
+        "translation": "训练飞行员即使在没有明显危险的情形下也保持常态警惕，他们拦截敌机的概率会上升。",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_fighting:0",
+        "original": "Dispersed Fighting",
+        "translation": "分散战斗",
+        "stage": 1
+    },
+    {
+        "key": "dispersed_fighting_desc:0",
+        "original": "Adopting a more dispersed formation allows the same number of planes to patrol a greater area.",
+        "translation": "将阵型调整得松散些，同样数量的飞机就能覆盖更大区域。",
+        "stage": 1
+    },
+    {
+        "key": "forward_interception:0",
+        "original": "Forward Interception",
+        "translation": "前出拦截",
+        "stage": 1
+    },
+    {
+        "key": "forward_interception_desc:0",
+        "original": "By operating closer to enemy airspace it becomes more likely that our fighters can intercept enemy planes before they can reach their targets.",
+        "translation": "若在敌领空附近执行任务，我方战斗机在敌机抵达预定目标前就已经拦截敌机的几率会上升。",
+        "stage": 1
+    },
+    {
+        "key": "fighter_veteran_initiative:0",
+        "original": "Fighter Veteran Initiative",
+        "translation": "战斗机老手主导",
+        "stage": 1
+    },
+    {
+        "key": "fighter_veteran_initiative_desc:0",
+        "original": "A focus on long-term pilot survival, both by prudent tactics and by rotating experienced pilots to training positions, means that they can pass on the lessons they have learned to new pilots.",
+        "translation": "着眼于长远并保证飞行员生存，即通过谨慎战术与轮换有经验的飞行员到教官职务来把他们的经验传授给新人。",
+        "stage": 1
+    },
+    {
+        "key": "formation_fighting:0",
+        "original": "Formation Fighting",
+        "translation": "编队战斗",
+        "stage": 1
+    },
+    {
+        "key": "formation_fighting_desc:0",
+        "original": "Flying in the right formations allow our pilots to cover each other's blind spots, which leads to an increased ability to spot enemy planes.",
+        "translation": "用正确的编队飞行我方飞行员就能顾及彼此盲点，发现敌机的能力因此提高。",
+        "stage": 1
+    },
+    {
+        "key": "air_skirmish:0",
+        "original": "Air Skirmish",
+        "translation": "小规模空战",
+        "stage": 1
+    },
+    {
+        "key": "air_skirmish_desc:0",
+        "original": "Regrettably, it is not always possible to destroy every single enemy plane found over our country, but it is possible to harass them from the moment they are spotted until the moment they leave, constantly wearing them down.",
+        "translation": "很遗憾，把侵入我国的敌机每一架悉数击毁有时是不可能的。但从敌机在我国被发现开始到敌机离开期间，我方则可以无时无刻不骚扰敌机并持续削减其数量。",
+        "stage": 1
+    },
+    {
+        "key": "home_defence:0",
+        "original": "Home Defense",
+        "translation": "本土防御",
+        "stage": 1
+    },
+    {
+        "key": "home_defence_desc:0",
+        "original": "Spotters on the ground as well as detection and listening posts work in concert with our air force to track and destroy enemy incursions.",
+        "translation": "地面观察员与侦测监听站将与空军协作以定位并破坏敌军侵略。",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_destruction:0",
+        "original": "Battlefield Destruction",
+        "translation": "战场破坏",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_destruction_desc:0",
+        "original": "While the air force can strike at far off enemy countries, it can also be of great use in directly supporting the army in battles.",
+        "translation": "空军可以远赴敌国进行轰炸，但在战场上直接支援陆军也有巨大作用。",
+        "stage": 1
+    },
+    {
+        "key": "dive_bombing:0",
+        "original": "Dive Bombing",
+        "translation": "俯冲轰炸",
+        "stage": 1
+    },
+    {
+        "key": "dive_bombing_desc:0",
+        "original": "Dive bombing allows greater accuracy, but for best results it requires specialized aircraft both able to slow their dives and survive the stresses of pulling out of them.",
+        "translation": "俯冲轰炸确实更加精确，但为取得最大成果则需要既能减缓俯冲速度又能承受俯冲压力的特殊飞机。",
+        "stage": 1
+    },
+    {
+        "key": "direct_ground_support:0",
+        "original": "Direct Ground Support",
+        "translation": "直接对地支援",
+        "stage": 1
+    },
+    {
+        "key": "direct_ground_support_desc:0",
+        "original": "By closely coordinating CAS pilots with ground-based observers aerial firepower can be precisely directed to best help troops in battle.",
+        "translation": "通过紧密协同近距支援机飞行员和地面观察员，空中火力将被准确引导以为地面部队提供最佳协助。",
+        "stage": 1
+    },
+    {
+        "key": "bomber_veteran_initiative:0",
+        "original": "Bomber Veteran Initiative",
+        "translation": "轰炸机老手主导",
+        "stage": 1
+    },
+    {
+        "key": "bomber_veteran_initiative_desc:0",
+        "original": "A policy of having veteran pilots pass on their knowledge to new recruits greatly helps their survival prospects.",
+        "translation": "让老练飞行员传授知识给新人的政策极大改善新人的生存前景。",
+        "stage": 1
+    },
+    {
+        "key": "bomber_ace_initiative:0",
+        "original": "Bomber Ace Initiative",
+        "translation": "轰炸机王牌主导",
+        "stage": 1
+    },
+    {
+        "key": "bomber_ace_initiative_desc:0",
+        "original": "Formally recognizing and rewarding Ace bomber pilots encourages daring and initiative.",
+        "translation": "正式承认并嘉奖王牌轰炸机飞行员将提高飞行员们的胆量与积极性。",
+        "stage": 1
+    },
+    {
+        "key": "cas_veteran_initiative:0",
+        "original": "Ground Attack Veteran Initiative",
+        "translation": "对地攻击老手主导",
+        "stage": 1
+    },
+    {
+        "key": "cas_veteran_initiative_desc:0",
+        "original": "A policy of having veteran pilots pass on their knowledge to new recruits greatly helps their survival prospects.",
+        "translation": "让老练飞行员传授知识给新人的政策极大改善新人的生存前景。",
+        "stage": 1
+    },
+    {
+        "key": "cas_ace_initiative:0",
+        "original": "Ground Attack Ace Initiative",
+        "translation": "对地攻击王牌主导",
+        "stage": 1
+    },
+    {
+        "key": "cas_ace_initiative_desc:0",
+        "original": "Formally recognizing and rewarding Ace CAS pilots encourages daring and initiative.",
+        "translation": "正式承认并嘉奖王牌近距支援机飞行员将提高飞行员们的胆量与积极性。",
+        "stage": 1
+    },
+    {
+        "key": "hunt_and_destroy:0",
+        "original": "Hunt and Destroy",
+        "translation": "搜寻并摧毁",
+        "stage": 1
+    },
+    {
+        "key": "hunt_and_destroy_desc:0",
+        "original": "As well as offering direct fire support CAS units can independently hunt for targets, often attacking enemy ground forces unexpectedly as they move towards the front lines.",
+        "translation": "在提供直接火力支援的同时，近距支援机亦可独立狩猎目标。敌军尚在开赴前线的地面部队常被其打个措手不及。",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_torpedo_tactics:0",
+        "original": "Naval Strike Torpedo Tactics",
+        "translation": "对舰攻击鱼雷战术",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_torpedo_tactics_desc:0",
+        "original": "Training pilots to strike more precisely with torpedoes will make our air raids on enemy ships more efficient.",
+        "translation": "训练飞行员用鱼雷进行精确轰炸会提高其对敌舰空袭时的效率。",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_torpedo_tactics_oi:0",
+        "original": "Naval Strike Torpedo Tactics",
+        "translation": "对舰攻击鱼雷战术",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_torpedo_tactics_oi_desc:0",
+        "original": "Training pilots to strike more precisely with torpedoes will make our air raids on enemy ships more efficient.",
+        "translation": "训练飞行员用鱼雷进行精确轰炸会提高其对敌舰空袭时的效率。",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_tactics:0",
+        "original": "Naval Strike Tactics",
+        "translation": "对舰攻击战术",
+        "stage": 1
+    },
+    {
+        "key": "naval_strike_tactics_desc:0",
+        "original": "Training pilots in predicting ship movements and coordinating attacks will make our air raids on enemy ships more efficient.",
+        "translation": "训练飞行员预判舰船行动轨迹并协同攻击会提高其对敌舰空袭时的效率。",
+        "stage": 1
+    },
+    {
+        "key": "low_echelon_support:0",
+        "original": "Low Echelon Support",
+        "translation": "低梯队支援",
+        "stage": 1
+    },
+    {
+        "key": "low_echelon_support_desc:0",
+        "original": "By assigning CAS units directly to small ground formations it ensures they always have additional firepower to call on, even when out of range of traditional artillery.",
+        "translation": "将近距离支援机直接派给小型地面部队保证了后者在火炮无法覆盖的区域也能呼叫火力支援。",
+        "stage": 1
+    },
+    {
+        "key": "combat_unit_destruction:0",
+        "original": "Combat Unit Destruction",
+        "translation": "战斗部队摧毁",
+        "stage": 1
+    },
+    {
+        "key": "combat_unit_destruction_desc:0",
+        "original": "Training our CAS pilots to repeatedly attack the same target until it is confirmed to be destroyed ensures targets aren't left alone after a near miss.",
+        "translation": "训练近距地支援机飞行员重复攻击同一目标以保证确实摧毁并避免目标被近失弹攻击后幸存。",
+        "stage": 1
+    },
+    {
+        "key": "operational_destruction:0",
+        "original": "Operational Destruction",
+        "translation": "战术行动破坏",
+        "stage": 1
+    },
+    {
+        "key": "operational_destruction_desc:0",
+        "original": "Attacking the supply lines of enemy ground forces hinders their ability to move between battlefields. This translates to an advantage to our army while operating in areas where we have Air Superiority.",
+        "translation": "攻击敌方地面部队补给线将阻碍敌军辗转于不同战场。这对在我方空优区域战斗的陆军是个优势。",
+        "stage": 1
+    },
+    {
+        "key": "infrastructure_destruction:0",
+        "original": "Infrastructure Destruction",
+        "translation": "基础设施破坏",
+        "stage": 1
+    },
+    {
+        "key": "infrastructure_destruction_desc:0",
+        "original": "Training our pilots in the best ways to attack infrastructure, like railways and bridges, makes for more effective Tactical bombing.",
+        "translation": "训练我方飞行员以最佳方式攻击基础设施，例如针对铁路与桥梁。这使战术轰炸更有效率。",
+        "stage": 1
+    },
+    {
+        "key": "logistical_bombing:0",
+        "original": "Logistical Bombing",
+        "translation": "后勤轰炸",
+        "stage": 1
+    },
+    {
+        "key": "logistical_bombing_desc:0",
+        "original": "A greater focus on attacking the enemy's supply lines from the air gives a greater advantage to our own ground forces in the area.",
+        "translation": "专注于从空中打击敌方补给线将给该区域内作战的我方陆军带来优势。",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_support:0",
+        "original": "Battlefield Support",
+        "translation": "战场支援",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_support_desc:0",
+        "original": "It is difficult for Tactical bombers to attack targets near where our ground forces are in combat, since level bombing is less accurate than dive bombing, but more training and interaction with ground-based observers can help to overcome these problems.",
+        "translation": "对战术轰炸机而言，攻击战场上靠近我方的敌军十分困难，这缘于水平轰炸劣于俯冲轰炸的精准度。但更多的训练以及与地面观察员的协同有利于克服这一问题。",
+        "stage": 1
+    },
+    {
+        "key": "carousel_bombing:0",
+        "original": "Carousel Bombing",
+        "translation": "盘旋轰炸",
+        "stage": 1
+    },
+    {
+        "key": "carousel_bombing_desc:0",
+        "original": "Bombers often simply want to dump all their bombs as soon they reach their target area and then fly home as soon as possible. While this can work for area-bombing, when it comes to hitting a small target it is more effective to linger over the target, dropping only a portion of their bomb load at a time for maximum accuracy.",
+        "translation": "轰炸机往往盼着抵达目标区域后一股脑撒完炸弹就跑路回老家结婚。进行区域轰炸时这是可行的，但攻击小型目标时，在目标上方盘旋且一次性只投下小部分炸弹则保证了最大化的精准。",
+        "stage": 1
+    },
+    {
+        "key": "keypoint_bombing:0",
+        "original": "Keypoint Bombing",
+        "translation": "关键点轰炸",
+        "stage": 1
+    },
+    {
+        "key": "keypoint_bombing_desc:0",
+        "original": "Accurately bombing targeted key points on the battlefield in support of our ground forces can greatly help them to defeat the enemy.",
+        "translation": "精确轰炸战场上的关键点来支援我方地面部队将极大有助于战胜敌军。",
+        "stage": 1
+    },
+    {
+        "key": "ground_support_integration:0",
+        "original": "Ground Support Integration",
+        "translation": "综合对地支援",
+        "stage": 1
+    },
+    {
+        "key": "ground_support_integration_desc:0",
+        "original": "Fully integrating our Tactical bomber force with ground based observers both increases their accuracy and allows them to directly support our ground forces in combat.",
+        "translation": "充分整合我方战术轰炸机部队与地面观察员以提升轰炸机精确度并使其能向地面单位提供直接火力支援。",
+        "stage": 1
+    },
+    {
+        "key": "strategic_destruction:0",
+        "original": "Strategic Destruction",
+        "translation": "战略破坏",
+        "stage": 1
+    },
+    {
+        "key": "strategic_destruction_desc:0",
+        "original": "Our pilots can access strategic targets much faster than our naval or land forces. With no means to equip their new recruits we will soon outnumber the enemy forces.",
+        "translation": "飞行员将比海陆军更快接近战略目标。一旦敌军无法武装其新兵，我方很快就能拥有数量优势。",
+        "stage": 1
+    },
+    {
+        "key": "high_level_bombing:0",
+        "original": "High Level Bombing",
+        "translation": "高层轰炸",
+        "stage": 1
+    },
+    {
+        "key": "high_level_bombing_desc:0",
+        "original": "From higher altitudes we can avoid some aerial engagements and anti-aircraft weaponry. Dropping bombs higher up requires more precision, but it is safer.",
+        "translation": "在高空我方可以避免一些空战及防空火力。高空轰炸牺牲了精度，但更安全。",
+        "stage": 1
+    },
+    {
+        "key": "massed_bomber_formations:0",
+        "original": "Massed Bomber Formations",
+        "translation": "密集轰炸机编队",
+        "stage": 1
+    },
+    {
+        "key": "massed_bomber_formations_desc:0",
+        "original": "By staying in formation our bombers can defend their group and increase our chances of successful bomb drops.",
+        "translation": "通过保持密集编队，我方轰炸机将集群自卫以提高成功轰炸的几率。",
+        "stage": 1
+    },
+    {
+        "key": "night_bombing:0",
+        "original": "Night Bombing",
+        "translation": "夜间轰炸",
+        "stage": 1
+    },
+    {
+        "key": "night_bombing_desc:0",
+        "original": "With enemy defenses lowered and our bombers covered by darkness we can stay offensive and efficient around the clock. Show our enemy how persistent we are.\\n\\n",
+        "translation": "在敌方防卫松懈时，夜幕掩护下的我方轰炸机仍全天候保持侵略性与高效性。让敌军好好见识我方的不懈精神。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "dead_reckoning_bombing:0",
+        "original": "Dead Reckoning Bombing",
+        "translation": "航位推算轰炸",
+        "stage": 1
+    },
+    {
+        "key": "dead_reckoning_bombing_desc:0",
+        "original": "By measuring speed, direction and drift from previous positions we can calculate more precise bomb drops even during the night.",
+        "translation": "通过测量速度，方向以及相对之前的位移，即使在夜晚我方也能进行更精确的轰炸。",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_bombing:0",
+        "original": "Infiltration Bombing",
+        "translation": "渗透轰炸",
+        "stage": 1
+    },
+    {
+        "key": "infiltration_bombing_desc:0",
+        "original": "Joining enemy formations or tailing them back home to base may seem like madness. With enough practice, it is entirely possible.",
+        "translation": "混进敌机编队或尾随敌机返航基地似乎显得丧心病狂。但熟能生巧，这些行动都是完全可能的。",
+        "stage": 1
+    },
+    {
+        "key": "pathfinder_groups:0",
+        "original": "Pathfinder Groups",
+        "translation": "领航大队",
+        "stage": 1
+    },
+    {
+        "key": "pathfinder_groups_desc:0",
+        "original": "Veteran pilots are equipped with the best tools to illuminate target positions. No smoke or bad weather can stop the bombers from carrying out their mission.",
+        "translation": "老练飞行员被给予最好的工具以指示敌方目标位置。缭绕的烟雾与恶劣的天气也无法阻止轰炸机完成任务。",
+        "stage": 1
+    },
+    {
+        "key": "day_bombing:0",
+        "original": "Day Bombing",
+        "translation": "日间轰炸",
+        "stage": 1
+    },
+    {
+        "key": "day_bombing_desc:0",
+        "original": "Focused efforts during the day are devastating due to the big advantage of visibility. Projection of power is a welcome side effect.\\n\\n",
+        "translation": "日间轰炸因为可视度的巨大优势杀伤力巨大。力量投射的影响算是它的一个喜闻乐见的副作用。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "escort_relay_system:0",
+        "original": "Escort Relay System",
+        "translation": "护航中继系统",
+        "stage": 1
+    },
+    {
+        "key": "escort_relay_system_desc:0",
+        "original": "Bombers escorted by fighters greatly improve our ability to respond to enemy fire.",
+        "translation": "轰炸机被战斗机护航后极大增强了应对敌方攻击的能力。",
+        "stage": 1
+    },
+    {
+        "key": "flying_fortress:0",
+        "original": "Flying Fortress",
+        "translation": "飞行堡垒",
+        "stage": 1
+    },
+    {
+        "key": "flying_fortress_desc:0",
+        "original": "Fitting our high-flying heavy bombers with guns to defend themselves and enough armor to take a beating and still return home.",
+        "translation": "给重型高空轰炸机装上自卫机枪和足够装甲，使其在遭击伤后仍能返航。",
+        "stage": 1
+    },
+    {
+        "key": "mass_destruction:0",
+        "original": "Mass Destruction",
+        "translation": "大规模破坏",
+        "stage": 1
+    },
+    {
+        "key": "mass_destruction_desc:0",
+        "original": "Bombers are equipped with the most devastating weapons in great quantities. Guaranteeing results even if only a few of our pilots get through.",
+        "translation": "轰炸机已配置海量最具杀伤力的武器，这保证即使只有少数飞机突防也能取得战果。",
+        "stage": 1
+    },
+    {
+        "key": "fleet_in_being:0",
+        "original": "Fleet In Being",
+        "translation": "存在舰队",
+        "stage": 1
+    },
+    {
+        "key": "fleet_in_being_desc:0",
+        "original": "Ships stay in port where they are safer and only engage enemies at opportune moments. The presence of our ships will make enemies more reluctant to take our ports.\\n\\n",
+        "translation": "舰船将安全地停在港口内直至时机到来再攻击敌军。我方舰船的存在将使敌方更不情愿去攻占我方港口。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "battlefleet_concentration:0",
+        "original": "Battlefleet Concentration",
+        "translation": "作战舰队集中运用",
+        "stage": 1
+    },
+    {
+        "key": "battlefleet_concentration_desc:0",
+        "original": "Call in nearby ships as soon as an enemy vessel is spotted. Coordinated focused fire quickly render enemy ships useless. Hunt them down one by one.",
+        "translation": "在发现一艘敌舰后立即召集临近僚舰并协同集中火力快速瘫痪敌舰。将敌舰一艘接一艘地猎杀掉。",
+        "stage": 1
+    },
+    {
+        "key": "battlefleet_concentration_ti:0",
+        "original": "Battlefleet Concentration",
+        "translation": "作战舰队集中运用",
+        "stage": 1
+    },
+    {
+        "key": "battlefleet_concentration_ti_desc:0",
+        "original": "Call in nearby ships as soon as an enemy vessel is spotted. Coordinated focused fire quickly render enemy ships useless. Hunt them down one by one.",
+        "translation": "在发现一艘敌舰后立即召集临近僚舰并协同集中火力快速瘫痪敌舰。将敌舰一艘接一艘地猎杀掉。",
+        "stage": 1
+    },
+    {
+        "key": "subsidiary_carrier_role:0",
+        "original": "Subsidiary Carrier Role",
+        "translation": "辅助航母任务",
+        "stage": 1
+    },
+    {
+        "key": "subsidiary_carrier_role_desc:0",
+        "original": "Carriers support Battleships, improving their readiness in switching from defense to offense. The utility of the Carrier as both an eye in the sky and a powerful quick strike force complement the slower Battleships well.",
+        "translation": "以航母辅助战列舰，在易守为攻时让其准备更万全。航母被用于提供空中的侦查眼，作为有效的快速打击力量也是对较缓慢的战列舰的良好补充。",
+        "stage": 1
+    },
+    {
+        "key": "subsidiary_carrier_role_ti:0",
+        "original": "Subsidiary Carrier Role",
+        "translation": "辅助航母任务",
+        "stage": 1
+    },
+    {
+        "key": "subsidiary_carrier_role_ti_desc:0",
+        "original": "Carriers support Battleships, improving their readiness in switching from defense to offense. The utility of the Carrier as both an eye in the sky and a powerful quick strike force complement the slower Battleships well.",
+        "translation": "以航母辅助战列舰，在易守为攻时让其准备更万全。航母被用于提供空中的侦查眼，作为有效的快速打击力量也是对较缓慢的战列舰的良好补充。",
+        "stage": 1
+    },
+    {
+        "key": "hunter_killer_groups:0",
+        "original": "Hunter Killer Groups",
+        "translation": "猎杀集团",
+        "stage": 1
+    },
+    {
+        "key": "hunter_killer_groups_desc:0",
+        "original": "Destroyers form groups to hunt down enemy submarines. The combined efforts of scouting and hunting specialists make a fantastic killing team.",
+        "translation": "驱逐舰集群作战以猎取潜艇。将侦查与猎取结合起来能铸就一支出色的杀戮队伍。",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress:0",
+        "original": "Floating Fortress",
+        "translation": "海上堡垒",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress_desc:0",
+        "original": "With battleships on highest alert we will always be prepared to respond if the enemy dares threaten our waters. Any fleet needs a solid foundation and the power of the battleship is unparalleled.",
+        "translation": "让战列舰保持最高度警惕我方就能在敌军胆敢威胁我方领海时随时准备做出反应。任何舰队都需要稳固的基石而战列舰的能力正是无可比拟的。",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress_ti:0",
+        "original": "Floating Fortress",
+        "translation": "海上堡垒",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress_ti_desc:0",
+        "original": "With battleships on highest alert we will always be prepared to respond if the enemy dares threaten our waters. Any fleet needs a solid foundation and the power of the battleship is unparalleled.",
+        "translation": "让战列舰保持最高度警惕我方就能在敌军胆敢威胁我方领海时随时准备做出反应。任何舰队都需要稳固的基石而战列舰的能力正是无可比拟的。",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress_bs:0",
+        "original": "Floating Fortress",
+        "translation": "海上堡垒",
+        "stage": 1
+    },
+    {
+        "key": "floating_fortress_bs_desc:0",
+        "original": "With battleships on highest alert we will always be prepared to respond if the enemy dares threaten our waters. Any fleet needs a solid foundation and the power of the battleship is unparalleled.",
+        "translation": "让战列舰保持最高度警惕我方就能在敌军胆敢威胁我方领海时随时准备做出反应。任何舰队都需要稳固的基石而战列舰的能力正是无可比拟的。",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield:0",
+        "original": "Floating Airfield",
+        "translation": "海上机场",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield_desc:0",
+        "original": "Improved integration of Carriers into our fleet keeps us prepared to strike from both sea and air. It is key that we dominate the air wherever we go.",
+        "translation": "将航母进一步整合到舰队中能使我方随时准备进行海空攻击。无论身在何处我方都需能统治天空，这一点十分关键。",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield_ti:0",
+        "original": "Floating Airfield",
+        "translation": "海上机场",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield_ti_desc:0",
+        "original": "Improved integration of Carriers into our fleet keeps us prepared to strike from both sea and air. It is key that we dominate the air wherever we go.",
+        "translation": "将航母进一步整合到舰队中能使我方随时准备进行海空攻击。无论身在何处我方都需能统治天空，这一点十分关键。",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield_bs:0",
+        "original": "Floating Airfield",
+        "translation": "海上机场",
+        "stage": 1
+    },
+    {
+        "key": "floating_airfield_bs_desc:0",
+        "original": "Improved integration of Carriers into our fleet keeps us prepared to strike from both sea and air. It is key that we dominate the air wherever we go.",
+        "translation": "将航母进一步整合到舰队中能使我方随时准备进行海空攻击。无论身在何处我方都需能统治天空，这一点十分关键。",
+        "stage": 1
+    },
+    {
+        "key": "grand_battlefleet:0",
+        "original": "Grand Battlefleet",
+        "translation": "大作战舰队",
+        "stage": 1
+    },
+    {
+        "key": "grand_battlefleet_desc:0",
+        "original": "Leadership training allow our commanders to keep calm in the heat of battle even when commanding immense fleets. Our fleet will crush any opposition head on.",
+        "translation": "训练将领以让我方指挥官在率领巨大舰队进行酣战时也保持冷静。我方舰队将迎面而上并碾碎任何抵抗。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing:0",
+        "original": "Convoy Sailing",
+        "translation": "运输船队航行",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing_desc:0",
+        "original": "Introducing compulsory convoy sailing will make it easier to spot enemy raids and respond in time. Safety in numbers is the way to go.",
+        "translation": "引入强制性运输让发现敌袭与及时应对更加容易。船多势众会是大趋势。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing_ti:0",
+        "original": "Convoy Sailing",
+        "translation": "运输船队航行",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing_ti_desc:0",
+        "original": "Introducing compulsory convoy sailing will make it easier to spot enemy raids and respond in time. Safety in numbers is the way to go.",
+        "translation": "引入强制性运输让发现敌袭与及时应对更加容易。船多势众会是大趋势。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing_bs:0",
+        "original": "Convoy Sailing",
+        "translation": "运输船队航行",
+        "stage": 1
+    },
+    {
+        "key": "convoy_sailing_bs_desc:0",
+        "original": "Introducing compulsory convoy sailing will make it easier to spot enemy raids and respond in time. Safety in numbers is the way to go.",
+        "translation": "引入强制性运输让发现敌袭与及时应对更加容易。船多势众会是大趋势。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_escorts:0",
+        "original": "Convoy Escorts",
+        "translation": "运输船队护航",
+        "stage": 1
+    },
+    {
+        "key": "convoy_escorts_desc:0",
+        "original": "Fast surface ships as part of our convoys will allow us to spot enemy submarines and respond in time. Detection is the key to eliminating the submarine nuisance.",
+        "translation": "高速水上舰船加入运输队后将让我方能发现敌潜艇并及时应对。侦测是排除惹人嫌的潜艇的关键。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_escorts_bs:0",
+        "original": "Convoy Escorts",
+        "translation": "运输船队护航",
+        "stage": 1
+    },
+    {
+        "key": "convoy_escorts_bs_desc:0",
+        "original": "Fast surface ships as part of our convoys will allow us to spot enemy submarines and respond in time. Detection is the key to eliminating the submarine nuisance.",
+        "translation": "高速水上舰船加入运输队后将让我方能发现敌潜艇并及时应对。侦测是排除惹人嫌的潜艇的关键。",
+        "stage": 1
+    },
+    {
+        "key": "escort_carriers:0",
+        "original": "Escort Carriers",
+        "translation": "护航航母",
+        "stage": 1
+    },
+    {
+        "key": "escort_carriers_desc:0",
+        "original": "The area covered by a Carrier aircrafts makes escorting trade convoys a much easier task. Securing the flow of resources is essential.",
+        "translation": "在航母舰载机覆盖的区域为运输队护航轻松容易。保证资源畅通至关重要。",
+        "stage": 1
+    },
+    {
+        "key": "integrated_convoy_defence:0",
+        "original": "Integrated Convoy Defense",
+        "translation": "综合运输船队防卫",
+        "stage": 1
+    },
+    {
+        "key": "integrated_convoy_defence_desc:0",
+        "original": "Better navy and air coordination allow us to strike at enemies from miles away before they are near our trade convoys. This will drastically increase the effectiveness of convoy sailing.",
+        "translation": "改善海空协同能让我方赶在敌舰接近运输队之前就在长距离对其打击。这将大幅提高海上运输效率。",
+        "stage": 1
+    },
+    {
+        "key": "integrated_convoy_defence_bs:0",
+        "original": "Integrated Convoy Defense",
+        "translation": "综合运输船队防卫",
+        "stage": 1
+    },
+    {
+        "key": "integrated_convoy_defence_bs_desc:0",
+        "original": "Better navy and air coordination allow us to strike at enemies from miles away before they are near our trade convoys. This will drastically increase the effectiveness of convoy sailing.",
+        "translation": "改善海空协同能让我方赶在敌舰接近运输队之前就在长距离对其打击。这将大幅提高海上运输效率。",
+        "stage": 1
+    },
+    {
+        "key": "submarine_operations:0",
+        "original": "Submarine Operations",
+        "translation": "潜艇作战",
+        "stage": 1
+    },
+    {
+        "key": "submarine_operations_desc:0",
+        "original": "We do not need to engage the enemy fleet head on to win the war. Strike at their trade convoys before they can react and disappear below the surface again. You cannot fight what you cannot see.",
+        "translation": "赢得战争并不必须要与敌方舰队正面交战。打运输队措手不及再潜航消失，这对敌方就是所谓的“看不见就打不着”。",
+        "stage": 1
+    },
+    {
+        "key": "submarine_operations_bs:0",
+        "original": "Submarine Operations",
+        "translation": "潜艇作战",
+        "stage": 1
+    },
+    {
+        "key": "submarine_operations_bs_desc:0",
+        "original": "We do not need to engage the enemy fleet head on to win the war. Strike at their trade convoys before they can react and disappear below the surface again. You cannot fight what you cannot see.",
+        "translation": "赢得战争并不必须要与敌方舰队正面交战。打运输队措手不及再潜航消失，这对敌方就是所谓的“看不见就打不着”。",
+        "stage": 1
+    },
+    {
+        "key": "undersea_blockade:0",
+        "original": "Undersea Blockade",
+        "translation": "水下封锁",
+        "stage": 1
+    },
+    {
+        "key": "undersea_blockade_desc:0",
+        "original": "Submarines are the perfect tool for cutting of the enemy's inflow of important raw materials. We will cripple the enemy's production and win by starving them out.",
+        "translation": "潜艇正是切断敌军重要原材料流入的完美工具。我方将瘫痪敌方生产，依靠饥饿战术赢得战争。",
+        "stage": 1
+    },
+    {
+        "key": "undersea_blockade_bs:0",
+        "original": "Undersea Blockade",
+        "translation": "水下封锁",
+        "stage": 1
+    },
+    {
+        "key": "undersea_blockade_bs_desc:0",
+        "original": "Submarines are the perfect tool for cutting of the enemy's inflow of important raw materials. We will cripple the enemy's production and win by starving them out.",
+        "translation": "潜艇正是切断敌军重要原材料流入的完美工具。我方将瘫痪敌方生产，依靠饥饿战术赢得战争。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction:0",
+        "original": "Convoy Interdiction",
+        "translation": "运输船队阻断",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction_desc:0",
+        "original": "Improved coordination of our submarines will let them strike at trade convoys en route. Disrupting the enemy's supply lines will give us the strategic advantage.",
+        "translation": "改善潜艇协同以使其攻击路途中的运输队。扰乱敌方补给线将给我方战略优势。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction_ti:0",
+        "original": "Convoy Interdiction",
+        "translation": "运输船队阻断",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction_ti_desc:0",
+        "original": "Improved coordination of our submarines will let them strike at trade convoys en route. Disrupting the enemy's supply lines will give us the strategic advantage.",
+        "translation": "改善潜艇协同以使其攻击路途中的运输队。扰乱敌方补给线将给我方战略优势。",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction_bs:0",
+        "original": "Convoy Interdiction",
+        "translation": "运输船队阻断",
+        "stage": 1
+    },
+    {
+        "key": "convoy_interdiction_bs_desc:0",
+        "original": "Improved coordination of our submarines will let them strike at trade convoys en route. Disrupting the enemy's supply lines will give us the strategic advantage.",
+        "translation": "改善潜艇协同以使其攻击路途中的运输队。扰乱敌方补给线将给我方战略优势。",
+        "stage": 1
+    },
+    {
+        "key": "submarine_offensive:0",
+        "original": "Submarine Offensive",
+        "translation": "潜艇攻势",
+        "stage": 1
+    },
+    {
+        "key": "submarine_offensive_desc:0",
+        "original": "Reaching the pinnacle of communication between our submarines allows them to go on the offensive. Let us destroy the enemy trade convoys faster than they can replace them.",
+        "translation": "使潜艇间通讯最大化以开展攻势。让我方摧毁运输队的速度压倒敌方重建的速度吧。",
+        "stage": 1
+    },
+    {
+        "key": "submarine_offensive_bs:0",
+        "original": "Submarine Offensive",
+        "translation": "潜艇攻势",
+        "stage": 1
+    },
+    {
+        "key": "submarine_offensive_bs_desc:0",
+        "original": "Reaching the pinnacle of communication between our submarines allows them to go on the offensive. Let us destroy the enemy trade convoys faster than they can replace them.",
+        "translation": "使潜艇间通讯最大化以开展攻势。让我方摧毁运输队的速度压倒敌方重建的速度吧。",
+        "stage": 1
+    },
+    {
+        "key": "trade_interdiction:0",
+        "original": "Trade Interdiction",
+        "translation": "贸易阻断",
+        "stage": 1
+    },
+    {
+        "key": "trade_interdiction_desc:0",
+        "original": "The sooner we spot the enemy ships, the sooner we can destroy them. Hit their trade convoys and escape before they have time to react.\\n\\n",
+        "translation": "我方越早发现敌舰，就越早能击沉他们。打击他们的贸易运输船队并在他们反应过来之前逃脱。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "unrestricted_submarine_warfare:0",
+        "original": "Unrestricted Submarine Warfare",
+        "translation": "无限制潜艇战",
+        "stage": 1
+    },
+    {
+        "key": "unrestricted_submarine_warfare_desc:0",
+        "original": "Let our submarines sink any vessel without warning, civilian or not. While some consider this a breach of the rules of war, there is no denying its effectiveness.",
+        "translation": "让我方的潜艇击沉所有船只，无论民用与否，也无需事先警告。尽管有些人认为这违反战争的法则，但是并不能否认它的有效性。",
+        "stage": 1
+    },
+    {
+        "key": "wolfpacks:0",
+        "original": "Wolf packs",
+        "translation": "狼群战术",
+        "stage": 1
+    },
+    {
+        "key": "wolfpacks_desc:0",
+        "original": "With our submarines organized into packs the coordination between them is greatly improved. Once an enemy is located our submarine lies in wait until the rest of the pack arrives, attacking only when the odds are overwhelmingly in our favor.",
+        "translation": "我方潜艇组成狼群作战，协同大幅提高。一旦发现敌舰，潜艇将静候整个狼群到来并静静选择我方拥有压倒性优势时才发起攻击。",
+        "stage": 1
+    },
+    {
+        "key": "advanced_submarine_warfare:0",
+        "original": "Advanced Submarine Warfare",
+        "translation": "先进潜艇战术",
+        "stage": 1
+    },
+    {
+        "key": "advanced_submarine_warfare_desc:0",
+        "original": "A massive improvement on communication between our submarines lets them time attacks to perfection. When they finally see us it will be from a sinking ship.",
+        "translation": "大幅提高潜艇间通讯使潜艇能掐住完美时机发起攻击。当敌方最终发现我方时，敌舰已将沉入海底。",
+        "stage": 1
+    },
+    {
+        "key": "combined_operations_raiding:0",
+        "original": "Combined Operations Raiding",
+        "translation": "联合突袭行动",
+        "stage": 1
+    },
+    {
+        "key": "combined_operations_raiding_desc:0",
+        "original": "Designating all resources to hunt for enemy trade convoys. Coordination between our main fleet and submarines makes our fleet ever alert. No ship will go unnoticed in our waters.",
+        "translation": "把所有资源都投入袭击敌方运输队中。主力舰队与潜艇间的协同将使舰队保持常态警惕。一艘敌舰也无法偷偷溜过我方水域。",
+        "stage": 1
+    },
+    {
+        "key": "raider_patrols:0",
+        "original": "Raider Patrols",
+        "translation": "袭击性巡逻",
+        "stage": 1
+    },
+    {
+        "key": "raider_patrols_desc:0",
+        "original": "Patrols of both fast and gun heavy ships leave the enemy trade convoys nowhere to hide. \\nNot only submarines can hunt.",
+        "translation": "来自高速舰船与重武装舰船两方的战斗巡逻将使敌方运输队无可遁形。\\n能狩猎的不仅仅是潜艇。",
+        "stage": 1
+    },
+    {
+        "key": "capital_ship_raiders:0",
+        "original": "Capital Ship Raiders",
+        "translation": "主力舰袭击",
+        "stage": 1
+    },
+    {
+        "key": "capital_ship_raiders_desc:0",
+        "original": "With our most powerful ships on the hunt for trade convoys, the enemy will no longer find safety in numbers. They are sitting ducks, praying that we will not find them.",
+        "translation": "在我方将最强力的战舰投入到攻击运输队中后，敌方的舰多势众不再有效。敌方不过是祈祷不被我方发现的待宰羔羊。",
+        "stage": 1
+    },
+    {
+        "key": "carrier_operations:0",
+        "original": "Carrier Operations",
+        "translation": "航母作战",
+        "stage": 1
+    },
+    {
+        "key": "carrier_operations_desc:0",
+        "original": "Carriers will allow our pilots to strike at sea faster and easier than from our airbases on land. We will strike before they have time to react.",
+        "translation": "相比从陆基基地出发的情况，航母让我方飞行员能更快捷方便地进行对海攻击。我方将在敌方来得及反应前就开展攻击。",
+        "stage": 1
+    },
+    {
+        "key": "naval_air_operations:0",
+        "original": "Naval Air Operations",
+        "translation": "舰载航空兵作战",
+        "stage": 1
+    },
+    {
+        "key": "naval_air_operations_desc:0",
+        "original": "Pilots trained to perform missions from carriers opens a new way for us to dominate the seas. Airplanes are an efficient way of thinning out the enemy fleet.",
+        "translation": "受训从航母出发执勤的飞行员让我方有了统治海洋的新途径。战机攻击是削弱敌舰队的有效方法。",
+        "stage": 1
+    },
+    {
+        "key": "base_strike:0",
+        "original": "Base Strike",
+        "translation": "基地打击",
+        "stage": 1
+    },
+    {
+        "key": "base_strike_desc:0",
+        "original": "Striking at the enemy's ports will cripple their ability to rebuild their fleet. This will allow us to dominate the seas by sheer numbers.\\n\\n",
+        "translation": "对敌港口的打击将瘫痪敌方重建舰队的能力。这让我方能以纯粹的数量优势统治海洋。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "carrier_primacy:0",
+        "original": "Carrier Primacy",
+        "translation": "航母优先",
+        "stage": 1
+    },
+    {
+        "key": "carrier_primacy_desc:0",
+        "original": "Modern airplanes have greater range and precision than ordinary naval guns. Integrate carriers into our fleet and dominate the seas from the sky.",
+        "translation": "现代战机比起普通舰炮有更大射程与精确度。把航母整合到舰队中便可利用空中武力统治海洋。",
+        "stage": 1
+    },
+    {
+        "key": "carrier_task_forces:0",
+        "original": "Carrier Task Forces",
+        "translation": "航母特混舰队",
+        "stage": 1
+    },
+    {
+        "key": "carrier_task_forces_desc:0",
+        "original": "Organized task forces with carriers and light cruisers ensures that the enemy will never catch us off guard.",
+        "translation": "用航母与轻巡洋舰组成特遣舰队以保证敌方无法进行奇袭。",
+        "stage": 1
+    },
+    {
+        "key": "massed_strikes:0",
+        "original": "Massed Strikes",
+        "translation": "大规模打击",
+        "stage": 1
+    },
+    {
+        "key": "massed_strikes_desc:0",
+        "original": "Pilots trained for carrier missions will allow even an overcrowded carrier to function smoothly, swarming the enemy and vastly improving their effectiveness in naval battles. A carrier needs to run like a well-oiled machine where everyone knows their role.",
+        "translation": "训练飞行员执行航母任务以使满载飞机的航母也能顺利运作再以机群淹没敌舰，还能大幅提高舰载机的海战效率。一艘航母需要像良好润滑的机器一样运转，让每个船员都各司其职。",
+        "stage": 1
+    },
+    {
+        "key": "carrier_battlegroups:0",
+        "original": "Carrier Battlegroups",
+        "translation": "航母战斗群",
+        "stage": 1
+    },
+    {
+        "key": "carrier_battlegroups_desc:0",
+        "original": "Carriers are able to strike at the enemy from a greater distance than any naval cannon and with eyes in the sky we will never be caught off guard. Carriers in mass is a force to be reckoned with.",
+        "translation": "航母能在舰炮射程外打击敌方并提供空中的侦查眼让我方不至于遭偷袭。航母集群将是股不可忽视的力量。",
+        "stage": 1
+    },
+    {
+        "key": "escort_patrols:0",
+        "original": "Escort Patrols",
+        "translation": "护航航空母舰",
+        "stage": 1
+    },
+    {
+        "key": "escort_patrols_desc:0",
+        "original": "Improving detection makes our convoy escorts far deadlier to submarines. With nowhere to hide they pose no real threat.",
+        "translation": "提高侦测能力使我方运输护航对潜艇更致命。无处匿踪的潜艇构成不了真正的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_PROGRESS_DONE:0",
+        "original": "§TResearched time: $WEEKS|H$§!",
+        "translation": "§T研究时间 $WEEKS|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_PROGRESS_COMPACT:0",
+        "original": "§T$DAYS|H$ day(s)§!",
+        "translation": "§T$DAYS|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_PROGRESS_INSTANT:0",
+        "original": "§TInstantly§!",
+        "translation": "§T立即§!",
+        "stage": 1
+    },
+    {
+        "key": "already_researching:0",
+        "original": "§GYou are already researching this technology.§!",
+        "translation": "§G你正在研究此项科技。§!",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_CAS:0",
+        "original": "Close Air\\nSupport",
+        "translation": "近距支援机\\n",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_FIGHTER:0",
+        "original": "Fighter",
+        "translation": "战斗机",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_NAV:0",
+        "original": "Naval\\nBomber",
+        "translation": "海军轰炸机\\n",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_HEAVY_FIGHTER:0",
+        "original": "Heavy\\nFighter",
+        "translation": "重型战斗机\\n",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_MEDIUM_BOMBER:0",
+        "original": "Tactical\\nBomber",
+        "translation": "战术轰炸机\\n",
+        "stage": 1
+    },
+    {
+        "key": "AIR_TITLE_STRAT_BOMBER:0",
+        "original": "Strategic\\nBomber",
+        "translation": "战略轰炸机\\n",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_FLEET_IN_BEING:0",
+        "original": "Fleet in Being",
+        "translation": "存在舰队学说",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_TRADE_INTERDICTION:0",
+        "original": "Trade Interdiction",
+        "translation": "贸易阻断学说",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_BASE_STRIKE:0",
+        "original": "Base Strike",
+        "translation": "基地打击学说",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_BATTLEFIELD_SUPPORT:0",
+        "original": "Battlefield Support",
+        "translation": "战场支援学说",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_OPERATIONAL_INTEGRITY:0",
+        "original": "Operational Integrity",
+        "translation": "连续作战学说",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_STRATEGIC_DESTRUCTION:0",
+        "original": "Strategic Destruction",
+        "translation": "战略破坏学说 ",
+        "stage": 1
+    },
+    {
+        "key": "MOBILE_WARFARE_DOCTRINE_LABEL:0",
+        "original": "MOBILE WARFARE DOCTRINE",
+        "translation": "机动作战学说",
+        "stage": 1
+    },
+    {
+        "key": "MOBILE_WARFARE_DOCTRINE_DESC:0",
+        "original": "Mobile Warfare is a focus on speed and maneuver to cut off and disorganize enemy forces.",
+        "translation": "机动作战专注于以速度和机动分割并瓦解敌军。",
+        "stage": 1
+    },
+    {
+        "key": "SUPERIOR_FIREPOWER_DOCTRINE_LABEL:0",
+        "original": "SUPERIOR FIREPOWER DOCTRINE",
+        "translation": "优势火力学说",
+        "stage": 1
+    },
+    {
+        "key": "SUPERIOR_FIREPOWER_DOCTRINE_DESC:0",
+        "original": "This doctrine focuses on throwing shells, not men, at the enemy. Our manpower is precious, bullets are cheap.",
+        "translation": "优势火力学说重视以倾泻炮火而非投入士兵来制敌。人命关天，但子弹价廉。",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_BATTLEPLAN_DOCTRINE_LABEL:0",
+        "original": "GRAND BATTLEPLAN DOCTRINE",
+        "translation": "决战计划学说",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_BATTLEPLAN_DOCTRINE_DESC:0",
+        "original": "Extensive planning and preparation before engaging in battle is the key to success.",
+        "translation": "周密策划与充分准备后再展开作战是决胜关键。",
+        "stage": 1
+    },
+    {
+        "key": "MASS_ASSAULT_DOCTRINE_LABEL:0",
+        "original": "MASS ASSAULT DOCTRINE",
+        "translation": "人海突击学说",
+        "stage": 1
+    },
+    {
+        "key": "MASS_ASSAULT_DOCTRINE_DESC:0",
+        "original": "Perfect\" weapons are overrated, a large number of \"good enough\" weapons is the path to victory!",
+        "translation": "“完美无缺”的武器被高估了，海量“可堪一用”的武器才能将我军导向胜利！",
+        "stage": 1
+    },
+    {
+        "key": "MOBILE_INFANTRY_LABEL:0",
+        "original": "MOBILE INFANTRY",
+        "translation": "机动步兵",
+        "stage": 1
+    },
+    {
+        "key": "MOBILE_INFANTRY_LABEL_TT:0",
+        "original": "Improve speed and organization of motorized infantry.",
+        "translation": "提高摩托化/机械化步兵的速度与组织度。",
+        "stage": 1
+    },
+    {
+        "key": "BLITZKRIEG_LABEL:0",
+        "original": "BLITZKRIEG",
+        "translation": "闪电战",
+        "stage": 1
+    },
+    {
+        "key": "BLITZKRIEG_LABEL_TT:0",
+        "original": "Improve organization of armored units.",
+        "translation": "提高装甲单位的组织度。",
+        "stage": 1
+    },
+    {
+        "key": "DESPERATE_DEFENSE_LABEL:0",
+        "original": "DESPERATE DEFENSE",
+        "translation": "殊死防守",
+        "stage": 1
+    },
+    {
+        "key": "DESPERATE_DEFENSE_LABEL_TT:0",
+        "original": "Maximize recruitment and guerilla tactics.",
+        "translation": "最大化征募及游击队战术。",
+        "stage": 1
+    },
+    {
+        "key": "MODERN_BLITZKRIEG_LABEL:0",
+        "original": "MODERN BLITZKRIEG",
+        "translation": "现代闪电战",
+        "stage": 1
+    },
+    {
+        "key": "MODERN_BLITZKRIEG_LABEL_TT:0",
+        "original": "Improve army organization and counter tactics.",
+        "translation": "提高陆军组织度及反击战术。",
+        "stage": 1
+    },
+    {
+        "key": "DISPERSED_SUPPORT_LABEL:0",
+        "original": "DISPERSED SUPPORT",
+        "translation": "分散支援",
+        "stage": 1
+    },
+    {
+        "key": "DISPERSED_SUPPORT_LABEL_TT:0",
+        "original": "Improve organization and effectiveness of line artillery.",
+        "translation": "提高炮兵的组织度与效率。",
+        "stage": 1
+    },
+    {
+        "key": "INTEGRATED_SUPPORT_LABEL:0",
+        "original": "INTEGRATED SUPPORT",
+        "translation": "综合支援",
+        "stage": 1
+    },
+    {
+        "key": "INTEGRATED_SUPPORT_LABEL_TT:0",
+        "original": "Improve organization and effectiveness of support units.",
+        "translation": "提高支援单位的组织度与效率。",
+        "stage": 1
+    },
+    {
+        "key": "AIRLAND_BATTLE_LABEL:0",
+        "original": "AIRLAND BATTLE",
+        "translation": "空地一体化作战",
+        "stage": 1
+    },
+    {
+        "key": "AIRLAND_BATTLE_LABEL_TT:0",
+        "original": "Improve attack capabilities of army.",
+        "translation": "提高陆军进攻能力。",
+        "stage": 1
+    },
+    {
+        "key": "SHOCK_AND_AWE_LABEL:0",
+        "original": "SHOCK & AWE",
+        "translation": "威慑行动",
+        "stage": 1
+    },
+    {
+        "key": "SHOCK_AND_AWE_LABEL_TT:0",
+        "original": "Improve general effectiveness of army.",
+        "translation": "提高陆军总体效率。",
+        "stage": 1
+    },
+    {
+        "key": "ASSAULT_LABEL:0",
+        "original": "ASSAULT",
+        "translation": "突袭",
+        "stage": 1
+    },
+    {
+        "key": "ASSAULT_LABEL_TT:0",
+        "original": "Focus on direct and frontal attacks with armor.",
+        "translation": "着眼于用装甲直接进行正面突破。",
+        "stage": 1
+    },
+    {
+        "key": "INFILTRATION_LABEL:0",
+        "original": "INFILTRATION",
+        "translation": "渗透",
+        "stage": 1
+    },
+    {
+        "key": "INFILTRATION_LABEL_TT:0",
+        "original": "Focus on deception and unconventional infantry strategies.",
+        "translation": "着眼于诡道与非传统士兵战略。",
+        "stage": 1
+    },
+    {
+        "key": "DEEP_BATTLE_LABEL:0",
+        "original": "DEEP BATTLE",
+        "translation": "纵深战斗",
+        "stage": 1
+    },
+    {
+        "key": "DEEP_BATTLE_LABEL_TT:0",
+        "original": "Improve support and abilities to strike deep into enemy territory.",
+        "translation": "提高深入敌方领土时的攻击与支援能力。",
+        "stage": 1
+    },
+    {
+        "key": "MASS_MOBILIZATION_LABEL:0",
+        "original": "MASS MOBILIZATION",
+        "translation": "大规模动员",
+        "stage": 1
+    },
+    {
+        "key": "MASS_MOBILIZATION_LABEL_TT:0",
+        "original": "Maximize recruitment and strength in numbers.",
+        "translation": "最大化征募与集群作战能力。",
+        "stage": 1
+    },
+    {
+        "key": "FLEET_IN_BEING_DESC:0",
+        "original": "A strong fleet focused around battleships means that we are a force to be reckoned with when deployed at sea.",
+        "translation": "一支以战列舰为核心的强大舰队意味着我方在海上不容被忽视。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INTERDICTION_DESC:0",
+        "original": "Against a stronger naval opponent we can focus on tying up their fleet and destroying supply lines to starve their war machine.",
+        "translation": "应对强势敌海军时，我方可以着眼于让敌舰队陷入疲惫并打击补给线来敌方的战争机器陷入困顿。",
+        "stage": 1
+    },
+    {
+        "key": "BASE_STRIKE_DESC:0",
+        "original": "With a strong focus on carriers and their support, no enemy will be outside our reach, whether on land or at sea.",
+        "translation": "大幅侧重于航母与其支援，无论在海洋或是陆地都没有我方触及不到的敌人。",
+        "stage": 1
+    },
+    {
+        "key": "AIR_SUPERIORITY_DESC:0",
+        "original": "Our fighters are the backbone of the air force and both defend our skies, escort bombers and clear the skies of enemies for our ground troops.",
+        "translation": "我方战斗机是空军骨干，它们负责捍卫领空、护航轰炸机并替地面单位扫荡敌机。",
+        "stage": 1
+    },
+    {
+        "key": "BATTLEFIELD_SUPPORT_DESC:1",
+        "original": "By improving how close air support interacts with divisions we can lay waste to enemy divisions with optimal support",
+        "translation": "提高空中支援和地面部队协作的紧密性，我方将以最佳的支援让敌方部队溃不成军。",
+        "stage": 1
+    },
+    {
+        "key": "OPERATIONAL_INTEGRITY_DESC:0",
+        "original": "Tactical bombers are flexible and can perform both ground support and regular bombing",
+        "translation": "战术轰炸机用途多样，既能进行常规轰炸也能运用于对地支援。",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGIC_DESTRUCTION_DESC:0",
+        "original": "By bombing the enemies factories, either by night, or more dangerously, during the day we can seriously hinder their war machine.",
+        "translation": "在夜间甚至更危险的白天对敌方工厂进行轰炸，我方可以严重扰乱敌方的战争机器。",
+        "stage": 1
+    },
+    {
+        "key": "base_cost:0",
+        "original": "Base Cost",
+        "translation": "基础损耗",
+        "stage": 1
+    },
+    {
+        "key": "civilian_industry:0",
+        "original": "Civilian industry",
+        "translation": "民用工业",
+        "stage": 1
+    },
+    {
+        "key": "military_industry:0",
+        "original": "Military industry",
+        "translation": "军用工业",
+        "stage": 1
+    },
+    {
+        "key": "research_requirements_or:0",
+        "original": "Requires one of the following technologies:",
+        "translation": "需要下列科技之一：",
+        "stage": 1
+    },
+    {
+        "key": "research_requirements_and:0",
+        "original": "Requires the following technologies:",
+        "translation": "需要下列科技：",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_REQUIREMENTS_SINGLE:0",
+        "original": "§RRequires Technology ($TECH$)§!",
+        "translation": "§R需要($TECH$)科技§!",
+        "stage": 1
+    },
+    {
+        "key": "UNUSED_SLOT:0",
+        "original": "Select a technology to research",
+        "translation": "选择一项科技",
+        "stage": 1
+    },
+    {
+        "key": "ETA_SHORT_D:0",
+        "original": "§T$DAYS|H$ day(s)§!",
+        "translation": "§T$DAYS|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "ETA_SHORT_W:0",
+        "original": "§T$WEEKS|H$ weeks§!",
+        "translation": "§T$WEEKS|H$周§!",
+        "stage": 1
+    },
+    {
+        "key": "ETA_DAYS_WEEKS:0",
+        "original": "§T$DAYS|H$ day(s) and $WEEKS|H$ week(s) out of $COST|H$ day(s) remaining.§!",
+        "translation": "剩余$WEEKS|H$周零§T$DAYS|H$日，共$COST|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "ETA_WEEKS:0",
+        "original": "§T$WEEKS|H$ weeks out of $COST|H$ day(s) remaining.§!",
+        "translation": "剩余§T$WEEKS|H$周，共$COST|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "ETA_DAYS:0",
+        "original": "§T$DAYS|H$ day(s) out of $COST|H$ day(s) remaining.§!",
+        "translation": "剩余§T$DAYS|H$日，共$COST|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_PROGRESS:0",
+        "original": "§T$PROGRESS|%1H$ finished.§!",
+        "translation": "§T$PROGRESS|%1H$ 完成§!",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_IS_BEING_RESEARCHED:0",
+        "original": "Is being researched: ",
+        "translation": "正在研究中：",
+        "stage": 1
+    },
+    {
+        "key": "RESEARCH_HAS_STARTED_RESEARCH:0",
+        "original": "Has been researched before: ",
+        "translation": "已经研究过：",
+        "stage": 1
+    },
+    {
+        "key": "DAYS_SAVED:0",
+        "original": "§T$DAYS|H$ day(s) out of $MAX|H$ day(s) saved.§!",
+        "translation": "已节省$MAX|H$日中的§T$DAYS|H$日§!",
+        "stage": 1
+    },
+    {
+        "key": "DAYS_SAVED_DESC:0",
+        "original": "§TYou can save a maximum of $MAX|H$ research days per research slot. Assign a technology to use saved research days.§!",
+        "translation": "§T每个科研槽最多可以积累$MAX|H$天的科研进度。选择一项科技以使用积累的天数。§!",
+        "stage": 1
+    },
+    {
+        "key": "DAYS_SAVED_RESEARCH_DESC:0",
+        "original": "Days saved: $DAYS|0G$\\n",
+        "translation": "节省天数：$DAYS|0G$\\n",
+        "stage": 1
+    },
+    {
+        "key": "NO_RESEARCH_PENALTY:0",
+        "original": "§GTech is current - no research penalty§!",
+        "translation": "§G科技是当前年代的 - 无研究惩罚§!",
+        "stage": 1
+    },
+    {
+        "key": "FINISHED_RESEARCH_POPUP_DESC:0",
+        "original": "...and $NUM|H$ additional effects. See Details.",
+        "translation": "……和$NUM|H$个附加效果。查看详情。",
+        "stage": 1
+    },
+    {
+        "key": "dd_tech:0",
+        "original": "Destroyer models",
+        "translation": "驱逐舰型号",
+        "stage": 1
+    },
+    {
+        "key": "cl_tech:0",
+        "original": "Light Cruiser models",
+        "translation": "轻巡洋舰型号",
+        "stage": 1
+    },
+    {
+        "key": "ca_tech:0",
+        "original": "Heavy Cruiser models",
+        "translation": "重巡洋舰型号",
+        "stage": 1
+    },
+    {
+        "key": "cv_tech:0",
+        "original": "Carrier models",
+        "translation": "航空母舰型号",
+        "stage": 1
+    },
+    {
+        "key": "bc_tech:0",
+        "original": "Battlecruiser models ",
+        "translation": "战列巡洋舰型号",
+        "stage": 1
+    },
+    {
+        "key": "bb_tech:0",
+        "original": "Battleship models",
+        "translation": "战列舰型号",
+        "stage": 1
+    },
+    {
+        "key": "shbb_tech:0",
+        "original": "Superheavy Battleship models",
+        "translation": "超重战列舰型号",
+        "stage": 1
+    },
+    {
+        "key": "ss_tech:0",
+        "original": "Submarine models",
+        "translation": "潜艇型号",
+        "stage": 1
+    },
+    {
+        "key": "tp_tech:0",
+        "original": "Transport models",
+        "translation": "运输船",
+        "stage": 1
+    },
+    {
+        "key": "synth_resources:0",
+        "original": "Synthetic resources",
+        "translation": "合成资源",
+        "stage": 1
+    },
+    {
+        "key": "light_fighter:0",
+        "original": "Fighter models",
+        "translation": "轻型战斗机型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_heavy_fighter:0",
+        "original": "Heavy Fighter models",
+        "translation": "重型战斗机型号",
+        "stage": 1
+    },
+    {
+        "key": "tactical_bomber:0",
+        "original": "Tactical Bomber models",
+        "translation": "战术轰炸机型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_strategic_bomber:0",
+        "original": "Strategic Bomber models",
+        "translation": "战略轰炸机型号",
+        "stage": 1
+    },
+    {
+        "key": "naval_bomber:0",
+        "original": "Naval Bomber models",
+        "translation": "海军轰炸机型号",
+        "stage": 1
+    },
+    {
+        "key": "cas_bomber:0",
+        "original": "Close Air Support models",
+        "translation": "近距支援机型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_mechanized_equipment:0",
+        "original": "Mechanized models",
+        "translation": "机械化部队型号",
+        "stage": 1
+    },
+    {
+        "key": "encryption_tech:0",
+        "original": "Encryption methods",
+        "translation": "编码手段",
+        "stage": 1
+    },
+    {
+        "key": "decryption_tech:0",
+        "original": "Decryption methods",
+        "translation": "解码手段",
+        "stage": 1
+    },
+    {
+        "key": "computing_tech:0",
+        "original": "Computing technology",
+        "translation": "计算机科技",
+        "stage": 1
+    },
+    {
+        "key": "radar_tech:0",
+        "original": "RADAR technology",
+        "translation": "雷达科技",
+        "stage": 1
+    },
+    {
+        "key": "infantry_tech:0",
+        "original": "Infantry technology",
+        "translation": "步兵科技",
+        "stage": 1
+    },
+    {
+        "key": "support_tech:0",
+        "original": "Support technology",
+        "translation": "支援科技",
+        "stage": 1
+    },
+    {
+        "key": "marine_tech:0",
+        "original": "Marine technology",
+        "translation": "海军陆战队科技",
+        "stage": 1
+    },
+    {
+        "key": "mountaineers_tech:0",
+        "original": "Mountaineers Technology",
+        "translation": "山地步兵科技",
+        "stage": 1
+    },
+    {
+        "key": "engineers_tech:0",
+        "original": "Engineers Technology",
+        "translation": "工兵科技",
+        "stage": 1
+    },
+    {
+        "key": "construction_tech:0",
+        "original": "Construction technology",
+        "translation": "建筑科技",
+        "stage": 1
+    },
+    {
+        "key": "nuclear:0",
+        "original": "Nuclear Technology",
+        "translation": "核科技",
+        "stage": 1
+    },
+    {
+        "key": "rocketry:0",
+        "original": "Rocketry technology",
+        "translation": "火箭学科技",
+        "stage": 1
+    },
+    {
+        "key": "land_doctrine:0",
+        "original": "Land Doctrine",
+        "translation": "陆军学说",
+        "stage": 1
+    },
+    {
+        "key": "air_doctrine:0",
+        "original": "Air Doctrine",
+        "translation": "空军学说",
+        "stage": 1
+    },
+    {
+        "key": "naval_doctrine:0",
+        "original": "Naval Doctrine",
+        "translation": "海军学说",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_support_tree:0",
+        "original": "Battlefield Support Doctrine",
+        "translation": "战场支援学说",
+        "stage": 1
+    },
+    {
+        "key": "battlefield_support_tree_research:0",
+        "original": "Battlefield Support Doctrine",
+        "translation": "战场支援学说",
+        "stage": 1
+    },
+    {
+        "key": "operational_integrity_tree:0",
+        "original": "Operational Integrity Doctrine",
+        "translation": "连续作战学说",
+        "stage": 1
+    },
+    {
+        "key": "strategic_destruction_tree:0",
+        "original": "Strategic Destruction Doctrine",
+        "translation": "战略破坏学说",
+        "stage": 1
+    },
+    {
+        "key": "armor:0",
+        "original": "Armor technology",
+        "translation": "装甲科技",
+        "stage": 1
+    },
+    {
+        "key": "cat_light_armor:0",
+        "original": "Light Tank models",
+        "translation": "轻型坦克型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_medium_armor:0",
+        "original": "Medium Tank models",
+        "translation": "中型坦克型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_heavy_armor:0",
+        "original": "Heavy Tank models",
+        "translation": "重型坦克型号",
+        "stage": 1
+    },
+    {
+        "key": "cat_anti_tank:0",
+        "original": "Anti-Tank",
+        "translation": "反坦克炮型号",
+        "stage": 1
+    },
+    {
+        "key": "submarine_doctrine:0",
+        "original": "Submarine Operations Doctrines",
+        "translation": "潜艇作战学说",
+        "stage": 1
+    },
+    {
+        "key": "MUTUALLY_EXCLUSIVE_TREE:0",
+        "original": "§TThe branches are mutually exclusive. Research can only progress in one of the branches.§!",
+        "translation": "§T这些分支不能同时进行。只能选择其中一个进行研究§!",
+        "stage": 1
+    },
+    {
+        "key": "jet_technology:0",
+        "original": "Jet technology",
+        "translation": "喷气式飞机科技",
+        "stage": 1
+    },
+    {
+        "key": "convoy_defense_tree:0",
+        "original": "Convoy Defense Doctrine",
+        "translation": "运输护航学说",
+        "stage": 1
+    },
+    {
+        "key": "medium_air:0",
+        "original": "Medium aircraft",
+        "translation": "中型飞机",
+        "stage": 1
+    },
+    {
+        "key": "light_air:0",
+        "original": "Light aircraft",
+        "translation": "轻型飞机",
+        "stage": 1
+    },
+    {
+        "key": "heavy_air:0",
+        "original": "Heavy aircraft",
+        "translation": "重型飞机",
+        "stage": 1
+    },
+    {
+        "key": "naval_air:0",
+        "original": "Naval aircraft",
+        "translation": "海军飞机",
+        "stage": 1
+    },
+    {
+        "key": "trade_interdiction_tree:0",
+        "original": "Trade Interdiction Doctrines",
+        "translation": "贸易阻断学说",
+        "stage": 1
+    },
+    {
+        "key": "decryption_tech_research:1",
+        "original": "Decryption Research Time",
+        "translation": "解码研究时间",
+        "stage": 1
+    },
+    {
+        "key": "encryption_tech_research:1",
+        "original": "Encryption Research Time",
+        "translation": "编码研究时间",
+        "stage": 1
+    },
+    {
+        "key": "suicide_craft:0",
+        "original": "Yokosuka MXY7 Ohka",
+        "translation": "MXY7樱花特别攻击机",
+        "stage": 1
+    },
+    {
+        "key": "suicide_craft_desc:0",
+        "original": "Rocket powered kamikaze craft",
+        "translation": "依靠火箭推进的神风特攻机。",
+        "stage": 1
+    },
+    {
+        "key": "fleet_in_being_tree:0",
+        "original": "Fleet in Being Doctrines",
+        "translation": "存在舰队学说",
+        "stage": 1
+    },
+    {
+        "key": "electronics:0",
+        "original": "Electronics",
+        "translation": "电子学",
+        "stage": 1
+    },
+    {
+        "key": "air_equipment_research:1",
+        "original": "Air Research Time",
+        "translation": "空军研究时间",
+        "stage": 1
+    },
+    {
+        "key": "support_tech_research:0",
+        "original": "Support Unit Research Time",
+        "translation": "支援单位研究时间",
+        "stage": 1
+    },
+    {
+        "key": "synth_resources_research:1",
+        "original": "Synthetic Resources Research Time",
+        "translation": "合成资源研究时间",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_ELECTRONIC_SUBTITLE:0",
+        "original": "Electronic Engineering",
+        "translation": "电子工程",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_EXP_ROCKETS_SUBTITLE:0",
+        "original": "Experimental Rockets",
+        "translation": "火箭实验",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_ATOMIC_RESEARCH_SUBTITLE:0",
+        "original": "Atomic Research",
+        "translation": "原子能研究",
+        "stage": 1
+    },
+    {
+        "key": "cat_mobile_warfare_research:0",
+        "original": "Mobile Warfare Doctrine",
+        "translation": "机动作战学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_superior_firepower_research:0",
+        "original": "Superior Firepower Doctrine",
+        "translation": "优势火力学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_grand_battle_plan_research:0",
+        "original": "Grand Battleplan Doctrine",
+        "translation": "决战计划学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_mass_assault_research:0",
+        "original": "Mass Assault Doctrine",
+        "translation": "人海突击学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_strategic_destruction_research:0",
+        "original": "Strategic Destruction Doctrine",
+        "translation": "战略破坏学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_battlefield_support_research:0",
+        "original": "Battlefield Support Doctrine",
+        "translation": "战场支援学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_operational_integrity_research:0",
+        "original": "Operational Integrity Doctrine",
+        "translation": "连续作战学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_operational_integrity:0",
+        "original": "Operational Integrity Doctrine",
+        "translation": "连续作战学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_base_strike_research:0",
+        "original": "Base Strike Doctrine",
+        "translation": "基地打击学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_base_strike:0",
+        "original": "Base Strike Doctrine",
+        "translation": "基地打击学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_fleet_in_being_research:0",
+        "original": "Fleet in Being Doctrine",
+        "translation": "存在舰队学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_trade_interdiction_research:0",
+        "original": "Trade Interdiction Doctrine",
+        "translation": "贸易封锁学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_mobile_warfare:0",
+        "original": "Mobile Warfare Doctrine",
+        "translation": "机动作战学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_superior_firepower:0",
+        "original": "Superior Firepower Doctrine",
+        "translation": "优势火力学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_grand_battle_plan:0",
+        "original": "Grand Battleplan Doctrine",
+        "translation": "决战计划学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_mass_assault:0",
+        "original": "Mass Assault Doctrine",
+        "translation": "人海突击学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_trade_interdiction:0",
+        "original": "Trade Interdiction Doctrine",
+        "translation": "贸易封锁学说",
+        "stage": 1
+    },
+    {
+        "key": "cat_battlefield_support:0",
+        "original": "Battlefield Support Doctrine",
+        "translation": "战场支援学说",
+        "stage": 1
+    },
+    {
+        "key": "infantry_weapons:0",
+        "original": "Infantry Weapons",
+        "translation": "步兵武器",
+        "stage": 1
+    },
+    {
+        "key": "base_strike_main:0",
+        "original": "Base Strike Doctrine",
+        "translation": "基地打击学说",
+        "stage": 1
+    },
+    {
+        "key": "transport:0",
+        "original": "Transport Ship",
+        "translation": "运输船",
+        "stage": 1
+    },
+    {
+        "key": "transport_desc:0",
+        "original": "Ship designed solely for troop movement, without any defensive capabilities.",
+        "translation": "单纯用于移动军队的船只，毫无防御能力。",
+        "stage": 1
+    },
+    {
+        "key": "landing_craft:0",
+        "original": "Landing Craft",
+        "translation": "登陆艇",
+        "stage": 1
+    },
+    {
+        "key": "landing_craft_desc:0",
+        "original": "Dedicated invasion craft make landing in hostile territory slightly less of a headache.",
+        "translation": "专用登陆艇将使登陆敌方地区能稍稍容易些。",
+        "stage": 1
+    },
+    {
+        "key": "tank_landing_craft:0",
+        "original": "Advanced Landing Craft",
+        "translation": "先进登陆艇",
+        "stage": 1
+    },
+    {
+        "key": "tank_landing_craft_desc:0",
+        "original": "Advanced Landing craft means that our boys can get on the beach quicker and more effectively during an invasion.",
+        "translation": "先进登陆艇将使我军士兵能在登陆作战中更高效迅速地接近海滩。",
+        "stage": 1
+    },
+    {
+        "key": "motorized_rocket_unit:0",
+        "original": "Motorized Rocket Artillery",
+        "translation": "机动化火箭炮",
+        "stage": 1
+    },
+    {
+        "key": "mot_rockets_research:1",
+        "original": "Motorized Rocket Artillery Research Time",
+        "translation": "机动化火箭炮研究时间",
+        "stage": 1
+    },
+    {
+        "key": "UNLOCK_DIVISION_TEMPLATE:0",
+        "original": "Unlocks a free §HDivision Template§!",
+        "translation": "解锁一个免费的§H师编制§!",
+        "stage": 1
+    },
+    {
+        "key": "INFANTRY_TITLE_WEAPONS:0",
+        "original": "WEAPONS & EQUIPMENT",
+        "translation": "武器和装备",
+        "stage": 1
+    },
+    {
+        "key": "INFANTRY_TITLE_SPECIAL:0",
+        "original": "SPECIAL FORCES",
+        "translation": "特种部队",
+        "stage": 1
+    },
+    {
+        "key": "INFANTRY_TITLE_MOTORISED:1",
+        "original": "MOBILE INFANTRY",
+        "translation": "机动步兵",
+        "stage": 1
+    },
+    {
+        "key": "ARMOUR_TITLE:0",
+        "original": "ARMOR",
+        "translation": "装甲部队",
+        "stage": 1
+    },
+    {
+        "key": "ARMOUR_TITLE_HEAVY:0",
+        "original": "HEAVY",
+        "translation": "重型",
+        "stage": 1
+    },
+    {
+        "key": "ARMOUR_TITLE_MEDIUM:0",
+        "original": "MEDIUM",
+        "translation": "中型",
+        "stage": 1
+    },
+    {
+        "key": "ARMOUR_TITLE_LIGHT:0",
+        "original": "LIGHT",
+        "translation": "轻型",
+        "stage": 1
+    },
+    {
+        "key": "ARTILLERY_TITLE_ROCKET:0",
+        "original": "ROCKET ARTILLERY",
+        "translation": "火箭炮",
+        "stage": 1
+    },
+    {
+        "key": "ARTILLERY_TITLE_AT:0",
+        "original": "ANTI-TANK",
+        "translation": "反坦克炮",
+        "stage": 1
+    },
+    {
+        "key": "ARTILLERY_TITLE:0",
+        "original": "ARTILLERY",
+        "translation": "火炮",
+        "stage": 1
+    },
+    {
+        "key": "ARTILLERT_TITLE_AA:0",
+        "original": "ANTI-AIR",
+        "translation": "防空炮",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_DESTROYERS:0",
+        "original": "DESTROYERS",
+        "translation": "驱逐舰",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_CRUISERS:0",
+        "original": "CRUISERS",
+        "translation": "巡洋舰",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_BATTLECRUISERS:0",
+        "original": "BATTLECRUISERS",
+        "translation": "战列巡洋舰",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_BATTLESHIPS:0",
+        "original": "BATTLESHIPS",
+        "translation": "战列舰",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_CARRIERS:0",
+        "original": "CARRIERS",
+        "translation": "航空母舰",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_SUBMARINES:0",
+        "original": "SUBMARINES",
+        "translation": "潜艇",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TITLE_TRANSPORTS:0",
+        "original": "TRANSPORTS",
+        "translation": "运输舰",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY_TITLE:0",
+        "original": "INDUSTRY",
+        "translation": "工业",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY_TITLE_PRODUCTION:0",
+        "original": "PRODUCTION",
+        "translation": "产品",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY_TITLE_OIL:0",
+        "original": "SYNTHETIC OIL",
+        "translation": "合成油",
+        "stage": 1
+    },
+    {
+        "key": "INDUSTRY_TITLE_CONSTRUCTION:0",
+        "original": "CONSTRUCTION",
+        "translation": "建设",
+        "stage": 1
+    },
+    {
+        "key": "JET_ENGINES_RESEARCHED:0",
+        "original": "Allows researching technologies that require Jet Engines, such as jet aircrafts",
+        "translation": "将研究需要喷气式发动机的技术，比如喷气式飞机",
+        "stage": 1
+    },
+    {
+        "key": "cat_fleet_in_being:0",
+        "original": "Fleet in Being Doctrine",
+        "translation": "存在舰队学说",
+        "stage": 1
+    },
+    {
+        "key": "air_equipment:0",
+        "original": "Aircraft",
+        "translation": "飞行器",
+        "stage": 1
+    },
+    {
+        "key": "bicycle_infantry:0",
+        "original": "Bicycle Infantry",
+        "translation": "自行车部队",
+        "stage": 1
+    },
+    {
+        "key": "bicycle_infantry_desc:0",
+        "original": "Regular infantry with bicycles are more mobile than their marching counterparts, for a very modest price.",
+        "translation": "装备了自行车的部队比普通步兵具有更强的机动性，并且价格非常适中。",
+        "stage": 1
+    }
+]

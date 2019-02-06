@@ -1,0 +1,1664 @@
+[
+    {
+        "key": "COMBAT_COMMITED_LABEL:0",
+        "original": "$COUNT$ Divisions",
+        "translation": "$COUNT$ 师",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_RESERVES_LABEL:0",
+        "original": "$COUNT$ Reserves",
+        "translation": "$COUNT$ 预备队",
+        "stage": 1
+    },
+    {
+        "key": "NO_TACTIC:0",
+        "original": "No tactic selected",
+        "translation": "未选择战术",
+        "stage": 1
+    },
+    {
+        "key": "USE_COMPARE_BATTLE_LOC:0",
+        "original": "$NAME$: $VALUE1$/$VALUE2$",
+        "translation": "$NAME$：$VALUE1$/$VALUE2$",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_LOC:0",
+        "original": "$NAME$: $VALUE1$",
+        "translation": "$NAME$：$VALUE1$",
+        "stage": 1
+    },
+    {
+        "key": "POSITIVE_BATTLE_VALUE:0",
+        "original": "$VALUE|2%G$",
+        "translation": "$VALUE|2%G$",
+        "stage": 1
+    },
+    {
+        "key": "NEUTRAL_BATTLE_VALUE:0",
+        "original": "$VALUE|2%Y$",
+        "translation": "$VALUE|2%Y$",
+        "stage": 1
+    },
+    {
+        "key": "NEGATIVE_BATTLE_VALUE:0",
+        "original": "$VALUE|2%R$",
+        "translation": "$VALUE|2%R$",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_ATTACKMOD:0",
+        "original": "Attack Modifier",
+        "translation": "攻击修正",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_DEFENDMOD:0",
+        "original": "Defend Modifier",
+        "translation": "防御修正",
+        "stage": 1
+    },
+    {
+        "key": "SINGLE_COMBAT_VALUE:0",
+        "original": "$NAME$: $VALUE1|2=+%$",
+        "translation": "$NAME$：$VALUE1|2=+%$",
+        "stage": 1
+    },
+    {
+        "key": "DOUBLE_COMBAT_VALUE:0",
+        "original": "$NAME$: $VALUE1|2+=%$/$VALUE2|2+=%$",
+        "translation": "$NAME$：$VALUE1|2+=%$/$VALUE2|2+=%$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_STAT:0",
+        "original": "$STAT_NAME|Y$ $VALUE|Y$",
+        "translation": "$STAT_NAME|Y$ $VALUE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_TOOLTIP_SEPARATOR:0",
+        "original": "----------------\\n",
+        "translation": "----------------\\n",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_DIVISION_ATTACKER:0",
+        "original": "$NAME|H$ (§YAttacker§!)\\n\\n",
+        "translation": "$NAME|H$ (§Y进攻方§!)\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_DIVISION_DEFENDER:0",
+        "original": "$NAME|H$ (§YDefender§!)\\n\\n",
+        "translation": "$NAME|H$ (§Y防守方§!)\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_COMBAT_DESC:0",
+        "original": "Damage and speed modifiers from Tactics:",
+        "translation": "战术带来的伤害和速度修正：",
+        "stage": 1
+    },
+    {
+        "key": "HARDNESS_COMBAT_DESC:0",
+        "original": "Hardness: $HARDNESS|Y0%$\\nSuffers $SOFTNESS|Y0%$ of all Soft attacks.\\nSuffers $HARDNESS|Y0%$ of all Hard attacks.",
+        "translation": "装甲率：$HARDNESS|Y0%$\\n承受$SOFTNESS|Y0%$对人员杀伤。\\n承受$HARDNESS|Y0%$对装甲杀伤。",
+        "stage": 1
+    },
+    {
+        "key": "PIERCING_COMBAT_DESC:0",
+        "original": "If attacking an enemy with higher Armor than this division has Piercing, attacks are halved.",
+        "translation": "攻击装甲厚度大于本单位的穿甲深度的敌方单位时会受到攻击减半的惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "BM_LEADER_BONUS:0",
+        "original": "Commander Skill",
+        "translation": "指挥官技能",
+        "stage": 1
+    },
+    {
+        "key": "BM_EXPERIENCE:0",
+        "original": "Experience",
+        "translation": "经验加成",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_DAMAGE_ATTACKER:0",
+        "original": "Attacker tactic damage:",
+        "translation": "战术修正 - 进攻方伤害：",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_DAMAGE_DEFENDER:0",
+        "original": "Defender tactic damage:",
+        "translation": "战术修正 - 防御方伤害：",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_MOVEMENTSPEED_ATTACKER:0",
+        "original": "Tactics movement:",
+        "translation": "战术修正 - 移动：",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_COMBATWIDTH:0",
+        "original": "Tactics combat width:",
+        "translation": "战术修正 - 战斗宽度：",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_VALUE_POSITIVE:0",
+        "original": "$VALUE|G=%0$",
+        "translation": "$VALUE|G=%0$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_VALUE_NEGATIVE:0",
+        "original": "$VALUE|R=%0$",
+        "translation": "$VALUE|R=%0$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_WIDTH_VALUE:0",
+        "original": "$VALUE|=%0Y$",
+        "translation": "$VALUE|=%0Y$",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_CURRENTLY_COUNTERED:0",
+        "original": "§RThe tactic has been countered!§!",
+        "translation": "§R战术受到了反制！§!",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_COUNTERED_BY:0",
+        "original": "Countered by: $NAME|H$",
+        "translation": "受到$NAME|H$反制",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_COUNTERS:0",
+        "original": "Counters: ",
+        "translation": "反制：",
+        "stage": 1
+    },
+    {
+        "key": "BM_WIDTH:0",
+        "original": "Exceeding Combat Width",
+        "translation": "超出战斗宽度限制",
+        "stage": 1
+    },
+    {
+        "key": "BM_WIDTH_DESC:0",
+        "original": "The amount of divisions committed in a battle is above the possible width of the battle, which makes them fight less efficiently.",
+        "translation": "投入部队的总战斗宽度超出了该战斗的宽度限制，因而使得参战部队的战斗效率下降。",
+        "stage": 1
+    },
+    {
+        "key": "BM_DECRYPTION:0",
+        "original": "Decryption Advantage",
+        "translation": "破译能力优势",
+        "stage": 1
+    },
+    {
+        "key": "BM_DECRYPTION_DESC:0",
+        "original": "Units with decryption advantage have increased damage and defense.",
+        "translation": "破译能力优势单位的伤害和防御会提高。",
+        "stage": 1
+    },
+    {
+        "key": "BM_TEMPORARY_UNIT_BONUS:1",
+        "original": "Commander Ability Bonus",
+        "translation": "指挥官技能",
+        "stage": 1
+    },
+    {
+        "key": "BM_TEMPORARY_UNIT_BONUS_DESC:1",
+        "original": "Units' combat stats can be boosted temporarily by various combat abilities.",
+        "translation": "单位的战斗数据可以通过各种战斗技能暂时提升。",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENVELOPMENT_PENALTY:0",
+        "original": "Multiple attackers",
+        "translation": "多线进攻",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENCIRCLEMENT_PENALTY:0",
+        "original": "Encirclement Penalty",
+        "translation": "包围惩罚",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENCIRCLEMENT_PENALTY_DESC:0",
+        "original": "Troops trapped in a pocket are cut off from communication and can't fight as effectively.",
+        "translation": "部队深陷重围失去与友军联系，因此无法有效地战斗。",
+        "stage": 1
+    },
+    {
+        "key": "BM_AMPH_PENALTY:0",
+        "original": "Naval Penalty",
+        "translation": "登陆惩罚",
+        "stage": 1
+    },
+    {
+        "key": "BM_AMPH_PENALTY_DESC:0",
+        "original": "Performing a naval invasion is difficult. Prefer using light divisions of Marines for best effect. Preferably supported by shore bombardment from Capital Ships.",
+        "translation": "登陆作战是十分困难的。尽量使用轻装的海军陆战队来取得最高的作战效率。以主力舰进行对岸炮击支援也会有所帮助。",
+        "stage": 1
+    },
+    {
+        "key": "BM_FORT_MODIFIER:0",
+        "original": "Fort",
+        "translation": "要塞",
+        "stage": 1
+    },
+    {
+        "key": "BM_FORT_MODIFIER_DESC:0",
+        "original": "Forts lower casualties for defenders and help with defense. To help take heavily fortified provinces employ Super-Heavy tanks or Engineers. Attacking from several directions will reduce forts effect.",
+        "translation": "要塞降低防守方的伤亡并增强防御。超重型坦克和工程连能提高对高度要塞化省份的作战效率。从多线发起攻击也会降低要塞的效果。",
+        "stage": 1
+    },
+    {
+        "key": "BM_DUGIN_MODIFIER:0",
+        "original": "Entrenchment",
+        "translation": "堑壕",
+        "stage": 1
+    },
+    {
+        "key": "BM_DUGIN_MODIFIER_DESC:0",
+        "original": "The longer a unit stays in a province the harder it will be to dislodge.",
+        "translation": "单位在一个省份呆得越久就越难将其驱逐。",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENEMY_AIR_SUPERIORITY:0",
+        "original": "Enemy air superiority",
+        "translation": "敌方占据制空权",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENEMY_AIR_SUPERIORITY_DESC:0",
+        "original": "It's difficult to organize an effective defense when the enemy has Air Superiority.",
+        "translation": "当敌方占据制空权时很难组织有效的防御。",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENEMY_AIR_SUPERIORITY_COUNTER:0",
+        "original": "Enemy air superiority reduction",
+        "translation": "敌制空权削弱",
+        "stage": 1
+    },
+    {
+        "key": "BM_ENEMY_AIR_SUPERIORITY_COUNTER_DESC:0",
+        "original": "Having Anti-Air battalions in your Divisions help you counter the enemy Air Superiority penalty to defense/breakthrough, and will also shoot down planes who are directly attacking.",
+        "translation": "在师里加入防空营可以减少因为敌方拥有制空权所带来的防御和突破惩罚，还可以击落正在直接攻击你的飞机。",
+        "stage": 1
+    },
+    {
+        "key": "BM_HATES_COUNTRY:1",
+        "original": "Commitment to the War",
+        "translation": "战争决心",
+        "stage": 1
+    },
+    {
+        "key": "BM_HATES_COUNTRY_DESC:1",
+        "original": "Our units perform better or worse depending on how commited we are to the war.",
+        "translation": "根据我们对战争的决心，我们的部队会有不同的表现。",
+        "stage": 1
+    },
+    {
+        "key": "BM_HATES_COUNTRY_ON_CORE:1",
+        "original": "Commitment to the War",
+        "translation": "战争决心",
+        "stage": 1
+    },
+    {
+        "key": "BM_HATES_COUNTRY_ON_CORE_DESC:1",
+        "original": "Depending on our commitment to the war, our units may perform better or worse against this enemy on his home soil.",
+        "translation": "根据我们对战争的决心，我们的战士也会在本土上抵抗敌人时有不同的表现。",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_BATTLE:0",
+        "original": "Battle",
+        "translation": "战斗",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_DEFENCE:0",
+        "original": "Defense",
+        "translation": "防御",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_ATTACK:0",
+        "original": "Attack",
+        "translation": "攻击",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT:0",
+        "original": "Border Conflict",
+        "translation": "边境冲突",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_MODIFIER:0",
+        "original": "Modifier: $VAL|+%.0$",
+        "translation": "修正：$VAL|+%.0$",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_FACTOR_ENTRY:0",
+        "original": "$VAL|%.0$",
+        "translation": "$VAL|%.0$",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_TERRAIN_FACTOR:0",
+        "original": "Terrain Modifier Factor: $VAL$",
+        "translation": "地形修正系数：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_DIG_IN_FACTOR:0",
+        "original": "Dig-In Modifier Factor: $VAL$",
+        "translation": "堑壕修正系数：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_LIST_VIEW_TITLE:0",
+        "original": "Tactics List",
+        "translation": "战术列表",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_LIST_DESC:0",
+        "original": "§HTactics List§!\\n\\nShows list of enabled and disabled tactics that can be used during the combat.",
+        "translation": "§H战术列表§!\\n\\n显示所有在战斗中可用与不可用的战术。",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_UNLOCKED:0",
+        "original": "§GUnlocked§!",
+        "translation": "§G已解锁§!",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_LOCKED_BY_TECH:0",
+        "original": "§RLocked.§!\\n\\n§YUnlocks from one of the following technologies:§!$TECH$",
+        "translation": "§R未解锁§!\\n\\n§Y通过研发以下任一科技解锁：§!$TECH$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_LOCKED_BY_NOT_HANDLED:0",
+        "original": "§RLocked. To Unlock player need to fill specific conditions.§!",
+        "translation": "§R未解锁。玩家需要达成特定条件才能解锁。§!",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_LOCKED_TECH_DESC:0",
+        "original": "\\n$NAME$ ($CATEGORY$)",
+        "translation": "\\n$NAME$ ($CATEGORY$)",
+        "stage": 1
+    },
+    {
+        "key": "BM_RIVER_PENALTY:0",
+        "original": "River crossing",
+        "translation": "跨河",
+        "stage": 1
+    },
+    {
+        "key": "BM_RIVER_PENALTY_DESC:0",
+        "original": "Trying to cross rivers is risky business, especially with someone gunning for you.",
+        "translation": "渡河总是危险的行动，尤其当你处于敌人火力之下时。",
+        "stage": 1
+    },
+    {
+        "key": "CREATE_GROUP_WITH_NO_UNIT_SELECTED_TOOLTIP:1",
+        "original": "§RSelect Divisions before creating an army!§!",
+        "translation": "§R要创建集团军必须先选中一些陆军师§!",
+        "stage": 1
+    },
+    {
+        "key": "CREATE_ARMY_GROUP_WITH_NO_UNIT_SELECTED_TOOLTIP:0",
+        "original": "§RSelect Armies before creating an Army Group!§!",
+        "translation": "§R要创建集团军群必须先选中一些集团军！§!",
+        "stage": 1
+    },
+    {
+        "key": "CREATE_GROUP_WITH_UNITS_SELECTED_TOOLTIP:1",
+        "original": "§GClick to Create a new Army and assign selected Divisions§!",
+        "translation": "§G点击创建一个新的集团军，并编入已选中的陆军师§!",
+        "stage": 1
+    },
+    {
+        "key": "CREATE_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0",
+        "original": "§GClick to Create a new Army Group and assign selected Armies§!",
+        "translation": "§G点击创建一个新的集团军群，并编入已选中的集团军。§!",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_GROUP_TOOLTIP:0",
+        "original": "§GClick§! to select",
+        "translation": "§G点击§!选中",
+        "stage": 1
+    },
+    {
+        "key": "ATTACH_AIRWING_TO_GROUP_TOOLTIP:0",
+        "original": "§GRight-click§! to attach Airwings to Army",
+        "translation": "§G右键单击§!将空军联队指派给集团军。",
+        "stage": 1
+    },
+    {
+        "key": "WING_CAN_NOT_ATTACH_ALREADY:0",
+        "original": "§RAll air wings are already attached to the army!§!",
+        "translation": "§R所有的空军联队都已被指派给集团军！§!",
+        "stage": 1
+    },
+    {
+        "key": "WING_CAN_NOT_ATTACH_ARMY_GROUP:0",
+        "original": "§RAir wings can only be attached to the armies§!",
+        "translation": "§R空军联队只能指派给集团军§!",
+        "stage": 1
+    },
+    {
+        "key": "WING_CAN_NOT_ATTACH_WRONG_TYPE:0",
+        "original": "§RNaval bombers and Strategic bombers cannot be attached to the armies§!",
+        "translation": "§R海军轰炸机及战略轰炸机无法指派给集团军§!",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0",
+        "original": "§GRight-click to assign the selected Divisions§!",
+        "translation": "§G右键点击将选中的陆军师指派到该集团军§!",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP:0",
+        "original": "§GRight-click to assign the selected Armies§!",
+        "translation": "§G右键点击将选中的集团军指派到该集团军群§!",
+        "stage": 1
+    },
+    {
+        "key": "COMMAND_GROUP_DESC:1",
+        "original": "An Army is necessary in order to create battle plans, making it possible to organize movements of large numbers of units in multiple steps.",
+        "translation": "创建集团军之后就可以编写作战计划，从而可以组织大量单位的多阶段行动。",
+        "stage": 1
+    },
+    {
+        "key": "COMMAND_ARMY_GROUP_DESC:0",
+        "original": "An Army Group organizes armies with high level instructions and plans.",
+        "translation": "集团军群可以通过高层指令和计划来指挥所属的集团军。",
+        "stage": 1
+    },
+    {
+        "key": "OPERATION_SELECT_GROUP:1",
+        "original": "Army",
+        "translation": "集团军",
+        "stage": 1
+    },
+    {
+        "key": "OPERATION_SELECT_ARMY_GROUP:0",
+        "original": "Army Group",
+        "translation": "集团军群",
+        "stage": 1
+    },
+    {
+        "key": "OPERATION_NEW_GROUP:1",
+        "original": "New Army",
+        "translation": "新集团军",
+        "stage": 1
+    },
+    {
+        "key": "OPERATION_NEW_ARMY_GROUP:0",
+        "original": "New Army Group",
+        "translation": "新集团军群",
+        "stage": 1
+    },
+    {
+        "key": "OPERATION_RIGHT_CLICK_GROUP:1",
+        "original": "§GRight-click to attach Divisions to this Army§!",
+        "translation": "§G右键点击将陆军师分配到该集团军§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BATTLE_TITLE:0",
+        "original": "Battle of $NAME$",
+        "translation": "$NAME$之战",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_PORT_STRIKE_TITLE:1",
+        "original": "Strike on $NAME$ port",
+        "translation": "空袭$NAME$的港口",
+        "stage": 1
+    },
+    {
+        "key": "BM_WEATHER:0",
+        "original": "Weather",
+        "translation": "天气修正 ",
+        "stage": 1
+    },
+    {
+        "key": "BM_NIGHT_MODIFIER:0",
+        "original": "Night",
+        "translation": "夜间",
+        "stage": 1
+    },
+    {
+        "key": "BM_COUNTRY_BONUS:0",
+        "original": "Country",
+        "translation": "国家",
+        "stage": 1
+    },
+    {
+        "key": "BM_MULTIPLE:0",
+        "original": "In multiple combat",
+        "translation": "多线作战",
+        "stage": 1
+    },
+    {
+        "key": "BM_MULTIPLE_DESC:0",
+        "original": "Division is spread too thin to fight effectively.",
+        "translation": "该师处于多个战斗中，战线被拉得太长太薄而无法有效作战。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_COMBAT_WIDTH_DESC:0",
+        "original": "§HCombat Width§!\\n Decides how many divisions on each side will be able to join the fight. How much width a division takes up depends on how it has been designed. By attacking from multiple directions you can increase the available total width.",
+        "translation": "§H战斗宽度§!\\n 决定任意一方有多少部队可以加入战斗。一个师的战斗宽度由其构成决定。通过从多线向同一个省份发起进攻你可以增加战斗的宽度。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_PROGRESS_DESC:0",
+        "original": "Shows the current power balance between attacker and defender in this battle.",
+        "translation": "显示战斗中当前攻防双方的力量对比。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_WE_ARE_WINNING:0",
+        "original": "§GWe are currently winning!§!",
+        "translation": "§G我们占据上风！§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_WE_ARE_LOSING:0",
+        "original": "§RWe are currently losing!§!",
+        "translation": "§R我们处于下风！§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LAST_MORE_THAN_DAY:0",
+        "original": "We estimate that the battle will last for another $DAYS|Y$ days.",
+        "translation": "我们估计战斗还会持续$DAYS|Y$日。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LAST_LESS_THAN_DAY:0",
+        "original": "We estimate that the battle will last less than a day.",
+        "translation": "我们估计战斗会在一天以内结束。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNDECIDED:0",
+        "original": "§YThe outcome is currently undecided§!",
+        "translation": "§Y胜负未分§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_COMBAT_WIDTH:0",
+        "original": "Combat width",
+        "translation": "战斗宽度",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_SIDE_SUMMARY:0",
+        "original": "$MANPOWER|*1Y$ Manpower, $VEHICLES|Y$ vehicles, $ARTILLERY|Y$ artillery",
+        "translation": "$MANPOWER|*1Y$人力，$VEHICLES|Y$车辆，$ARTILLERY|Y$火炮",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_RESERVES:0",
+        "original": "Reserves are divisions that haven't been able to join the combat yet. If there is sufficient combat width there is a chance every hour of battle that one might join.",
+        "translation": "预备队是尚未得到机会加入战斗的师。如果空余战斗宽度足够，预备队每小时都有一定机会加入战斗。",
+        "stage": 1
+    },
+    {
+        "key": "BATTLE_REINFORCE_CHANCE2:0",
+        "original": "Chance of reinforcing Front Line: $VALUE|2G%$\\n",
+        "translation": "预备队增援前线的概率：$VALUE|2G%$\\n",
+        "stage": 1
+    },
+    {
+        "key": "COMREIC_NOT_FIGHT:0",
+        "original": "Not in any shape to fight.",
+        "translation": "无法作战。",
+        "stage": 1
+    },
+    {
+        "key": "COMREIC_TOO_MUCH_WIDTH:0",
+        "original": "Is too wide a unit, so would give a large penalty.",
+        "translation": "单位战斗宽度太宽，会带来大量惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "BM_AIR_SUPPORT:0",
+        "original": "Air support",
+        "translation": "空军支援",
+        "stage": 1
+    },
+    {
+        "key": "BM_AIR_SUPPORT_DESC:0",
+        "original": "Direct air support lets the divisions fight better.",
+        "translation": "空军支援会帮助陆军师更好地作战。",
+        "stage": 1
+    },
+    {
+        "key": "BM_TERRAIN:0",
+        "original": "Terrain",
+        "translation": "地形修正 ",
+        "stage": 1
+    },
+    {
+        "key": "BM_TERRAIN_DESC:0",
+        "original": "Make sure you select units that are suitable for the terrain where you will be fighting.",
+        "translation": "注意争对预订战场的地形选择合适的作战部队。",
+        "stage": 1
+    },
+    {
+        "key": "CURR_COMB_STR:0",
+        "original": "Strength: $VALUE|0%Y$",
+        "translation": "战力：$VALUE|0%Y$",
+        "stage": 1
+    },
+    {
+        "key": "BM_PLANNING:0",
+        "original": "Planning Bonus",
+        "translation": "作战计划加成",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_ATTACK_PROVINCE_MODIFIERS:1",
+        "original": "§HAttack modifiers§! for $DIVISION|H$:",
+        "translation": "$DIVISION|H$的§H攻击修正§!：",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_TOOLTIP_ATTACKER:0",
+        "original": "Attacker: $COUNT|Y$ divisions ($COUNTRIES$)",
+        "translation": "进攻方：$COUNT|Y$师($COUNTRIES$)",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_TOOLTIP_DEFENDER:0",
+        "original": "Defender: $COUNT|Y$ divisions ($COUNTRIES$)",
+        "translation": "防守方：$COUNT|Y$师($COUNTRIES$)",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_TOOLTIP_NO_INTEL:0",
+        "original": "You have no intel on this combat.",
+        "translation": "你没有关于这场战斗的情报。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_TOOLTIP_ATTACKER:0",
+        "original": "Attacker: $COUNT|Y$ fleets ($COUNTRIES$)",
+        "translation": "进攻方：$COUNT|Y$支舰队($COUNTRIES$)",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_TOOLTIP_DEFENDER:0",
+        "original": "Defender: $COUNT|Y$ fleets ($COUNTRIES$)",
+        "translation": "防守方：$COUNT|Y$支舰队($COUNTRIES$)",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_CLICK_DESC:0",
+        "original": "§GClick to show the battle in progress.§!\\n§GRight-Click to pan to the combat.§!",
+        "translation": "§G单击显示正在进行的战斗。§!\\n§G右键单击将镜头移至战斗。§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_ATTACKER_ACTUAL_PARTICIPANT:0",
+        "original": "Attacker side ( $COUNTRY|Y$ ) has $COUNT|Y$ ships currently fighting.",
+        "translation": "进攻方( $COUNTRY|Y$ )有$COUNT|Y$艘军舰参加战斗。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_DEFENDER_ACTUAL_PARTICIPANT:0",
+        "original": "Defender side ( $COUNTRY|Y$ ) has $COUNT|Y$ ships currently fighting.",
+        "translation": "防守方( $COUNTRY|Y$ )有$COUNT|Y$艘军舰参加战斗。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_ATTACKER_WINNING:0",
+        "original": "§YThe attacker is winning.§!",
+        "translation": "§Y进攻方处于上风§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_DEFENDER_WINNING:0",
+        "original": "§YThe defender is winning.§!",
+        "translation": "§Y防御方处于上风§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_COMBAT_PROGRESS_DESC:0",
+        "original": "This unit is performing a naval invasion. Its attack is reduced and its defense is improved by the transport's armor.",
+        "translation": "此单位正在实施登陆作战。它的攻击力降低，但防御力由于运输船的装甲而获得提高。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_PROGRESS:0",
+        "original": "Naval invasion progress: $VALUE|Y0%$",
+        "translation": "登陆作战进展：$VALUE|Y0%$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_PROGRESS_COMPLETE:0",
+        "original": "Naval invasion progress: $VALUE|Y0%$\\n(All men have reached the shore).\\n",
+        "translation": "登陆作战进展：$VALUE|Y0%$\\n(人员已全部上岸)。\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_ATTACK_SCALE:0",
+        "original": "Total attack ability: $VALUE|Y=+0%$",
+        "translation": "最大攻击能力：$VALUE|Y=+0%$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_DEFEND_SCALE:0",
+        "original": "Total defense ability: $VALUE|Y=+0%$",
+        "translation": "最大防御能力：$VALUE|Y=+0%$",
+        "stage": 1
+    },
+    {
+        "key": "PHASE_DEFAULT:0",
+        "original": "Default",
+        "translation": "默认",
+        "stage": 1
+    },
+    {
+        "key": "IS_ATTACKER:0",
+        "original": "Offensive Tactic",
+        "translation": "进攻策略",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_ATTACKER:0",
+        "original": "Defensive Tactic",
+        "translation": "防御策略",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_IN_PHASE:0",
+        "original": "Is not in Phase: $PHASE|H$",
+        "translation": "未处于$PHASE|H$阶段",
+        "stage": 1
+    },
+    {
+        "key": "IS_IN_PHASE:0",
+        "original": "Is in Phase: $PHASE|H$",
+        "translation": "处于$PHASE|H$阶段",
+        "stage": 1
+    },
+    {
+        "key": "tactical_withdrawal:0",
+        "original": "Tactical withdrawal",
+        "translation": "战术撤退",
+        "stage": 1
+    },
+    {
+        "key": "hold_bridge:0",
+        "original": "Hold bridge",
+        "translation": "坚守桥梁",
+        "stage": 1
+    },
+    {
+        "key": "seize_bridge:0",
+        "original": "Seize bridge",
+        "translation": "占领桥梁",
+        "stage": 1
+    },
+    {
+        "key": "close_combat:0",
+        "original": "Close combat",
+        "translation": "近距离作战",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_VICTORY:0",
+        "original": "Victory",
+        "translation": "胜利",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_DEFEAT:0",
+        "original": "Defeat",
+        "translation": "溃败",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVORS:0",
+        "original": "Survivors:",
+        "translation": "存活：",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVORS_DMG:0",
+        "original": "Survivors (§WAvg. Strength: $DMG|%0R$§!):",
+        "translation": "存活(§W平均强度：$DMG|%0R$§!)：",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_CONVOY_TYPE:0",
+        "original": "Convoy",
+        "translation": "运输船",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVOR_TYPE:0",
+        "original": "$NUMBER|H$ of $TYPE$ type",
+        "translation": "$NUMBER|H$艘$TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVOR_COUNT_UNDAMAGED:0",
+        "original": "$FLAG$ $COUNT|H$ undamaged $TYPE|H$",
+        "translation": "$FLAG$ $COUNT|H$艘$TYPE|H$无伤",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVOR:0",
+        "original": "$FLAG$ $TYPE$\\n",
+        "translation": "$FLAG$ $TYPE$\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SURVIVOR_DMG:0",
+        "original": "$FLAG$ $TYPE$ ($DMG|%0R$)\\n",
+        "translation": "$FLAG$ $TYPE$ ($DMG|%0R$)\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_RESULT_SUNK_BY:0",
+        "original": "$NAME|Y$ (sunk by $KILLER|Y$)",
+        "translation": "$NAME|Y$ (被$KILLER|Y$击沉)",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_CAS_INFO:0",
+        "original": "Total shot down: $LOST|R$\\n£organization_texticon Damage $ORG|R0$\\n£strenght_texticon Damage: $STR|R0$",
+        "translation": "击落：$LOST|R$\\n£organization_texticon 损失$ORG|R0$\\n£strenght_texticon 击伤：$STR|R0$",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_CAS_INFO_TOOLTIP:3",
+        "original": "Around $NUM|Y$ support planes from the $SIDE$ side have recently managed to help out in this combat.\\nThey have dealt $ORG|G0$ damage to §YOrganization§!, the current enemy §YOrganization§! is $ORG_MAX|G0$.\\nThey have dealt $STR|G0$ damage to §YStrength§!, the current enemy §YStrength§! is $STR_MAX|G0$.\\nThe enemy divisions §YAnti Air§! managed to shoot down $KILL|R$ planes in total and prevent $ORG_PREVENT|R0$ damage to §YOrganization§! and $STR_PREVENT|R0$ damage to §YStrength§!.",
+        "translation": "大约$NUM|Y$架支援机从$SIDE$起飞并参与了这场战斗。\\n他们对敌人§Y组织度§!造成了$ORG|G0$伤害，目前敌人的§Y组织度§!是$ORG_MAX|G0$。\\n他们对敌人§Y兵力§!造成了$STR|G0$伤害，目前敌人的§Y兵力§!是$STR_MAX|G0$。\\n敌方部队的§Y对空§!击落了$KILL|R$架飞机，防止了$ORG_PREVENT|R0$§Y组织度§!损失与$STR_PREVENT|R0$§Y兵力§!损失。",
+        "stage": 1
+    },
+    {
+        "key": "LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL:0",
+        "original": "The max amount of planes that can help out are $MAX_PLANES|Y$. The larger the used Combat Width is, the more planes can fit.",
+        "translation": "可以参与密接支援的最大飞机数量为 $MAX_PLANES|Y$。实际战斗宽度越大，可参战的飞机越多。",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_KILLS_AND_ASSISTS:0",
+        "original": "Sunk $SUNK|G$ enemy ships.\\n$ASS|G$ assisted kills.",
+        "translation": "共击沉$SUNK|G$艘敌方舰船。\\n协助击沉艘$ASS|G$。",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_STACK_PENALTY_DESC:0",
+        "original": "Too many carrier ships. Air traffic limited to $PERC|%R0$ of the air wings.",
+        "translation": "航母过多。战机出动量被限制在了战机总量的$PERC|%R0$。",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_STACK_PENALTY_LORE:0",
+        "original": "§LThe ideal composition of a fast-carrier task force is four carriers, six to eight support vessels and not less than 18 destroyers, preferably 24. More than four carriers in a task group cannot be advantageously used due to the amount of air room required. Less than four carriers requires an uneconomical use of support ships and screening vessels.\\nAdmiral Marc Mitscher§!",
+        "translation": "§L快速航母特混舰队的理想构成应该是四艘航母，六至八艘支援舰艇和至少18艘驱逐舰——最好24艘。由于空域容量的限制，一支超过四艘航母的特混舰队无法完全发挥其战力。而少于四艘航母将造成支援和护卫舰艇的低效利用。\\n——海军上将马克·米切尔§!",
+        "stage": 1
+    },
+    {
+        "key": "BM_SHORE_BOMBARD:0",
+        "original": "Shore Bombardment",
+        "translation": "对岸炮击",
+        "stage": 1
+    },
+    {
+        "key": "BM_SHORE_BOMBARD_DESC:0",
+        "original": "Capital Ships are currently supporting the battle with bombardment from the connected sea province.",
+        "translation": "主力舰艇正在附近海域用炮击支援战斗。",
+        "stage": 1
+    },
+    {
+        "key": "BM_PARADROP:0",
+        "original": "Paradrop",
+        "translation": "空降",
+        "stage": 1
+    },
+    {
+        "key": "BM_PARADROP_DESC:0",
+        "original": "Units will be disorganized after being paradropped",
+        "translation": "空降后的单位组织度会降低",
+        "stage": 1
+    },
+    {
+        "key": "BM_SUPPLY:0",
+        "original": "Low Supply",
+        "translation": "缺乏补给",
+        "stage": 1
+    },
+    {
+        "key": "BM_SUPPLY_DESC:0",
+        "original": "Low supply hinders units from fighting effectively.",
+        "translation": "缺乏补给会导致单位战斗效率下降。",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_RESULT_LAST_MONTH:1",
+        "original": "Result last §H30§! days:",
+        "translation": "过去§H30§!日战果：",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_RESULT_LAST_DAY:1",
+        "original": "Current day result:",
+        "translation": "本日战果：",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_AIR_SUPERIORITY_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_AIR_SUPERIORITY_WIN:0",
+        "original": "Enemy planes shot down (with help from planes on Interception Mission): $VAL|0+$",
+        "translation": "击落敌方战机(在执行空中拦截任务的战机的帮助下)：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_CAS_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_CAS_WIN:0",
+        "original": "Enemy divisions neutralized: $VAL|0+$",
+        "translation": "击落战机：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_INTERCEPTION_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_INTERCEPTION_WIN:0",
+        "original": "Enemy planes shot down (with help from planes on Air Superiority Mission): $VAL|0+$",
+        "translation": "击落战机(在执行夺取制空权任务的战机的帮助下)：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_STRATEGIC_BOMBER_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_STRATEGIC_BOMBER_WIN:0",
+        "original": "Buildings bombed: $VAL|0+$",
+        "translation": "炸毁建筑：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_NAVAL_BOMBER_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_NAVAL_BOMBER_WIN:0",
+        "original": "Enemy ship sunk: $VAL|0+$",
+        "translation": "击沉舰船：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_DROP_NUKE_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_DROP_NUKE_WIN:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "MISSION_PARADROP_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_PARADROP_WIN:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "MISSION_NAVAL_KAMIKAZE_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_NAVAL_KAMIKAZE_WIN:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "MISSION_PORT_STRIKE_LOSS:0",
+        "original": "Planes lost: $VAL|0-$",
+        "translation": "战机损失：$VAL|0-$",
+        "stage": 1
+    },
+    {
+        "key": "MISSION_PORT_STRIKE_WIN:0",
+        "original": "Enemy ship sunk: $VAL|0+$",
+        "translation": "击沉舰船：$VAL|0+$",
+        "stage": 1
+    },
+    {
+        "key": "BM_ATTACK_VALUE:0",
+        "original": "Attack: $VALUE|+=%$",
+        "translation": "攻击力：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "BM_DEFEND_VALUE:0",
+        "original": "Defense: $VALUE|+=%$",
+        "translation": "防御力：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "BM_BREAKTHROUGH_VALUE:0",
+        "original": "Breakthrough: $VALUE|+=%$",
+        "translation": "突破：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "BM_STACKING:0",
+        "original": "Stacking Penalty",
+        "translation": "堆叠惩罚",
+        "stage": 1
+    },
+    {
+        "key": "BM_STACKING_DESC:0",
+        "original": "Coordinating too many divisions is difficult.",
+        "translation": "单位过多难以协调。",
+        "stage": 1
+    },
+    {
+        "key": "BM_MULTIPLE_DIRECTIONS:0",
+        "original": "Attacking from multiple directions",
+        "translation": "多线进攻",
+        "stage": 1
+    },
+    {
+        "key": "BM_MULTIPLE_DIRECTIONS_DESC:0",
+        "original": "Attacking from many different directions will widen the combat width. If province is fortified it will reduce forts effect.",
+        "translation": "多线进攻可增加战场宽度。如果被攻击省份有要塞，多线进攻将降低要塞效果。",
+        "stage": 1
+    },
+    {
+        "key": "IN_COMBAT:0",
+        "original": "In battle",
+        "translation": "战斗中",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_ARMOR_DESC:0",
+        "original": "$PIERCING|H$ of $TOTAL|H$ Enemy Divisions can pierce this Division's armor.",
+        "translation": "敌方$TOTAL|H$个师中有$PIERCING|H$个能够击穿此单位的装甲。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_PIERCING_DESC:0",
+        "original": "This Division can pierce $PIERCING|H$ of $TOTAL|H$ armored Enemy Divisions.",
+        "translation": "这个师可以击穿敌方$TOTAL|H$个师中$PIERCING|H$个师的装甲。",
+        "stage": 1
+    },
+    {
+        "key": "ATTACKING:0",
+        "original": "Attacking",
+        "translation": "进攻中",
+        "stage": 1
+    },
+    {
+        "key": "DEFENDING:0",
+        "original": "Defending",
+        "translation": "防守中",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_OTHER_COMMANDER_DESC:0",
+        "original": "Commanded by: $NAME|H$\\nSkill: $SKILL|Y$",
+        "translation": "指挥官：$NAME|H$\\n技能：$SKILL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "DIFFERENT_COMMANDER_DESC:0",
+        "original": "A division has a different commander assigned than the one leading the battle. This commander will be the one giving it bonuses except for the Tactic selected in the battle which is up to the commander in charge.",
+        "translation": "这个师被指派了不同于正在指挥战斗的另一个指挥官，单位的属性加成取决于后者。但战斗的战术列表依然取决于战斗指挥官。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_TRAIT_LIST_HEADER:0",
+        "original": "\\n\\nTraits: ",
+        "translation": "\\n\\n特质：",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_DETAIL_TRAIT_NAME:0",
+        "original": "$NAME|H$",
+        "translation": "$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_DETAIL_TRAIT_SEPARATOR:0",
+        "original": ", ",
+        "translation": "，",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY:0",
+        "original": "§YAir Efficiency:§! $VAL|Y%$",
+        "translation": "§Y空军效率：§!$VAL|Y%$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_BAD:0",
+        "original": "§HAir Efficiency:§! $VAL|R%$",
+        "translation": "§H空军效率：§!$VAL|R%$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_DESC:0",
+        "original": "\\nThe lower the Efficiency the fewer planes will be able to take off and perform missions.",
+        "translation": "\\n效率越低能起飞执行任务的战机数量越少。",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_CROWD:0",
+        "original": "Overcrowded: $VAL|%+$",
+        "translation": "过度拥挤：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_ORG:0",
+        "original": "Organization: $VAL|%+$",
+        "translation": "组织度：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_SORTIE:0",
+        "original": "Sortie Efficiency: $VAL|%+$",
+        "translation": "突袭效率：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_REGIONS:0",
+        "original": "Active in multiple regions: $VAL|%+$",
+        "translation": "在多个区域执行任务：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_WEATHER:0",
+        "original": "Weather: $VAL|%+$",
+        "translation": "天气：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "CARRIER_EFFICIENCY_AIRSUP:0",
+        "original": "Enemy Air Superiority: $VAL|%+$",
+        "translation": "敌方占据制空权：$VAL|%+$",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_AMOUNT_PENALTY:0",
+        "original": "§RLeading too many units. All stats reduced by $PENALTY|Y1%$§!",
+        "translation": "§R指挥单位数量超过限制。所有属性减少$PENALTY|Y1%$§!",
+        "stage": 1
+    },
+    {
+        "key": "ARMY_AMOUNT_PENALTY:0",
+        "original": "§RLeading too armies. All stats reduced by $PENALTY|Y1%$§!",
+        "translation": "§R指挥了过多的军队。所有的数据都下降了 $PENALTY|Y1%$§!",
+        "stage": 1
+    },
+    {
+        "key": "SPEED_REINFORCEMENT_BONUS:0",
+        "original": "Speed: $VAL|+=2%$",
+        "translation": "速度：$VAL|+=2%$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_CURRENT_PHASE:0",
+        "original": "Current Phase: $NAME|Y$",
+        "translation": "目前阶段：$NAME|Y$",
+        "stage": 1
+    },
+    {
+        "key": "TACTICS_CURRENT_PHASE_DESC:0",
+        "original": "The current Phase of combat. Only tactics in this phase may be selected by the Generals in command of each side.",
+        "translation": "目前战斗阶段。双方指挥官只能选取属于当前阶段的战术。",
+        "stage": 1
+    },
+    {
+        "key": "PHASE_DISPLAY:0",
+        "original": "$NAME$",
+        "translation": "$NAME$",
+        "stage": 1
+    },
+    {
+        "key": "PHASE_START:0",
+        "original": "Starts: $NAME$",
+        "translation": "开始：$NAME$",
+        "stage": 1
+    },
+    {
+        "key": "LEADER_HAS_INITIATIVE:0",
+        "original": "§HInitiative!§!\\nThis side currently has the Initiative because of their higher Recon value among its divisions, or because their leader has higher Skill level.\\nThis means that they get an extra chance to pick a counter tactic versus the other side when picking.",
+        "translation": "§H主动权！§!\\n这一侧由于其部队更高的侦查属性或将领更高的技能等级而占有主动权。\\n这意味着他们有额外的一次机会来选择针对对方的战术。",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_LIST_VALUE_GOOD:0",
+        "original": "$VAL|+=0%$",
+        "translation": "$VAL|+=0%$",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_LIST_VALUE_BAD:0",
+        "original": "$VAL|-=0%$",
+        "translation": "$VAL|-=0%$",
+        "stage": 1
+    },
+    {
+        "key": "TACTIC_LIST_VALUE_NEUTRAL:0",
+        "original": "$VAL|=Y0%$",
+        "translation": "$VAL|=Y0%$",
+        "stage": 1
+    },
+    {
+        "key": "para_tech:0",
+        "original": "Airborne Technology",
+        "translation": "空降科技",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG:0",
+        "original": "Combat Log",
+        "translation": "战斗记录",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EMPTY_COMBATS:1",
+        "original": "No combat in $TIME$.",
+        "translation": "在$TIME$内没有战斗。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EMPTY_EQ:1",
+        "original": "No equipment lost in $TIME$",
+        "translation": "在$TIME$内没有装备损失。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EMPTY_ENEMY_EQ:1",
+        "original": "No enemy equipment lost in $TIME$.",
+        "translation": "敌军在$TIME$内没有装备损失。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EMPTY_TEMPLATES:1",
+        "original": "No divisions fought in $TIME$.",
+        "translation": "在$TIME$内没有陆军师进行战斗。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_LAST_MONTH:0",
+        "original": "the last month",
+        "translation": "过去的1个月",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_LAST_MONTHS:0",
+        "original": "the last $NUM|H$ months",
+        "translation": "过去的$NUM|H$个月",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_PERIOD_DESC:1",
+        "original": "Data for $TIME$",
+        "translation": "$TIME$的数据",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_LOSSES_IN_MP:0",
+        "original": "§HManpower lost:§! $NUM|*$",
+        "translation": "§H人力损失：§! $NUM|*$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_ENEMY_EQ_LOST:0",
+        "original": "§HEnemy Combat Losses§!",
+        "translation": "§H敌方战损§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EQ_LOST:0",
+        "original": "§HEquipment Lost§!",
+        "translation": "§H装备损失§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EQ_LOST_ATTR_COMBAT:0",
+        "original": "Lost in combat: $NUM|R$",
+        "translation": "战斗损失：$NUM|R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EQ_LOST_ATTR_TRAINING:0",
+        "original": "Lost in training: $NUM|R$",
+        "translation": "训练损失：$NUM|R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EQ_LOST_ATTR_OTHER:0",
+        "original": "Lost for other reasons: $NUM|R$",
+        "translation": "其他损失：$NUM|R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_LOSS_REASON_COMBAT:0",
+        "original": "§HIn Combat§!",
+        "translation": "§H因为战斗§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_LOSS_REASON_ATTRITION:0",
+        "original": "§HBy Attrition§!",
+        "translation": "§H因为损耗§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_TEMPLATES:0",
+        "original": "§HDivision Templates§!",
+        "translation": "§H师编制§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_RATIO:0",
+        "original": "$RATIO|%0$",
+        "translation": "$RATIO|%0$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_WON_FACTOR:0",
+        "original": "Win Ratio: $RATIO$",
+        "translation": "胜利比：$RATIO$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_ALL:0",
+        "original": "All combat: $TOT|H$",
+        "translation": "所有战斗：$TOT|H$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_WON:0",
+        "original": "§HWin Ratio§!",
+        "translation": "§H胜利比§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_WON_DETAILED_DESC:0",
+        "original": "Combat won: $WON|H$\\nCombat total: $TOTAL|H$",
+        "translation": "胜利次数：$WON|H$\\n战斗总数：$TOTAL|H$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_TOTAL:0",
+        "original": "§Hcombat§!",
+        "translation": "§H战斗§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_COMBATS_WON_RATIO:0",
+        "original": "$RATIO|H%0$",
+        "translation": "$RATIO|H%0$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_FILTER_BTN:0",
+        "original": "Detailed list",
+        "translation": "详细列表",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_TAB_COMBAT:0",
+        "original": "Combat",
+        "translation": "战斗",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_TAB_EQUIPMENT:0",
+        "original": "Equipment",
+        "translation": "装备",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_TAB_TEMPLATE:0",
+        "original": "Div.Templates",
+        "translation": "师编制",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_ATTACKER_DESC:0",
+        "original": "Our divisions was on the §Hattacking§! side of this combat.",
+        "translation": "我们的师处于这场战斗的§H进攻方§!。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_DEFENDER_DESC:0",
+        "original": "Our divisions was on the §Hdefending§! side of this combat.",
+        "translation": "我们的师处于这场战斗的§H防守方§!。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_WE_LOST:0",
+        "original": "\\n§RWe lost!§!",
+        "translation": "\\n§R我们失败了！§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_WE_WON:0",
+        "original": "\\n§GWe won!§!",
+        "translation": "\\n§G我们胜利了！§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOCATION_STATE:0",
+        "original": "This combat took place in one of the provinces in the state $NAME|H$.",
+        "translation": "这场战斗发生在$NAME|H$地区的省份。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOCATION_VP:0",
+        "original": "This combat took place in $NAME|H$.",
+        "translation": "这场战斗发生在$NAME|H$。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_TIME_HOURS:0",
+        "original": "$NUM|G$ §Hhours§! ago.",
+        "translation": "$NUM|G$§H小时§!前。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_TIME_DAYS:0",
+        "original": "$NUM|G$ §Hdays§! ago.",
+        "translation": "$NUM|G$§H天§!前。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_TIME_MONTHS:0",
+        "original": "$NUM|G$ §Hmonths§! ago.",
+        "translation": "$NUM|G$§H个月§!前。",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_TIME_DESC:0",
+        "original": "This combat has ended: $DATE|H$",
+        "translation": "这场战斗已经结束：$DATE|H$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOST_MANPOWER:0",
+        "original": "Manpower: $MP|*R$",
+        "translation": "人力：$MP|*R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOST_EQUIPMENT:0",
+        "original": "$EQ$: $NUM|*R$",
+        "translation": "$EQ$：$NUM|*R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOSS_ARMOR:0",
+        "original": "Armored",
+        "translation": "装甲",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOSS_AIR:0",
+        "original": "Air",
+        "translation": "空军",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_LOSS_OTHER:0",
+        "original": "Other",
+        "translation": "其他",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_BATTLE_PART_COUNTRIES:0",
+        "original": "§HParticipating countries:§!",
+        "translation": "§H参与国：§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_MP_LOST_DESC:0",
+        "original": "§HManpower lost§!\\nLosses to enemy ground forces: $GND|R$\\nLosses to enemy airplanes: $AIR|R$",
+        "translation": "§H人力损失§!\\n敌方陆军造成的损失：$GND|R$\\n敌方空军造成的损失：$AIR|R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_USED_COMBAT_WIDTH:0",
+        "original": "Used combat width",
+        "translation": "已使用战场宽度",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_MP_LOST_WITH_NAVY_DESC:1",
+        "original": "§HManpower lost§!\\nLosses to enemy ground forces: $GND|R$\\nLosses to enemy airplanes: $AIR|R$\\nLosses to enemy navy: $NAVY|R$",
+        "translation": "§H人力损失§!\\n敌方陆军造成的损失：$GND|R$\\n敌方空军造成的损失：$AIR|R$\\n敌方海军造成的损失：$NAVY|R$",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_LOG_EQ_CAPTURED:0",
+        "original": "§HEquipment Captured§!",
+        "translation": "§H缴获装备§!",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_CAPTURED_ENTRY:0",
+        "original": "($NUM|Y0$ captured)",
+        "translation": "(缴获了$NUM|Y0$)",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_CAPTURED_BY_US_ENTRY:0",
+        "original": "$NUM|Y0$ captured by us.",
+        "translation": "我们缴获了$NUM|Y0$。",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_CAPTURED_BY_ENEMY_ENTRY:0",
+        "original": "$NUM|Y0$ captured by enemy.",
+        "translation": "敌人缴获了$NUM|Y0$。",
+        "stage": 1
+    },
+    {
+        "key": "BM_BORDER_WAR_MODIFIER:0",
+        "original": "Border War Organization",
+        "translation": "边境战争组织",
+        "stage": 1
+    },
+    {
+        "key": "BM_BORDER_WAR_MODIFIER_DESC:0",
+        "original": "Unit gets a modifier depending on organization of the border war.",
+        "translation": "根据边境战争的组织情况，单位会获得一个修正。",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_IF_YOU_WIN:0",
+        "original": "§HIf you win:§!",
+        "translation": "§H如果你胜利了：§!",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_IF_YOU_LOSE:0",
+        "original": "§HIf you lose:§!",
+        "translation": "§H如果你失败了：§!",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_CHANGE_STATE:0",
+        "original": "Control of $STATE|H$ will be transferred to $COUNTRY|H$",
+        "translation": "$STATE|H$的控制将被转交给$COUNTRY|H$",
+        "stage": 1
+    },
+    {
+        "key": "BORDER_CONFLICT_FOR_ENEMY:0",
+        "original": "For Enemy ($COUNTRY|H$):",
+        "translation": "对于敌人($COUNTRY|H$)：",
+        "stage": 1
+    },
+    {
+        "key": "May:0",
+        "original": "May",
+        "translation": "5月",
+        "stage": 1
+    }
+]

@@ -1,0 +1,812 @@
+[
+    {
+        "key": "SIK_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_INF_01|fallback_name",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|1#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|2#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|3#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|4#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|5#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|6#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|7#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|8#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|9#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|10#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|11#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|12#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|13#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|14#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|15#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|16#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|17#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|18#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|19#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_INF_01|ordered|20#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_CAV_01|fallback_name",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|1#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|2#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|3#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|4#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|6#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|5#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|7#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|8#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|9#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|10#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|11#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|12#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|13#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|14#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_CAV_01|ordered|15#|%d Xin'jiang Qibing Jun",
+        "original": "%d Xin'jiang Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MOT_01|name",
+        "original": "Motorized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MOT_01|fallback_name",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|1#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|2#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|3#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|4#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|5#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|6#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|7#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|8#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|9#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|10#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|11#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|12#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|13#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|14#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|15#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|16#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|17#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|18#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|19#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MOT_01|ordered|20#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MEC_01|fallback_name",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|1#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|2#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|3#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|4#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|5#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|6#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|7#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|8#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|9#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|10#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|11#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|12#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|13#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|14#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|15#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|16#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|17#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|18#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|19#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MEC_01|ordered|20#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_MNT_01|fallback_name",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|1#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|2#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|3#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|4#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|5#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|6#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|7#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|8#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|9#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|10#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|11#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|12#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|13#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|14#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|15#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|16#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|17#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|18#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|19#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_MNT_01|ordered|20#|%d Xin'jiang Juntuán",
+        "original": "%d Xin'jiang Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SIK_GAR_01|fallback_name",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|101#|1 Urumqi Jingbei",
+        "original": "1 Urumqi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|111#|1 Talamakan Jingbei",
+        "original": "1 Talamakan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|121#|1 Yarkand Jingbei",
+        "original": "1 Yarkand Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|102#|2 Urumqi Jingbei",
+        "original": "2 Urumqi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|103#|3 Urumqi Jingbei",
+        "original": "3 Urumqi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|112#|2 Talamakan Jingbei",
+        "original": "2 Talamakan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|113#|3 Talamakan Jingbei",
+        "original": "3 Talamakan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|122#|2 Yarkand Jingbei",
+        "original": "2 Yarkand Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|104#|4 Urumqi Jingbei",
+        "original": "4 Urumqi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|105#|5 Urumqi Jingbei",
+        "original": "5 Urumqi Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|123#|3 Yarkand Jingbei",
+        "original": "3 Yarkand Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|124#|4 Yarkand Jingbei",
+        "original": "4 Yarkand Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|114#|4 Talamakan Jingbei",
+        "original": "4 Talamakan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|115#|5 Talamakan Jingbei",
+        "original": "5 Talamakan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|125#|5 Yarkand Jingbei",
+        "original": "5 Yarkand Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|131#|1 Urumqi Baoan Ke",
+        "original": "1 Urumqi Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|132#|2 Urumqi Baoan Ke",
+        "original": "2 Urumqi Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|133#|3 Urumqi Baoan Ke",
+        "original": "3 Urumqi Baoan Ke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|1#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|2#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|3#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|4#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|5#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|6#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|7#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|8#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|9#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SIK_GAR_01|ordered|10#|%d Xin'jiang Jingbei",
+        "original": "%d Xin'jiang Jingbei",
+        "translation": "",
+        "stage": 0
+    }
+]

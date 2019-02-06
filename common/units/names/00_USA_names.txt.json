@@ -1,0 +1,6200 @@
+[
+    {
+        "key": "#LIST#|USA|submarine|generic|Submarine",
+        "original": "Submarine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Barracuda",
+        "original": "Barracuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bass",
+        "original": "Bass",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bonita",
+        "original": "Bonita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Argonaut",
+        "original": "Argonaut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Narwhal",
+        "original": "Narwhal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Nautilus",
+        "original": "Nautilus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dolphin",
+        "original": "Dolphin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cachalot",
+        "original": "Cachalot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cuttlefish",
+        "original": "Cuttlefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Porpoise",
+        "original": "Porpoise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pike",
+        "original": "Pike",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Shark",
+        "original": "Shark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tarpon",
+        "original": "Tarpon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Perch",
+        "original": "Perch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pickerel",
+        "original": "Pickerel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Permit",
+        "original": "Permit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Plunger",
+        "original": "Plunger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pollack",
+        "original": "Pollack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pompano",
+        "original": "Pompano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Salmon",
+        "original": "Salmon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Seal",
+        "original": "Seal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Skipjack",
+        "original": "Skipjack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Snapper",
+        "original": "Snapper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Stingray",
+        "original": "Stingray",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sturgeon",
+        "original": "Sturgeon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sargo",
+        "original": "Sargo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Saury",
+        "original": "Saury",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Spearfish",
+        "original": "Spearfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sculpin",
+        "original": "Sculpin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sailfish",
+        "original": "Sailfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Swordfish",
+        "original": "Swordfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Seadragon",
+        "original": "Seadragon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sealion",
+        "original": "Sealion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Searaven",
+        "original": "Searaven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Seawolf",
+        "original": "Seawolf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tambor",
+        "original": "Tambor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tautog",
+        "original": "Tautog",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Thresher",
+        "original": "Thresher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Triton",
+        "original": "Triton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Trout",
+        "original": "Trout",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tuna",
+        "original": "Tuna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Mackerel",
+        "original": "Mackerel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Marlin",
+        "original": "Marlin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gar",
+        "original": "Gar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grampus",
+        "original": "Grampus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grayback",
+        "original": "Grayback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grayling",
+        "original": "Grayling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grenadier",
+        "original": "Grenadier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gudgeon",
+        "original": "Gudgeon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gato",
+        "original": "Gato",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Greenling",
+        "original": "Greenling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grouper",
+        "original": "Grouper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Growler",
+        "original": "Growler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Grunion",
+        "original": "Grunion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Guardfish",
+        "original": "Guardfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Albacore",
+        "original": "Albacore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Amberjack",
+        "original": "Amberjack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Barb",
+        "original": "Barb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Blackfish",
+        "original": "Blackfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bluefish",
+        "original": "Bluefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bonefish",
+        "original": "Bonefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cod",
+        "original": "Cod",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cero",
+        "original": "Cero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Corvina",
+        "original": "Corvina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Darter",
+        "original": "Darter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Drum",
+        "original": "Drum",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Flying Fish",
+        "original": "Flying Fish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Finback",
+        "original": "Finback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Haddock",
+        "original": "Haddock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Halibut",
+        "original": "Halibut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Herring",
+        "original": "Herring",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Kingfish",
+        "original": "Kingfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Shad",
+        "original": "Shad",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Silversides",
+        "original": "Silversides",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Trigger",
+        "original": "Trigger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Wahoo",
+        "original": "Wahoo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Whale",
+        "original": "Whale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Angler",
+        "original": "Angler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bashaw",
+        "original": "Bashaw",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bluegill",
+        "original": "Bluegill",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bream",
+        "original": "Bream",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cavalla",
+        "original": "Cavalla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cobia",
+        "original": "Cobia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Croaker",
+        "original": "Croaker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dace",
+        "original": "Dace",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dorado",
+        "original": "Dorado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Flasher",
+        "original": "Flasher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Flier",
+        "original": "Flier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Flounder",
+        "original": "Flounder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gabilan",
+        "original": "Gabilan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gunnel",
+        "original": "Gunnel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Gurnard",
+        "original": "Gurnard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Haddo",
+        "original": "Haddo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hake",
+        "original": "Hake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Harder",
+        "original": "Harder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hoe",
+        "original": "Hoe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Jack",
+        "original": "Jack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lapon",
+        "original": "Lapon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Mingo",
+        "original": "Mingo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Muskallunge",
+        "original": "Muskallunge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Paddle",
+        "original": "Paddle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pargo",
+        "original": "Pargo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Peto",
+        "original": "Peto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pogy",
+        "original": "Pogy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pompon",
+        "original": "Pompon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Puffer",
+        "original": "Puffer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Rasher",
+        "original": "Rasher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Raton",
+        "original": "Raton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Ray",
+        "original": "Ray",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Redfin",
+        "original": "Redfin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Robalo",
+        "original": "Robalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Rock",
+        "original": "Rock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Runner",
+        "original": "Runner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sawfish",
+        "original": "Sawfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Scamp",
+        "original": "Scamp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Scorpion",
+        "original": "Scorpion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Snook",
+        "original": "Snook",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Steelhead",
+        "original": "Steelhead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sunfish",
+        "original": "Sunfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tunny",
+        "original": "Tunny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tinosa",
+        "original": "Tinosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tullibee",
+        "original": "Tullibee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Balao",
+        "original": "Balao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Billfish",
+        "original": "Billfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bowfin",
+        "original": "Bowfin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cabrilla",
+        "original": "Cabrilla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Capelin",
+        "original": "Capelin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cisco",
+        "original": "Cisco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Crevalle",
+        "original": "Crevalle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Devilfish",
+        "original": "Devilfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dragonet",
+        "original": "Dragonet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Escolar",
+        "original": "Escolar",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hackleback",
+        "original": "Hackleback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lancetfish",
+        "original": "Lancetfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Ling",
+        "original": "Ling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lionfish",
+        "original": "Lionfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Manta",
+        "original": "Manta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Moray",
+        "original": "Moray",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Roncador",
+        "original": "Roncador",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sabalo",
+        "original": "Sabalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sablefish",
+        "original": "Sablefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Seahorse",
+        "original": "Seahorse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Skate",
+        "original": "Skate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tang",
+        "original": "Tang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tilefish",
+        "original": "Tilefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Apogon",
+        "original": "Apogon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Aspro",
+        "original": "Aspro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Batfish",
+        "original": "Batfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Archerfish",
+        "original": "Archerfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Burrfish",
+        "original": "Burrfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Barbel",
+        "original": "Barbel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Barbero",
+        "original": "Barbero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Baya",
+        "original": "Baya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Becuna",
+        "original": "Becuna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bergall",
+        "original": "Bergall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Besugo",
+        "original": "Besugo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Blackfin",
+        "original": "Blackfin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Caiman",
+        "original": "Caiman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Blenny",
+        "original": "Blenny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Blower",
+        "original": "Blower",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Blueback",
+        "original": "Blueback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Boarfish",
+        "original": "Boarfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Charr",
+        "original": "Charr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Chub",
+        "original": "Chub",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Brill",
+        "original": "Brill",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bugara",
+        "original": "Bugara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bullhead",
+        "original": "Bullhead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bumper",
+        "original": "Bumper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cabezon",
+        "original": "Cabezon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dentuda",
+        "original": "Dentuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Capitaine",
+        "original": "Capitaine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Carbonero",
+        "original": "Carbonero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Carp",
+        "original": "Carp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Catfish",
+        "original": "Catfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Entemedor",
+        "original": "Entemedor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Chivo",
+        "original": "Chivo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Chopper",
+        "original": "Chopper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Clamagore",
+        "original": "Clamagore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cobbler",
+        "original": "Cobbler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cochino",
+        "original": "Cochino",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Corporal",
+        "original": "Corporal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cubera",
+        "original": "Cubera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cusk",
+        "original": "Cusk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Diodon",
+        "original": "Diodon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dogfish",
+        "original": "Dogfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Greenfish",
+        "original": "Greenfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Halfbeak",
+        "original": "Halfbeak",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Dugong",
+        "original": "Dugong",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Eel",
+        "original": "Eel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Espada",
+        "original": "Espada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Jawfish",
+        "original": "Jawfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Ono",
+        "original": "Ono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Garlopa",
+        "original": "Garlopa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Garrupa",
+        "original": "Garrupa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Goldring",
+        "original": "Goldring",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Golet",
+        "original": "Golet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Guavina",
+        "original": "Guavina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Guitarro",
+        "original": "Guitarro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hammerhead",
+        "original": "Hammerhead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hardhead",
+        "original": "Hardhead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Hawkbill",
+        "original": "Hawkbill",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Icefish",
+        "original": "Icefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Jallao",
+        "original": "Jallao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Kete",
+        "original": "Kete",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Kraken",
+        "original": "Kraken",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lagarto",
+        "original": "Lagarto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lamprey",
+        "original": "Lamprey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Lizardfish",
+        "original": "Lizardfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Loggerhead",
+        "original": "Loggerhead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Macabi",
+        "original": "Macabi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Mapiro",
+        "original": "Mapiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Menhaden",
+        "original": "Menhaden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Mero",
+        "original": "Mero",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Needlefish",
+        "original": "Needlefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Nerka",
+        "original": "Nerka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sand Lance",
+        "original": "Sand Lance",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Picuda",
+        "original": "Picuda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pampanito",
+        "original": "Pampanito",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Parche",
+        "original": "Parche",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Bang",
+        "original": "Bang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pilotfish",
+        "original": "Pilotfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pintado",
+        "original": "Pintado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pipefish",
+        "original": "Pipefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Piranha",
+        "original": "Piranha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Plaice",
+        "original": "Plaice",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pomfret",
+        "original": "Pomfret",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sterlet",
+        "original": "Sterlet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Queenfish",
+        "original": "Queenfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Razorback",
+        "original": "Razorback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Redfish",
+        "original": "Redfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Ronquil",
+        "original": "Ronquil",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Scabbardfish",
+        "original": "Scabbardfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Segundo",
+        "original": "Segundo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Cat",
+        "original": "Sea Cat",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Devil",
+        "original": "Sea Devil",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Dog",
+        "original": "Sea Dog",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Fox",
+        "original": "Sea Fox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Atule",
+        "original": "Atule",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Spikefish",
+        "original": "Spikefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Owl",
+        "original": "Sea Owl",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Poacher",
+        "original": "Sea Poacher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Robin",
+        "original": "Sea Robin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sennet",
+        "original": "Sennet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Piper",
+        "original": "Piper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Threadfin",
+        "original": "Threadfin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Spadefish",
+        "original": "Spadefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Trepang",
+        "original": "Trepang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Spot",
+        "original": "Spot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Springer",
+        "original": "Springer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Stickleback",
+        "original": "Stickleback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tiru",
+        "original": "Tiru",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tench",
+        "original": "Tench",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Thornback",
+        "original": "Thornback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tigrone",
+        "original": "Tigrone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tirante",
+        "original": "Tirante",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Trutta",
+        "original": "Trutta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Toro",
+        "original": "Toro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Torsk",
+        "original": "Torsk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Quillback",
+        "original": "Quillback",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Trumpetfish",
+        "original": "Trumpetfish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tusk",
+        "original": "Tusk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Turbot",
+        "original": "Turbot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Ulua",
+        "original": "Ulua",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Unicorn",
+        "original": "Unicorn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Vendace",
+        "original": "Vendace",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Walrus",
+        "original": "Walrus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Whitefish",
+        "original": "Whitefish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Whiting",
+        "original": "Whiting",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Wolffish",
+        "original": "Wolffish",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Corsair",
+        "original": "Corsair",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Conger",
+        "original": "Conger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Cutlass",
+        "original": "Cutlass",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Diablo",
+        "original": "Diablo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Medregal",
+        "original": "Medregal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Requin",
+        "original": "Requin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Irex",
+        "original": "Irex",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Leopard",
+        "original": "Sea Leopard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Odax",
+        "original": "Odax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sirago",
+        "original": "Sirago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Pomodon",
+        "original": "Pomodon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Remora",
+        "original": "Remora",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sarda",
+        "original": "Sarda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Spinax",
+        "original": "Spinax",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Volador",
+        "original": "Volador",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Comber",
+        "original": "Comber",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Sea Panther",
+        "original": "Sea Panther",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Tiburon",
+        "original": "Tiburon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Kinn",
+        "original": "Kinn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|submarine|unique|Springeren",
+        "original": "Springeren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|generic|Destroyer",
+        "original": "Destroyer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Farragut",
+        "original": "Farragut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dewey",
+        "original": "Dewey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hull",
+        "original": "Hull",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Macdonough",
+        "original": "Macdonough",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Worden",
+        "original": "Worden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dale",
+        "original": "Dale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Monaghan",
+        "original": "Monaghan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Aylwin",
+        "original": "Aylwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Porter",
+        "original": "Porter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Selfridge",
+        "original": "Selfridge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McDougal",
+        "original": "McDougal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Winslow",
+        "original": "Winslow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Phelps",
+        "original": "Phelps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Clark",
+        "original": "Clark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Moffett",
+        "original": "Moffett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Balch",
+        "original": "Balch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mahan",
+        "original": "Mahan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cummings",
+        "original": "Cummings",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Drayton",
+        "original": "Drayton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lamson",
+        "original": "Lamson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Flusser",
+        "original": "Flusser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Reid",
+        "original": "Reid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Case",
+        "original": "Case",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Conyngham",
+        "original": "Conyngham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cassin",
+        "original": "Cassin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shaw",
+        "original": "Shaw",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Tucker",
+        "original": "Tucker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Downes",
+        "original": "Downes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cushing",
+        "original": "Cushing",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Perkins",
+        "original": "Perkins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Smith",
+        "original": "Smith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Preston",
+        "original": "Preston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gridley",
+        "original": "Gridley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Somers",
+        "original": "Somers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Craven",
+        "original": "Craven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Warrington",
+        "original": "Warrington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dunlap",
+        "original": "Dunlap",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fanning",
+        "original": "Fanning",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bagley",
+        "original": "Bagley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Blue",
+        "original": "Blue",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Helm",
+        "original": "Helm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mugford",
+        "original": "Mugford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ralph Talbot",
+        "original": "Ralph Talbot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Henley",
+        "original": "Henley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Patterson",
+        "original": "Patterson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Jarvis",
+        "original": "Jarvis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sampson",
+        "original": "Sampson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Davis",
+        "original": "Davis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Jouett",
+        "original": "Jouett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Benham",
+        "original": "Benham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ellet",
+        "original": "Ellet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lang",
+        "original": "Lang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McCall",
+        "original": "McCall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Maury",
+        "original": "Maury",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mayrant",
+        "original": "Mayrant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Trippe",
+        "original": "Trippe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rhind",
+        "original": "Rhind",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rowan",
+        "original": "Rowan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stack",
+        "original": "Stack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sterett",
+        "original": "Sterett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wilson",
+        "original": "Wilson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sims",
+        "original": "Sims",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hughes",
+        "original": "Hughes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Anderson",
+        "original": "Anderson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hammann",
+        "original": "Hammann",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mustin",
+        "original": "Mustin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Russell",
+        "original": "Russell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|O Brien",
+        "original": "O Brien",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Walke",
+        "original": "Walke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Morris",
+        "original": "Morris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Roe",
+        "original": "Roe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wainwright",
+        "original": "Wainwright",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Buck",
+        "original": "Buck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Benson",
+        "original": "Benson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mayo",
+        "original": "Mayo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gleaves",
+        "original": "Gleaves",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Niblack",
+        "original": "Niblack",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Madison",
+        "original": "Madison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lansdale",
+        "original": "Lansdale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hilary P Jones",
+        "original": "Hilary P Jones",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles F Hughes",
+        "original": "Charles F Hughes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Livermore",
+        "original": "Livermore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Eberle",
+        "original": "Eberle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Plunkett",
+        "original": "Plunkett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kearny",
+        "original": "Kearny",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gwin",
+        "original": "Gwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Meredith",
+        "original": "Meredith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Grayson",
+        "original": "Grayson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Monssen",
+        "original": "Monssen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Woolsey",
+        "original": "Woolsey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ludlow",
+        "original": "Ludlow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Edison",
+        "original": "Edison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ericsson",
+        "original": "Ericsson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wilkes",
+        "original": "Wilkes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Nicholson",
+        "original": "Nicholson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Swanson",
+        "original": "Swanson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ingraham",
+        "original": "Ingraham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fletcher",
+        "original": "Fletcher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Radford",
+        "original": "Radford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Jenkins",
+        "original": "Jenkins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|O Bannon",
+        "original": "O Bannon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Chevalier",
+        "original": "Chevalier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bristol",
+        "original": "Bristol",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ellyson",
+        "original": "Ellyson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hambleton",
+        "original": "Hambleton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rodman",
+        "original": "Rodman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Emmons",
+        "original": "Emmons",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Macomb",
+        "original": "Macomb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Laffey",
+        "original": "Laffey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Woodworth",
+        "original": "Woodworth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Forrest",
+        "original": "Forrest",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fitch",
+        "original": "Fitch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Corry",
+        "original": "Corry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hobson",
+        "original": "Hobson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Saufley",
+        "original": "Saufley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Waller",
+        "original": "Waller",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Strong",
+        "original": "Strong",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Taylor",
+        "original": "Taylor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|De Haven",
+        "original": "De Haven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bache",
+        "original": "Bache",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Beale",
+        "original": "Beale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Guest",
+        "original": "Guest",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bennett",
+        "original": "Bennett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fullam",
+        "original": "Fullam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hudson",
+        "original": "Hudson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hutchins",
+        "original": "Hutchins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Pringle",
+        "original": "Pringle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stanly",
+        "original": "Stanly",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stevens",
+        "original": "Stevens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Halford",
+        "original": "Halford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Leutze",
+        "original": "Leutze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Aaron Ward",
+        "original": "Aaron Ward",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Buchanan",
+        "original": "Buchanan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Duncan",
+        "original": "Duncan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lansdowne",
+        "original": "Lansdowne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lardner",
+        "original": "Lardner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McCalla",
+        "original": "McCalla",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mervine",
+        "original": "Mervine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Quick",
+        "original": "Quick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Farenholt",
+        "original": "Farenholt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bailey",
+        "original": "Bailey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Carmick",
+        "original": "Carmick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Doyle",
+        "original": "Doyle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Endicott",
+        "original": "Endicott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McCook",
+        "original": "McCook",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Frankford",
+        "original": "Frankford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Philip",
+        "original": "Philip",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Renshaw",
+        "original": "Renshaw",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ringgold",
+        "original": "Ringgold",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Schroeder",
+        "original": "Schroeder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sigsbee",
+        "original": "Sigsbee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Conway",
+        "original": "Conway",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cony",
+        "original": "Cony",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Converse",
+        "original": "Converse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Eaton",
+        "original": "Eaton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Foote",
+        "original": "Foote",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Spence",
+        "original": "Spence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Terry",
+        "original": "Terry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Thatcher",
+        "original": "Thatcher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Anthony",
+        "original": "Anthony",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wadsworth",
+        "original": "Wadsworth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Walker",
+        "original": "Walker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Brownson",
+        "original": "Brownson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Daly",
+        "original": "Daly",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Isherwood",
+        "original": "Isherwood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kimberly",
+        "original": "Kimberly",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Luce",
+        "original": "Luce",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Abner Read",
+        "original": "Abner Read",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ammen",
+        "original": "Ammen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bush",
+        "original": "Bush",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Trathen",
+        "original": "Trathen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hazelwood",
+        "original": "Hazelwood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Heermann",
+        "original": "Heermann",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hoel",
+        "original": "Hoel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McCord",
+        "original": "McCord",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Miller",
+        "original": "Miller",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Owen",
+        "original": "Owen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|The Sullivans",
+        "original": "The Sullivans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stephen Potter",
+        "original": "Stephen Potter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Tingey",
+        "original": "Tingey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Twining",
+        "original": "Twining",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Yarnall",
+        "original": "Yarnall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Boyd",
+        "original": "Boyd",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bradford",
+        "original": "Bradford",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Brown",
+        "original": "Brown",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cowell",
+        "original": "Cowell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Capps",
+        "original": "Capps",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|David W Taylor",
+        "original": "David W Taylor",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Evans",
+        "original": "Evans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John D Henley",
+        "original": "John D Henley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Franks",
+        "original": "Franks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Haggard",
+        "original": "Haggard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hailey",
+        "original": "Hailey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Johnston",
+        "original": "Johnston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Laws",
+        "original": "Laws",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Longshaw",
+        "original": "Longshaw",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Morrison",
+        "original": "Morrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Prichett",
+        "original": "Prichett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robinson",
+        "original": "Robinson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ross",
+        "original": "Ross",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rowe",
+        "original": "Rowe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Smalley",
+        "original": "Smalley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stoddard",
+        "original": "Stoddard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Watts",
+        "original": "Watts",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wren",
+        "original": "Wren",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Aulick",
+        "original": "Aulick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles Ausburne",
+        "original": "Charles Ausburne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Claxton",
+        "original": "Claxton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dyson",
+        "original": "Dyson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harrison",
+        "original": "Harrison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John Rodgers",
+        "original": "John Rodgers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McKee",
+        "original": "McKee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Murray",
+        "original": "Murray",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sproston",
+        "original": "Sproston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wickes",
+        "original": "Wickes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|William D Porter",
+        "original": "William D Porter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Young",
+        "original": "Young",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charrette",
+        "original": "Charrette",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Conner",
+        "original": "Conner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hall",
+        "original": "Hall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Halligan",
+        "original": "Halligan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Haraden",
+        "original": "Haraden",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Newcomb",
+        "original": "Newcomb",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bell",
+        "original": "Bell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Burns",
+        "original": "Burns",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Izard",
+        "original": "Izard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Paul Hamilton",
+        "original": "Paul Hamilton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Twiggs",
+        "original": "Twiggs",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Howorth",
+        "original": "Howorth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Killen",
+        "original": "Killen",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hart",
+        "original": "Hart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Metcalf",
+        "original": "Metcalf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shields",
+        "original": "Shields",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wiley",
+        "original": "Wiley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bancroft",
+        "original": "Bancroft",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Barton",
+        "original": "Barton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Boyle",
+        "original": "Boyle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Champlin",
+        "original": "Champlin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Meade",
+        "original": "Meade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Murphy",
+        "original": "Murphy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Parker",
+        "original": "Parker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Caldwell",
+        "original": "Caldwell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Coghlan",
+        "original": "Coghlan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Frazier",
+        "original": "Frazier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gansevoort",
+        "original": "Gansevoort",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gillespie",
+        "original": "Gillespie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hobby",
+        "original": "Hobby",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kalk",
+        "original": "Kalk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kendrick",
+        "original": "Kendrick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Laub",
+        "original": "Laub",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|MacKenzie",
+        "original": "MacKenzie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McLanahan",
+        "original": "McLanahan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Nields",
+        "original": "Nields",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ordronaux",
+        "original": "Ordronaux",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Davison",
+        "original": "Davison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Glennon",
+        "original": "Glennon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Jeffers",
+        "original": "Jeffers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Maddox",
+        "original": "Maddox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Nelson",
+        "original": "Nelson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Baldwin",
+        "original": "Baldwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harding",
+        "original": "Harding",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Satterlee",
+        "original": "Satterlee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Thompson",
+        "original": "Thompson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Welles",
+        "original": "Welles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Abbot",
+        "original": "Abbot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Braine",
+        "original": "Braine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Erben",
+        "original": "Erben",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cowie",
+        "original": "Cowie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Knight",
+        "original": "Knight",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Doran",
+        "original": "Doran",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Earle",
+        "original": "Earle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Butler",
+        "original": "Butler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gherardi",
+        "original": "Gherardi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Herndon",
+        "original": "Herndon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shubrick",
+        "original": "Shubrick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Beatty",
+        "original": "Beatty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Tillman",
+        "original": "Tillman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hale",
+        "original": "Hale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sigourney",
+        "original": "Sigourney",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stembel",
+        "original": "Stembel",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stevenson",
+        "original": "Stevenson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stockton",
+        "original": "Stockton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Thorn",
+        "original": "Thorn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Turner",
+        "original": "Turner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Albert W Grant",
+        "original": "Albert W Grant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Caperton",
+        "original": "Caperton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cogswell",
+        "original": "Cogswell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ingersoll",
+        "original": "Ingersoll",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Knapp",
+        "original": "Knapp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bearss",
+        "original": "Bearss",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John Hood",
+        "original": "John Hood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Van Valkenburgh",
+        "original": "Van Valkenburgh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles J Badger",
+        "original": "Charles J Badger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Colahan",
+        "original": "Colahan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dashiell",
+        "original": "Dashiell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bullard",
+        "original": "Bullard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kidd",
+        "original": "Kidd",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bennion",
+        "original": "Bennion",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Heywood L Edwards",
+        "original": "Heywood L Edwards",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Richard P Leary",
+        "original": "Richard P Leary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bryant",
+        "original": "Bryant",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Black",
+        "original": "Black",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Chauncey",
+        "original": "Chauncey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Clarence K Bronson",
+        "original": "Clarence K Bronson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cotten",
+        "original": "Cotten",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dortch",
+        "original": "Dortch",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gatling",
+        "original": "Gatling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Healy",
+        "original": "Healy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hickox",
+        "original": "Hickox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hunt",
+        "original": "Hunt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lewis Hancock",
+        "original": "Lewis Hancock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Marshall",
+        "original": "Marshall",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McDermut",
+        "original": "McDermut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McGowan",
+        "original": "McGowan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McNair",
+        "original": "McNair",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Melvin",
+        "original": "Melvin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hopewell",
+        "original": "Hopewell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Porterfield",
+        "original": "Porterfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stockham",
+        "original": "Stockham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wedderburn",
+        "original": "Wedderburn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Picking",
+        "original": "Picking",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Halsey Powell",
+        "original": "Halsey Powell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Uhlmann",
+        "original": "Uhlmann",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Remey",
+        "original": "Remey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wadleigh",
+        "original": "Wadleigh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Norman Scott",
+        "original": "Norman Scott",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mertz",
+        "original": "Mertz",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Allen M Sumner",
+        "original": "Allen M Sumner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Moale",
+        "original": "Moale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cooper",
+        "original": "Cooper",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|English",
+        "original": "English",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles S Sperry",
+        "original": "Charles S Sperry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ault",
+        "original": "Ault",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Waldron",
+        "original": "Waldron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Haynsworth",
+        "original": "Haynsworth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John W Weeks",
+        "original": "John W Weeks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hank",
+        "original": "Hank",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wallace L Lind",
+        "original": "Wallace L Lind",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Borie",
+        "original": "Borie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Compton",
+        "original": "Compton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gainard",
+        "original": "Gainard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Soley",
+        "original": "Soley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harlan R Dickson",
+        "original": "Harlan R Dickson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hugh Purvis",
+        "original": "Hugh Purvis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gearing",
+        "original": "Gearing",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Eugene A Greene",
+        "original": "Eugene A Greene",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gyatt",
+        "original": "Gyatt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Kenneth D Bailey",
+        "original": "Kenneth D Bailey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|William R Rush",
+        "original": "William R Rush",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|William M Wood",
+        "original": "William M Wood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wiltsie",
+        "original": "Wiltsie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Theodore E Chandler",
+        "original": "Theodore E Chandler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hamner",
+        "original": "Hamner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Epperson",
+        "original": "Epperson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mansfield",
+        "original": "Mansfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lyman K Swenson",
+        "original": "Lyman K Swenson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Collett",
+        "original": "Collett",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hyman",
+        "original": "Hyman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mannert L Abele",
+        "original": "Mannert L Abele",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Purdy",
+        "original": "Purdy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robert H Smith",
+        "original": "Robert H Smith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Thomas E Fraser",
+        "original": "Thomas E Fraser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shannon",
+        "original": "Shannon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harry F Bauer",
+        "original": "Harry F Bauer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Adams",
+        "original": "Adams",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Tolman",
+        "original": "Tolman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Drexler",
+        "original": "Drexler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Frank Knox",
+        "original": "Frank Knox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Southerland",
+        "original": "Southerland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Brush",
+        "original": "Brush",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Taussig",
+        "original": "Taussig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Samuel N Moore",
+        "original": "Samuel N Moore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harry E Hubbard",
+        "original": "Harry E Hubbard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Henry A Wiley",
+        "original": "Henry A Wiley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shea",
+        "original": "Shea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|J William Ditter",
+        "original": "J William Ditter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Alfred A Cunningham",
+        "original": "Alfred A Cunningham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John R Pierce",
+        "original": "John R Pierce",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Frank E Evans",
+        "original": "Frank E Evans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John A Bole",
+        "original": "John A Bole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Putnam",
+        "original": "Putnam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lofberg",
+        "original": "Lofberg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John W Thomason",
+        "original": "John W Thomason",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|William C Lawe",
+        "original": "William C Lawe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lloyd Thomas",
+        "original": "Lloyd Thomas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Keppler",
+        "original": "Keppler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Seymour D Owens",
+        "original": "Seymour D Owens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lowry",
+        "original": "Lowry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lindsey",
+        "original": "Lindsey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hugh W Hadley",
+        "original": "Hugh W Hadley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Willard Keith",
+        "original": "Willard Keith",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|James C Owens",
+        "original": "James C Owens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Zellars",
+        "original": "Zellars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Massey",
+        "original": "Massey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Douglas H Fox",
+        "original": "Douglas H Fox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stormes",
+        "original": "Stormes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robert K Huntington",
+        "original": "Robert K Huntington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gurke",
+        "original": "Gurke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McKean",
+        "original": "McKean",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Henderson",
+        "original": "Henderson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Richard B Anderson",
+        "original": "Richard B Anderson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|James E Kyes",
+        "original": "James E Kyes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hollister",
+        "original": "Hollister",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Eversole",
+        "original": "Eversole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Shelton",
+        "original": "Shelton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Seaman",
+        "original": "Seaman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Callaghan",
+        "original": "Callaghan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cassin Young",
+        "original": "Cassin Young",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Irwin",
+        "original": "Irwin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Colhoun",
+        "original": "Colhoun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Gregory",
+        "original": "Gregory",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Little",
+        "original": "Little",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rooks",
+        "original": "Rooks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Higbee",
+        "original": "Higbee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Benner",
+        "original": "Benner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dennis J Buckley",
+        "original": "Dennis J Buckley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|New",
+        "original": "New",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Holder",
+        "original": "Holder",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rich",
+        "original": "Rich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robert H McCard",
+        "original": "Robert H McCard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Samuel B Roberts",
+        "original": "Samuel B Roberts",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Basilone",
+        "original": "Basilone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Carpenter",
+        "original": "Carpenter",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Agerholm",
+        "original": "Agerholm",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robert A Owens",
+        "original": "Robert A Owens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Timmerman",
+        "original": "Timmerman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Myles C Fox",
+        "original": "Myles C Fox",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Everett F Larson",
+        "original": "Everett F Larson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Goodrich",
+        "original": "Goodrich",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hanson",
+        "original": "Hanson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Herbert J Thomas",
+        "original": "Herbert J Thomas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles P Cecil",
+        "original": "Charles P Cecil",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|George K MacKenzie",
+        "original": "George K MacKenzie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Sarsfield",
+        "original": "Sarsfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ernest G Small",
+        "original": "Ernest G Small",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Power",
+        "original": "Power",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fiske",
+        "original": "Fiske",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bausell",
+        "original": "Bausell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Ozbourn",
+        "original": "Ozbourn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Robert L Wilson",
+        "original": "Robert L Wilson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Witek",
+        "original": "Witek",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Richard E Kraus",
+        "original": "Richard E Kraus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Joseph P Kennedy Jr",
+        "original": "Joseph P Kennedy Jr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rupertus",
+        "original": "Rupertus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Leonard F Mason",
+        "original": "Leonard F Mason",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles H Roan",
+        "original": "Charles H Roan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fred T Berry",
+        "original": "Fred T Berry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Norris",
+        "original": "Norris",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|McCaffery",
+        "original": "McCaffery",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harwood",
+        "original": "Harwood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Vogelgesang",
+        "original": "Vogelgesang",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Steinaker",
+        "original": "Steinaker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Harold J Ellison",
+        "original": "Harold J Ellison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles R Ware",
+        "original": "Charles R Ware",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Cone",
+        "original": "Cone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stribling",
+        "original": "Stribling",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Arnold J Isbell",
+        "original": "Arnold J Isbell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Fechteler",
+        "original": "Fechteler",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Damato",
+        "original": "Damato",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Forrest Royal",
+        "original": "Forrest Royal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Hawkins",
+        "original": "Hawkins",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Henry W Tucker",
+        "original": "Henry W Tucker",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Rogers",
+        "original": "Rogers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Vesole",
+        "original": "Vesole",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Leary",
+        "original": "Leary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Dyess",
+        "original": "Dyess",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bordelon",
+        "original": "Bordelon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Furse",
+        "original": "Furse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Newman K Perry",
+        "original": "Newman K Perry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Floyd B Parks",
+        "original": "Floyd B Parks",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John R Craig",
+        "original": "John R Craig",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Orleck",
+        "original": "Orleck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Brinkley Bass",
+        "original": "Brinkley Bass",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Stickell",
+        "original": "Stickell",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|O'Hare",
+        "original": "O'Hare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mitscher",
+        "original": "Mitscher",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John S McCain",
+        "original": "John S McCain",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Willis A Lee",
+        "original": "Willis A Lee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Wilkinson",
+        "original": "Wilkinson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Forrest Sherman",
+        "original": "Forrest Sherman",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John Paul Jones",
+        "original": "John Paul Jones",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Barry",
+        "original": "Barry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Decatur",
+        "original": "Decatur",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Jonas Ingram",
+        "original": "Jonas Ingram",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Manley",
+        "original": "Manley",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Du Pont",
+        "original": "Du Pont",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Bigelow",
+        "original": "Bigelow",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Blandy",
+        "original": "Blandy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Mullinnix",
+        "original": "Mullinnix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Edson",
+        "original": "Edson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Morton",
+        "original": "Morton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Parsons",
+        "original": "Parsons",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Richard S Edwards",
+        "original": "Richard S Edwards",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Turner Joy",
+        "original": "Turner Joy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Charles F Adams",
+        "original": "Charles F Adams",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|John King",
+        "original": "John King",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lawrence",
+        "original": "Lawrence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Biddle",
+        "original": "Biddle",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Barney",
+        "original": "Barney",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Henry B Wilson ",
+        "original": "Henry B Wilson ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Lynde McCormick",
+        "original": "Lynde McCormick",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|destroyer|unique|Towers",
+        "original": "Towers",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|generic|Light Cruiser",
+        "original": "Light Cruiser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Omaha",
+        "original": "Omaha",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Milwaukee",
+        "original": "Milwaukee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Cincinnati",
+        "original": "Cincinnati",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Raleigh",
+        "original": "Raleigh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Detroit",
+        "original": "Detroit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Richmond",
+        "original": "Richmond",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Concord",
+        "original": "Concord",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Trenton",
+        "original": "Trenton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Marblehead",
+        "original": "Marblehead",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Memphis",
+        "original": "Memphis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Brooklyn",
+        "original": "Brooklyn",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Philadelphia",
+        "original": "Philadelphia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Savannah",
+        "original": "Savannah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Nashville",
+        "original": "Nashville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Phoenix",
+        "original": "Phoenix",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Boise",
+        "original": "Boise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Honolulu",
+        "original": "Honolulu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Helena",
+        "original": "Helena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Atlanta",
+        "original": "Atlanta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Juneau",
+        "original": "Juneau",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|San Diego",
+        "original": "San Diego",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|San Juan",
+        "original": "San Juan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Cleveland",
+        "original": "Cleveland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Columbia",
+        "original": "Columbia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Montpelier",
+        "original": "Montpelier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Denver",
+        "original": "Denver",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Santa Fe",
+        "original": "Santa Fe",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Birmingham",
+        "original": "Birmingham",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Mobile",
+        "original": "Mobile",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Vincennes",
+        "original": "Vincennes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Pasadena",
+        "original": "Pasadena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Springfield",
+        "original": "Springfield",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Topeka",
+        "original": "Topeka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Biloxi",
+        "original": "Biloxi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Houston",
+        "original": "Houston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Providence",
+        "original": "Providence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Manchester",
+        "original": "Manchester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Vicksburg",
+        "original": "Vicksburg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Duluth",
+        "original": "Duluth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Miami",
+        "original": "Miami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Astoria",
+        "original": "Astoria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Oklahoma City",
+        "original": "Oklahoma City",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Little Rock",
+        "original": "Little Rock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Galveston",
+        "original": "Galveston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Oakland",
+        "original": "Oakland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Reno",
+        "original": "Reno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Flint",
+        "original": "Flint",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Tucson",
+        "original": "Tucson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Amsterdam",
+        "original": "Amsterdam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Portsmouth",
+        "original": "Portsmouth",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Wilkes-Barre",
+        "original": "Wilkes-Barre",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Dayton",
+        "original": "Dayton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Fargo",
+        "original": "Fargo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Huntington",
+        "original": "Huntington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Spokane",
+        "original": "Spokane",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Fresno",
+        "original": "Fresno",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Newark",
+        "original": "Newark",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|New Haven",
+        "original": "New Haven",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Buffalo",
+        "original": "Buffalo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Wilmington",
+        "original": "Wilmington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Vallejo",
+        "original": "Vallejo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Roanoke",
+        "original": "Roanoke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Tallahassee",
+        "original": "Tallahassee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Cheyenne",
+        "original": "Cheyenne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Chattanooga",
+        "original": "Chattanooga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Worcester",
+        "original": "Worcester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|light_cruiser|unique|Gary",
+        "original": "Gary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|generic|Heavy Cruiser",
+        "original": "Heavy Cruiser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Pensacola",
+        "original": "Pensacola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Salt Lake City",
+        "original": "Salt Lake City",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Northampton",
+        "original": "Northampton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Chester",
+        "original": "Chester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Louisville",
+        "original": "Louisville",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Chicago",
+        "original": "Chicago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Houston",
+        "original": "Houston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Augusta",
+        "original": "Augusta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|New Orleans",
+        "original": "New Orleans",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Portland",
+        "original": "Portland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Astoria",
+        "original": "Astoria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Indianapolis",
+        "original": "Indianapolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Minneapolis",
+        "original": "Minneapolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Tuscaloosa",
+        "original": "Tuscaloosa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|San Francisco",
+        "original": "San Francisco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Quincy",
+        "original": "Quincy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Vincennes",
+        "original": "Vincennes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Wichita",
+        "original": "Wichita",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Baltimore",
+        "original": "Baltimore",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Boston",
+        "original": "Boston",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Canberra",
+        "original": "Canberra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Pittsburgh",
+        "original": "Pittsburgh",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Columbus",
+        "original": "Columbus",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Helena",
+        "original": "Helena",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Bremerton",
+        "original": "Bremerton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Fall River",
+        "original": "Fall River",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Macon",
+        "original": "Macon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Toledo",
+        "original": "Toledo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Los Angeles",
+        "original": "Los Angeles",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Oregon City",
+        "original": "Oregon City",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Albany",
+        "original": "Albany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Rochester",
+        "original": "Rochester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Des Moines",
+        "original": "Des Moines",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Salem",
+        "original": "Salem",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Worcester",
+        "original": "Worcester",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Roanoke",
+        "original": "Roanoke",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Newport News",
+        "original": "Newport News",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Cambridge",
+        "original": "Cambridge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Bridgeport",
+        "original": "Bridgeport",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Kansas City",
+        "original": "Kansas City",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Tulsa",
+        "original": "Tulsa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Norfolk",
+        "original": "Norfolk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Scranton",
+        "original": "Scranton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Dallas",
+        "original": "Dallas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Vallejo",
+        "original": "Vallejo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_cruiser|unique|Gary",
+        "original": "Gary",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|generic|Battle Cruiser",
+        "original": "Battle Cruiser",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Alaska",
+        "original": "Alaska",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Guam",
+        "original": "Guam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Hawaii",
+        "original": "Hawaii",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Philippines",
+        "original": "Philippines",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Puerto Rico",
+        "original": "Puerto Rico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Samoa",
+        "original": "Samoa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Virgin Islands",
+        "original": "Virgin Islands",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|District of Columbia",
+        "original": "District of Columbia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Panama Canal",
+        "original": "Panama Canal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Wake Island",
+        "original": "Wake Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Midway Island",
+        "original": "Midway Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Johnston Atoll",
+        "original": "Johnston Atoll",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Palmyra Island",
+        "original": "Palmyra Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Baker Island",
+        "original": "Baker Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Howland Island",
+        "original": "Howland Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battle_cruiser|unique|Jarvis Island",
+        "original": "Jarvis Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|generic|Battleship",
+        "original": "Battleship",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Arkansas",
+        "original": "Arkansas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|New York",
+        "original": "New York",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Texas",
+        "original": "Texas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Nevada",
+        "original": "Nevada",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Oklahoma",
+        "original": "Oklahoma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Pennsylvania",
+        "original": "Pennsylvania",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Arizona",
+        "original": "Arizona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|New Mexico",
+        "original": "New Mexico",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Mississippi",
+        "original": "Mississippi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Idaho",
+        "original": "Idaho",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Tennessee",
+        "original": "Tennessee",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|California",
+        "original": "California",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Colorado",
+        "original": "Colorado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Maryland",
+        "original": "Maryland",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|West Virginia",
+        "original": "West Virginia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|North Carolina",
+        "original": "North Carolina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Washington",
+        "original": "Washington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|South Dakota",
+        "original": "South Dakota",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Indiana",
+        "original": "Indiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Massachusetts",
+        "original": "Massachusetts",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Alabama",
+        "original": "Alabama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Iowa",
+        "original": "Iowa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|New Jersey",
+        "original": "New Jersey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Missouri",
+        "original": "Missouri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Wisconsin",
+        "original": "Wisconsin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Illinois",
+        "original": "Illinois",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Kentucky",
+        "original": "Kentucky",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Montana",
+        "original": "Montana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Ohio",
+        "original": "Ohio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Maine",
+        "original": "Maine",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|New Hampshire",
+        "original": "New Hampshire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Louisiana",
+        "original": "Louisiana",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|South Carolina",
+        "original": "South Carolina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Minnesota",
+        "original": "Minnesota",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|North Dakota",
+        "original": "North Dakota",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Oregon",
+        "original": "Oregon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Connecticut",
+        "original": "Connecticut",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Vermont",
+        "original": "Vermont",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Florida",
+        "original": "Florida",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Utah",
+        "original": "Utah",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Delaware",
+        "original": "Delaware",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Michigan",
+        "original": "Michigan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Kansas",
+        "original": "Kansas",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Rhode Island",
+        "original": "Rhode Island",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Nebraska",
+        "original": "Nebraska",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Virginia",
+        "original": "Virginia",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|battleship|unique|Wyoming",
+        "original": "Wyoming",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|generic|Carrier",
+        "original": "Carrier",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Lexington",
+        "original": "Lexington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Saratoga",
+        "original": "Saratoga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Ranger",
+        "original": "Ranger",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Yorktown",
+        "original": "Yorktown",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Enterprise",
+        "original": "Enterprise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Wasp",
+        "original": "Wasp",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Hornet",
+        "original": "Hornet",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Essex",
+        "original": "Essex",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Intrepid",
+        "original": "Intrepid",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Franklin",
+        "original": "Franklin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Ticonderoga",
+        "original": "Ticonderoga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Randolph",
+        "original": "Randolph",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Bunker Hill",
+        "original": "Bunker Hill",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Hancock",
+        "original": "Hancock",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Bennington",
+        "original": "Bennington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Boxer",
+        "original": "Boxer",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Bon Homme Richard",
+        "original": "Bon Homme Richard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Shangri-la",
+        "original": "Shangri-la",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Lake Champlain",
+        "original": "Lake Champlain",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Tarawa",
+        "original": "Tarawa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Antietam",
+        "original": "Antietam",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Midway",
+        "original": "Midway",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Franklin D Roosevelt",
+        "original": "Franklin D Roosevelt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Leyte",
+        "original": "Leyte",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Kearsarge",
+        "original": "Kearsarge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Valley Forge",
+        "original": "Valley Forge",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Philippine Sea",
+        "original": "Philippine Sea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Coral Sea",
+        "original": "Coral Sea",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Oriskany",
+        "original": "Oriskany",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Independence",
+        "original": "Independence",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Princeton",
+        "original": "Princeton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Belleau Wood",
+        "original": "Belleau Wood",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Cowpens",
+        "original": "Cowpens",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Monterey",
+        "original": "Monterey",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Cabot",
+        "original": "Cabot",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Bataan",
+        "original": "Bataan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|San Jacinto",
+        "original": "San Jacinto",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Saipan",
+        "original": "Saipan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Wright",
+        "original": "Wright",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|United States",
+        "original": "United States",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Forrestal",
+        "original": "Forrestal",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Kitty Hawk",
+        "original": "Kitty Hawk",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Constellation",
+        "original": "Constellation",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|America",
+        "original": "America",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Theodore Roosevelt",
+        "original": "Theodore Roosevelt",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|Abraham Lincoln",
+        "original": "Abraham Lincoln",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|carrier|unique|George Washington",
+        "original": "George Washington",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|fighter_equipment|generic|Fighter Group",
+        "original": "Fighter Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|jet_fighter_equipment|generic|Fighter Group",
+        "original": "Fighter Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|jet_fighter_equipment|generic|Combat Evaluation Group",
+        "original": "Combat Evaluation Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|heavy_fighter_equipment|generic|Heavy Pursuit Group",
+        "original": "Heavy Pursuit Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|CAS_equipment|generic|Light Bombardment Group",
+        "original": "Light Bombardment Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|tac_bomber_equipment|generic|Medium Bombardment Group",
+        "original": "Medium Bombardment Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|jet_tac_bomber_equipment|generic|Medium Bombardment Group",
+        "original": "Medium Bombardment Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|jet_tac_bomber_equipment|generic|Fast Strike Group",
+        "original": "Fast Strike Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|nav_bomber_equipment|generic|Patrol Bomber Squadron",
+        "original": "Patrol Bomber Squadron",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|strat_bomber_equipment|generic|Heavy Bombardment Group",
+        "original": "Heavy Bombardment Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|jet_strat_bomber_equipment|generic|Heavy Bombardment Group",
+        "original": "Heavy Bombardment Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|USA|transport_plane_equipment|generic|Troop Carrier Group",
+        "original": "Troop Carrier Group",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,728 @@
+[
+    {
+        "key": "FREN_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_INF_01|fallback_name",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|1#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|2#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|3#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|4#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|5#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|6#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|7#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|8#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|9#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|10#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|11#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|12#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|13#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|14#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|15#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|16#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|17#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|18#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|19#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INF_01|ordered|20#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_INFB_01|name",
+        "original": "Infantry Brigade",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_INFB_01|fallback_name",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|1#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|2#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|3#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|4#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|5#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|6#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|7#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|8#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|9#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|10#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|11#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|12#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|13#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|14#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|15#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|16#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|17#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|18#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|19#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_INFB_01|ordered|20#|%dème Brigade d'Infanterie",
+        "original": "%dème Brigade d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_CAV_01|fallback_name",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|1#|%dère Division de Cavalerie",
+        "original": "%dère Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|2#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|3#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|4#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|5#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|6#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|7#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|8#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|9#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_CAV_01|ordered|10#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_ARM_01|fallback_name",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|1#|%dère Division Cuirassée",
+        "original": "%dère Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|2#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|3#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|4#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|5#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|6#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|7#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|8#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|9#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_01|ordered|10#|%dème Division Cuirassée",
+        "original": "%dème Division Cuirassée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_ARM_02|name",
+        "original": "Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_ARM_02|fallback_name",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|1#|%dère Division Blindée",
+        "original": "%dère Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|2#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|3#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|4#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|5#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|6#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|7#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|8#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|9#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_ARM_02|ordered|10#|%dème Division Blindée",
+        "original": "%dème Division Blindée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_PAR_01|fallback_name",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|1#|%dère Division Parachutiste",
+        "original": "%dère Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|2#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|3#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|4#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|5#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|6#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|7#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|8#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|9#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_01|ordered|10#|%dème Division Parachutiste",
+        "original": "%dème Division Parachutiste",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_PAR_02|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_PAR_02|fallback_name",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|1#|%dère Division Aéroportée",
+        "original": "%dère Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|2#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|3#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|4#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|5#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|6#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|7#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|8#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|9#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_PAR_02|ordered|10#|%dème Division Aéroportée",
+        "original": "%dème Division Aéroportée",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_MNT_01|fallback_name",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|1#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|2#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|3#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|4#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|5#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|6#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|7#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|8#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|9#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FREN_MNT_01|ordered|10#|%dème Division d'Infanterie Montagne",
+        "original": "%dème Division d'Infanterie Montagne",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FREN_GAR_01|fallback_name",
+        "original": "%dème Division de Garnison",
+        "translation": "",
+        "stage": 0
+    }
+]

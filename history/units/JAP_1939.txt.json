@@ -1,0 +1,2834 @@
+[
+    {
+        "key": "division_template|name",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#|name",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template##|name",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template###|name",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template####|name",
+        "original": "Jidousha Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#####|name",
+        "original": "Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template######|name",
+        "original": "Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "division_template#######|name",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|name",
+        "original": "Ominato Kichi Kaiheidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|name",
+        "original": "Ominato Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|name",
+        "original": "Ominato Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####|division_template",
+        "original": "Jidousha Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|name",
+        "original": "Yokosuka Kichi Kaiheidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|name",
+        "original": "Kure Kichi Kaiheidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|name",
+        "original": "Sasebo Kichi Kaiheidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|name",
+        "original": "Taiwan Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|name",
+        "original": "Chinkai Kichi Kaiheidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|name",
+        "original": "Okinawa Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|name",
+        "original": "Saipan Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|name",
+        "original": "Iwoto Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|name",
+        "original": "Palau Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|name",
+        "original": "Truk Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|name",
+        "original": "Yappu Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|name",
+        "original": "Satawan Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|name",
+        "original": "Kwajalein Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|name",
+        "original": "Eniwetok Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|name",
+        "original": "Ponape Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|name",
+        "original": "Mili Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|name",
+        "original": "Ryojun Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|name",
+        "original": "Manshu Tetsudo Shubitai\" # Manchuria Railway Guard",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|name",
+        "original": "Kantogun Shureibu Keibitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|name",
+        "original": "1 Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################|division_template",
+        "original": "Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|name",
+        "original": "1 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|name",
+        "original": "2 Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################|division_template",
+        "original": "Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|name",
+        "original": "5 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|name",
+        "original": "6 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|name",
+        "original": "7 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|name",
+        "original": "8 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|name",
+        "original": "13 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|name",
+        "original": "3 Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################|division_template",
+        "original": "Sensha Gurupu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|name",
+        "original": "2 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|name",
+        "original": "3 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|name",
+        "original": "4 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|name",
+        "original": "9 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|name",
+        "original": "10 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|name",
+        "original": "11 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|name",
+        "original": "12 Bodagado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|name",
+        "original": "Hankow Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################|division_template",
+        "original": "Kihei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################|name",
+        "original": "Shanghai Kichi Shubitai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################|division_template",
+        "original": "Chuton-chi Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################|division_template",
+        "original": "Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################|name",
+        "original": "1 Yokosuka Rikustentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###########################################################################################|division_template",
+        "original": "Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division############################################################################################|division_template",
+        "original": "Rikusentai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#############################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##############################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###############################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division################################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#################################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##################################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division###################################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division####################################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#####################################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division######################################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#######################################################################################################|division_template",
+        "original": "Jidousha Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division########################################################################################################|division_template",
+        "original": "Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division#########################################################################################################|division_template",
+        "original": "Chugata Hohei Shidan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|division##########################################################################################################|division_template",
+        "original": "Dokuritsu Konsei Ryodan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|name",
+        "original": "Rengo Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|name",
+        "original": "Nagato",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship|equipment|battleship_1|version_name",
+        "original": "Nagato Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "Mutsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|equipment|battleship_1|version_name",
+        "original": "Nagato Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "Tone",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "Chikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "Kitakami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|name",
+        "original": "Oi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#####|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship######|name",
+        "original": "Arashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#######|name",
+        "original": "Asashio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship########|name",
+        "original": "Michishio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#########|name",
+        "original": "Oshio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##########|name",
+        "original": "Arare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###########|name",
+        "original": "Kasumi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|name",
+        "original": "1 Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|name",
+        "original": "Hiryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship|equipment|carrier_2|version_name",
+        "original": "Hiryu Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#|name",
+        "original": "Ryujo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##|name",
+        "original": "Fuso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###|name",
+        "original": "Yamashiro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|name",
+        "original": "Ise",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####|equipment|battleship_1|version_name",
+        "original": "Ise Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|name",
+        "original": "Hyuga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####|equipment|battleship_1|version_name",
+        "original": "Ise Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######|name",
+        "original": "Haruna",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######|name",
+        "original": "Kongo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########|name",
+        "original": "Kirishima",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########|name",
+        "original": "Aoba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########|name",
+        "original": "Kinugasa",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########|name",
+        "original": "Furutaka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############|name",
+        "original": "Kako",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############|name",
+        "original": "Abukuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############|name",
+        "original": "Mikazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###############|name",
+        "original": "Yukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship################|name",
+        "original": "Akatsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#################|name",
+        "original": "Hibiki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##################|name",
+        "original": "Ikazuchi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###################|name",
+        "original": "Inazuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####################|name",
+        "original": "Shiratsuyu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####################|name",
+        "original": "Shigure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######################|name",
+        "original": "Ariake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######################|name",
+        "original": "Yugure",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########################|name",
+        "original": "Akikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########################|name",
+        "original": "Hakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########################|name",
+        "original": "Tachikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########################|name",
+        "original": "Sumire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############################|name",
+        "original": "Hatsuharu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############################|name",
+        "original": "Hatsushimo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############################|name",
+        "original": "Nenohi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###############################|name",
+        "original": "Wakaba",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship################################|name",
+        "original": "Fubuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#################################|name",
+        "original": "Shirayuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##################################|name",
+        "original": "Hatsuyuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###################################|name",
+        "original": "Murakumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####################################|name",
+        "original": "Shinonome",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship####################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####################################|name",
+        "original": "Usugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#####################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######################################|name",
+        "original": "Shirakumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship######################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######################################|name",
+        "original": "Ayanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#######################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########################################|name",
+        "original": "Isonami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship########################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########################################|name",
+        "original": "Shikinami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#########################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########################################|name",
+        "original": "Uranami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##########################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########################################|name",
+        "original": "Amagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship###########################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############################################|name",
+        "original": "Asagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship############################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############################################|name",
+        "original": "Sagiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship#############################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############################################|name",
+        "original": "Yugiri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#|ship##############################################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|name",
+        "original": "2 Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|name",
+        "original": "Takao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|name",
+        "original": "Atago",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|name",
+        "original": "Maya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|name",
+        "original": "Chokai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|name",
+        "original": "Haguro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|name",
+        "original": "Nachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######|name",
+        "original": "Mogami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######|name",
+        "original": "Mikuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########|name",
+        "original": "Suzuya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########|name",
+        "original": "Kumano",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|name",
+        "original": "Jintsu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########|equipment|light_cruiser_1|version_name",
+        "original": "Sendai Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|name",
+        "original": "Naka",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########|equipment|light_cruiser_1|version_name",
+        "original": "Sendai Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############|name",
+        "original": "Isuzu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############|name",
+        "original": "Kuma",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##############|name",
+        "original": "Harusame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##############|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###############|name",
+        "original": "Murasame",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###############|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship################|name",
+        "original": "Samidare",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#################|name",
+        "original": "Yudachi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##################|name",
+        "original": "Kisaragi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###################|name",
+        "original": "Mochizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship####################|name",
+        "original": "Mutsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#####################|name",
+        "original": "Yayoi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship######################|name",
+        "original": "Asagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#######################|name",
+        "original": "Minegumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship########################|name",
+        "original": "Natsugumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#########################|name",
+        "original": "Yamagumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########################|name",
+        "original": "Kawakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship##########################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########################|name",
+        "original": "Suzukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship###########################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############################|name",
+        "original": "Umikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############################|name",
+        "original": "Yamakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##|ship#############################|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|name",
+        "original": "4 Sensui Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|name",
+        "original": "I-53",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|name",
+        "original": "I-54",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|name",
+        "original": "I-55",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship##|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|name",
+        "original": "I-56",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship###|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|name",
+        "original": "I-57",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|name",
+        "original": "I-58",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship######|name",
+        "original": "Ro-33",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###|ship#######|name",
+        "original": "Ro-34",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|name",
+        "original": "5 Sensui Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|name",
+        "original": "I-59",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|name",
+        "original": "I-60",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|name",
+        "original": "I-62",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship##|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|name",
+        "original": "I-64",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship###|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|name",
+        "original": "I-65",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|name",
+        "original": "I-66",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy####|ship#####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|name",
+        "original": "Kure Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship|name",
+        "original": "Sawakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#|name",
+        "original": "Yakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship##|name",
+        "original": "Wakatake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship###|name",
+        "original": "Kuretake",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship####|name",
+        "original": "Sanae",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#####|name",
+        "original": "Ro-26",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship######|name",
+        "original": "Ro-27",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#######|name",
+        "original": "Ro-28",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship########|name",
+        "original": "Ro-51",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#####|ship#########|name",
+        "original": "Ro-56",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|name",
+        "original": "Chinkai Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship|name",
+        "original": "Minekaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship#|name",
+        "original": "Asagao",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship##|name",
+        "original": "Fuyo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy######|ship###|name",
+        "original": "Karukaya",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|name",
+        "original": "Ominato Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship|name",
+        "original": "Okikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship#|name",
+        "original": "Kamikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship##|name",
+        "original": "Nokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship###|name",
+        "original": "Namikaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#######|ship####|name",
+        "original": "Numakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|name",
+        "original": "3 Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|name",
+        "original": "Akagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship|equipment|carrier_1|version_name",
+        "original": "Akagi Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|name",
+        "original": "Sendai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Sendai Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|name",
+        "original": "Kinu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|name",
+        "original": "Yura",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship####|name",
+        "original": "Asakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#####|name",
+        "original": "Harukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship######|name",
+        "original": "Hatakaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#######|name",
+        "original": "Matsukaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|name",
+        "original": "Akebono",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship########|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|name",
+        "original": "Sazanami",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#########|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|name",
+        "original": "Ushio",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##########|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship###########|name",
+        "original": "Fumizuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship############|name",
+        "original": "Minazuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship#############|name",
+        "original": "Nagatsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy########|ship##############|name",
+        "original": "Satsuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|name",
+        "original": "4 Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|name",
+        "original": "Ashigara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|name",
+        "original": "Natori",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|name",
+        "original": "Kiso",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship##|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|name",
+        "original": "Tama",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship####|name",
+        "original": "Shiokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#####|name",
+        "original": "Hokaze",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|name",
+        "original": "Oboro",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship######|equipment|destroyer_1|version_name",
+        "original": "Fubuki Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#######|name",
+        "original": "Kikuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship########|name",
+        "original": "Uzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#########|ship#########|name",
+        "original": "Yuzuki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|name",
+        "original": "5 Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|name",
+        "original": "Kaga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship|equipment|carrier_1|version_name",
+        "original": "Akagi Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#|name",
+        "original": "Soryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|name",
+        "original": "Myoko",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##|equipment|heavy_cruiser_1|version_name",
+        "original": "Myoko Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|name",
+        "original": "Nagara",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship####|name",
+        "original": "Tenryu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#####|name",
+        "original": "Tatsuta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|name",
+        "original": "Yubari",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship######|equipment|light_cruiser_1|version_name",
+        "original": "Kuma Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#######|name",
+        "original": "Take",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship########|name",
+        "original": "Kaki",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#########|name",
+        "original": "Nire",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##########|name",
+        "original": "Ashi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship###########|name",
+        "original": "Asanagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship############|name",
+        "original": "Hayate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship#############|name",
+        "original": "Oite",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##########|ship##############|name",
+        "original": "Yunagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|name",
+        "original": "Shanghai Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship|name",
+        "original": "Izumo",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#|name",
+        "original": "Iwate",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship##|name",
+        "original": "Hirado",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship###|name",
+        "original": "Yahagi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship####|name",
+        "original": "Hasu",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship#####|name",
+        "original": "Kuri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy###########|ship######|name",
+        "original": "Tsuga",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|name",
+        "original": "1 Sensui Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|name",
+        "original": "I-8",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|name",
+        "original": "I-51",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|name",
+        "original": "I-52",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###|name",
+        "original": "I-63",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship####|name",
+        "original": "I-61",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#####|name",
+        "original": "I-67",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#####|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship######|name",
+        "original": "Ro-60",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#######|name",
+        "original": "Ro-61",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship########|name",
+        "original": "Ro-62",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship#########|name",
+        "original": "Ro-65",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship##########|name",
+        "original": "Ro-66",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy############|ship###########|name",
+        "original": "Ro-67",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|name",
+        "original": "2 Sensui Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship|name",
+        "original": "Ro-63",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#|name",
+        "original": "Ro-64",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##|name",
+        "original": "Ro-68",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###|name",
+        "original": "Ro-57",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship####|name",
+        "original": "Ro-58",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#####|name",
+        "original": "Ro-59",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship######|name",
+        "original": "I-1",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship######|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#######|name",
+        "original": "I-2",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#######|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship########|name",
+        "original": "I-3",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship########|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#########|name",
+        "original": "I-4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship#########|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##########|name",
+        "original": "I-5",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship##########|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###########|name",
+        "original": "I-6",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship###########|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship############|name",
+        "original": "I-7",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy#############|ship############|equipment|submarine_1|version_name",
+        "original": "Kaidai III Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|name",
+        "original": "3 Sensui Kantai",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship|name",
+        "original": "I-68",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#|name",
+        "original": "I-69",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##|name",
+        "original": "I-70",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship###|name",
+        "original": "I-74",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship####|name",
+        "original": "I-75",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#####|name",
+        "original": "I-71",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship######|name",
+        "original": "I-72",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#######|name",
+        "original": "I-73",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship########|name",
+        "original": "Ro-30",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship#########|name",
+        "original": "Ro-31",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy##############|ship##########|name",
+        "original": "Ro-32",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production##########|equipment|version_name",
+        "original": "Kagero Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "instant_effect|add_equipment_production###########|equipment|version_name",
+        "original": "Kagero Class",
+        "translation": "",
+        "stage": 0
+    }
+]

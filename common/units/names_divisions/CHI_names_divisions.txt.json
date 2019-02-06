@@ -1,0 +1,2924 @@
+[
+    {
+        "key": "CHI_INF_01|name",
+        "original": "Infantry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_INF_01|fallback_name",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|1#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|2#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|3#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|4#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|9#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|12#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|13#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|14#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|17#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|18#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|25#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|39#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|40#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|43#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|52#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|54#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|73#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|74#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|403#|3 Bubing Shi",
+        "original": "3 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|406#|6 Bubing Shi",
+        "original": "6 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|409#|9 Bubing Shi",
+        "original": "9 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|414#|14 Bubing Shi",
+        "original": "14 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|436#|36 Bubing Shi",
+        "original": "36 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|487#|87 Bubing Shi",
+        "original": "87 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|488#|88 Bubing Shi",
+        "original": "88 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|498#|Peixun Shi",
+        "original": "Peixun Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|402#|2 Bubing Shi",
+        "original": "2 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|404#|4 Bubing Shi",
+        "original": "4 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|410#|10 Bubing Shi",
+        "original": "10 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|411#|11 Bubing Shi",
+        "original": "11 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|425#|25 Bubing Shi",
+        "original": "25 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|427#|27 Bubing Shi",
+        "original": "27 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|457#|57 Bubing Shi",
+        "original": "57 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|467#|67 Bubing Shi",
+        "original": "67 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|480#|80 Bubing Shi",
+        "original": "80 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|483#|83 Bubing Shi",
+        "original": "83 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|489#|89 Bubing Shi",
+        "original": "89 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|499#|Shui Jing Tuan",
+        "original": "Shui Jing Tuan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|6#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|7#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|8#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|10#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|15#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|16#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|19#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|20#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|21#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|22#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|23#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|26#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|28#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|29#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|30#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|31#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|32#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|33#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|34#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|35#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|37#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|38#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|41#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|42#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|44#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|45#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|46#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|47#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|48#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|49#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|51#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|53#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|55#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|56#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|57#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|59#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|70#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|71#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|72#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|75#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|76#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|77#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|78#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|79#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|84#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|86#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|87#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|89#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|92#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|93#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|94#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|98#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|201#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|5#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|27#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|50#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|58#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|90#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|91#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|96#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|99#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|100#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|202#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|203#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|205#|Xin 5 Juntuán",
+        "original": "Xin 5 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|206#|Xin 6 Juntuán",
+        "original": "Xin 6 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|36#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|301#|1 Juntuán Linshi",
+        "original": "1 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|302#|2 Juntuán Linshi",
+        "original": "2 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|430#|Xin 30 Bubing Shi",
+        "original": "Xin 30 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|438#|Xin 38 Bubing Shi",
+        "original": "Xin 38 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|422#|Xin 22 Bubing Shi",
+        "original": "Xin 22 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|450#|50 Bubing Shi",
+        "original": "50 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|88#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|207#|Xin 7 Juntuán",
+        "original": "Xin 7 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|304#|4 Juntuán Linshi",
+        "original": "4 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|305#|5 Juntuán Linshi",
+        "original": "5 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|309#|9 Juntuán Linshi",
+        "original": "9 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|11#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|95#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|208#|Xin 8 Juntuán",
+        "original": "Xin 8 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|303#|3 Juntuán Linshi",
+        "original": "3 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|315#|15 Juntuán Linshi",
+        "original": "15 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|209#|Xin 9 Juntuán",
+        "original": "Xin 9 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|210#|Xin 10 Juntuán",
+        "original": "Xin 10 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|211#|Xin 11 Juntuán",
+        "original": "Xin 11 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|212#|Xin 12 Juntuán",
+        "original": "Xin 12 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|213#|Xin 13 Juntuán",
+        "original": "Xin 13 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|214#|Xin 14 Juntuán",
+        "original": "Xin 14 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|215#|Xin 15 Juntuán",
+        "original": "Xin 15 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|306#|6 Juntuán Linshi",
+        "original": "6 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|307#|7 Juntuán Linshi",
+        "original": "7 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|308#|8 Juntuán Linshi",
+        "original": "8 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|310#|9 Juntuán Linshi",
+        "original": "9 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|311#|10 Juntuán Linshi",
+        "original": "10 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|312#|11 Juntuán Linshi",
+        "original": "11 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|313#|12 Juntuán Linshi",
+        "original": "12 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_INF_01|ordered|314#|13 Juntuán Linshi",
+        "original": "13 Juntuán Linshi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_CAV_01|name",
+        "original": "Cavalry Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_CAV_01|fallback_name",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|1#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|2#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|3#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|4#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|6#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|5#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|101#|Xin 1 Qibing Jun",
+        "original": "Xin 1 Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|102#|Xin 2 Qibing Jun",
+        "original": "Xin 2 Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|103#|Xin 3 Qibing Jun",
+        "original": "Xin 3 Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|104#|Xin 4 Qibing Jun",
+        "original": "Xin 4 Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|7#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|8#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|9#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_CAV_01|ordered|10#|%d Qibing Jun",
+        "original": "%d Qibing Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MOT_01|name",
+        "original": "Motorized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MOT_01|fallback_name",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|500#|200 Jidonghua Bubing Shi",
+        "original": "200 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|430#|Xin 30 Jidonghua Bubing Shi",
+        "original": "Xin 30 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|438#|Xin 38 Jidonghua Bubing Shi",
+        "original": "Xin 38 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|422#|Xin 22 Jidonghua Bubing Shi",
+        "original": "Xin 22 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|414#|14 Jidonghua Bubing Shi",
+        "original": "14 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|450#|50 Jidonghua Bubing Shi",
+        "original": "50 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|403#|3 Jidonghua Bubing Shi",
+        "original": "3 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|406#|6 Jidonghua Bubing Shi",
+        "original": "6 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|409#|9 Jidonghua Bubing Shi",
+        "original": "9 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|436#|36 Jidonghua Bubing Shi",
+        "original": "36 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|487#|87 Jidonghua Bubing Shi",
+        "original": "87 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|488#|88 Jidonghua Bubing Shi",
+        "original": "88 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|402#|2 Jidonghua Bubing Shi",
+        "original": "2 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|404#|4 Jidonghua Bubing Shi",
+        "original": "4 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|410#|10 Jidonghua Bubing Shi",
+        "original": "10 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|411#|11 Jidonghua Bubing Shi",
+        "original": "11 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|425#|25 Jidonghua Bubing Shi",
+        "original": "25 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|427#|27 Jidonghua Bubing Shi",
+        "original": "27 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|457#|57 Jidonghua Bubing Shi",
+        "original": "57 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|467#|67 Jidonghua Bubing Shi",
+        "original": "67 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|480#|80 Jidonghua Bubing Shi",
+        "original": "80 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|483#|83 Jidonghua Bubing Shi",
+        "original": "83 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|489#|89 Jidonghua Bubing Shi",
+        "original": "89 Jidonghua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|5#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|1#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|2#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|3#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|4#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|9#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|12#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|13#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|14#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|17#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|18#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|6#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|7#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|8#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|10#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|15#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|16#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|19#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|20#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MOT_01|ordered|11#|%d Jidonghua Juntuán",
+        "original": "%d Jidonghua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MEC_01|name",
+        "original": "Mechanized Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MEC_01|fallback_name",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|500#|200 Jixiehua Bubing Shi",
+        "original": "200 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|430#|Xin 30 Jixiehua Bubing Shi",
+        "original": "Xin 30 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|438#|Xin 38 Jixiehua Bubing Shi",
+        "original": "Xin 38 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|422#|Xin 22 Jixiehua Bubing Shi",
+        "original": "Xin 22 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|414#|14 Jixiehua Bubing Shi",
+        "original": "14 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|450#|50 Jixiehua Bubing Shi",
+        "original": "50 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|403#|3 Jixiehua Bubing Shi",
+        "original": "3 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|406#|6 Jixiehua Bubing Shi",
+        "original": "6 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|409#|9 Jixiehua Bubing Shi",
+        "original": "9 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|436#|36 Jixiehua Bubing Shi",
+        "original": "36 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|487#|87 Jixiehua Bubing Shi",
+        "original": "87 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|488#|88 Jixiehua Bubing Shi",
+        "original": "88 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|402#|2 Jixiehua Bubing Shi",
+        "original": "2 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|404#|4 Jixiehua Bubing Shi",
+        "original": "4 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|410#|10 Jixiehua Bubing Shi",
+        "original": "10 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|411#|11 Jixiehua Bubing Shi",
+        "original": "11 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|425#|25 Jixiehua Bubing Shi",
+        "original": "25 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|427#|27 Jixiehua Bubing Shi",
+        "original": "27 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|457#|57 Jixiehua Bubing Shi",
+        "original": "57 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|467#|67 Jixiehua Bubing Shi",
+        "original": "67 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|480#|80 Jixiehua Bubing Shi",
+        "original": "80 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|483#|83 Jixiehua Bubing Shi",
+        "original": "83 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|489#|89 Jixiehua Bubing Shi",
+        "original": "89 Jixiehua Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|5#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|1#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|2#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|3#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|4#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|9#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|12#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|13#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|14#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|17#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|18#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|6#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|7#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|8#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|10#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|15#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|16#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|19#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|20#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MEC_01|ordered|11#|%d Jixiehua Juntuán",
+        "original": "%d Jixiehua Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_ARM_01|name",
+        "original": "Armored Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_ARM_01|fallback_name",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|1#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|2#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|3#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|4#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|5#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|6#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|7#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|8#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|9#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|10#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|11#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|12#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|13#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|14#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_ARM_01|ordered|15#|%d Zhuangjia Shi",
+        "original": "%d Zhuangjia Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_PAR_01|name",
+        "original": "Paratrooper Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_PAR_01|fallback_name",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|1#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|2#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|3#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|4#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|5#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|6#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|7#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|8#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|9#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_PAR_01|ordered|10#|%d Sanbing Shi",
+        "original": "%d Sanbing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MAR_01|name",
+        "original": "Marine Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MAR_01|fallback_name",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|1#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|2#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|3#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|4#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|5#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|6#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|7#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|8#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|9#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MAR_01|ordered|10#|%d Luzhan Dui Shi",
+        "original": "%d Luzhan Dui Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MNT_01|name",
+        "original": "Mountain Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_MNT_01|fallback_name",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|430#|Xin 30 Bubing Shi",
+        "original": "Xin 30 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|438#|Xin 38 Bubing Shi",
+        "original": "Xin 38 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|422#|Xin 22 Bubing Shi",
+        "original": "Xin 22 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|414#|14 Bubing Shi",
+        "original": "14 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|450#|50 Bubing Shi",
+        "original": "50 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|403#|3 Bubing Shi",
+        "original": "3 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|406#|6 Bubing Shi",
+        "original": "6 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|409#|9 Bubing Shi",
+        "original": "9 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|436#|36 Bubing Shi",
+        "original": "36 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|487#|87 Bubing Shi",
+        "original": "87 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|488#|88 Bubing Shi",
+        "original": "88 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|498#|Peixun Shi",
+        "original": "Peixun Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|402#|2 Bubing Shi",
+        "original": "2 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|404#|4 Bubing Shi",
+        "original": "4 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|410#|10 Bubing Shi",
+        "original": "10 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|411#|11 Bubing Shi",
+        "original": "11 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|425#|25 Bubing Shi",
+        "original": "25 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|427#|27 Bubing Shi",
+        "original": "27 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|457#|57 Bubing Shi",
+        "original": "57 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|467#|67 Bubing Shi",
+        "original": "67 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|480#|80 Bubing Shi",
+        "original": "80 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|483#|83 Bubing Shi",
+        "original": "83 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|489#|89 Bubing Shi",
+        "original": "89 Bubing Shi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|499#|Shui Jing Tuan",
+        "original": "Shui Jing Tuan",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|1#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|2#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|3#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|4#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|9#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|12#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|13#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|14#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|17#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|18#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|25#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|39#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|40#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|43#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|52#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|54#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|73#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|74#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|6#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|7#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|8#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|10#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|15#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|16#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|19#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|20#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|21#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|22#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|23#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|26#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|28#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|29#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|30#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|31#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|32#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|33#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|34#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|35#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|37#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|38#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|41#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|42#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|44#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|45#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|46#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|47#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|48#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|49#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|51#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|53#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|55#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|56#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|57#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|59#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|60#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|61#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|62#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|63#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|64#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|65#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|66#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|67#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|68#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|70#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|71#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|72#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|75#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|76#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|77#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|78#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|79#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|80#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|81#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|82#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|83#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|84#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|85#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|86#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|87#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|89#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|92#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|93#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|94#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|98#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|201#|Xin 1 Juntuán",
+        "original": "Xin 1 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|5#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|27#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|50#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|58#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|69#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|90#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|91#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|96#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|99#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|100#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|202#|Xin 2 Juntuán",
+        "original": "Xin 2 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|203#|Xin 3 Juntuán",
+        "original": "Xin 3 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|205#|Xin 5 Juntuán",
+        "original": "Xin 5 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|206#|Xin 6 Juntuán",
+        "original": "Xin 6 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|36#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|88#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|207#|Xin 7 Juntuán",
+        "original": "Xin 7 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|11#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|95#|%d Juntuán",
+        "original": "%d Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|208#|Xin 8 Juntuán",
+        "original": "Xin 8 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|209#|Xin 9 Juntuán",
+        "original": "Xin 9 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|210#|Xin 10 Juntuán",
+        "original": "Xin 10 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|211#|Xin 11 Juntuán",
+        "original": "Xin 11 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|212#|Xin 12 Juntuán",
+        "original": "Xin 12 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|213#|Xin 13 Juntuán",
+        "original": "Xin 13 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|214#|Xin 14 Juntuán",
+        "original": "Xin 14 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_MNT_01|ordered|215#|Xin 15 Juntuán",
+        "original": "Xin 15 Juntuán",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_GAR_01|name",
+        "original": "Garrison Unit",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CHI_GAR_01|fallback_name",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|101#|Shanghai Jingbei",
+        "original": "Shanghai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|102#|1 Fujian Jingbei",
+        "original": "1 Fujian Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|103#|1 Nanking Jingbei",
+        "original": "1 Nanking Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|104#|Wuhan Jingbei",
+        "original": "Wuhan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|105#|Qingdao Jingbei",
+        "original": "Qingdao Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|106#|Henan Sheng Jun",
+        "original": "Henan Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|107#|Anhui Sheng Jun",
+        "original": "Anhui Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|108#|Gansu Sheng Jun",
+        "original": "Gansu Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|109#|Shandong Sheng Jun",
+        "original": "Shandong Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|110#|Jiangsu Sheng Jun",
+        "original": "Jiangsu Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|111#|Hubei Sheng Jun",
+        "original": "Hubei Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|112#|2 Nanking Jingbei",
+        "original": "2 Nanking Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|113#|2 Fujian Jingbei",
+        "original": "2 Fujian Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|114#|3 Fujian Jingbei",
+        "original": "3 Fujian Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|115#|Jiangxi Sheng Jun",
+        "original": "Jiangxi Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|116#|Zhejiang Sheng Jun",
+        "original": "Zhejiang Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|117#|Hunan Sheng Jun",
+        "original": "Hunan Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|118#|Fujian Sheng Jun",
+        "original": "Fujian Sheng Jun",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|119#|2 Nanking Jingbei",
+        "original": "2 Nanking Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|126#|3 Nanking Jingbei",
+        "original": "3 Nanking Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|127#|4 Nanking Jingbei",
+        "original": "4 Nanking Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|120#|Tiennan Jingbei",
+        "original": "Tiennan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|121#|Hophei Jingbei",
+        "original": "Hophei Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|122#|Chahar Jingbei",
+        "original": "Chahar Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|123#|Chun-ai Jingbei",
+        "original": "Chun-ai Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|124#|Hunan Jingbei",
+        "original": "Hunan Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|125#|Hubei Jingbei",
+        "original": "Hubei Jingbei",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|1#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|2#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|3#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|4#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|5#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|6#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|7#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|8#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|9#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|10#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|11#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|12#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|13#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|14#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|15#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|16#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|17#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|18#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|19#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|CHI_GAR_01|ordered|20#|%d Baoan Zongdui",
+        "original": "%d Baoan Zongdui",
+        "translation": "",
+        "stage": 0
+    }
+]

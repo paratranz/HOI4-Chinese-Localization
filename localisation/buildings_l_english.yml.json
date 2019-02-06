@@ -1,0 +1,488 @@
+[
+    {
+        "key": "infrastructure:0",
+        "original": "Infrastructure",
+        "translation": "基础设施",
+        "stage": 1
+    },
+    {
+        "key": "infrastructure_plural:0",
+        "original": "Infrastructure",
+        "translation": "基础设施",
+        "stage": 1
+    },
+    {
+        "key": "infrastructure_desc:0",
+        "original": "This building provides the state with improvement of infrastructure. It increases your supply power in strategic regions and increases your divisions' speed.",
+        "translation": "此建筑提供了改善其所属地区的基础设施的手段。它提高了你在战略要地的后勤力量以及你的兵团的移动速度。",
+        "stage": 1
+    },
+    {
+        "key": "arms_factory:0",
+        "original": "Military Factory",
+        "translation": "军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "arms_factory_plural:0",
+        "original": "Military Factories",
+        "translation": "军用工厂",
+        "stage": 1
+    },
+    {
+        "key": "arms_factory_desc:0",
+        "original": "This building provides the state with industry for production of new military equipment. Can be converted to civilian industry if needed.",
+        "translation": "此建筑为其所属地区提供了生产新军事装备的工业能力。因需可转换为民用工厂。",
+        "stage": 1
+    },
+    {
+        "key": "dockyard:0",
+        "original": "Naval Dockyard",
+        "translation": "海军船坞",
+        "stage": 1
+    },
+    {
+        "key": "dockyard_plural:0",
+        "original": "Naval Dockyards",
+        "translation": "海军船坞",
+        "stage": 1
+    },
+    {
+        "key": "dockyard_desc:0",
+        "original": "This building provides the state with industry for building new ships.",
+        "translation": "此建筑为其所属地区提供了建造新舰艇的工业能力。",
+        "stage": 1
+    },
+    {
+        "key": "industrial_complex:0",
+        "original": "Civilian Factory",
+        "translation": "民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "industrial_complex_plural:0",
+        "original": "Civilian Factories",
+        "translation": "民用工厂",
+        "stage": 1
+    },
+    {
+        "key": "industrial_complex_desc:0",
+        "original": "This building provides the state with industry for production of civilian goods or construction of new buildings. Can be converted to military industry if needed.",
+        "translation": "此建筑为其所属地区提供了生产民用商品和建造新建筑的工业能力。因需可转换为军用工厂。",
+        "stage": 1
+    },
+    {
+        "key": "air_base:0",
+        "original": "Air Base",
+        "translation": "空军基地",
+        "stage": 1
+    },
+    {
+        "key": "air_base_plural:0",
+        "original": "Air Bases",
+        "translation": "空军基地",
+        "stage": 1
+    },
+    {
+        "key": "air_base_desc:0",
+        "original": "This building provides the state with deployment for your air forces.",
+        "translation": "此建筑为其所属地区提供了部署空中力量的场所。",
+        "stage": 1
+    },
+    {
+        "key": "naval_base:0",
+        "original": "Naval Base",
+        "translation": "海军基地",
+        "stage": 1
+    },
+    {
+        "key": "naval_base_plural:0",
+        "original": "Naval Bases",
+        "translation": "海军基地",
+        "stage": 1
+    },
+    {
+        "key": "naval_base_desc:1",
+        "original": "Extends the range of your fleet and provides repair services for it. Allows overseas supply and export of resources. Higher levels increases the supply throughput.",
+        "translation": "延展了你的舰队的航程并为之提供维修服务。提供了海外补给和资源出口的能力。海军基地等级提高可增加补给吞吐量。",
+        "stage": 1
+    },
+    {
+        "key": "bunker:0",
+        "original": "Land Fort",
+        "translation": "陆上要塞",
+        "stage": 1
+    },
+    {
+        "key": "bunker_plural:0",
+        "original": "Land Forts",
+        "translation": "陆上要塞",
+        "stage": 1
+    },
+    {
+        "key": "bunker_desc:0",
+        "original": "This building inflicts an attack penalty of $VALUE|+%0$ for each fort level on the attacker in combat. Attacking from multiple directions will reduce forts effect.",
+        "translation": "此建筑在战斗中对进攻方造成基于要塞等级每级 $VALUE|+%0$ 的进攻惩罚，多方向进攻将降低要塞效果。",
+        "stage": 1
+    },
+    {
+        "key": "coastal_bunker:0",
+        "original": "Coastal Fort",
+        "translation": "海岸要塞",
+        "stage": 1
+    },
+    {
+        "key": "coastal_bunker_plural:0",
+        "original": "Coastal Forts",
+        "translation": "海岸要塞",
+        "stage": 1
+    },
+    {
+        "key": "coastal_bunker_desc:0",
+        "original": "This building inflicts an attack penalty of $VALUE|+%0$ for each fort level on the attacker in naval invasion combat.",
+        "translation": "此建筑在登陆战中对进攻方造成基于要塞等级每级 $VALUE|+%0$ 的进攻惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "anti_air_building:0",
+        "original": "Anti-Air",
+        "translation": "防空火炮",
+        "stage": 1
+    },
+    {
+        "key": "anti_air_building_plural:0",
+        "original": "Anti-Air",
+        "translation": "防空火炮",
+        "stage": 1
+    },
+    {
+        "key": "anti_air_building_desc:0",
+        "original": "This building provides the state with protection from enemy bombers and ability to fire at attacking aircraft.",
+        "translation": "此建筑通过迎击敌人的轰炸机来为所在地区提供保护。",
+        "stage": 1
+    },
+    {
+        "key": "synthetic_refinery:0",
+        "original": "Synthetic Refinery",
+        "translation": "合成炼油厂",
+        "stage": 1
+    },
+    {
+        "key": "synthetic_refinery_plural:0",
+        "original": "Synthetic Refineries",
+        "translation": "合成炼油厂",
+        "stage": 1
+    },
+    {
+        "key": "synthetic_refinery_desc:0",
+        "original": "This building provides the state with",
+        "translation": "此建筑为其所属地区提供了",
+        "stage": 1
+    },
+    {
+        "key": "synthetic_refinery_amount:0",
+        "original": "$VALUE|Y0=$",
+        "translation": "$VALUE|Y0=$",
+        "stage": 1
+    },
+    {
+        "key": "synthetic_refinery_resource:0",
+        "original": "£resources_strip|$FRAME$",
+        "translation": "£resources_strip|$FRAME$",
+        "stage": 1
+    },
+    {
+        "key": "radar_station:0",
+        "original": "Radar Station",
+        "translation": "雷达站",
+        "stage": 1
+    },
+    {
+        "key": "radar_station_plural:0",
+        "original": "Radar Stations",
+        "translation": "雷达站",
+        "stage": 1
+    },
+    {
+        "key": "radar_station_desc:3",
+        "original": "Radar allows you to gain intel on enemy troops in nearby states.\\nA higher radar level in a state increases the effective range of the radar.\\nRadar also provides the state with better detection of enemy air forces, giving your planes a better chance to engage them.\\nIn addition the radars are increasing detection of enemy fleets at sea.",
+        "translation": "雷达使你得以获得邻近地区的敌军部队情报。\\n地区内的雷达等级提高，可增加雷达的有效距离。 \\n雷达也为其所属地区提供了更好的对空侦察能力，使你的战机更有机会与之交战。\\n此外雷达还会增加发现海域内敌方舰队的能力。",
+        "stage": 1
+    },
+    {
+        "key": "rocket_site:0",
+        "original": "Rocket Site",
+        "translation": "火箭基地",
+        "stage": 1
+    },
+    {
+        "key": "rocket_site_plural:0",
+        "original": "Rocket Sites",
+        "translation": "火箭基地",
+        "stage": 1
+    },
+    {
+        "key": "rocket_site_desc:0",
+        "original": "This building provides the state with deployment for produced rockets.",
+        "translation": "此建筑为其所属地区提供了部署火箭的能力。",
+        "stage": 1
+    },
+    {
+        "key": "nuclear_reactor:0",
+        "original": "Nuclear Reactor",
+        "translation": "核反应堆",
+        "stage": 1
+    },
+    {
+        "key": "nuclear_reactor_plural:0",
+        "original": "Nuclear Reactors",
+        "translation": "核反应堆",
+        "stage": 1
+    },
+    {
+        "key": "nuclear_reactor_desc:0",
+        "original": "This building provides the state with production of enriched Uranium for use in Nuclear weapons.",
+        "translation": "此建筑为其所属地区提供了生产用于核武器的浓缩铀的生产能力。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_BOMBED:0",
+        "original": "$BUILDING$ bombed!",
+        "translation": "$BUILDING$ 遭受轰炸!",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_SABOTAGED:0",
+        "original": "$BUILDING$ sabotaged!",
+        "translation": "$BUILDING$ 被破坏!",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_REPAIRED:0",
+        "original": "$BUILDING$ repaired!",
+        "translation": "$BUILDING$ 已修复!",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_DAMAGE_REASON_COLLATERAL:0",
+        "original": "$BUILDING$ suffered collateral damage!",
+        "translation": "$BUILDING$ 遭受了附带损害!",
+        "stage": 1
+    },
+    {
+        "key": "NUKE_DROPPED:0",
+        "original": "Nuclear bomb dropped!",
+        "translation": "核弹已投掷!",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_DAMAGED:0",
+        "original": "Damaged levels: $DAMAGED|-$/$CURRENT|H$",
+        "translation": "损害等级：$DAMAGED|-$/$CURRENT|H$",
+        "stage": 1
+    },
+    {
+        "key": "CAPACITY:0",
+        "original": "$VAL$/$MAX$",
+        "translation": "$VAL$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "CAPACITY_PLUS:0",
+        "original": "$VAL$+$PLUS$/$MAX$",
+        "translation": "$VAL$+$PLUS$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "AIR_BASE_LEVEL:0",
+        "original": "$NAME|H$: $VAL|Y$",
+        "translation": "$NAME|H$：$VAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "AIR_BASE_LEVEL_UNKNOWN:0",
+        "original": "$NAME|H$",
+        "translation": "$NAME|H$",
+        "stage": 1
+    },
+    {
+        "key": "ROCKET_SITE_CAPACITY:0",
+        "original": "Capacity: $VAL$/$MAX$",
+        "translation": "容量：$VAL$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_LEVEL_UNKNOWN:0",
+        "original": "§YNaval base§!",
+        "translation": "§Y海军基地§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_LEVEL:0",
+        "original": "§YNaval base§!: $VAL|Y$",
+        "translation": "§Y海军基地§!：$VAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_SUPPLY_LIMIT:0",
+        "original": "Supply throughput limit: $VAL|Y$",
+        "translation": "补给吞吐量上限：$VAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_CAPACITY:0",
+        "original": "Capacity: $USED|1G$/$TOTAL|0G$",
+        "translation": "容量：$USED|1G$/$TOTAL|0G$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_CAPACITY_OVER:0",
+        "original": "Capacity: $USED|1R$/$TOTAL|0R$",
+        "translation": "容量：$USED|1R$/$TOTAL|0R$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BASE_CAPACITY_PENALTY:0",
+        "original": "Repair power capacity penalty: $PENALTY|%0R$",
+        "translation": "超出维修能力上限惩罚：$PENALTY|%0R$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_LEVEL:1",
+        "original": "§TState level: $LEVEL|H$§!",
+        "translation": "§T地区等级：$LEVEL|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_CAPPED:0",
+        "original": "Building current max level limited by:",
+        "translation": "建筑当前最大等级受限于：",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_NONCAPPED:0",
+        "original": "Building current max level is not limited.",
+        "translation": "建筑当前最大等级无限制。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER:0",
+        "original": "State population: $MANPOWER|*Y$",
+        "translation": "地区人口：$MANPOWER|*Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_CAPPED_POP_PER_LEVEL:0",
+        "original": "Population per building level: $POPLEVEL|*Y$",
+        "translation": "每级建筑上限人口：$POPLEVEL|*Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_CAPPED_BUILDING_MAX_FACTOR:0",
+        "original": "State max factor: $MAXFACTOR|%0Y$",
+        "translation": " 地区上限系数：$MAXFACTOR|%0Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_CAPPED_MIN_MAXLEVEL:0",
+        "original": "Min max level due to population: $MAXLEVEL|Y$",
+        "translation": "人口决定的最低上限：$MAXLEVEL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_SLOT_REMOVE_BUILDING_LEVEL:0",
+        "original": "Remove the building.",
+        "translation": "移除建筑。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL:0",
+        "original": "Remove a construction level of the building.",
+        "translation": "移除此建筑的一层建设等级。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_SLOT_REMOVE_CONVERSION_LEVEL:0",
+        "original": "Revert the building conversion.",
+        "translation": "恢复建筑原用途。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_SLOT_REMOVE_COOLDOWN:0",
+        "original": "In wartimes it's only possible to remove buildings once every $DAYS|Y$ days. Next removal can be done at $DATE|Y$.",
+        "translation": "战时每$DAYS|Y$日可移除一栋建筑。下次的移除可在$DATE|Y$日后实施。",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_CONVERT:1",
+        "original": "§GClick§! to convert to $BUILDING|Y$",
+        "translation": "§G点击§!转换为$BUILDING|Y$",
+        "stage": 1
+    },
+    {
+        "key": "INSERT_CONVERSION:0",
+        "original": "§GCtrl+Click§! to convert and place at the beginning of the queue.",
+        "translation": "§GCtrl+点击§!开始转换并填加到队伍顶端。",
+        "stage": 1
+    },
+    {
+        "key": "INSERT_CONSTRUCTION:0",
+        "original": "§GCtrl+Click§! to build and place at the beginning of the queue.",
+        "translation": "§GCtrl+点击§!开始建造并填加到队伍顶端。",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL:0",
+        "original": "Max level for $BUILDING|Y$: $MAXLEVEL|Y$",
+        "translation": "$BUILDING|Y$ 的最大等级：$MAXLEVEL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_CURRENT_MAX_LEVEL_SHARED_SLOTS:0",
+        "original": "Max $BUILDING|Y$ in a State: $MAXLEVEL|Y$",
+        "translation": "地区内 $BUILDING|Y$ 的上限：$MAXLEVEL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDING_LEVEL_HEALTH:0",
+        "original": "Level health: $VALUE|%2Y$",
+        "translation": "等级生命值：$VALUE|%2Y$",
+        "stage": 1
+    },
+    {
+        "key": "AIR_DEFENSE_IN_STATE:0",
+        "original": "\\n§HTotal bombing damage reduction:§! $TOT|%G$\\nAnti-Air: $AA|-%$\\n",
+        "translation": "\\n§H总轰炸伤害减免：§! $TOT|%G$\\n防空设施：$AA|-%$\\n",
+        "stage": 1
+    },
+    {
+        "key": "RADAR_ONMAP_TOOLTIP:0",
+        "original": "§HRadar station§! level: $LVL|G$/$TOT|H$\\nBelongs to: $WHO|H$",
+        "translation": "§H雷达站§! 等级：$LVL|G$/$TOT|H$\\n属于：$WHO|H$",
+        "stage": 1
+    },
+    {
+        "key": "RADAR_ONMAP_DAMAGED_TOOLTIP:0",
+        "original": "§HRadar station§! level: $LVL|R$/$TOT|H$\\nBelongs to: $WHO|H$",
+        "translation": "§H雷达站§! 等级：$LVL|R$/$TOT|H$\\n属于：$WHO|H$",
+        "stage": 1
+    },
+    {
+        "key": "RADAR_ONMAP_TOOLTIP_COVERAGE:0",
+        "original": "\\n§HRegions coverage:§!",
+        "translation": "\\n§H覆盖地区：§!",
+        "stage": 1
+    },
+    {
+        "key": "RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:0",
+        "original": "\\n  $PERC|%$ in $REGION$",
+        "translation": "\\n  $PERC|%$$REGION$",
+        "stage": 1
+    },
+    {
+        "key": "RADAR_ONMAP_TOOLTIP_SUPPRESS:0",
+        "original": "\\nHold §GCtrl§! to §Rsuppress§! this tooltip.",
+        "translation": "\\n按住§GCtrl§!§R隐藏§!这条提示。",
+        "stage": 1
+    }
+]

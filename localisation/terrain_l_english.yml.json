@@ -1,0 +1,146 @@
+[
+    {
+        "key": "unknown:0",
+        "original": "Unknown",
+        "translation": "未知",
+        "stage": 1
+    },
+    {
+        "key": "unknown_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "ocean:0",
+        "original": "Ocean",
+        "translation": "海洋",
+        "stage": 1
+    },
+    {
+        "key": "ocean_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "lakes:0",
+        "original": "Lake",
+        "translation": "湖泊",
+        "stage": 1
+    },
+    {
+        "key": "lakes_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "forest:0",
+        "original": "Forest",
+        "translation": "森林",
+        "stage": 1
+    },
+    {
+        "key": "forest_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "hills:0",
+        "original": "Hills",
+        "translation": "丘陵",
+        "stage": 1
+    },
+    {
+        "key": "hills_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "mountain:0",
+        "original": "Mountain",
+        "translation": "山地",
+        "stage": 1
+    },
+    {
+        "key": "mountain_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "plains:0",
+        "original": "Plains",
+        "translation": "平原",
+        "stage": 1
+    },
+    {
+        "key": "plains_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "urban:0",
+        "original": "Urban",
+        "translation": "城市",
+        "stage": 1
+    },
+    {
+        "key": "urban_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "jungle:0",
+        "original": "Jungle",
+        "translation": "丛林",
+        "stage": 1
+    },
+    {
+        "key": "jungle_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "marsh:0",
+        "original": "Marsh",
+        "translation": "沼泽",
+        "stage": 1
+    },
+    {
+        "key": "marsh_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "desert:0",
+        "original": "Desert",
+        "translation": "沙漠",
+        "stage": 1
+    },
+    {
+        "key": "desert_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "UNIT_TERRAIN_MODIFIER:0",
+        "original": "Unit effects:",
+        "translation": "地形效果：",
+        "stage": 1
+    },
+    {
+        "key": "MOVEMENT_COST:0",
+        "original": "Movement cost within this terrain type x$VALUE|H$",
+        "translation": "地形移动消耗 x$VALUE|H$",
+        "stage": 1
+    }
+]

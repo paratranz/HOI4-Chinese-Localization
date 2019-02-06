@@ -1,0 +1,2864 @@
+[
+    {
+        "key": "KOR_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_INF_01|fallback_name",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|1#|%dst ROK Infantry Division 'Forward'",
+        "original": "%dst ROK Infantry Division 'Forward'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|2#|%dnd ROK Infantry Division 'Angry Wave'",
+        "original": "%dnd ROK Infantry Division 'Angry Wave'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|3#|%drd ROK Infantry Division 'White Skull'",
+        "original": "%drd ROK Infantry Division 'White Skull'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|4#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|5#|%dth ROK Infantry Division 'The Key'",
+        "original": "%dth ROK Infantry Division 'The Key'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|6#|%dth ROK Infantry Division 'Blue Star'",
+        "original": "%dth ROK Infantry Division 'Blue Star'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|7#|%dth ROK Infantry Division 'Seven Stars'",
+        "original": "%dth ROK Infantry Division 'Seven Stars'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|8#|%dth ROK Infantry Division 'Tumbler'",
+        "original": "%dth ROK Infantry Division 'Tumbler'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|9#|%dth ROK Infantry Division 'White Horse'",
+        "original": "%dth ROK Infantry Division 'White Horse'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|10#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|11#|%dth ROK Infantry Division 'Hwa-rang'",
+        "original": "%dth ROK Infantry Division 'Hwa-rang'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|12#|%dth ROK Infantry Division 'Eulji'",
+        "original": "%dth ROK Infantry Division 'Eulji'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|13#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|14#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|15#|%dth ROK Infantry Division 'Victory'",
+        "original": "%dth ROK Infantry Division 'Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|16#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|17#|%dth ROK Infantry Division 'Lightning'",
+        "original": "%dth ROK Infantry Division 'Lightning'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|18#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|19#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|20#|%dth ROK Infantry Division 'Decisive Battle'",
+        "original": "%dth ROK Infantry Division 'Decisive Battle'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|22#|%dnd ROK Infantry Division 'Yulgok' ",
+        "original": "%dnd ROK Infantry Division 'Yulgok' ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|23#|%drd ROK Infantry Division 'Iron Wall'",
+        "original": "%drd ROK Infantry Division 'Iron Wall'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|24#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|25#|%dth ROK Infantry Division 'Flying Dragon'",
+        "original": "%dth ROK Infantry Division 'Flying Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|26#|%dth ROK Infantry Division 'Fires'",
+        "original": "%dth ROK Infantry Division 'Fires'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|27#|%dth ROK Infantry Division 'Let's Win'",
+        "original": "%dth ROK Infantry Division 'Let's Win'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|28#|%dth ROK Infantry Division 'Invincible Typhoon'",
+        "original": "%dth ROK Infantry Division 'Invincible Typhoon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|29#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|30#|%dth ROK Infantry Division 'Certain Victory'",
+        "original": "%dth ROK Infantry Division 'Certain Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|31#|%dst ROK Infantry Division",
+        "original": "%dst ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|32#|%dnd ROK Infantry Division",
+        "original": "%dnd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|33#|%drd ROK Infantry Division",
+        "original": "%drd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|34#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|35#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|36#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|37#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|38#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|39#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|40#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|41#|%dst ROK Infantry Division",
+        "original": "%dst ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|42#|%dnd ROK Infantry Division",
+        "original": "%dnd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|43#|%drd ROK Infantry Division",
+        "original": "%drd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|44#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|45#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|46#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|47#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|48#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|49#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|50#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|51#|%dst ROK Infantry Division 'Total Victory'",
+        "original": "%dst ROK Infantry Division 'Total Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|52#|%dnd ROK Infantry Division",
+        "original": "%dnd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|53#|%drd ROK Infantry Division",
+        "original": "%drd ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_01|ordered|100#|Capital Infantry Division 'Tiger Division'",
+        "original": "Capital Infantry Division 'Tiger Division'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_INF_02|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_INF_02|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_INF_02|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_CAV_01|fallback_name",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|1#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|2#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|4#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|5#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|6#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|7#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|8#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|9#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|10#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|11#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|12#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|13#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|14#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|15#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|16#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|17#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|18#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|19#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|20#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|21#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|22#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|23#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|24#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|25#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|26#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|27#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|28#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|29#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|30#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|31#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|32#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|33#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|34#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|35#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|36#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|37#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|38#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|39#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|40#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|41#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|42#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|43#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|44#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|45#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|46#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|47#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|48#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|49#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|50#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|51#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|52#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_CAV_01|ordered|53#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MOT_01|fallback_name",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|1#|%dst ROK Infantry Division 'Forward'",
+        "original": "%dst ROK Infantry Division 'Forward'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|2#|%dnd ROK Infantry Division 'Angry Wave'",
+        "original": "%dnd ROK Infantry Division 'Angry Wave'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|3#|%drd ROK Infantry Division 'White Skull'",
+        "original": "%drd ROK Infantry Division 'White Skull'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|4#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|5#|%dth ROK Infantry Division 'The Key'",
+        "original": "%dth ROK Infantry Division 'The Key'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|6#|%dth ROK Infantry Division 'Blue Star'",
+        "original": "%dth ROK Infantry Division 'Blue Star'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|7#|%dth ROK Infantry Division 'Seven Stars'",
+        "original": "%dth ROK Infantry Division 'Seven Stars'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|8#|%dth ROK Infantry Division 'Tumbler'",
+        "original": "%dth ROK Infantry Division 'Tumbler'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|9#|%dth ROK Infantry Division 'White Horse'",
+        "original": "%dth ROK Infantry Division 'White Horse'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|10#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|11#|%dth ROK Infantry Division 'Hwa-rang'",
+        "original": "%dth ROK Infantry Division 'Hwa-rang'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|12#|%dth ROK Infantry Division 'Eulji'",
+        "original": "%dth ROK Infantry Division 'Eulji'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|13#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|14#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|15#|%dth ROK Infantry Division 'Victory'",
+        "original": "%dth ROK Infantry Division 'Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|16#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|17#|%dth ROK Infantry Division 'Lightning'",
+        "original": "%dth ROK Infantry Division 'Lightning'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|18#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|19#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|20#|%dth ROK Infantry Division 'Decisive Battle'",
+        "original": "%dth ROK Infantry Division 'Decisive Battle'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|22#|%dnd ROK Infantry Division 'Yulgok' ",
+        "original": "%dnd ROK Infantry Division 'Yulgok' ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|23#|%drd ROK Infantry Division 'Iron Wall'",
+        "original": "%drd ROK Infantry Division 'Iron Wall'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|24#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|25#|%dth ROK Infantry Division 'Flying Dragon'",
+        "original": "%dth ROK Infantry Division 'Flying Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|26#|%dth ROK Infantry Division 'Fires'",
+        "original": "%dth ROK Infantry Division 'Fires'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|27#|%dth ROK Infantry Division 'Let's Win'",
+        "original": "%dth ROK Infantry Division 'Let's Win'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|28#|%dth ROK Infantry Division 'Invincible Typhoon'",
+        "original": "%dth ROK Infantry Division 'Invincible Typhoon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|29#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_01|ordered|30#|%dth ROK Infantry Division 'Certain Victory'",
+        "original": "%dth ROK Infantry Division 'Certain Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MOT_02|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MOT_02|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MOT_02|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_ARM_01|fallback_name",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|1#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|2#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|3#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|4#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|5#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|6#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|7#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|8#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|9#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|10#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|11#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|12#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|13#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|14#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|15#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|16#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|17#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|18#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|19#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|20#|%dth Armored Division",
+        "original": "%dth Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|21#|%dst Armored Division",
+        "original": "%dst Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|22#|%dnd Armored Division",
+        "original": "%dnd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_ARM_01|ordered|23#|%drd Armored Division",
+        "original": "%drd Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MEC_01|fallback_name",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|1#|%dst ROK Infantry Division 'Forward'",
+        "original": "%dst ROK Infantry Division 'Forward'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|2#|%dnd ROK Infantry Division 'Angry Wave'",
+        "original": "%dnd ROK Infantry Division 'Angry Wave'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|3#|%drd ROK Infantry Division 'White Skull'",
+        "original": "%drd ROK Infantry Division 'White Skull'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|4#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|5#|%dth ROK Infantry Division 'The Key'",
+        "original": "%dth ROK Infantry Division 'The Key'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|6#|%dth ROK Infantry Division 'Blue Star'",
+        "original": "%dth ROK Infantry Division 'Blue Star'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|7#|%dth ROK Infantry Division 'Seven Stars'",
+        "original": "%dth ROK Infantry Division 'Seven Stars'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|8#|%dth ROK Infantry Division 'Tumbler'",
+        "original": "%dth ROK Infantry Division 'Tumbler'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|9#|%dth ROK Infantry Division 'White Horse'",
+        "original": "%dth ROK Infantry Division 'White Horse'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|10#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|11#|%dth ROK Infantry Division 'Hwa-rang'",
+        "original": "%dth ROK Infantry Division 'Hwa-rang'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|12#|%dth ROK Infantry Division 'Eulji'",
+        "original": "%dth ROK Infantry Division 'Eulji'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|13#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|14#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|15#|%dth ROK Infantry Division 'Victory'",
+        "original": "%dth ROK Infantry Division 'Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|16#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|17#|%dth ROK Infantry Division 'Lightning'",
+        "original": "%dth ROK Infantry Division 'Lightning'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|18#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|19#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|20#|%dth ROK Infantry Division 'Decisive Battle'",
+        "original": "%dth ROK Infantry Division 'Decisive Battle'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|22#|%dnd ROK Infantry Division 'Yulgok' ",
+        "original": "%dnd ROK Infantry Division 'Yulgok' ",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|23#|%drd ROK Infantry Division 'Iron Wall'",
+        "original": "%drd ROK Infantry Division 'Iron Wall'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|24#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|25#|%dth ROK Infantry Division 'Flying Dragon'",
+        "original": "%dth ROK Infantry Division 'Flying Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|26#|%dth ROK Infantry Division 'Fires'",
+        "original": "%dth ROK Infantry Division 'Fires'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|27#|%dth ROK Infantry Division 'Let's Win'",
+        "original": "%dth ROK Infantry Division 'Let's Win'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|28#|%dth ROK Infantry Division 'Invincible Typhoon'",
+        "original": "%dth ROK Infantry Division 'Invincible Typhoon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|29#|%dth ROK Infantry Division",
+        "original": "%dth ROK Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_01|ordered|30#|%dth ROK Infantry Division 'Certain Victory'",
+        "original": "%dth ROK Infantry Division 'Certain Victory'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MEC_02|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MEC_02|fallback_name",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MEC_02|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_GAR_01|fallback_name",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|1#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|2#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|3#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|4#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|5#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|6#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|7#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|8#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|9#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|10#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|11#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|12#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|13#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|14#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|15#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|16#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|17#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|18#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|19#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|20#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|21#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|22#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|23#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|24#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|25#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|26#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|27#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|28#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|29#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|30#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|31#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|32#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|33#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|34#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|35#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|36#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|37#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|38#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|39#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|40#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|41#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|42#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|43#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|44#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|45#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|46#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|47#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|48#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|49#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|50#|%dth Garrison Division",
+        "original": "%dth Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|51#|%dst Garrison Division",
+        "original": "%dst Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|52#|%dnd Garrison Division",
+        "original": "%dnd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_GAR_01|ordered|53#|%drd Garrison Division",
+        "original": "%drd Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MAR_01|fallback_name",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|1#|%dst ROK Marine Division 'Sea-Dragon'",
+        "original": "%dst ROK Marine Division 'Sea-Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|2#|%dnd ROK Marine Division 'Blue-Dragon'",
+        "original": "%dnd ROK Marine Division 'Blue-Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|3#|%drd ROK Marine Division 'Green-Dragon'",
+        "original": "%drd ROK Marine Division 'Green-Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|4#|%dth ROK Marine Division 'White-Dragon",
+        "original": "%dth ROK Marine Division 'White-Dragon",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|5#|%dth ROK Marine Division 'Sky-Dragon'",
+        "original": "%dth ROK Marine Division 'Sky-Dragon'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|6#|%dth ROK Marine Division",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|7#|%dth ROK Marine Division",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|8#|%dth ROK Marine Division",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|9#|%dth ROK Marine Division",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_01|ordered|10#|%dth ROK Marine Division",
+        "original": "%dth ROK Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MAR_02|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MAR_02|fallback_name",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|1#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|2#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|3#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|4#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|5#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|6#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|7#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|8#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|9#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MAR_02|ordered|10#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_MTN_01|fallback_name",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|1#|%dst Mountain Division",
+        "original": "%dst Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|2#|%dnd Mountain Division",
+        "original": "%dnd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|3#|%drd Mountain Division",
+        "original": "%drd Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|4#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|5#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|6#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|7#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|8#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|9#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_MTN_01|ordered|10#|%dth Mountain Division",
+        "original": "%dth Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_PAR_01|fallback_name",
+        "original": "%dth ROK Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|1#|%dst ROK Airborne Division 'Eagle'",
+        "original": "%dst ROK Airborne Division 'Eagle'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|2#|%dnd ROK Airborne Division 'Flying Tiger'",
+        "original": "%dnd ROK Airborne Division 'Flying Tiger'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|3#|%drd ROK Airborne Division 'Pegasus'",
+        "original": "%drd ROK Airborne Division 'Pegasus'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|4#|%dth ROK Airborne Division 'Ghost'",
+        "original": "%dth ROK Airborne Division 'Ghost'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|5#|%dth ROK Airborne Division 'Golden Bat'",
+        "original": "%dth ROK Airborne Division 'Golden Bat'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|6#|%dth ROK Airborne Division 'Black Panther'",
+        "original": "%dth ROK Airborne Division 'Black Panther'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|7#|%dth ROK Airborne Division",
+        "original": "%dth ROK Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|8#|%dth ROK Airborne Division",
+        "original": "%dth ROK Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|9#|%dth ROK Airborne Division",
+        "original": "%dth ROK Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_01|ordered|10#|%dth ROK Airborne Division",
+        "original": "%dth ROK Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_PAR_02|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "KOR_PAR_02|fallback_name",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|KOR_PAR_02|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

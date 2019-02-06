@@ -1,0 +1,146 @@
+[
+    {
+        "key": "FIN_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_CAV_01|ordered|1#|Ratsuväkiprikaati",
+        "original": "Ratsuväkiprikaati",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_MOT_01|ordered|1#|Jääkäridivisioona",
+        "original": "Jääkäridivisioona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_MEC_01|ordered|1#|PsJääkäridivisioona",
+        "original": "PsJääkäridivisioona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|8#|Petsamon komennuskunta",
+        "original": "Petsamon komennuskunta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|6#|Lahden Komennuskunta",
+        "original": "Lahden Komennuskunta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|12#|Lemin Komennuskunta",
+        "original": "Lemin Komennuskunta",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|2#|Raudun Ryhmä",
+        "original": "Raudun Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|3#|Lapin Ryhmä",
+        "original": "Lapin Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|7#|Pohjois-Karjalan Ryhmä",
+        "original": "Pohjois-Karjalan Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|14#|Räsäsen Ryhmä",
+        "original": "Räsäsen Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|15#|Lipolan Ryhmä",
+        "original": "Lipolan Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|17#|Muolaan Ryhmä",
+        "original": "Muolaan Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_GAR_01|ordered|18#|Uudenkirkon Ryhmä",
+        "original": "Uudenkirkon Ryhmä",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_MAR_01|ordered|1#|Rannikkojääkäridiv",
+        "original": "Rannikkojääkäridiv",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|FIN_MTN_01|ordered|1#|Sissidivisioona",
+        "original": "Sissidivisioona",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "FIN_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,1610 @@
+[
+    {
+        "key": "ITA_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_INF_01|fallback_name",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|23#|%da Divisione di Fanteria 'Ferrara'",
+        "original": "%da Divisione di Fanteria 'Ferrara'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|3#|%da Divisione di Fanteria 'Ravenna'",
+        "original": "%da Divisione di Fanteria 'Ravenna'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|4#|%da Divisione di Fanteria 'Livorno'",
+        "original": "%da Divisione di Fanteria 'Livorno'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|5#|%da Divisione di Fanteria 'Cosseria'",
+        "original": "%da Divisione di Fanteria 'Cosseria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|6#|%da Divisione di Fanteria 'Cuneo'",
+        "original": "%da Divisione di Fanteria 'Cuneo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|7#|%da Divisione di Fanteria 'Lupi di Toscana'",
+        "original": "%da Divisione di Fanteria 'Lupi di Toscana'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|11#|%da Divisione di Fanteria 'Brennero'",
+        "original": "%da Divisione di Fanteria 'Brennero'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|12#|%da Divisione di Fanteria 'Sassari'",
+        "original": "%da Divisione di Fanteria 'Sassari'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|13#|%da Divisione di Fanteria 'Re'",
+        "original": "%da Divisione di Fanteria 'Re'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|14#|%da Divisione di Fanteria 'Isonzo'",
+        "original": "%da Divisione di Fanteria 'Isonzo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|15#|%da Divisione di Fanteria 'Bergamo'",
+        "original": "%da Divisione di Fanteria 'Bergamo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|16#|%da Divisione di Fanteria 'Pistoia'",
+        "original": "%da Divisione di Fanteria 'Pistoia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|18#|%da Divisione di Fanteria 'Messina'",
+        "original": "%da Divisione di Fanteria 'Messina'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|19#|%da Divisione di Fanteria 'Venezia'",
+        "original": "%da Divisione di Fanteria 'Venezia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|20#|%da Divisione di Fanteria 'Friuli'",
+        "original": "%da Divisione di Fanteria 'Friuli'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|21#|%da Divisione di Fanteria 'Granatieri di Sardegna'",
+        "original": "%da Divisione di Fanteria 'Granatieri di Sardegna'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|24#|%da Divisione di Fanteria 'Pinerolo'",
+        "original": "%da Divisione di Fanteria 'Pinerolo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|28#|%da Divisione di Fanteria 'Aosta'",
+        "original": "%da Divisione di Fanteria 'Aosta'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|29#|%da Divisione di Fanteria 'Piemonte'",
+        "original": "%da Divisione di Fanteria 'Piemonte'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|31#|%da Divisione di Fanteria 'Calabria'",
+        "original": "%da Divisione di Fanteria 'Calabria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|58#|%da Divisione di Fanteria 'Legnano'",
+        "original": "%da Divisione di Fanteria 'Legnano'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|26#|%da Divisione di Fanteria 'Assietta'",
+        "original": "%da Divisione di Fanteria 'Assietta'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|30#|%da Divisione di Fanteria 'Sabauda'",
+        "original": "%da Divisione di Fanteria 'Sabauda'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|65#|%da Divisione di Fanteria 'Granatieri di Savoia'",
+        "original": "%da Divisione di Fanteria 'Granatieri di Savoia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|1#|%da Divisione di Fanteria 'Superga'",
+        "original": "%da Divisione di Fanteria 'Superga'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|2#|%da Divisione di Fanteria 'Sforzesca'",
+        "original": "%da Divisione di Fanteria 'Sforzesca'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|22#|%da Divisione di Fanteria 'Cacciatori delle Alpi'",
+        "original": "%da Divisione di Fanteria 'Cacciatori delle Alpi'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|32#|%da Divisione di Fanteria 'Marche'",
+        "original": "%da Divisione di Fanteria 'Marche'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|33#|%da Divisione di Fanteria 'Acqui'",
+        "original": "%da Divisione di Fanteria 'Acqui'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|36#|%da Divisione di Fanteria 'Forlì'",
+        "original": "%da Divisione di Fanteria 'Forlì'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|37#|%da Divisione di Fanteria 'Modena'",
+        "original": "%da Divisione di Fanteria 'Modena'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|38#|%da Divisione di Fanteria 'Puglie'",
+        "original": "%da Divisione di Fanteria 'Puglie'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|41#|%da Divisione di Fanteria 'Firenze'",
+        "original": "%da Divisione di Fanteria 'Firenze'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|44#|%da Divisione di Fanteria 'Cremona'",
+        "original": "%da Divisione di Fanteria 'Cremona'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|47#|%da Divisione di Fanteria 'Bari'",
+        "original": "%da Divisione di Fanteria 'Bari'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|48#|%da Divisione di Fanteria 'Taro'",
+        "original": "%da Divisione di Fanteria 'Taro'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|49#|%da Divisione di Fanteria 'Parma'",
+        "original": "%da Divisione di Fanteria 'Parma'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|50#|%da Divisione di Fanteria 'Regina'",
+        "original": "%da Divisione di Fanteria 'Regina'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|51#|%da Divisione di Fanteria 'Siena'",
+        "original": "%da Divisione di Fanteria 'Siena'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|53#|%da Divisione di Fanteria 'Arezzo'",
+        "original": "%da Divisione di Fanteria 'Arezzo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|54#|%da Divisione di Fanteria 'Napoli'",
+        "original": "%da Divisione di Fanteria 'Napoli'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|56#|%da Divisione di Fanteria 'Casale'",
+        "original": "%da Divisione di Fanteria 'Casale'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|57#|%da Divisione di Fanteria 'Lombardia'",
+        "original": "%da Divisione di Fanteria 'Lombardia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|59#|%da Divisione di Fanteria 'Cagliari'",
+        "original": "%da Divisione di Fanteria 'Cagliari'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|40#|%da Divisione di Fanteria 'Cacciatori d'Africa'",
+        "original": "%da Divisione di Fanteria 'Cacciatori d'Africa'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|151#|%da Divisione di Fanteria 'Perugia'",
+        "original": "%da Divisione di Fanteria 'Perugia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|153#|%da Divisione di Fanteria 'Macerata'",
+        "original": "%da Divisione di Fanteria 'Macerata'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|154#|%da Divisione di Fanteria 'Murge'",
+        "original": "%da Divisione di Fanteria 'Murge'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|155#|%da Divisione di Fanteria 'Emilia'",
+        "original": "%da Divisione di Fanteria 'Emilia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|152#|%da Divisione di Fanteria 'Piceno'",
+        "original": "%da Divisione di Fanteria 'Piceno'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|159#|%da Divisione di Fanteria 'Veneto'",
+        "original": "%da Divisione di Fanteria 'Veneto'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|156#|%da Divisione di Fanteria 'Vicenza'",
+        "original": "%da Divisione di Fanteria 'Vicenza'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|157#|%da Divisione di Fanteria 'Novara'",
+        "original": "%da Divisione di Fanteria 'Novara'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|158#|%da Divisione di Fanteria 'Zara'",
+        "original": "%da Divisione di Fanteria 'Zara'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|66#|%da Divisione di Fanteria 'Monferrato'",
+        "original": "%da Divisione di Fanteria 'Monferrato'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|67#|%da Divisione di Fanteria 'Monviso'",
+        "original": "%da Divisione di Fanteria 'Monviso'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|68#|%da Divisione di Fanteria 'Leonessa'",
+        "original": "%da Divisione di Fanteria 'Leonessa'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|69#|%da Divisione di Fanteria 'Timavo'",
+        "original": "%da Divisione di Fanteria 'Timavo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|70#|%da Divisione di Fanteria 'Montenero'",
+        "original": "%da Divisione di Fanteria 'Montenero'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|71#|%da Divisione di Fanteria 'Carnaro'",
+        "original": "%da Divisione di Fanteria 'Carnaro'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|72#|%da Divisione di Fanteria 'Fossalta'",
+        "original": "%da Divisione di Fanteria 'Fossalta'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|73#|%da Divisione di Fanteria 'Metauro'",
+        "original": "%da Divisione di Fanteria 'Metauro'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|74#|%da Divisione di Fanteria 'Gavinana'",
+        "original": "%da Divisione di Fanteria 'Gavinana'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|75#|%da Divisione di Fanteria 'Curtatone e Montanara'",
+        "original": "%da Divisione di Fanteria 'Curtatone e Montanara'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|76#|%da Divisione di Fanteria 'Gran Sasso'",
+        "original": "%da Divisione di Fanteria 'Gran Sasso'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|77#|%da Divisione di Fanteria 'Vespri'",
+        "original": "%da Divisione di Fanteria 'Vespri'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|78#|%da Divisione di Fanteria 'Peloritana'",
+        "original": "%da Divisione di Fanteria 'Peloritana'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|79#|%da Divisione di Fanteria 'Caprera'",
+        "original": "%da Divisione di Fanteria 'Caprera'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|34#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|35#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|39#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|42#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|43#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|45#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_INF_01|ordered|46#|%da Divisione di Fanteria",
+        "original": "%da Divisione di Fanteria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_COL_01|name",
+        "original": "Colonial Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_COL_01|fallback_name",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|1#|%da Divisione Coloniale 'Libia'",
+        "original": "%da Divisione Coloniale 'Libia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|31#|1a Divisione Coloniale 'Eritrea'",
+        "original": "1a Divisione Coloniale 'Eritrea'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|32#|2a Divisione Coloniale 'Eritrea'",
+        "original": "2a Divisione Coloniale 'Eritrea'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|2#|%da Divisione Coloniale 'Libia'",
+        "original": "%da Divisione Coloniale 'Libia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|101#|%da Divisione Coloniale 'Somalia'",
+        "original": "%da Divisione Coloniale 'Somalia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|102#|%da Divisione Coloniale 'Somalia'",
+        "original": "%da Divisione Coloniale 'Somalia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|3#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|4#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|21#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|22#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|23#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|24#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|25#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|26#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|5#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|6#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|7#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|8#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|9#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|10#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|11#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|12#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|13#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|14#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|15#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|16#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|17#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|18#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|19#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|20#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|27#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|28#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|29#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_COL_01|ordered|30#|%da Divisione Coloniale",
+        "original": "%da Divisione Coloniale",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_CAV_01|name",
+        "original": "Cavalry Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_CAV_01|fallback_name",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|1#|%d° Reggimento 'Nizza Cavalleria'",
+        "original": "%d° Reggimento 'Nizza Cavalleria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|2#|%d° Reggimento 'Piemonte Cavalleria'",
+        "original": "%d° Reggimento 'Piemonte Cavalleria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|3#|%d° Reggimento 'Savoia Cavalleria'",
+        "original": "%d° Reggimento 'Savoia Cavalleria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|4#|%d° Reggimento 'Genova Cavalleria'",
+        "original": "%d° Reggimento 'Genova Cavalleria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|5#|%d° Reggimento 'Lancieri di Novara'",
+        "original": "%d° Reggimento 'Lancieri di Novara'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|6#|%d° Reggimento 'Lancieri di Aosta'",
+        "original": "%d° Reggimento 'Lancieri di Aosta'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|8#|%d° Reggimento 'Lancieri di Montebello'",
+        "original": "%d° Reggimento 'Lancieri di Montebello'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|13#|%d° Reggimento 'Cavalleggeri di Monferrato'",
+        "original": "%d° Reggimento 'Cavalleggeri di Monferrato'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|15#|%d° Reggimento 'Cavalleggeri di Lodi'",
+        "original": "%d° Reggimento 'Cavalleggeri di Lodi'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|19#|%d° Reggimento 'Cavalleggeri Guide'",
+        "original": "%d° Reggimento 'Cavalleggeri Guide'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|7#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|9#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|10#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|11#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|12#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|14#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|16#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|17#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|18#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_01|ordered|20#|%d° Reggimento di Cavalleria",
+        "original": "%d° Reggimento di Cavalleria",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_CAV_02|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_CAV_02|fallback_name",
+        "original": "%da Divisione Celere",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_02|ordered|1#|%da Divisione Celere 'Eugenio di Savoia'",
+        "original": "%da Divisione Celere 'Eugenio di Savoia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_02|ordered|2#|%da Divisione Celere 'Emanuele Filiberto'",
+        "original": "%da Divisione Celere 'Emanuele Filiberto'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_CAV_02|ordered|3#|%da Divisione Celere 'Principe Amedeo'",
+        "original": "%da Divisione Celere 'Principe Amedeo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MOT_01|fallback_name",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|9#|%da Divisione Autotrasportabile 'Pasubio'",
+        "original": "%da Divisione Autotrasportabile 'Pasubio'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|10#|%da Divisione Autotrasportabile 'Piave'",
+        "original": "%da Divisione Autotrasportabile 'Piave'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|17#|%da Divisione Autotrasportabile 'Pavia'",
+        "original": "%da Divisione Autotrasportabile 'Pavia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|25#|%da Divisione Autotrasportabile 'Bologna'",
+        "original": "%da Divisione Autotrasportabile 'Bologna'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|27#|%da Divisione Autotrasportabile 'Brescia'",
+        "original": "%da Divisione Autotrasportabile 'Brescia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|8#|%da Divisione Motorizzata 'Po'",
+        "original": "%da Divisione Motorizzata 'Po'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|60#|%da Divisione Autotrasportabile 'Sabratha'",
+        "original": "%da Divisione Autotrasportabile 'Sabratha'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|61#|%da Divisione Autotrasportabile 'Sirte'",
+        "original": "%da Divisione Autotrasportabile 'Sirte'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|62#|%da Divisione Autotrasportabile 'Marmarica'",
+        "original": "%da Divisione Autotrasportabile 'Marmarica'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|63#|%da Divisione Autotrasportabile 'Cirene'",
+        "original": "%da Divisione Autotrasportabile 'Cirene'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|55#|%da Divisione Autotrasportabile 'Savona'",
+        "original": "%da Divisione Autotrasportabile 'Savona'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|102#|%da Divisione Motorizzata 'Trento'",
+        "original": "%da Divisione Motorizzata 'Trento'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|101#|%da Divisione Motorizzata 'Trieste'",
+        "original": "%da Divisione Motorizzata 'Trieste'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|52#|%da Divisione Autotrasportabile 'Torino'",
+        "original": "%da Divisione Autotrasportabile 'Torino'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|64#|%da Divisione Autotrasportabile 'Catanzaro'",
+        "original": "%da Divisione Autotrasportabile 'Catanzaro'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|103#|%da Divisione Motorizzata 'Piacenza'",
+        "original": "%da Divisione Motorizzata 'Piacenza'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|104#|%da Divisione Motorizzata 'Mantova'",
+        "original": "%da Divisione Motorizzata 'Mantova'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|105#|%da Divisione Motorizzata 'Rovigo'",
+        "original": "%da Divisione Motorizzata 'Rovigo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|106#|%da Divisione Motorizzata 'Rubicone'",
+        "original": "%da Divisione Motorizzata 'Rubicone'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|107#|%da Divisione Motorizzata 'Volturno'",
+        "original": "%da Divisione Motorizzata 'Volturno'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|108#|%da Divisione Motorizzata 'Sila'",
+        "original": "%da Divisione Motorizzata 'Sila'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|109#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|110#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|111#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|112#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|113#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|114#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MOT_01|ordered|115#|%da Divisione Motorizzata",
+        "original": "%da Divisione Motorizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MEC_01|fallback_name",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|116#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|117#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|118#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|119#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|120#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|121#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|122#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|123#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|124#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|125#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|126#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|127#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|128#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|129#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MEC_01|ordered|130#|%da Divisione Meccanizzata",
+        "original": "%da Divisione Meccanizzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_ARM_01|fallback_name",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|132#|%da Divisione Corazzata 'Ariete'",
+        "original": "%da Divisione Corazzata 'Ariete'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|131#|%da Divisione Corazzata 'Centauro'",
+        "original": "%da Divisione Corazzata 'Centauro'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|133#|%da Divisione Corazzata 'Littorio'",
+        "original": "%da Divisione Corazzata 'Littorio'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|134#|%da Divisione Corazzata 'Freccia'",
+        "original": "%da Divisione Corazzata 'Freccia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|136#|%da Divisione Corazzata 'Giovani Fascisti'",
+        "original": "%da Divisione Corazzata 'Giovani Fascisti'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|135#|%da Divisione Corazzata 'Ariete II'",
+        "original": "%da Divisione Corazzata 'Ariete II'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|137#|%da Divisione Corazzata 'M'",
+        "original": "%da Divisione Corazzata 'M'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|138#|%da Divisione Corazzata 'Centauro II'",
+        "original": "%da Divisione Corazzata 'Centauro II'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|139#|%da Divisione Corazzata 'Pozzuolo del Friuli'",
+        "original": "%da Divisione Corazzata 'Pozzuolo del Friuli'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|140#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|141#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|142#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|143#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|144#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|145#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|146#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|147#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|148#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|149#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_ARM_01|ordered|150#|%da Divisione Corazzata",
+        "original": "%da Divisione Corazzata",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MAR_01|name",
+        "original": "Marine Regiment",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MAR_01|fallback_name",
+        "original": "%d° Reggimento da Sbarco",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MAR_01|ordered|1#|%d° Reggimento da Sbarco 'San Marco'",
+        "original": "%d° Reggimento da Sbarco 'San Marco'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MAR_01|ordered|2#|%d° Reggimento da Sbarco 'Serenissima'",
+        "original": "%d° Reggimento da Sbarco 'Serenissima'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_MNT_01|fallback_name",
+        "original": "%da Divisione Alpina",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|1#|%da Divisione Alpina 'Taurinense'",
+        "original": "%da Divisione Alpina 'Taurinense'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|2#|%da Divisione Alpina 'Tridentina'",
+        "original": "%da Divisione Alpina 'Tridentina'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|3#|%da Divisione Alpina 'Julia'",
+        "original": "%da Divisione Alpina 'Julia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|4#|%da Divisione Alpina 'Cuneense'",
+        "original": "%da Divisione Alpina 'Cuneense'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|5#|%da Divisione Alpina 'Pusteria'",
+        "original": "%da Divisione Alpina 'Pusteria'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|6#|%da Divisione Alpina 'Alpi Graje'",
+        "original": "%da Divisione Alpina 'Alpi Graje'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|7#|%da Divisione Alpina 'Orobica'",
+        "original": "%da Divisione Alpina 'Orobica'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_MNT_01|ordered|8#|%da Divisione Alpina 'Cadore'",
+        "original": "%da Divisione Alpina 'Cadore'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_PAR_01|fallback_name",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|80#|%da Divisione Aviotrasportabile 'La Spezia'",
+        "original": "%da Divisione Aviotrasportabile 'La Spezia'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|185#|%da Divisione Paracadutisti 'Folgore'",
+        "original": "%da Divisione Paracadutisti 'Folgore'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|184#|%da Divisione Paracadutisti 'Nembo'",
+        "original": "%da Divisione Paracadutisti 'Nembo'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|183#|%da Divisione Paracadutisti 'Ciclone'",
+        "original": "%da Divisione Paracadutisti 'Ciclone'",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|181#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|182#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|186#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|187#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|188#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_PAR_01|ordered|189#|%da Divisione Paracadutisti",
+        "original": "%da Divisione Paracadutisti",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "ITA_GAR_01|fallback_name",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|201#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|202#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|204#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|205#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|206#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|207#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|208#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|211#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|212#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|213#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|214#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|216#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|220#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|221#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|222#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|203#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|209#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|210#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|215#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|223#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|224#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|225#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|226#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|227#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|228#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|230#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|231#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|217#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|218#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|219#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|ITA_GAR_01|ordered|229#|%da Divisione Costiera",
+        "original": "%da Divisione Costiera",
+        "translation": "",
+        "stage": 0
+    }
+]

@@ -1,0 +1,668 @@
+[
+    {
+        "key": "PHI_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_INF_01|fallback_name",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|1#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|11#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|21#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|31#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|41#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|51#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|61#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|71#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|81#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|91#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|101#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|2#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|12#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|22#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|32#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|42#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|52#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|62#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|72#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|82#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|92#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|102#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|3#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|13#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|23#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|33#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|43#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|53#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|63#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|73#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|83#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|93#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|103#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|4#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|14#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|24#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|34#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|44#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|54#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|64#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|74#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|84#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|94#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_INF_01|ordered|104#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_MOT_01|fallback_name",
+        "original": "%dth Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_ARM_01|name",
+        "original": "Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_ARM_01|fallback_name",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|1#|%dst Philippines Tank Group",
+        "original": "%dst Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|2#|%dnd Philippines Tank Group",
+        "original": "%dnd Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|3#|%drd Philippines Tank Group",
+        "original": "%drd Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|4#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|5#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|6#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|7#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|8#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|9#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_ARM_01|ordered|10#|%dth Philippines Tank Group",
+        "original": "%dth Philippines Tank Group",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_PAR_01|name",
+        "original": "Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "PHI_GAR_01|fallback_name",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|1#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|11#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|21#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|31#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|41#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|51#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|61#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|71#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|81#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|91#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|101#|%dst Philippines Division",
+        "original": "%dst Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|2#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|12#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|22#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|32#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|42#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|52#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|62#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|72#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|82#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|92#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|102#|%dnd Philippines Division",
+        "original": "%dnd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|3#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|13#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|23#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|33#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|43#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|53#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|63#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|73#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|83#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|93#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|103#|%drd Philippines Division",
+        "original": "%drd Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|4#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|14#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|24#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|34#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|44#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|54#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|64#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|74#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|84#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|94#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|PHI_GAR_01|ordered|104#|%dth Philippines Division",
+        "original": "%dth Philippines Division",
+        "translation": "",
+        "stage": 0
+    }
+]

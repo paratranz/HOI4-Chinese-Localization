@@ -1,0 +1,627 @@
+MEN_INF_01 = {
+  name = "Infantry Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Mengjiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Mengjiang Juntuán"
+    }
+    2 = {
+      "%d Mengjiang Juntuán"
+    }
+    3 = {
+      "%d Mengjiang Juntuán"
+    }
+    4 = {
+      "%d Mengjiang Juntuán"
+    }
+    5 = {
+      "%d Mengjiang Juntuán"
+    }
+    6 = {
+      "%d Mengjiang Juntuán"
+    }
+    7 = {
+      "%d Mengjiang Juntuán"
+    }
+    8 = {
+      "%d Mengjiang Juntuán"
+    }
+    9 = {
+      "%d Mengjiang Juntuán"
+    }
+    10 = {
+      "%d Mengjiang Juntuán"
+    }
+    11 = {
+      "%d Mengjiang Juntuán"
+    }
+    12 = {
+      "%d Mengjiang Juntuán"
+    }
+    13 = {
+      "%d Mengjiang Juntuán"
+    }
+    14 = {
+      "%d Mengjiang Juntuán"
+    }
+    15 = {
+      "%d Mengjiang Juntuán"
+    }
+    16 = {
+      "%d Mengjiang Juntuán"
+    }
+    17 = {
+      "%d Mengjiang Juntuán"
+    }
+    18 = {
+      "%d Mengjiang Juntuán"
+    }
+    19 = {
+      "%d Mengjiang Juntuán"
+    }
+    20 = {
+      "%d Mengjiang Juntuán"
+    }
+    21 = {
+      "%d Mengjiang Juntuán"
+    }
+    22 = {
+      "%d Mengjiang Juntuán"
+    }
+    23 = {
+      "%d Mengjiang Juntuán"
+    }
+    24 = {
+      "%d Mengjiang Juntuán"
+    }
+    25 = {
+      "%d Mengjiang Juntuán"
+    }
+    26 = {
+      "%d Mengjiang Juntuán"
+    }
+    27 = {
+      "%d Mengjiang Juntuán"
+    }
+    28 = {
+      "%d Mengjiang Juntuán"
+    }
+    29 = {
+      "%d Mengjiang Juntuán"
+    }
+    30 = {
+      "%d Mengjiang Juntuán"
+    }
+  }
+}
+MEN_CAV_01 = {
+  name = "Cavalry Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%d Mengjiang Qibing Jun"
+  ordered = {
+    1 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    2 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    3 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    4 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    5 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    6 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    7 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    8 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    9 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    10 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    11 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    12 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    13 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    14 = {
+      "%d Mengjiang Qibing Jun"
+    }
+    15 = {
+      "%d Mengjiang Qibing Jun"
+    }
+  }
+}
+MEN_MOT_01 = {
+  name = "Motor Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    MEN_INF_01
+  }
+  fallback_name = "%d Mengjiang Jidonghua Juntuán"
+  ordered = {
+    1 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    2 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    3 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    4 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    5 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    6 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    7 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    8 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    9 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    10 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    11 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    12 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    13 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    14 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+    15 = {
+      "%d Mengjiang Jidonghua Juntuán"
+    }
+  }
+}
+MEN_MEC_01 = {
+  name = "Mechanized Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    MEN_INF_01
+  }
+  fallback_name = "%d Mengjiang Jixiehua Juntuán"
+  ordered = {
+    1 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    2 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    3 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    4 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    5 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    6 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    7 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    8 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    9 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    10 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    11 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    12 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    13 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    14 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+    15 = {
+      "%d Mengjiang Jixiehua Juntuán"
+    }
+  }
+}
+MEN_ARM_01 = {
+  name = "Tank Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%d Mengjiang Zhuangjia Shi"
+  ordered = {
+    1 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    2 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    3 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    4 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    5 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    6 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    7 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    8 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    9 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    10 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    11 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    12 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    13 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    14 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+    15 = {
+      "%d Mengjiang Zhuangjia Shi"
+    }
+  }
+}
+MEN_PAR_01 = {
+  name = "Parachute Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%d Mengjiang Sanbing Shi"
+  ordered = {
+    1 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    2 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    3 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    4 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    5 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    6 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    7 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    8 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    9 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+    10 = {
+      "%d Mengjiang Sanbing Shi"
+    }
+  }
+}
+MEN_MAR_01 = {
+  name = "Marine Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%d Mengjiang Luzhan Dui Shi"
+  ordered = {
+    1 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    2 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    3 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    4 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    5 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    6 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    7 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    8 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    9 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+    10 = {
+      "%d Mengjiang Luzhan Dui Shi"
+    }
+  }
+}
+MEN_MNT_01 = {
+  name = "Mountain Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    MEN_INF_01
+  }
+  fallback_name = "%d Mengjiang Juntuán"
+  ordered = {
+    1 = {
+      "%d Mengjiang Juntuán"
+    }
+    2 = {
+      "%d Mengjiang Juntuán"
+    }
+    3 = {
+      "%d Mengjiang Juntuán"
+    }
+    4 = {
+      "%d Mengjiang Juntuán"
+    }
+    5 = {
+      "%d Mengjiang Juntuán"
+    }
+    6 = {
+      "%d Mengjiang Juntuán"
+    }
+    7 = {
+      "%d Mengjiang Juntuán"
+    }
+    8 = {
+      "%d Mengjiang Juntuán"
+    }
+    9 = {
+      "%d Mengjiang Juntuán"
+    }
+    10 = {
+      "%d Mengjiang Juntuán"
+    }
+    11 = {
+      "%d Mengjiang Juntuán"
+    }
+    12 = {
+      "%d Mengjiang Juntuán"
+    }
+    13 = {
+      "%d Mengjiang Juntuán"
+    }
+    14 = {
+      "%d Mengjiang Juntuán"
+    }
+    15 = {
+      "%d Mengjiang Juntuán"
+    }
+    16 = {
+      "%d Mengjiang Juntuán"
+    }
+    17 = {
+      "%d Mengjiang Juntuán"
+    }
+    18 = {
+      "%d Mengjiang Juntuán"
+    }
+    19 = {
+      "%d Mengjiang Juntuán"
+    }
+    20 = {
+      "%d Mengjiang Juntuán"
+    }
+    21 = {
+      "%d Mengjiang Juntuán"
+    }
+    22 = {
+      "%d Mengjiang Juntuán"
+    }
+    23 = {
+      "%d Mengjiang Juntuán"
+    }
+    24 = {
+      "%d Mengjiang Juntuán"
+    }
+    25 = {
+      "%d Mengjiang Juntuán"
+    }
+    26 = {
+      "%d Mengjiang Juntuán"
+    }
+    27 = {
+      "%d Mengjiang Juntuán"
+    }
+    28 = {
+      "%d Mengjiang Juntuán"
+    }
+    29 = {
+      "%d Mengjiang Juntuán"
+    }
+    30 = {
+      "%d Mengjiang Juntuán"
+    }
+  }
+}
+MEN_GAR_01 = {
+  name = "Garrison Unit"
+  for_countries = {
+    MEN
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%d Qu Jun"
+  ordered = {
+    1 = {
+      "%d Qu Jun"
+    }
+    2 = {
+      "%d Qu Jun"
+    }
+    3 = {
+      "%d Qu Jun"
+    }
+    4 = {
+      "%d Qu Jun"
+    }
+    5 = {
+      "%d Qu Jun"
+    }
+    6 = {
+      "%d Qu Jun"
+    }
+    7 = {
+      "%d Qu Jun"
+    }
+    8 = {
+      "%d Qu Jun"
+    }
+    9 = {
+      "%d Qu Jun"
+    }
+    10 = {
+      "%d Qu Jun"
+    }
+    11 = {
+      "%d Qu Jun"
+    }
+    12 = {
+      "%d Qu Jun"
+    }
+    13 = {
+      "%d Qu Jun"
+    }
+    14 = {
+      "%d Qu Jun"
+    }
+    15 = {
+      "%d Qu Jun"
+    }
+    16 = {
+      "%d Qu Jun"
+    }
+    17 = {
+      "%d Qu Jun"
+    }
+    18 = {
+      "%d Qu Jun"
+    }
+    19 = {
+      "%d Qu Jun"
+    }
+    20 = {
+      "%d Qu Jun"
+    }
+  }
+}

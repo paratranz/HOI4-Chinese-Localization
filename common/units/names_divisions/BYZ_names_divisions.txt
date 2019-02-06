@@ -1,0 +1,504 @@
+BYZ_INF_01 = {
+  name = "Byz. Infantry Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s Tagma"
+  ordered = {
+    1 = {
+      "%s 'Scholai' Tagma"
+    }
+    2 = {
+      "%s 'Exkoubitoi' Tagma"
+    }
+    3 = {
+      "%s 'Arithmos' Tagma"
+    }
+    4 = {
+      "%s 'Hikanatoi' Tagma"
+    }
+    5 = {
+      "%s 'Noumeroi' Tagma"
+    }
+    6 = {
+      "%s 'Optimatoi' Tagma"
+    }
+    7 = {
+      "%s 'Hetaireaia' Tagma"
+    }
+    8 = {
+      "%s Tagma"
+    }
+    9 = {
+      "%s Tagma"
+    }
+    10 = {
+      "%s Tagma"
+    }
+    11 = {
+      "%s Tagma"
+    }
+    12 = {
+      "%s Tagma"
+    }
+    13 = {
+      "%s Tagma"
+    }
+    14 = {
+      "%s Tagma"
+    }
+    15 = {
+      "%s Tagma"
+    }
+    16 = {
+      "%s Tagma"
+    }
+    17 = {
+      "%s Tagma"
+    }
+    18 = {
+      "%s Tagma"
+    }
+    19 = {
+      "%s Tagma"
+    }
+    20 = {
+      "%s Tagma"
+    }
+  }
+}
+BYZ_CAV_01 = {
+  name = "Byz. Cavalry Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%s Tagma Ippikoú"
+  ordered = {
+    1 = {
+      "%s Tagma Ippikoú"
+    }
+    2 = {
+      "%s Tagma Ippikoú"
+    }
+    3 = {
+      "%s Tagma Ippikoú"
+    }
+    4 = {
+      "%s Tagma Ippikoú"
+    }
+    5 = {
+      "%s Tagma Ippikoú"
+    }
+    6 = {
+      "%s Tagma Ippikoú"
+    }
+    7 = {
+      "%s Tagma Ippikoú"
+    }
+    9 = {
+      "%s Tagma Ippikoú"
+    }
+    8 = {
+      "%s Tagma Ippikoú"
+    }
+    10 = {
+      "%s Tagma Ippikoú"
+    }
+  }
+}
+BYZ_MOT_01 = {
+  name = "Byz. Motorised Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    BYZ_INF_01
+  }
+  fallback_name = "%s Tagma Michanopoiiméni"
+  ordered = {
+    1 = {
+      "%s 'Scholai' Tagma Michanopoiiméni"
+    }
+    2 = {
+      "%s 'Exkoubitoi' Tagma Michanopoiiméni"
+    }
+    3 = {
+      "%s 'Arithmos' Tagma Michanopoiiméni"
+    }
+    4 = {
+      "%s 'Hikanatoi' Tagma Michanopoiiméni"
+    }
+    5 = {
+      "%s 'Noumeroi' Tagma Michanopoiiméni"
+    }
+    6 = {
+      "%s 'Optimatoi' Tagma Michanopoiiméni"
+    }
+    7 = {
+      "%s 'Hetaireaia' Tagma Michanopoiiméni"
+    }
+    8 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    9 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    10 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    11 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    12 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    13 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    14 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    15 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    16 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    17 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    18 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    19 = {
+      "%s Tagma Michanopoiiméni"
+    }
+    20 = {
+      "%s Tagma Michanopoiiméni"
+    }
+  }
+}
+BYZ_ARM_01 = {
+  name = "Byz. Armored Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%s Tagma Tethorakisméni"
+  ordered = {
+    1 = {
+      "%s Tagma Tethorakisméni"
+    }
+    2 = {
+      "%s Tagma Tethorakisméni"
+    }
+    3 = {
+      "%s Tagma Tethorakisméni"
+    }
+    4 = {
+      "%s Tagma Tethorakisméni"
+    }
+    5 = {
+      "%s Tagma Tethorakisméni"
+    }
+    6 = {
+      "%s Tagma Tethorakisméni"
+    }
+    7 = {
+      "%s Tagma Tethorakisméni"
+    }
+    9 = {
+      "%s Tagma Tethorakisméni"
+    }
+    8 = {
+      "%s Tagma Tethorakisméni"
+    }
+    10 = {
+      "%s Tagma Tethorakisméni"
+    }
+  }
+}
+BYZ_MEC_01 = {
+  name = "Byz. Mechanized Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    BYZ_INF_01
+  }
+  fallback_name = "%s Tagma Michanokíniti"
+  ordered = {
+    1 = {
+      "%s 'Scholai' Tagma Michanokíniti"
+    }
+    2 = {
+      "%s 'Exkoubitoi' Tagma Michanokíniti"
+    }
+    3 = {
+      "%s 'Arithmos' Tagma Michanokíniti"
+    }
+    4 = {
+      "%s 'Hikanatoi' Tagma Michanokíniti"
+    }
+    5 = {
+      "%s 'Noumeroi' Tagma Michanokíniti"
+    }
+    6 = {
+      "%s 'Optimatoi' Tagma Michanokíniti"
+    }
+    7 = {
+      "%s 'Hetaireaia' Tagma Michanokíniti"
+    }
+    8 = {
+      "%s Tagma Michanokíniti"
+    }
+    9 = {
+      "%s Tagma Michanokíniti"
+    }
+    10 = {
+      "%s Tagma Michanokíniti"
+    }
+    11 = {
+      "%s Tagma Michanokíniti"
+    }
+    12 = {
+      "%s Tagma Michanokíniti"
+    }
+    13 = {
+      "%s Tagma Michanokíniti"
+    }
+    14 = {
+      "%s Tagma Michanokíniti"
+    }
+    15 = {
+      "%s Tagma Michanokíniti"
+    }
+    16 = {
+      "%s Tagma Michanokíniti"
+    }
+    17 = {
+      "%s Tagma Michanokíniti"
+    }
+    18 = {
+      "%s Tagma Michanokíniti"
+    }
+    19 = {
+      "%s Tagma Michanokíniti"
+    }
+    20 = {
+      "%s Tagma Michanokíniti"
+    }
+  }
+}
+BYZ_GAR_01 = {
+  name = "Byz. Garrison Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%s Akritai"
+  ordered = {
+    1 = {
+      "%s Akritai"
+    }
+    2 = {
+      "%s Akritai"
+    }
+    3 = {
+      "%s Akritai"
+    }
+    4 = {
+      "%s Akritai"
+    }
+    5 = {
+      "%s Akritai"
+    }
+    6 = {
+      "%s Akritai"
+    }
+    7 = {
+      "%s Akritai"
+    }
+    9 = {
+      "%s Akritai"
+    }
+    8 = {
+      "%s Akritai"
+    }
+    10 = {
+      "%s Akritai"
+    }
+  }
+}
+BYZ_MAR_01 = {
+  name = "Byz. Marine Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%s Tagma Pezonavton"
+  ordered = {
+    1 = {
+      "%s Tagma Pezonavton"
+    }
+    2 = {
+      "%s Tagma Pezonavton"
+    }
+    3 = {
+      "%s Tagma Pezonavton"
+    }
+    4 = {
+      "%s Tagma Pezonavton"
+    }
+    5 = {
+      "%s Tagma Pezonavton"
+    }
+    6 = {
+      "%s Tagma Pezonavton"
+    }
+    7 = {
+      "%s Tagma Pezonavton"
+    }
+    9 = {
+      "%s Tagma Pezonavton"
+    }
+    8 = {
+      "%s Tagma Pezonavton"
+    }
+    10 = {
+      "%s Tagma Pezonavton"
+    }
+  }
+}
+BYZ_MTN_01 = {
+  name = "Byz. Mountain Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "mountaineers"
+  }
+  fallback_name = "%s Tagma Vounó"
+  ordered = {
+    1 = {
+      "%s Tagma Vounó"
+    }
+    2 = {
+      "%s Tagma Vounó"
+    }
+    3 = {
+      "%s Tagma Vounó"
+    }
+    4 = {
+      "%s Tagma Vounó"
+    }
+    5 = {
+      "%s Tagma Vounó"
+    }
+    6 = {
+      "%s Tagma Vounó"
+    }
+    7 = {
+      "%s Tagma Vounó"
+    }
+    9 = {
+      "%s Tagma Vounó"
+    }
+    8 = {
+      "%s Tagma Vounó"
+    }
+    10 = {
+      "%s Tagma Vounó"
+    }
+  }
+}
+BYZ_PAR_01 = {
+  name = "Byz. Paratrooper Divisions"
+  for_countries = {
+    GRE
+  }
+  can_use = {
+    has_cosmetic_tag = BYZ_UNIFIED
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%s Tagma Alexiptotiston"
+  ordered = {
+    1 = {
+      "%s Tagma Alexiptotiston"
+    }
+    2 = {
+      "%s Tagma Alexiptotiston"
+    }
+    3 = {
+      "%s Tagma Alexiptotiston"
+    }
+    4 = {
+      "%s Tagma Alexiptotiston"
+    }
+    5 = {
+      "%s Tagma Alexiptotiston"
+    }
+    6 = {
+      "%s Tagma Alexiptotiston"
+    }
+    7 = {
+      "%s Tagma Alexiptotiston"
+    }
+    9 = {
+      "%s Tagma Alexiptotiston"
+    }
+    8 = {
+      "%s Tagma Alexiptotiston"
+    }
+    10 = {
+      "%s Tagma Alexiptotiston"
+    }
+  }
+}

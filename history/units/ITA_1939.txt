@@ -1,0 +1,4050 @@
+division_template = {
+  name = "Divisione di Fanteria"
+  division_names_group = ITA_INF_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Divisione Alpina"
+  division_names_group = ITA_MNT_01
+  regiments = {
+    mountaineers = {
+      x = 0
+      y = 0
+    }
+    mountaineers = {
+      x = 0
+      y = 1
+    }
+    mountaineers = {
+      x = 0
+      y = 2
+    }
+    mountaineers = {
+      x = 1
+      y = 0
+    }
+    mountaineers = {
+      x = 1
+      y = 1
+    }
+    mountaineers = {
+      x = 1
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+    artillery = {
+      x = 0
+      y = 1
+    }
+  }
+  priority = 2
+}
+division_template = {
+  name = "Divisione Autotrasportabile"
+  division_names_group = ITA_MOT_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+    light_armor = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Divisione Motorizzata"
+  division_names_group = ITA_MOT_01
+  regiments = {
+    motorized = {
+      x = 0
+      y = 0
+    }
+    motorized = {
+      x = 0
+      y = 1
+    }
+    motorized = {
+      x = 1
+      y = 0
+    }
+    motorized = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Divisione Celere"
+  division_names_group = ITA_CAV_02
+  regiments = {
+    cavalry = {
+      x = 0
+      y = 0
+    }
+    cavalry = {
+      x = 0
+      y = 1
+    }
+    cavalry = {
+      x = 1
+      y = 0
+    }
+    cavalry = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 2
+      y = 0
+    }
+    motorized = {
+      x = 2
+      y = 1
+    }
+    light_armor = {
+      x = 3
+      y = 0
+    }
+  }
+  priority = 2
+}
+division_template = {
+  name = "Divisione Corazzata"
+  division_names_group = ITA_ARM_01
+  regiments = {
+    light_armor = {
+      x = 0
+      y = 0
+    }
+    light_armor = {
+      x = 0
+      y = 1
+    }
+    light_armor = {
+      x = 0
+      y = 2
+    }
+    light_armor = {
+      x = 0
+      y = 3
+    }
+    motorized = {
+      x = 1
+      y = 0
+    }
+    motorized = {
+      x = 1
+      y = 1
+    }
+    motorized = {
+      x = 1
+      y = 2
+    }
+  }
+  support = {
+    engineer = {
+      x = 0
+      y = 0
+    }
+  }
+  priority = 2
+}
+division_template = {
+  name = "Raggruppamento Celere"
+  division_names_group = ITA_CAV_02
+  regiments = {
+    cavalry = {
+      x = 0
+      y = 0
+    }
+    cavalry = {
+      x = 0
+      y = 1
+    }
+    motorized = {
+      x = 1
+      y = 0
+    }
+    motorized = {
+      x = 1
+      y = 1
+    }
+    light_armor = {
+      x = 2
+      y = 0
+    }
+  }
+}
+division_template = {
+  name = "Divisione Coloniale"
+  division_names_group = ITA_COL_01
+  regiments = {
+    infantry = {
+      x = 0
+      y = 0
+    }
+    infantry = {
+      x = 0
+      y = 1
+    }
+    infantry = {
+      x = 0
+      y = 2
+    }
+    infantry = {
+      x = 1
+      y = 0
+    }
+    infantry = {
+      x = 1
+      y = 1
+    }
+    infantry = {
+      x = 1
+      y = 2
+    }
+  }
+  priority = 0
+}
+units = {
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 7
+    }
+    location = 770
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 22
+    }
+    location = 6788
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 37
+    }
+    location = 6788
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "1a Raggruppamento Celere"
+    location = 770
+    division_template = "Raggruppamento Celere"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 770
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 11721
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 33
+    }
+    location = 11721
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 36
+    }
+    location = 11721
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 11721
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 11891
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 6
+    }
+    location = 11891
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 44
+    }
+    location = 11891
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 11
+    }
+    location = 3782
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 58
+    }
+    location = 3782
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 11570
+    division_template = "Raggruppamento Celere"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 4
+    }
+    location = 11570
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 611
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 611
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 611
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 6780
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 24
+    }
+    location = 6780
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 59
+    }
+    location = 6780
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 9738
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 26
+    }
+    location = 9738
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 29
+    }
+    location = 9738
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Raggruppamento Verona"
+    location = 9613
+    division_template = "Raggruppamento Celere"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "Alto Isonzo Gruppa d'Alpina"
+    location = 9613
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 12
+    }
+    location = 11595
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 15
+    }
+    location = 11595
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 32
+    }
+    location = 11595
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 57
+    }
+    location = 11595
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 18
+    }
+    location = 11735
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 49
+    }
+    location = 11735
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 56
+    }
+    location = 11735
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 13
+    }
+    location = 599
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 14
+    }
+    location = 599
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 38
+    }
+    location = 599
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    name = "Raggruppamento Dalmatia"
+    location = 3604
+    division_template = "Raggruppamento Celere"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 11584
+    division_template = "Divisione Celere"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 11584
+    division_template = "Divisione Celere"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 11584
+    division_template = "Divisione Celere"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 9
+    }
+    location = 6656
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 101
+    }
+    location = 6656
+    division_template = "Divisione Motorizzata"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 102
+    }
+    location = 6656
+    division_template = "Divisione Motorizzata"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 132
+    }
+    location = 3604
+    division_template = "Divisione Corazzata"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 133
+    }
+    location = 3604
+    division_template = "Divisione Corazzata"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 5
+    }
+    location = 10074
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 54
+    }
+    location = 4159
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 30
+    }
+    location = 11773
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 31
+    }
+    location = 6891
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 20
+    }
+    location = 6973
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 41
+    }
+    location = 6973
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 21
+    }
+    location = 11833
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 51
+    }
+    location = 11833
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 47
+    }
+    location = 9907
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 48
+    }
+    location = 9907
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 19
+    }
+    location = 9914
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 23
+    }
+    location = 3448
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 53
+    }
+    location = 9914
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 914
+    division_template = "Divisione Alpina"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 131
+    }
+    location = 9914
+    division_template = "Divisione Corazzata"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 50
+    }
+    location = 10007
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.5
+  }
+  division = {
+    name = "I Battaglione Sahariano"
+    location = 1130
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 2
+    }
+    location = 1149
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 3
+    }
+    location = 1149
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 25
+    }
+    location = 1149
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 55
+    }
+    location = 1149
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 60
+    }
+    location = 1149
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.85
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 17
+    }
+    location = 12039
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+    start_equipment_factor = 0.85
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 27
+    }
+    location = 12039
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 61
+    }
+    location = 12039
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "1a Divisione CC.NN. '23 Marzo'"
+    location = 1149
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "2a Divisione CC.NN. '28 Ottobre'"
+    location = 1149
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "3a Divisione CC.NN. '21 Aprile'"
+    location = 1149
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 1
+    }
+    location = 1130
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "Piazzafotre di Tobruch"
+    location = 1130
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 62
+    }
+    location = 10120
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 63
+    }
+    location = 4060
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 64
+    }
+    location = 11954
+    division_template = "Divisione Autotrasportabile"
+    start_experience_factor = 0.2
+    start_equipment_factor = 0.7
+  }
+  division = {
+    name = "4a Divisione CC.NN. '3 Gennaio'"
+    location = 11954
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.7
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 31
+    }
+    location = 5017
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 32
+    }
+    location = 5017
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Gruppa Coloniale dell'Amhara"
+    location = 1984
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 40
+    }
+    location = 5041
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.5
+  }
+  division = {
+    division_name = {
+      is_name_ordered = yes
+      name_order = 65
+    }
+    location = 12714
+    division_template = "Divisione di Fanteria"
+    start_experience_factor = 0.1
+    start_equipment_factor = 0.5
+  }
+  division = {
+    name = "Gruppa Coloniale dello Scoia"
+    location = 5010
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "Gruppa Coloniale dell'Gimma"
+    location = 8062
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "1a Gruppa Coloniale dell'Mogadiscio"
+    location = 12991
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  division = {
+    name = "2a Gruppa Coloniale dell'Mogadiscio"
+    location = 12991
+    division_template = "Divisione Coloniale"
+    force_equipment_variants = {
+      infantry_equipment_0 = {
+        owner = "ITA"
+      }
+    }
+    start_equipment_factor = 0.3
+  }
+  navy = {
+    name = "1a Squadra Navale"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM Zara"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Zara Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Gorizia"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Zara Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Fiume"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Zara Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Vittorio Alfieri"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Giosuè Carducci"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Vincenzo Gioberti"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Alfredo Oriani"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "4a Squadra Navale"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM Luigi Cadorna"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Armando Diaz"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Alberico da Barbiano"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Alberto da Giussano"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Antonio da Noli"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ugolino Vivaldi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Lanzerotto Malocello"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Leone Pancaldo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Antonio Pigafetta"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Alvise da Mosto"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Giovanni da Verrazzano"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Nicolò Zeno"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "5a Squadra Navale"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM Conte di Cavour"
+      definition = battleship
+      equipment = {
+        battleship_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giulio Cesare"
+      definition = battleship
+      equipment = {
+        battleship_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Dardo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Freccia"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Saetta"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Strale"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Baleno"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Folgore"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Fulmine"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Lampo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "8a Squadra Navale"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM Duca degli Abruzzi"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Garibaldi"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Nicoloso da Recco"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Emanuele Pessagno"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Luca Tarigo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Antoniotto Usodimare"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "2a Squadra Navale"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Giovanni dalle Bande Nere"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Bartolomeo Colleoni"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Giussano Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Maestrale"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Grecale"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Libeccio"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Scirocco"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "3a Squadra Navale"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Bolzano"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Zara Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Trento"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Trieste"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Artigliere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Camicia Nera"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Aviere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Geniere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "6a Squadra Navale"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Pola"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Zara Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Carabiniere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Ascari"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Corazziere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Lanciere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "7a Squadra Navale"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Eugenio di Savoia"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Montecuccoli Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Emanuele Filiberto Duca d'Aosta"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Montecuccoli Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Muzio Attendolo"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Montecuccoli Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Raimondo Montecuccoli"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Montecuccoli Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Granatiere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Fuciliere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Bersagliere"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Alpino"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Squadra di Alto Tirreno"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Vega"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Sagittario"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Perseo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Sirio"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Maestrale Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Calatafimi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Castelfidardo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Curtatone"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Monzambano"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Squadra di Basso Tirreno"
+    base = 819
+    location = 819
+    ship = {
+      name = "RM Generale Marcello Prestinari"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Generale Antonio Cantore"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe La Masa"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giacinto Carini"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Procione"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Orione"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Orsa"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Pegaso"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Comando Marittimo Sardegna"
+    base = 6891
+    location = 6891
+    ship = {
+      name = "RM Generale Achille Papa"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Generale Carlo Montanari"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Generale Antonino Cascino"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Generale Antonio Chinotto"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Antonio Mosto"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Fratelli Cairoli"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Canopo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Cassiopea"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Comando Marittimo Sicilia"
+    base = 4159
+    location = 4159
+    ship = {
+      name = "RM Calipso"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Calliope"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Circe"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Clio"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Pallade"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Partenope"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Pleiadi"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Polluce"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Airone"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Ariel"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Aretusa"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Alcione"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Aldebaran"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Altair"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Andromeda"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Antares"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe La Farina"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Simone Schiaffino"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Dezza"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Cesare Abba"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Squadra di Alto Adriatico"
+    base = 11584
+    location = 11584
+    ship = {
+      name = "RM Palestro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Confienza"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM San Martino"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Solferino"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Squadra di Basso Adriatico"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM San Giorgio"
+      definition = heavy_cruiser
+      equipment = {
+        heavy_cruiser_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Taranto"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Bari"
+      definition = light_cruiser
+      equipment = {
+        light_cruiser_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Espero"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Borea"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Zeffiro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ostro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Rosolino Pilo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Missori"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Francesco Stocco"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Sirtori"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Angelo Bassini"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Enrico Cosenz"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giacomo Medici"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Nicola Fabrizi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Carlo Mirabello"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Augusto Riboty"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Comando Navale Egeo"
+    base = 10007
+    location = 10007
+    ship = {
+      name = "RM Francesco Crispi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Quintino Sella"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Libra"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Lince"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Lira"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Lupo"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "1° Gruppo Sommergibili"
+    base = 6973
+    location = 6973
+    ship = {
+      name = "RM Pietro Calvi"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Giuseppe Finzi"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Enrico Tazzoli"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ettore Fieramosca"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Veniero"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Mocenigo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Glauco"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Otaria"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Berillo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Onice"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Gemma"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Iride"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Argo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Velella"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Gondar"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Neghelli"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Ascianghi"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Scirè"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM H1"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM H2"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM H4"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM H6"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM H8"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "2° Gruppo Sommergibili"
+    base = 819
+    location = 819
+    ship = {
+      name = "RM Dandolo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Marcello"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Provana"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Barbarigo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Emo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Morosini"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Nani"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "3° Gruppo Sommergibili"
+    base = 4159
+    location = 4159
+    ship = {
+      name = "RM Vettor Pisani"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giovanni Bausan"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Marcantonio Colonna"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Des Geneys"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Fratelli Bandiera"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Luciano Manara"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ciro Menotti"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Santorre Santarosa"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Goffredo Mameli"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Pier Capponi"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Tito Speri"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giovanni da Procida"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Durbo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Tembien"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Beilul"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "4° Gruppo Sommergibili"
+    base = 11837
+    location = 11837
+    ship = {
+      name = "RM Balilla"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Antonio Sciesa"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Enrico Toti"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Domenico Millelire"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Brin"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Luigi Settembrini"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ruggiero Settimo"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Anfitrite"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Salpa"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Serpente "
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Dagabur"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Dessiè"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Uarsciek"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Uebi Scebeli"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Malacite"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Ambra"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Rubino"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ondina"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "5° Gruppo Sommergibili"
+    base = 10007
+    location = 10007
+    ship = {
+      name = "RM Delfino"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Narvalo"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Squalo"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Tricheco"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Bandiera Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Jalea"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Jantina"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Ametista"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Zaffiro"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "7° Gruppo Sommergibili"
+    base = 6891
+    location = 6891
+    ship = {
+      name = "RM Adua"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Alagi"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Aradam"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Axum"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Diaspro"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Corallo"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Turchese"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Medusa"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Comando Navale Libia"
+    base = 1130
+    location = 1130
+    ship = {
+      name = "RM Aquilone"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Euro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Nembo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Turbine"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Navigatori Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Castore"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Centauro"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Cigno"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Climene"
+      definition = destroyer
+      equipment = {
+        destroyer_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "Comando Navale Mar Rosso"
+    base = 12766
+    location = 12766
+    ship = {
+      name = "RM Francesco Nullo"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Nazario Sauro"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Cesare Battisti"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Daniele Manin"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Leone"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Pantera"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Tigre"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Giovanni Acerbi"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Vincenzo Giordano Orsini"
+      definition = destroyer
+      equipment = {
+        destroyer_1 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+  }
+  navy = {
+    name = "6° Gruppo Sommergibili"
+    base = 1130
+    location = 1130
+    ship = {
+      name = "RM Sirena"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Argonauta"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Fisalia"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Smeraldo"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Naiade"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Lafolè"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Diamante"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Topazio"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Galatea"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Nereide"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+  }
+  navy = {
+    name = "8° Gruppo Sommergibili"
+    base = 12766
+    location = 12766
+    ship = {
+      name = "RM Guglielmotti"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Galvani"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Galileo Galilei"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Galileo Ferraris"
+      definition = submarine
+      equipment = {
+        submarine_1 = {
+          amount = 1
+          owner = ITA
+          version_name = "Sirena Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Perla"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Macallè"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+        }
+      }
+    }
+    ship = {
+      name = "RM Archimede"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+    ship = {
+      name = "RM Torricelli"
+      definition = submarine
+      equipment = {
+        submarine_2 = {
+          amount = 1
+          owner = ITA
+          version_name = "Marcello Class"
+        }
+      }
+    }
+  }
+}
+air_wings = {
+  158 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 84
+    }
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 123
+    }
+  }
+  115 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 84
+    }
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 136
+    }
+  }
+  2 = {
+    fighter_equipment_1 = {
+      owner = "ITA"
+      amount = 96
+    }
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 88
+    }
+  }
+  156 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 54
+    }
+    tac_bomber_equipment_0 = {
+      owner = "ITA"
+      amount = 24
+    }
+    nav_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 24
+    }
+  }
+  114 = {
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 64
+    }
+    nav_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 24
+    }
+  }
+  44 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 24
+    }
+    tac_bomber_equipment_0 = {
+      owner = "ITA"
+      amount = 32
+    }
+  }
+  164 = {
+    tac_bomber_equipment_0 = {
+      owner = "ITA"
+      amount = 24
+    }
+  }
+  448 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 54
+    }
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 72
+    }
+    CAS_equipment_1 = {
+      owner = "ITA"
+      amount = 36
+    }
+  }
+  448 = {
+    tac_bomber_equipment_1 = {
+      owner = "ITA"
+      amount = 60
+    }
+  }
+  550 = {
+    fighter_equipment_0 = {
+      owner = "ITA"
+      amount = 45
+    }
+    tac_bomber_equipment_0 = {
+      owner = "ITA"
+      amount = 54
+    }
+  }
+  271 = {
+    tac_bomber_equipment_0 = {
+      owner = "ITA"
+      amount = 60
+    }
+  }
+}
+instant_effect = {
+  add_equipment_production = {
+    equipment = {
+      type = infantry_equipment_1
+      creator = "ITA"
+    }
+    requested_factories = 10
+    progress = 0.1
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = support_equipment_1
+      creator = "ITA"
+    }
+    requested_factories = 4
+    progress = 0.3
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = light_tank_equipment_2
+      creator = "ITA"
+    }
+    requested_factories = 1
+    progress = 0.4
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = motorized_equipment_1
+      creator = "ITA"
+    }
+    requested_factories = 2
+    progress = 0.4
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = fighter_equipment_2
+      creator = "ITA"
+    }
+    requested_factories = 2
+    progress = 0.2
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = CAS_equipment_1
+      creator = "ITA"
+    }
+    requested_factories = 2
+    progress = 0.2
+    efficiency = 100
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_2
+      creator = "ITA"
+    }
+    requested_factories = 2
+    progress = 0.80
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_2
+      creator = "ITA"
+    }
+    requested_factories = 2
+    progress = 0.80
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_3
+      creator = "ITA"
+    }
+    requested_factories = 1
+    progress = 0.60
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = battleship_3
+      creator = "ITA"
+    }
+    requested_factories = 1
+    progress = 0.60
+    amount = 1
+  }
+  add_equipment_production = {
+    equipment = {
+      type = submarine_2
+      creator = "ITA"
+      version_name = "Marcello Class"
+    }
+    requested_factories = 3
+    progress = 0.75
+    amount = 2
+  }
+}

@@ -1,0 +1,1202 @@
+[
+    {
+        "key": "STRATEGICREGION_1:0",
+        "original": "Southern England",
+        "translation": "英格兰南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_2:0",
+        "original": "Northern England",
+        "translation": "英格兰北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_3:1",
+        "original": "Scotland",
+        "translation": "苏格兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_4:0",
+        "original": "Ireland",
+        "translation": "爱尔兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_5:0",
+        "original": "Benelux Region",
+        "translation": "比荷卢",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_6:0",
+        "original": "North-West Germany",
+        "translation": "德国西北",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_7:0",
+        "original": "Western Germany",
+        "translation": "德国西部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_8:0",
+        "original": "Eastern Germany",
+        "translation": "德国东部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_9:0",
+        "original": "Baltic Sea",
+        "translation": "波罗的海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_10:0",
+        "original": "Southern Sweden",
+        "translation": "瑞典南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_11:0",
+        "original": "Southern Norway",
+        "translation": "挪威南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_12:0",
+        "original": "Northern Scandinavia",
+        "translation": "北斯堪的纳维亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_13:0",
+        "original": "Finland",
+        "translation": "芬兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_14:0",
+        "original": "Trans-Urals",
+        "translation": "外乌拉尔",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_16:0",
+        "original": "North Sea",
+        "translation": "北海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_17:0",
+        "original": "East Africa",
+        "translation": "东非",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_18:0",
+        "original": "English Channel",
+        "translation": "英吉利海峡",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_19:0",
+        "original": "Northern France",
+        "translation": "法国北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_20:0",
+        "original": "Southern France",
+        "translation": "法国南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_21:0",
+        "original": "Alpine Region",
+        "translation": "阿尔卑斯山区",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_22:0",
+        "original": "Czechoslovakia",
+        "translation": "捷克斯洛伐克",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_23:0",
+        "original": "Italy",
+        "translation": "意大利",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_24:0",
+        "original": "Western Balkans",
+        "translation": "西巴尔干",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_25:0",
+        "original": "Greece",
+        "translation": "希腊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_26:0",
+        "original": "Eastern Balkans",
+        "translation": "东巴尔干",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_27:0",
+        "original": "Northern Balkans",
+        "translation": "北巴尔干",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_28:0",
+        "original": "Middle East",
+        "translation": "中东",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_29:0",
+        "original": "Central Mediterranean Sea",
+        "translation": "中地中海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_30:0",
+        "original": "Black Sea",
+        "translation": "黑海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_31:0",
+        "original": "Southern India",
+        "translation": "印度南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_32:0",
+        "original": "South-Eastern Pacific",
+        "translation": "东南太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_33:0",
+        "original": "Alaska",
+        "translation": "阿拉斯加",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_34:0",
+        "original": "Central America",
+        "translation": "中美洲",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_35:0",
+        "original": "South America",
+        "translation": "南美洲",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_36:0",
+        "original": "Greenland",
+        "translation": "格陵兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_37:0",
+        "original": "Baltic States",
+        "translation": "波罗的海三国",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_38:0",
+        "original": "Western Poland",
+        "translation": "波兰西部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_39:0",
+        "original": "Eastern Poland",
+        "translation": "波兰东部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_40:1",
+        "original": "Transvolga",
+        "translation": "外伏尔加",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_41:1",
+        "original": "Iberian Region",
+        "translation": "伊比利亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_42:0",
+        "original": "Bay of Biscay",
+        "translation": "比斯开湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_43:0",
+        "original": "Western Approaches",
+        "translation": "西进口航道",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_44:0",
+        "original": "Denmark Strait",
+        "translation": "丹麦海峡",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_45:0",
+        "original": "Norwegian Sea",
+        "translation": "挪威海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_46:0",
+        "original": "Barents Sea",
+        "translation": "巴伦支海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_47:1",
+        "original": "Iberian Coast",
+        "translation": "伊比利亚海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_48:0",
+        "original": "African Coast",
+        "translation": "非洲海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_49:0",
+        "original": "North Atlantic Ridge",
+        "translation": "北大西洋海脊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_50:0",
+        "original": "Labrador Sea",
+        "translation": "拉布拉多海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_51:0",
+        "original": "Mid Atlantic gap",
+        "translation": "中大西洋空隙",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_52:0",
+        "original": "Gulf of Mexico",
+        "translation": "墨西哥湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_53:0",
+        "original": "Caribbean Sea",
+        "translation": "加勒比海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_54:0",
+        "original": "Eastern Seaboard",
+        "translation": "美国东部沿海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_55:0",
+        "original": "Newfoundland Sea",
+        "translation": "纽芬兰海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_56:0",
+        "original": "Mid Atlantic",
+        "translation": "中大西洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_57:0",
+        "original": "Sargasso Sea",
+        "translation": "马尾藻海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_58:0",
+        "original": "Central Atlantic Gap",
+        "translation": "中大西洋空隙",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_59:0",
+        "original": "Demerara Plain",
+        "translation": "德梅拉拉深海平原",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_60:0",
+        "original": "West Indian Ocean",
+        "translation": "西印度洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_61:0",
+        "original": "Cap Verde Plain",
+        "translation": "佛得角深海平原",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_62:0",
+        "original": "Gulf Of Guinea",
+        "translation": "几内亚湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_63:0",
+        "original": "Argentine Coast",
+        "translation": "阿根廷海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_64:0",
+        "original": "South Georgia Sea",
+        "translation": "南乔治亚海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_65:0",
+        "original": "Cape of Africa",
+        "translation": "非洲海角",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_66:0",
+        "original": "South Central Atlantic",
+        "translation": "中南大西洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_67:0",
+        "original": "Atlantic-Indian Ridge",
+        "translation": "大西洋印度洋海脊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_68:0",
+        "original": "Western Mediterranean Sea",
+        "translation": "西地中海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_69:0",
+        "original": "Eastern Mediterranean Sea",
+        "translation": "东地中海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_70:0",
+        "original": "Caspian Sea",
+        "translation": "里海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_71:0",
+        "original": "East Indian Ocean",
+        "translation": "东印度洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_72:0",
+        "original": "Straits of Malacca",
+        "translation": "马六甲海峡",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_73:0",
+        "original": "Gulf of Thailand",
+        "translation": "暹罗湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_74:0",
+        "original": "South East Indian Ocean",
+        "translation": "东南印度洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_75:0",
+        "original": "South China Sea",
+        "translation": "南中国海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_76:0",
+        "original": "East China Sea",
+        "translation": "东中国海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_77:0",
+        "original": "Yellow Sea",
+        "translation": "黄海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_78:0",
+        "original": "Philippine Sea",
+        "translation": "菲律宾海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_79:0",
+        "original": "Sea of Japan",
+        "translation": "日本海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_80:0",
+        "original": "Celebes Sea",
+        "translation": "苏拉威西海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_81:0",
+        "original": "Coral Sea",
+        "translation": "珊瑚海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_82:0",
+        "original": "Gulf of Carpentaria",
+        "translation": "卡奔塔利亚湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_83:0",
+        "original": "Solomon Sea",
+        "translation": "所罗门海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_84:0",
+        "original": "Bismarck Sea",
+        "translation": "俾斯麦海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_85:0",
+        "original": "South West Indian Ocean",
+        "translation": "西南印度洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_86:0",
+        "original": "Tasman Sea",
+        "translation": "塔斯曼海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_87:0",
+        "original": "Sea of Okhotsk",
+        "translation": "鄂霍茨克海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_88:0",
+        "original": "Bering Sea",
+        "translation": "白令海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_89:0",
+        "original": "Western Seaboard",
+        "translation": "美国西部沿海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_90:0",
+        "original": "Coast of Japan",
+        "translation": "日本海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_91:0",
+        "original": "Arafura Sea",
+        "translation": "阿拉弗拉海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_92:0",
+        "original": "Timor Sea",
+        "translation": "帝汶海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_93:0",
+        "original": "Java Sea",
+        "translation": "爪哇海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_94:0",
+        "original": "Mariana Region",
+        "translation": "马里亚纳地区",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_95:0",
+        "original": "West Emperor Chain",
+        "translation": "西天皇海山链",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_96:0",
+        "original": "North Emperor Chain",
+        "translation": "北天皇海山链",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_97:0",
+        "original": "Eastern Micronesia",
+        "translation": "东密克罗尼西亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_98:0",
+        "original": "Great Australian Bight",
+        "translation": "大澳大利亚湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_99:0",
+        "original": "Far Eastern Indian Ocean",
+        "translation": "极东印度洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_100:0",
+        "original": "Red Sea",
+        "translation": "红海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_101:0",
+        "original": "Bay of Bengal",
+        "translation": "孟加拉湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_102:0",
+        "original": "East African Coast",
+        "translation": "东非海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_103:0",
+        "original": "Mozambique Channel",
+        "translation": "莫桑比克海峡",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_104:0",
+        "original": "Arabian Sea",
+        "translation": "阿拉伯海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_105:1",
+        "original": "Hawaii Ridge",
+        "translation": "夏威夷海脊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_106:0",
+        "original": "Mexican Coast",
+        "translation": "墨西哥海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_107:0",
+        "original": "Western Canal zone",
+        "translation": "运河区西侧",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_108:0",
+        "original": "South American coast",
+        "translation": "南美海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_109:0",
+        "original": "Peruvian Coast",
+        "translation": "秘鲁海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_110:0",
+        "original": "East Pacific Rise",
+        "translation": "东太平洋海隆",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_111:0",
+        "original": "North Central Pacific",
+        "translation": "中北太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_112:0",
+        "original": "Far South Pacific",
+        "translation": "极南太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_113:0",
+        "original": "South Central Pacific",
+        "translation": "中南太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_114:0",
+        "original": "North Pacific",
+        "translation": "北太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_115:0",
+        "original": "North East Pacific",
+        "translation": "东北太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_116:0",
+        "original": "Iran",
+        "translation": "伊朗",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_117:0",
+        "original": "East Coast",
+        "translation": "美国东海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_118:0",
+        "original": "West Coast",
+        "translation": "美国西海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_119:0",
+        "original": "South West",
+        "translation": "美国西南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_120:0",
+        "original": "Central USA",
+        "translation": "美国中部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_121:0",
+        "original": "Eastern Canada",
+        "translation": "加拿大东部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_122:0",
+        "original": "Western Canada",
+        "translation": "加拿大西部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_123:0",
+        "original": "Mexico",
+        "translation": "墨西哥",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_124:0",
+        "original": "Northern South America",
+        "translation": "南美洲北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_125:0",
+        "original": "Brazil",
+        "translation": "巴西",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_126:0",
+        "original": "North Africa",
+        "translation": "北非",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_127:0",
+        "original": "Sahara Desert",
+        "translation": "撒哈拉沙漠",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_128:0",
+        "original": "Egypt",
+        "translation": "埃及",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_129:0",
+        "original": "Asia minor",
+        "translation": "小亚细亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_130:0",
+        "original": "Ukraine",
+        "translation": "乌克兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_131:0",
+        "original": "Belarus",
+        "translation": "白俄罗斯",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_132:0",
+        "original": "Northern Front",
+        "translation": "北方战线",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_133:0",
+        "original": "Central Russia",
+        "translation": "俄罗斯中部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_134:0",
+        "original": "Caucasus Region",
+        "translation": "高加索",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_135:0",
+        "original": "Kuban Region",
+        "translation": "库班",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_136:0",
+        "original": "Great Steppe",
+        "translation": "大草原",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_137:0",
+        "original": "Western Steppe",
+        "translation": "西大草原",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_138:0",
+        "original": "Ural Region",
+        "translation": "乌拉尔山",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_139:0",
+        "original": "South Africa",
+        "translation": "南非",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_140:0",
+        "original": "Sub-Saharan Africa",
+        "translation": "黑非洲",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_141:0",
+        "original": "Eastern India",
+        "translation": "东印度",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_142:0",
+        "original": "South East Asia",
+        "translation": "东南亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_143:0",
+        "original": "Northern China",
+        "translation": "华北",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_144:0",
+        "original": "Western China",
+        "translation": "华西",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_145:0",
+        "original": "Central Asia",
+        "translation": "中亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_146:0",
+        "original": "Himalayas",
+        "translation": "喜玛拉雅山脉",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_147:0",
+        "original": "Northern Siberia",
+        "translation": "西伯利亚北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_148:0",
+        "original": "Russian Far East",
+        "translation": "俄属远东",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_149:0",
+        "original": "Eastern Siberia",
+        "translation": "东西伯利亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_150:0",
+        "original": "Arctic Russia",
+        "translation": "极地俄罗斯",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_151:0",
+        "original": "Western Siberia",
+        "translation": "西西伯利亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_152:0",
+        "original": "Central Steppe",
+        "translation": "中部草原",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_153:0",
+        "original": "Northern India",
+        "translation": "北印度",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_154:0",
+        "original": "Home Islands",
+        "translation": "日本本岛",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_155:0",
+        "original": "Manchuria",
+        "translation": "满洲",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_156:1",
+        "original": "Southern Australia",
+        "translation": "澳大利亚南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_157:0",
+        "original": "New Zealand",
+        "translation": "新西兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_158:0",
+        "original": "Sunda Islands",
+        "translation": "巽他群岛",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_159:0",
+        "original": "Borneo",
+        "translation": "婆罗洲",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_160:0",
+        "original": "Philippines",
+        "translation": "菲律宾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_161:0",
+        "original": "Iceland",
+        "translation": "冰岛",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_162:0",
+        "original": "Afghanistan",
+        "translation": "阿富汗",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_163:0",
+        "original": "Amazonas",
+        "translation": "亚马逊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_164:0",
+        "original": "Eastern China",
+        "translation": "华东",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_165:0",
+        "original": "Southern China",
+        "translation": "华南",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_166:0",
+        "original": "Hudson Bay",
+        "translation": "哈德逊湾",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_167:0",
+        "original": "New Guinea",
+        "translation": "新几内亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_168:0",
+        "original": "Adriatic Sea",
+        "translation": "亚得里亚海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_169:0",
+        "original": "Tyrrhenian Sea",
+        "translation": "第勒尼安海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_170:0",
+        "original": "Florida Coast",
+        "translation": "佛罗里达海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_171:0",
+        "original": "Northwest Coast",
+        "translation": "西北海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_172:0",
+        "original": "Pacific Line Ridge",
+        "translation": "太平洋海脊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_173:0",
+        "original": "Eastern North Sea",
+        "translation": "北海东部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_174:0",
+        "original": "Norwegian Coast",
+        "translation": "挪威海岸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_175:0",
+        "original": "Central Pacific",
+        "translation": "中太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_176:0",
+        "original": "Central North Pacific",
+        "translation": "中北太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_177:0",
+        "original": "Western North Pacific",
+        "translation": "西北太平洋",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_178:0",
+        "original": "West Polynesia",
+        "translation": "西波里尼西亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_179:0",
+        "original": "French Polynesia",
+        "translation": "法属波里尼西亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_180:0",
+        "original": "Micronesian Gap",
+        "translation": "密克罗尼西亚空隙",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_181:0",
+        "original": "Madagascar",
+        "translation": "马达加斯加",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_182:0",
+        "original": "North West Africa",
+        "translation": "非洲西北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_183:0",
+        "original": "Central Africa",
+        "translation": "中非",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_184:0",
+        "original": "South West Africa",
+        "translation": "非洲西南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_185:0",
+        "original": "South East Africa",
+        "translation": "非洲东南部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_186:0",
+        "original": "Korea",
+        "translation": "朝鲜",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_187:0",
+        "original": "Sumatra",
+        "translation": "苏门答腊",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_188:0",
+        "original": "Malaya",
+        "translation": "马来亚",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_189:0",
+        "original": "Burma",
+        "translation": "缅甸",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_190:1",
+        "original": "Pakistan",
+        "translation": "巴基斯坦",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_191:0",
+        "original": "Northern Norway",
+        "translation": "挪威北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_192:0",
+        "original": "Northern Sweden",
+        "translation": "瑞典北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_193:2",
+        "original": "Northern Australia",
+        "translation": "澳大利亚北部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_194:0",
+        "original": "Eastern Australia",
+        "translation": "澳大利亚东部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_195:0",
+        "original": "Central Australia",
+        "translation": "澳大利亚中部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_196:1",
+        "original": "Arabia",
+        "translation": "阿拉伯",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_197:0",
+        "original": "New England",
+        "translation": "新英格兰",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_198:0",
+        "original": "Midwest",
+        "translation": "美国中西部",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_199:0",
+        "original": "Rocky Mountains",
+        "translation": "落基山区",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_200:1",
+        "original": "Qinghai",
+        "translation": "青海",
+        "stage": 1
+    },
+    {
+        "key": "STRATEGICREGION_201:0",
+        "original": "Northern Andes",
+        "translation": "安第斯山北部",
+        "stage": 1
+    }
+]

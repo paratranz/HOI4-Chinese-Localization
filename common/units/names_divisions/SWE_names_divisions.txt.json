@@ -1,0 +1,212 @@
+[
+    {
+        "key": "SWE_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_MOT_01|name",
+        "original": "Motorized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_MEC_01|name",
+        "original": "Mechanized Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_ARM_01|name",
+        "original": "Armored Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "SWE_GAR_01|fallback_name",
+        "original": "I%d Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|1#|I1 Garnison",
+        "original": "I1 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|2#|I2 Garnison",
+        "original": "I2 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|3#|I3 Garnison",
+        "original": "I3 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|4#|K1 Garnison",
+        "original": "K1 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|5#|K2 Garnison",
+        "original": "K2 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|6#|I10 Garnison",
+        "original": "I10 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|7#|I12 Garnison",
+        "original": "I12 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|8#|I13 Garnison",
+        "original": "I13 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|9#|I15 Garnison",
+        "original": "I15 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|10#|F1 Garnison",
+        "original": "F1 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|11#|F2 Garnison",
+        "original": "F2 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|12#|I5 Garnison",
+        "original": "I5 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|13#|I20 Garnison",
+        "original": "I20 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|14#|I6 Garnison",
+        "original": "I6 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|15#|I19 Garnison",
+        "original": "I19 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|16#|I21 Garnison",
+        "original": "I21 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|17#|I9 Garnison",
+        "original": "I9 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|18#|K3 Garnison",
+        "original": "K3 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|19#|K4 Garnison",
+        "original": "K4 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|20#|K5 Garnison",
+        "original": "K5 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|21#|Ing1 Garnison",
+        "original": "Ing1 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|22#|Ing2 Garnison",
+        "original": "Ing2 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|23#|Ing3 Garnison",
+        "original": "Ing3 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|24#|T1 Garnison",
+        "original": "T1 Garnison",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|SWE_GAR_01|ordered|25#|T2 Garnison",
+        "original": "T2 Garnison",
+        "translation": "",
+        "stage": 0
+    }
+]

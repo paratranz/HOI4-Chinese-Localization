@@ -1,0 +1,992 @@
+[
+    {
+        "key": "IRQ_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_INF_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|1#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|2#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|3#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|4#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|5#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|6#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|7#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|8#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|9#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|10#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|12#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|13#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|14#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|15#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|16#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|17#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|18#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|19#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_INF_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_CAV_01|fallback_name",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|1#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|2#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|3#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|4#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|5#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|6#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|7#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|8#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|9#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|10#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|11#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|12#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|13#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|14#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_CAV_01|ordered|15#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MOT_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|1#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|2#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|3#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|4#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|5#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|6#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|7#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|8#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|9#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|10#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|12#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|13#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|14#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|15#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|16#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|17#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|18#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|19#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MOT_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_ARM_01|fallback_name",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|1#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|2#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|3#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|4#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|5#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|6#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|7#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|8#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|9#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|10#|Iraqi Sipahis al-%di",
+        "original": "Iraqi Sipahis al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|11#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|12#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|13#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|14#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_ARM_01|ordered|15#|Iraqi Sipahis al-%dr",
+        "original": "Iraqi Sipahis al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MEC_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|1#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|2#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|3#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|4#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|5#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|6#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|7#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|8#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|9#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|10#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|12#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|13#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|14#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|15#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|16#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|17#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|18#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|19#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MEC_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_GAR_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|1#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|2#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|3#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|4#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|5#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|6#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|7#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|8#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|9#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|10#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|12#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|13#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|14#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|15#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|16#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|17#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|18#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|19#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_GAR_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MAR_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|21#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|22#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|23#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|24#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|25#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|26#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|27#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|28#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|29#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MAR_01|ordered|30#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_MTN_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|1#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|2#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|3#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|4#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|5#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|6#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|7#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|8#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|9#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|10#|Iraqi al-Mushati al-%di",
+        "original": "Iraqi al-Mushati al-%di",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|12#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|13#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|14#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|15#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|16#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|17#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|18#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|19#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_MTN_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "IRQ_PAR_01|fallback_name",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|20#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|21#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|22#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|23#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|24#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|25#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|26#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|27#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|28#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|29#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|IRQ_PAR_01|ordered|30#|Iraqi al-Mushati al-%dr",
+        "original": "Iraqi al-Mushati al-%dr",
+        "translation": "",
+        "stage": 0
+    }
+]

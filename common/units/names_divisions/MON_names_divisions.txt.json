@@ -1,0 +1,188 @@
+[
+    {
+        "key": "MON_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_CAV_01|fallback_name",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|1#|%d-r Morit Diviziin",
+        "original": "%d-r Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|2#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|3#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|4#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|5#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|6#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|7#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|8#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|9#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_CAV_01|ordered|10#|%d-p Morit Diviziin",
+        "original": "%d-p Morit Diviziin",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_ARM_01|name",
+        "original": "Armored Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_MEC_01|name",
+        "original": "Mechanized Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_MAR_01|fallback_name",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|1#|%d-r Mongol Morskoi Pekhoty",
+        "original": "%d-r Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|2#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|3#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|4#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|5#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|6#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|7#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|8#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|9#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|MON_MAR_01|ordered|10#|%d-p Mongol Morskoi Pekhoty",
+        "original": "%d-p Mongol Morskoi Pekhoty",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "MON_PAR_01|name",
+        "original": "Paratrooper Divisions",
+        "translation": "",
+        "stage": 0
+    }
+]

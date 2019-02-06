@@ -1,0 +1,2066 @@
+[
+    {
+        "key": "night:0",
+        "original": "Night",
+        "translation": "夜晚",
+        "stage": 1
+    },
+    {
+        "key": "fort:0",
+        "original": "Fort",
+        "translation": "要塞",
+        "stage": 1
+    },
+    {
+        "key": "river:0",
+        "original": "River",
+        "translation": "河流",
+        "stage": 1
+    },
+    {
+        "key": "amphibious:0",
+        "original": "Amphibious",
+        "translation": "两栖",
+        "stage": 1
+    },
+    {
+        "key": "CURRENT_STRENGTH:0",
+        "original": "Current Fighting Strength: $PER|%0H$\\n",
+        "translation": "现有作战兵力：$PER|%0H$\\n",
+        "stage": 1
+    },
+    {
+        "key": "CURRENT_MANPOWER:0",
+        "original": " - Current Manpower: $VAL|*H1$ ($PER|%0H$)\\n",
+        "translation": " - 现有人力：$VAL|*H1$ ($PER|%0H$)\\n",
+        "stage": 1
+    },
+    {
+        "key": "CURRENT_ORGANIZATION:0",
+        "original": "Organization: $CUR|0Y$/$MAX|0Y$",
+        "translation": "组织度：$CUR|0Y$/$MAX|0Y$",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_NAVY_SEE_DETAILS:0",
+        "original": "§GClick to view details.§!",
+        "translation": "§G点击查看详情。§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_STATS:0",
+        "original": "Unit Details",
+        "translation": "单位详情",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_UNIT_STATS:0",
+        "original": "Ship Details",
+        "translation": "舰船详情",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_SKILL_LAND_DESC:0",
+        "original": "Having higher skill than the enemy general gives the leader an extra chance to pick a counter tactic to beat the enemy. The skill of a general goes up as they earn experience.\\n\\n",
+        "translation": "由于技能等级高于敌方指挥官，你的将军有更大机率使用反制战术以击败敌军。指挥官技能随经验增长而提高。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_SKILL_NAVY_DESC:1",
+        "original": "The skill of an admiral goes up as they earn experience.\\n\\n",
+        "translation": "海军指挥官的技能随经验增长而提高。\\n\\n",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_NO_LEADER:0",
+        "original": "§R<No Commander>§!",
+        "translation": "§R<无指挥官>§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_NEW_LEADER:0",
+        "original": "New Commander £pol_power $VALUE|Y0$",
+        "translation": "新的指挥官 £pol_power $VALUE|Y0$",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_NEW_LEADER_TOOLTIP:0",
+        "original": "Recruiting new Commanders costs £pol_power $VALUE|Y0$\\n The more Commanders you have, the more expensive it gets to recruit new ones, so try to find jobs for the ones you have first.",
+        "translation": "招募新指挥官将花费 £pol_power $VALUE|Y0$\\n 你拥有的指挥官越多，新指挥官的招募费用越大，试试更有效率地使用已有指挥官把。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_NO_GROUP:1",
+        "original": "Army not created",
+        "translation": "尚未组建集团军",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_SKILL:0",
+        "original": "$SKILL|Y$",
+        "translation": "$SKILL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_POPUP_TITLE:0",
+        "original": "Promote Leader",
+        "translation": "晋升指挥官",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_POPUP_DESC:3",
+        "original": "Are you sure you want to promote $LEADER$? After the promotion, $LEADER$ will temporarily §Rlose§! a skill level while adjusting to the responsibilities of the new rank.",
+        "translation": "你确定要晋升$LEADER$吗？在晋升后，$LEADER$将在适应新军衔带来的责任期间暂时§R失去§!一点技能点。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_POPUP_DESC_COST:1",
+        "original": "It will cost $CP|2R$ £command_power to promote this leader.",
+        "translation": "晋升此将领将花费$CP|2R$ £command_power 。",
+        "stage": 1
+    },
+    {
+        "key": "HOURLY_MORALE_REGAIN_BASE:0",
+        "original": "Base: $VAL|=+G$\\n",
+        "translation": "基础：$VAL|=+G$\\n",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION:0",
+        "original": "Attrition:",
+        "translation": "损耗：",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_DESC:0",
+        "original": "Chance of equipment loss every day",
+        "translation": "每日装备损耗几率",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_TOTAL:0",
+        "original": "Total Attrition: $TOT|=-1%2$",
+        "translation": "总损耗：$TOT|=-1%2$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_TERRAIN:0",
+        "original": "\\n - $TERR|H$: $ATT|=-1%0$",
+        "translation": "\\n - $TERR|H$：$ATT|=-1%0$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_EQUIPMENT:0",
+        "original": "\\n - Equipment: $ATT|=-1$",
+        "translation": "\\n - 装备：$ATT|=-1$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_STATE_MODIFIERS:0",
+        "original": "\\n - State modifiers:",
+        "translation": "\\n - 国家修正：",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_WEATHER_MODIFIERS:0",
+        "original": "\\n - Weather modifiers:",
+        "translation": "\\n - 天气修正：",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_LOOSE_EQ_CHANCE:0",
+        "original": "Chance of equipment loss:",
+        "translation": "装备损耗几率：",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_LOOSE_EQ_ENTRY:0",
+        "original": "  - $EQ|G$ chance = $CH|Y%1$ (reliability = $RE|Y1%$)",
+        "translation": "  - $EQ|G$ 几率 = $CH|Y%1$ (可靠性 = $RE|Y1%$)",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_TECH_FACTOR:0",
+        "original": "From tech: $VALUE|-0%$",
+        "translation": "科技降低：$VALUE|-0%$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_TRAINING:0",
+        "original": "From exercise: $VALUE|-0%$",
+        "translation": "训练损耗：$VALUE|-0%$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_SUPPLY:0",
+        "original": " - Bad supply: $ATT|-0%$",
+        "translation": " - 缺乏补给：$ATT|-0%$",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_SINGLE_UNIT:0",
+        "original": "§RThis unit is affected by attrition!\\nAttrition present: $VALUE|Y0%$§!",
+        "translation": "§R这个单位正遭受损耗！\\n实时损耗：$VALUE|Y0%$§!",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_SOME_UNITS:0",
+        "original": "§R$COUNT|Y$ unit(s) are affected by attrition!\\nMaximum attrition present: $MAX|Y0%$§!",
+        "translation": "§R$COUNT|Y$ 个单位正遭受损耗！\\n最大实时损耗：$MAX|Y0%$§!",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_MULMOD_BY:0",
+        "original": " multiplied by $MOD|Y$ due to:\\n$WHY$",
+        "translation": " 以下情况造成$MOD|Y$的额外损耗：\\n$WHY$",
+        "stage": 1
+    },
+    {
+        "key": "DIG_IN_UNIT:0",
+        "original": "This unit is §HEntrenched§!. It receives a $DIG|0+%$ defensive combat bonus out of a maximum of $MAX|0%Y$.",
+        "translation": "这个单位在§H战壕§!中。 它获得了$DIG|0+%$/$MAX|0%Y$的防御加成。",
+        "stage": 1
+    },
+    {
+        "key": "DIG_IN_AVG:0",
+        "original": "These units are §HEntrenched§!. The average defensive combat is $DIG|0+%$",
+        "translation": "这些单位在§H战壕§!中。 平均防御加成为$DIG|0+%$。",
+        "stage": 1
+    },
+    {
+        "key": "ACTIONS_MIXED_HEADER:0",
+        "original": "This counter has mixed unit actions:",
+        "translation": "遭遇战中的单位行为：",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_STANDING_STILL:0",
+        "original": "$COUNT|H$ - Standing still",
+        "translation": "$COUNT|H$ - 按兵不动",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_DEFENDING:0",
+        "original": "$COUNT|H$ - Defending",
+        "translation": "$COUNT|H$ - 防守",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_SUPPORT:0",
+        "original": "$COUNT|H$ - Supporting Attack",
+        "translation": "$COUNT|H$ - 支援攻击",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_MOVE:0",
+        "original": "$COUNT|H$ - Moving",
+        "translation": "$COUNT|H$ - 移动",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_ATTACK:0",
+        "original": "$COUNT|H$ - Attacking",
+        "translation": "$COUNT|H$ - 攻击",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_STRATEGIC:0",
+        "original": "$COUNT|H$ - Strategically redeploying",
+        "translation": "$COUNT|H$ - 战略性重部署",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_NAVAL_TRANSFER:0",
+        "original": "$COUNT|H$ - Naval transfering",
+        "translation": "$COUNT|H$ - 海运",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_RETREAT:0",
+        "original": "$COUNT|H$ - Retreating",
+        "translation": "$COUNT|H$ - 撤退",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_INVASION:0",
+        "original": "$COUNT|H$ - Invading by sea",
+        "translation": "$COUNT|H$ - 海上入侵",
+        "stage": 1
+    },
+    {
+        "key": "ACTION_UNIT_NAVAL_TRANSFER_INTERCEPTED:0",
+        "original": "$COUNT|H$ - Convoy intercepted",
+        "translation": "$COUNT|H$ - 运输船被拦截",
+        "stage": 1
+    },
+    {
+        "key": "ENTRENCHMENT_TT2:3",
+        "original": "This unit is §HEntrenched§!. It receives a $DIG|0+%$(Max: $MAX|0%Y$) defensive combat bonus.",
+        "translation": "这个单位正在§H堑壕§!。 它获得了$DIG|0+%$/$MAX|0%Y$的防御加成。",
+        "stage": 1
+    },
+    {
+        "key": "ENTRENCHMENT_INCREASE_BY_X_REACH_MAX_IN:0",
+        "original": " It will increase by $DELTA|0%Y$ each day. Max entrenchment will be reached in $DAYS|Y$ days.",
+        "translation": " 每日增长$DELTA|0%Y$ 。战壕将在$DAYS|Y$日后完全挖好。",
+        "stage": 1
+    },
+    {
+        "key": "ENTRENCHMENT_DESC:0",
+        "original": "Base maximum: $BASE_MAX|Y$\\n$MAX_MODIFIERS$\\n\\nBase gain: $BASE_GAIN|Y$\\n$GAIN_MODIFIERS$",
+        "translation": "基础最大值：$BASE_MAX|Y$\\n$MAX_MODIFIERS$\\n\\n基础增长值：$BASE_GAIN|Y$\\n$GAIN_MODIFIERS$",
+        "stage": 1
+    },
+    {
+        "key": "DIG_IN_DIVISION_MOD_DESC:0",
+        "original": "Division Template: $VALUE|=+$",
+        "translation": "部队编制：$VALUE|=+$",
+        "stage": 1
+    },
+    {
+        "key": "DIG_IN_MOD_MULTI_DESC:0",
+        "original": "Multiplicative Modifiers:",
+        "translation": "乘法加成：",
+        "stage": 1
+    },
+    {
+        "key": "MERGE_NAVIES_TOO_FEW:0",
+        "original": "You can only merge navies when you have more than one selected.",
+        "translation": "只有在选中多于一支舰队时才能合并。",
+        "stage": 1
+    },
+    {
+        "key": "MERGE_NAVIES_OTHER_NATION:0",
+        "original": "You can only merge navies that are yours.",
+        "translation": "你只能合并本国舰队。",
+        "stage": 1
+    },
+    {
+        "key": "MERGE_NAVIES_IN_COMBAT:0",
+        "original": "You cannot merge navies when one of them is in combat.",
+        "translation": "战斗中的舰队不能合并。",
+        "stage": 1
+    },
+    {
+        "key": "MERGE_NAVIES_ON_A_MISSION:1",
+        "original": "You cannot merge navies when more than one of them is on a mission.",
+        "translation": "所选舰队中正在执行任务的舰队多于一支时无法合并。",
+        "stage": 1
+    },
+    {
+        "key": "MERGE_NAVIES_NOT_SAME_LOCATION:0",
+        "original": "All navies selected must be at the same location to merge them.",
+        "translation": "所有选中的舰船处于同一地区才能合并。",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_HEADER:0",
+        "original": "Chance for random accidents during takeoff/landing:",
+        "translation": "随机起降事故几率：",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_BASE:0",
+        "original": "\\n  - Base: $CH|R1%$",
+        "translation": "\\n  - 基础：$CH|R1%$",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_RELIABILITY:0",
+        "original": "\\n  - Equipment reliability ($RE|Y%1$): $CH|R%1$",
+        "translation": "\\n  - 装备可靠性($RE|Y%1$)：$CH|R%1$",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_CARRIER:0",
+        "original": "\\n  - On carrier ship multiplier: §R$CAR|1$§!",
+        "translation": "\\n  - 航母因素：§R$CAR|1$§!",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_WEATHER:0",
+        "original": "\\n  - Weather:",
+        "translation": "\\n  - 天气：",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENT_CHANCE_TOTAL:0",
+        "original": "\\nTotal: $TOT|R%$",
+        "translation": "\\n最终值：$TOT|R%$",
+        "stage": 1
+    },
+    {
+        "key": "RANDOM_AIR_ACCIDENTS_HAPPENED:0",
+        "original": "Total accidents happened: $TOT|R$",
+        "translation": "总事故：$TOT|R$",
+        "stage": 1
+    },
+    {
+        "key": "DESELECT_UNIT:0",
+        "original": "Deselect",
+        "translation": "取消选择",
+        "stage": 1
+    },
+    {
+        "key": "DISBAND_UNIT:0",
+        "original": "Disband",
+        "translation": "解散",
+        "stage": 1
+    },
+    {
+        "key": "DISBAND_ALL_UNIT:0",
+        "original": "Disband all selected units",
+        "translation": "解散所有选中单位",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_CAREFUL_TITLE:0",
+        "original": "§YCarefully§! execute battle plans",
+        "translation": "§Y谨慎§!执行战斗计划",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_BALANCED_TITLE:0",
+        "original": "Execute battle plans in a §Ybalanced manner§!",
+        "translation": "§Y均衡§!执行战斗计划",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_RUSH_TITLE:0",
+        "original": "§YAggressively§! execute battle plans",
+        "translation": "§Y激进§!执行战斗计划",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_CAREFUL_DESC:0",
+        "original": "When the plan is carried out, units will not attack heavily fortified locations unless they are unmanned, and they avoid attacking provinces which will weaken the front line by making it longer.",
+        "translation": "当计划执行时，单位不会进攻任何有人驻守的高度要塞化区域，并且避免进攻有可能由于把战线拉长而削弱防线的省份。",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_BALANCED_DESC:0",
+        "original": "The standard rules for carrying out battle plans are in effect. Units will attempt to advance in a manner that keeps the front line as short as possible and may attack fortified locations.",
+        "translation": "执行战斗计划时遵循标准的原则。单位在进攻时会尽可能保证战线不长并可能会进攻要塞区域。",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_RUSH_DESC:0",
+        "original": "Units will attack provinces if they are a part of the plan, even if it may mean that the front line becomes longer or may put units in exposed locations.",
+        "translation": "单位会进攻计划中的所有省份，哪怕这意味着战线会被拉长或单位会暴露在外。",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_BLITZ_DESC:0",
+        "original": "§YBlitz§! battle plans",
+        "translation": "§Y闪击§!执行战斗计划",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_EXECUTE_MODE:0",
+        "original": "Battleplan execution mode",
+        "translation": "Battleplan execution mode",
+        "stage": 1
+    },
+    {
+        "key": "CHANGE_TEMPLATE_UNIT:0",
+        "original": "Change Division Template",
+        "translation": "改变部队编制",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_UNIT:0",
+        "original": "Select",
+        "translation": "选择",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_BUTTON:0",
+        "original": "§GClick to change Commander§!",
+        "translation": "§G点击更换指挥官§!",
+        "stage": 1
+    },
+    {
+        "key": "MOVE_SHIPS_TITLE:0",
+        "original": "Select Ships to Transfer",
+        "translation": "选择运输舰船",
+        "stage": 1
+    },
+    {
+        "key": "ALL_SHIPS:0",
+        "original": "All Ships",
+        "translation": "所有船只",
+        "stage": 1
+    },
+    {
+        "key": "ALL_SAME_TYPE_SHIPS:0",
+        "original": "All $TYPE$s",
+        "translation": "所有$TYPE$",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_RESULT_SUNK:0",
+        "original": "All sunk ships of $SHIP$ type:",
+        "translation": "所有被击沉的$SHIP$：",
+        "stage": 1
+    },
+    {
+        "key": "AND_X_MORE_SUNK_SHIPS:0",
+        "original": "\\nAnd $VAL|Y$ more ships",
+        "translation": "\\n以及$VAL|Y$艘船",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_AND_TYPE:0",
+        "original": "$SHIP|H$ ($TYPE|H$)",
+        "translation": "$SHIP|H$ ($TYPE|H$)",
+        "stage": 1
+    },
+    {
+        "key": "LEARNING_TRAITS_TITLE:0",
+        "original": "Learning Traits:",
+        "translation": "正在习得特质：",
+        "stage": 1
+    },
+    {
+        "key": "LEARNING_TRAITS:0",
+        "original": "$NAME$ ($PERC|%0H$ done)",
+        "translation": "$NAME$ ($PERC|%0H$ 掌握)",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_MOVEMENT_BLOCKED_BY_STRAIGHT:0",
+        "original": "§RCannot move through straights blocked by enemy fleet.§!",
+        "translation": "§R无法通过被敌方舰队封锁的海峡。§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_BLOCKS_STRAIGHT_WITHIN_FRIENDLY:0",
+        "original": "Navy §GBlocks§! straight within $STATE1|H$",
+        "translation": "海军§G封锁了§!$STATE1|H$海峡",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_BLOCKS_STRAIGHT_WITHIN_HOSTILE:0",
+        "original": "Navy §RBlocks§! straight within $STATE1|H$",
+        "translation": "海军§R封锁了§!$STATE1|H$海峡",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_BLOCKS_STRAIGHT_BETWEEN_FRIENDLY:0",
+        "original": "Navy §GBlocks§! straight between $STATE1|H$ and $STATE2|H$",
+        "translation": "海军§G封锁了§!$STATE1|H$与$STATE2|H$之间的海峡",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_BLOCKS_STRAIGHT_BETWEEN_HOSTILE:0",
+        "original": "Navy §RBlocks§! straight between $STATE1|H$ and $STATE2|H$",
+        "translation": "海军§R封锁了§!$STATE1|H$与$STATE2|H$之间的海峡",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_IS_IN_HOME_REPAIRING:0",
+        "original": "$FLEET|H$ is currently repairing in $TARGET|H$. ",
+        "translation": "$FLEET|H$正在$TARGET|H$维修。",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_HEADING_HOME_TO_REPAIR:0",
+        "original": "$FLEET|H$ is on its way to $TARGET|H$ to repair. ",
+        "translation": "$FLEET|H$正前往$TARGET|H$进行维修。",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0",
+        "original": "Afterwards, it will continue its last mission ($MIS|H$).\\n",
+        "translation": "随后，它将继续执行前一任务——($MIS|H$)。\\n",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN:0",
+        "original": "Afterwards, it will merge back with the $FLEET|H$.\\n",
+        "translation": "随后，它将重新入列$FLEET|H$。\\n",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_HEADING_HOME_TO_REPAIR_STAY:0",
+        "original": "Afterwards, it will stay in the base.\\n",
+        "translation": "随后，它将停泊港内。\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVY_REPAIR_REJOIN_DESC:0",
+        "original": "Rejoining with $FLEET|H$ when reparations are complete.",
+        "translation": "修复后重回$FLEET|H$。",
+        "stage": 1
+    },
+    {
+        "key": "NAVY_REPAIR_PARENT_STATUS:0",
+        "original": "Detached from main fleet, repairing.",
+        "translation": "从舰队分离，正在修复。",
+        "stage": 1
+    },
+    {
+        "key": "NAVY_REPAIR_CHILD_STATUS:0",
+        "original": "Detached units are currently repairing.",
+        "translation": "分离的单位正在维修。",
+        "stage": 1
+    },
+    {
+        "key": "NAVY_MERGE_CHILD_STATUS:0",
+        "original": "They are moving to us to merge",
+        "translation": "他们正在向我们汇合",
+        "stage": 1
+    },
+    {
+        "key": "NAVY_MERGE_PARENT_STATUS:1",
+        "original": "We are moving to this fleet to merge",
+        "translation": "我们正在向这支舰队汇合",
+        "stage": 1
+    },
+    {
+        "key": "NO_ACCESS_TO_TARGET:0",
+        "original": "Unit cannot enter province.",
+        "translation": "无法进入省份。",
+        "stage": 1
+    },
+    {
+        "key": "NO_RETREAT_ALLOWED:0",
+        "original": "We are not allowed to retreat here.",
+        "translation": "我们无法撤退到此地。",
+        "stage": 1
+    },
+    {
+        "key": "NO_ADVANCE_IN_COMBAT:0",
+        "original": "We cannot advance while already in combat.",
+        "translation": "作战开始后无法继续进军。",
+        "stage": 1
+    },
+    {
+        "key": "NO_STRENGTH_TO_FIGHT:0",
+        "original": "We need at least §Y$VAL$§!% Strength to fight.",
+        "translation": "继续作战至少需要§Y$VAL$§!%的兵力。",
+        "stage": 1
+    },
+    {
+        "key": "NO_ORG_TO_FIGHT:0",
+        "original": "We need at least §Y$VAL$§!% Organization to fight.",
+        "translation": "继续作战至少需要§Y$VAL$§!%的组织度。",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_DISEMBARKING:0",
+        "original": "Not possible to move while disembarking.",
+        "translation": "登陆中无法移动。",
+        "stage": 1
+    },
+    {
+        "key": "NO_MOVE_RETREAT:0",
+        "original": "We cannot give move orders while retreating.",
+        "translation": "无法指挥撤退中的部队。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_STAT_MANPOWER:0",
+        "original": "§TCurrent §HManpower§! is $VAL|H$ out of $MAX|H$§!",
+        "translation": "§T现有§H人力§!为$VAL|H$/$MAX|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_CAPACITY_SORT:0",
+        "original": "Capacity",
+        "translation": "指挥上限",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_NAME_SORT:0",
+        "original": "Name",
+        "translation": "姓名",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_SKILL_SORT:0",
+        "original": "Skill",
+        "translation": "技能",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_SEARCH:0",
+        "original": "Search",
+        "translation": "搜索",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_CAPACITY:0",
+        "original": "$VAL|*0$/$MAX|*0$",
+        "translation": "$VAL|*0$/$MAX|*0$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_CAPACITY_1:0",
+        "original": "$VAL|*1$/$MAX|*1$",
+        "translation": "$VAL|*1$/$MAX|*1$",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_RATIO:0",
+        "original": "$VALUE|0%$",
+        "translation": "$VALUE|0%$",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_FILL:0",
+        "original": "$CURRENT|*0$/$TOTAL|*0$",
+        "translation": "$CURRENT|*0$/$TOTAL|*0$",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_FILL2:0",
+        "original": "$CURRENT$/$TOTAL$",
+        "translation": "$CURRENT$/$TOTAL$",
+        "stage": 1
+    },
+    {
+        "key": "EQUIPMENT_TOTAL:0",
+        "original": "$CURRENT|0$",
+        "translation": "$CURRENT|0$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_TOTAL_VALUE:0",
+        "original": "$VALUE|0*$",
+        "translation": "$VALUE|0*$",
+        "stage": 1
+    },
+    {
+        "key": "MANPOWER_AIR_WING_CREATION_VALUE:0",
+        "original": "$VALUE|0$",
+        "translation": "$VALUE|0$",
+        "stage": 1
+    },
+    {
+        "key": "SERVICE_MANPOWER_HEADER:0",
+        "original": "Service Manpower",
+        "translation": "服役人力",
+        "stage": 1
+    },
+    {
+        "key": "anti_tank:0",
+        "original": "Support Anti-Tank",
+        "translation": "反坦克支援连",
+        "stage": 1
+    },
+    {
+        "key": "anti_tank_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "anti_air:0",
+        "original": "Support Anti-Air",
+        "translation": "防空支援连",
+        "stage": 1
+    },
+    {
+        "key": "anti_air_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "artillery:0",
+        "original": "Support Artillery",
+        "translation": "火炮支援连",
+        "stage": 1
+    },
+    {
+        "key": "artillery_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "rocket_artillery:0",
+        "original": "Support Rocket Artillery",
+        "translation": "火箭炮支援连",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "rocket_artillery_brigade:0",
+        "original": "Rocket Artillery",
+        "translation": "火箭炮兵",
+        "stage": 1
+    },
+    {
+        "key": "rocket_artillery_brigade_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "anti_tank_brigade:0",
+        "original": "Anti-Tank",
+        "translation": "反坦克",
+        "stage": 1
+    },
+    {
+        "key": "anti_tank_brigade_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "anti_air_brigade:0",
+        "original": "Anti-Air",
+        "translation": "防空",
+        "stage": 1
+    },
+    {
+        "key": "anti_air_brigade_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "artillery_brigade:0",
+        "original": "Artillery",
+        "translation": "炮兵",
+        "stage": 1
+    },
+    {
+        "key": "artillery_brigade_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "light_tank_destroyer_brigade:0",
+        "original": "Light Tank Destroyer",
+        "translation": "轻型自行反坦克",
+        "stage": 1
+    },
+    {
+        "key": "light_tank_destroyer_brigade_desc:0",
+        "original": "Tank Destroyers are tanks with a larger than normal gun in a fixed mounting in place of a turret. Light Tank Destroyers are based on the chassis of Light Tanks, which means they are fairly mobile but do not carry particularly powerful guns compared to heavier TDs.",
+        "translation": "自行反坦克炮是装载火炮比同级坦克口径大，且炮塔固定的坦克。轻型自行反坦克炮使用轻型坦克底盘进行改装，这意味着它移动性能优越，但在火力上远逊于更高级别的自行反坦克炮。",
+        "stage": 1
+    },
+    {
+        "key": "medium_tank_destroyer_brigade:0",
+        "original": "Medium Tank Destroyer",
+        "translation": "中型自行反坦克",
+        "stage": 1
+    },
+    {
+        "key": "medium_tank_destroyer_brigade_desc:0",
+        "original": "Tank Destroyers are tanks with a larger than normal gun in a fixed mounting in place of a turret. Medium Tank Destroyers are based on the chassis of Medium Tanks, meaning they are fairly mobile and carry respectable firepower.",
+        "translation": "自行反坦克炮是装载火炮比同级坦克口径大，且炮塔固定的坦克。中型自行反坦克炮使用中型坦克底盘进行改装，这意味着它在移动性能和火力方面作了适当的平衡。",
+        "stage": 1
+    },
+    {
+        "key": "heavy_tank_destroyer_brigade:0",
+        "original": "Heavy Tank Destroyer",
+        "translation": "重型自行反坦克",
+        "stage": 1
+    },
+    {
+        "key": "heavy_tank_destroyer_brigade_desc:0",
+        "original": "A heavy tank destroyer has the turret removed to carry an even larger gun in a fixed mounting.",
+        "translation": "重型自行反坦克炮完全移除了炮塔以装载更大口径的固定火炮。",
+        "stage": 1
+    },
+    {
+        "key": "super_heavy_tank_destroyer_brigade:0",
+        "original": "Super Heavy Tank Destroyer",
+        "translation": "超重型自行反坦克",
+        "stage": 1
+    },
+    {
+        "key": "super_heavy_tank_destroyer_brigade_desc:0",
+        "original": "A super heavy tank chassis with an even larger gun in a fixed mount instead of a turret.",
+        "translation": "超重型坦克底盘装载超大口径的固定火炮。",
+        "stage": 1
+    },
+    {
+        "key": "modern_tank_destroyer_brigade:0",
+        "original": "Modern Tank Destroyer",
+        "translation": "现代自行反坦克",
+        "stage": 1
+    },
+    {
+        "key": "modern_tank_destroyer_brigade_desc:0",
+        "original": "A Modern Tank chassis fitted with a much larger gun instead of a turret.",
+        "translation": "现代坦克底盘装载大口径的火炮，没有炮塔。",
+        "stage": 1
+    },
+    {
+        "key": "light_sp_anti_air_brigade:0",
+        "original": "Light SP Anti-Air",
+        "translation": "轻型自行防空",
+        "stage": 1
+    },
+    {
+        "key": "medium_sp_anti_air_brigade:0",
+        "original": "Medium SP Anti-Air",
+        "translation": "中型自行防空",
+        "stage": 1
+    },
+    {
+        "key": "heavy_sp_anti_air_brigade:0",
+        "original": "Heavy SP Anti-Air",
+        "translation": "重型自行防空",
+        "stage": 1
+    },
+    {
+        "key": "super_heavy_sp_anti_air_brigade:0",
+        "original": "Super Heavy SP Anti-Air",
+        "translation": "超重型自行防空",
+        "stage": 1
+    },
+    {
+        "key": "modern_sp_anti_air_brigade:0",
+        "original": "Modern SP Anti-Air",
+        "translation": "现代自行防空",
+        "stage": 1
+    },
+    {
+        "key": "light_sp_artillery_brigade:0",
+        "original": "Light SP Artillery",
+        "translation": "轻型自行火炮",
+        "stage": 1
+    },
+    {
+        "key": "medium_sp_artillery_brigade:0",
+        "original": "Medium SP Artillery",
+        "translation": "中型自行火炮",
+        "stage": 1
+    },
+    {
+        "key": "heavy_sp_artillery_brigade:0",
+        "original": "Heavy SP Artillery",
+        "translation": "重型自行火炮",
+        "stage": 1
+    },
+    {
+        "key": "super_heavy_sp_artillery_brigade:0",
+        "original": "Super Heavy SP Artillery",
+        "translation": "超重型自行火炮",
+        "stage": 1
+    },
+    {
+        "key": "modern_sp_artillery_brigade:0",
+        "original": "Modern SP Artillery",
+        "translation": "现代自行火炮",
+        "stage": 1
+    },
+    {
+        "key": "cavalry:0",
+        "original": "Cavalry",
+        "translation": "骑兵",
+        "stage": 1
+    },
+    {
+        "key": "cavalry_desc:0",
+        "original": "Horse mounted infantry. More expensive, but with good mobility.",
+        "translation": "骑马的步兵，更贵，更快。",
+        "stage": 1
+    },
+    {
+        "key": "light_armor:0",
+        "original": "Light Tank",
+        "translation": "轻型坦克",
+        "stage": 1
+    },
+    {
+        "key": "light_armor_desc:0",
+        "original": "Lightly armored tanks.",
+        "translation": "轻型坦克。",
+        "stage": 1
+    },
+    {
+        "key": "medium_armor:0",
+        "original": "Medium Tank",
+        "translation": "中型坦克",
+        "stage": 1
+    },
+    {
+        "key": "medium_armor_desc:0",
+        "original": "Medium tanks are flexible and can do almost any job.",
+        "translation": "中型坦克灵活适应各种任务。",
+        "stage": 1
+    },
+    {
+        "key": "heavy_armor:0",
+        "original": "Heavy Tank",
+        "translation": "重型坦克",
+        "stage": 1
+    },
+    {
+        "key": "heavy_armor_desc:0",
+        "original": "The strongest tanks with powerful armor and weapons, but slow and tactically inflexible.",
+        "translation": "拥有强大火力和装甲防护的最强坦克，移动缓慢而缺乏战术灵活性。",
+        "stage": 1
+    },
+    {
+        "key": "super_heavy_armor:0",
+        "original": "Super-Heavy Tank",
+        "translation": "超重型坦克",
+        "stage": 1
+    },
+    {
+        "key": "motorized:0",
+        "original": "Motorized Infantry",
+        "translation": "摩托化步兵",
+        "stage": 1
+    },
+    {
+        "key": "motorized_desc:0",
+        "original": "Motorized infantry transportation, such as trucks and motorcycles.",
+        "translation": "摩托化步兵载具，如卡车、摩托车等。",
+        "stage": 1
+    },
+    {
+        "key": "mechanized:0",
+        "original": "Mechanized Infantry",
+        "translation": "机械化步兵",
+        "stage": 1
+    },
+    {
+        "key": "mechanized_desc:0",
+        "original": "Lightly armored infantry transportation.",
+        "translation": "有轻型装甲的步兵载具。",
+        "stage": 1
+    },
+    {
+        "key": "modern_armor:0",
+        "original": "Modern Tank",
+        "translation": "现代坦克",
+        "stage": 1
+    },
+    {
+        "key": "modern_armor_desc:0",
+        "original": "Modern Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks.",
+        "translation": "获得大幅改进的现代坦克能处理绝大多数的战场情况。大威力火炮和斜面装甲的出现取消了轻、中、重型的坦克分类。",
+        "stage": 1
+    },
+    {
+        "key": "infantry:0",
+        "original": "Infantry",
+        "translation": "步兵",
+        "stage": 1
+    },
+    {
+        "key": "infantry_desc:0",
+        "original": "Meat for the meat grinder.",
+        "translation": "刀俎上的鱼肉。",
+        "stage": 1
+    },
+    {
+        "key": "bicycle_battalion:0",
+        "original": "Bicycle Battalion",
+        "translation": "自行车营",
+        "stage": 1
+    },
+    {
+        "key": "bicycle_battalion_desc:0",
+        "original": "Meat for the meat grinder, but with extra bits of metal.",
+        "translation": "绞肉机里的肉，但含有一些额外的金属。",
+        "stage": 1
+    },
+    {
+        "key": "paratrooper:0",
+        "original": "Paratroopers",
+        "translation": "伞兵",
+        "stage": 1
+    },
+    {
+        "key": "paratrooper_desc:0",
+        "original": "By incorporating airborne forces into our army, we can make forced entries and position key troops in previously inaccessible areas, allowing for new tactical opportunities.",
+        "translation": "伞兵加入了军队序列，现在我们可以强行插入敌方防线，或是在以前无法抵达的地方部署关键部队，这意味着新的战术机会。",
+        "stage": 1
+    },
+    {
+        "key": "marine:0",
+        "original": "Marines",
+        "translation": "海军陆战队",
+        "stage": 1
+    },
+    {
+        "key": "marine_desc:0",
+        "original": "Troops specializing in amphibious warfare are growing ever more indispensable. Improvised methods and equipment become things of the past as our naval infantry is supported by specialized landing craft and training.",
+        "translation": "这种配有两栖作战装备的专业部队日益成为军队不可或缺的力量。我们的海军陆战队装备特制的登陆艇并接受专业训练，装具简陋和训练不足已是过去时。",
+        "stage": 1
+    },
+    {
+        "key": "mountaineers:0",
+        "original": "Mountaineers",
+        "translation": "山地步兵",
+        "stage": 1
+    },
+    {
+        "key": "mountaineers_desc:0",
+        "original": "Combat in mountain ranges exposes troops to many perils, but sometimes cannot be avoided. Providing our soldiers with specialized training for this environment, we can minimize these risks.",
+        "translation": "山区作战使部队面临众多潜在危险，总有猝不及防的情况发生。为士兵们提供这种环境的针对性训练，可以把风险降到最低。",
+        "stage": 1
+    },
+    {
+        "key": "recon:0",
+        "original": "Recon Company",
+        "translation": "侦察连",
+        "stage": 1
+    },
+    {
+        "key": "recon_desc:0",
+        "original": "Sending smaller groups to scout ahead before moving in the main force allows us to gather intelligence about where the enemy is and how many we are facing.",
+        "translation": "在主力行进前派出小股斥候以获得敌人位置和数目的情报。",
+        "stage": 1
+    },
+    {
+        "key": "engineer:0",
+        "original": "Engineer Company",
+        "translation": "工兵连",
+        "stage": 1
+    },
+    {
+        "key": "engineer_desc:0",
+        "original": "Construction of fortifications and breaching obstacles make combat engineers vital in the field. Giving our engineers a versatile role enables us to deploy them in the diverse situations where they will be needed.",
+        "translation": "构建工事和排除障碍的专业能力使得工程兵在战场上至关重要。培养工程部队全面的技能，这让我们可以把它部署到任何需要它应对的情况和环境。",
+        "stage": 1
+    },
+    {
+        "key": "field_hospital:0",
+        "original": "Field Hospital",
+        "translation": "野战医院",
+        "stage": 1
+    },
+    {
+        "key": "field_hospital_desc:0",
+        "original": "Provides emergency medical attention to wounded soldiers in the field.",
+        "translation": "在战场上为伤兵提供紧急医疗处理。",
+        "stage": 1
+    },
+    {
+        "key": "logistics_company:0",
+        "original": "Logistics Company",
+        "translation": "后勤连",
+        "stage": 1
+    },
+    {
+        "key": "logistics_company_desc:0",
+        "original": "Handles planning, requesting and distributing resources for the division.",
+        "translation": "处理部队物资的规划、请领和分发。",
+        "stage": 1
+    },
+    {
+        "key": "military_police:0",
+        "original": "Military Police",
+        "translation": "宪兵队",
+        "stage": 1
+    },
+    {
+        "key": "military_police_desc:0",
+        "original": "Maintains order and suppresses resistance in occupied territories.",
+        "translation": "维持军纪并镇压占领区的抵抗。",
+        "stage": 1
+    },
+    {
+        "key": "signal_company:0",
+        "original": "Signal Company",
+        "translation": "通信连",
+        "stage": 1
+    },
+    {
+        "key": "signal_company_desc:0",
+        "original": "Responsible for local communications working in the division.",
+        "translation": "负责部队的本地通信。",
+        "stage": 1
+    },
+    {
+        "key": "maintenance_company:0",
+        "original": "Maintenance Company",
+        "translation": "维修连",
+        "stage": 1
+    },
+    {
+        "key": "maintenance_company_desc:0",
+        "original": "Performs various forms of maintenance on division equipment to prevent failure.",
+        "translation": "负责部队装备的维护保养。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_TRAITS:1",
+        "original": "Details",
+        "translation": "详细",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE:0",
+        "original": "Promote",
+        "translation": "晋升",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_WITH_COST:0",
+        "original": "Promote £command_power $CP|2R$",
+        "translation": "晋升£command_power $CP|2R$",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_BLOCKED:0",
+        "original": "Unable to promote.",
+        "translation": "无法晋升。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_LEADER_PROMOTE_NEED_CP:0",
+        "original": "Need $CP|2R$ more CP.",
+        "translation": "需要$CP|2R$拥有更多的指挥点数。",
+        "stage": 1
+    },
+    {
+        "key": "CANNOT_MOVE_WHILE_TRAINING:0",
+        "original": "Cannot move while conducting an exercise",
+        "translation": "演习中无法行军。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_DEMILITARIZED:0",
+        "original": "$STATE|H$ is a demilitarized zone.",
+        "translation": "$STATE|H$为非军事区。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_IMPASSABLE:0",
+        "original": "Path to $STATE|H$ is impassable.",
+        "translation": "到$STATE|H$的路径无法通行。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_ADJECENCY_RULE_BLOCKED:0",
+        "original": "Movement is blocked due to the $RULE_NAME|H$ permission",
+        "translation": "因$RULE_NAME|H$移动受阻。",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL:0",
+        "original": "§RCannot move to a location§! owned by $OWNER|Y$.\\nWe need to ask them for a §GMilitary Access§! first.",
+        "translation": "§R无法移向目标§!，该地为$OWNER|Y$所有。\\n我们首先需要向他们获取§G军事通行§!。",
+        "stage": 1
+    },
+    {
+        "key": "DEMILITARIZED_ZONE:1",
+        "original": "Demilitarized: §Rtroops may not enter§!",
+        "translation": "非军事区：§R军队不得入内。§!",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_PREPARATION:0",
+        "original": "Plan preparation attack bonus: $VALUE|0Y%$ (Max: $MAX|0Y%$)",
+        "translation": "作战准备加成：$VALUE|0Y%$ (上限：$MAX|0Y%$)",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_PREPARATION_CHANGE:0",
+        "original": "Preparation increases by $VALUE|1Y%$ each day.",
+        "translation": "作战准备每日增长$VALUE|1Y%$。",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_PREPARATION_DESC:0",
+        "original": "Units at the starting position of a plan will start ticking up a preparation bonus. Once they start fighting with the plan or move away this bonus will begin ticking down again.",
+        "translation": "作战准备计划集结位置的所有单位将获得一个计时准备加成。一旦投入计划或移动，计时准备加成将重新起算。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_HALF_DIVISIONS:0",
+        "original": "§TSelect half of the current divisions§!",
+        "translation": "§T选中现有部队的一半§!",
+        "stage": 1
+    },
+    {
+        "key": "HOLD_DIVISIONS:0",
+        "original": "§THold divisions.§!",
+        "translation": "§T部队原地待命§!",
+        "stage": 1
+    },
+    {
+        "key": "MOUNT_BUTTON_SINGLE_LOAD_DESC:0",
+        "original": "Load division to transport ship.",
+        "translation": "装载部队到船只。",
+        "stage": 1
+    },
+    {
+        "key": "MOUNT_BUTTON_SINGLE_UNLOAD_DESC:0",
+        "original": "Unload division from transport ship.",
+        "translation": "从船只卸载部队",
+        "stage": 1
+    },
+    {
+        "key": "MOUNT_BUTTON_MULT_LOAD_DESC:0",
+        "original": "Load all available divisions to transport ships.",
+        "translation": "装载所有部队到船只",
+        "stage": 1
+    },
+    {
+        "key": "MOUNT_BUTTON_MULT_UNLOAD_DESC:0",
+        "original": "Unload all available divisions from transport ships.",
+        "translation": "从船只卸载所有部队",
+        "stage": 1
+    },
+    {
+        "key": "MOUNT_BUTTON_ERROR_DESC:0",
+        "original": "Load/Unload transport ships with units.",
+        "translation": "转载/卸载部队。",
+        "stage": 1
+    },
+    {
+        "key": "MAX_ORGANIZATION_TITLE:0",
+        "original": "§HMax Organization:§!\\n",
+        "translation": "§H最大组织度：§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "FROM_TEMPLATE:0",
+        "original": "Division Template: $VAL|Y$",
+        "translation": "师编制：$VAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "FROM_TEMPLATE_MOD:0",
+        "original": "From Division Template: $VAL|+=%$",
+        "translation": "来自师编制：$VAL|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "FROM_TEMPLATE_MOD2:0",
+        "original": "From Division Template: $VAL|+=$",
+        "translation": "来自师编制：$VAL|+=$",
+        "stage": 1
+    },
+    {
+        "key": "OOS_MOD2:0",
+        "original": "Out of Supply: $VAL|+=%$",
+        "translation": "缺乏补给：$VAL|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "ORG_REGAIN_INFRA2:0",
+        "original": "Infrastructure: $VAL|+=%$",
+        "translation": "基础设施：$VAL|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "PARADROP_MORALE_PENALTY:0",
+        "original": "Recent Paradrop: $VAL|+=%$",
+        "translation": "刚刚空降：$VAL|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "MORALE_TITLE:0",
+        "original": "§HHourly Recovery:§! $VAL|+=$",
+        "translation": "§H每小时恢复：§! $VAL|+=$",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_MORALE:0",
+        "original": "Ship: $VAL|Y$",
+        "translation": "舰船：$VAL|Y$",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_MORALE_MOD:0",
+        "original": "Ship: $VAL|=%$",
+        "translation": "舰船：$VAL|=%$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_SHIP_ORGANIZATION:0",
+        "original": "Organization: $CUR|0Y$/$MAX|0Y$\\n",
+        "translation": "组织度：$CUR|0Y$/$MAX|0Y$\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_COMBAT_SHIP_ORGANIZATION_DESC:0",
+        "original": "Organization indicates combat readiness and how organized a ship is. A ship with no organization can't fight",
+        "translation": "组织度表示舰船的作战准备以及组织水平。一艘组织度为0的舰船是无法战斗的。",
+        "stage": 1
+    },
+    {
+        "key": "STAT_FROM_TECH:0",
+        "original": "From Technology: $VAL|+=1%$",
+        "translation": "科技加成：$VAL|+=1%$",
+        "stage": 1
+    },
+    {
+        "key": "STAT_FROM_EQUIPMENT:0",
+        "original": "From Equipment: $VAL|+=1%$",
+        "translation": "装备加成：$VAL|+=1%$",
+        "stage": 1
+    },
+    {
+        "key": "STAT_BASE_VALUE:0",
+        "original": "Base: ",
+        "translation": "基础数值：",
+        "stage": 1
+    },
+    {
+        "key": "LOW_MANPOWER_STAT_EFFECT:0",
+        "original": "§RWe currently only have $CUR|Y$ of $MAX|Y$ men in this division, limiting all stats to $FACTOR|%Y$ of what they would be if all equipment was present.§!",
+        "translation": "§R这个师当前只有$CUR|Y$/$MAX|Y$人，其所有属性都将被限制至若他们所有的装备都还存在时的$FACTOR|%Y$。§!",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_STATS_FROM_BATTALIONS:0",
+        "original": "§HDivision Setup:§!",
+        "translation": "§H师属性：§!",
+        "stage": 1
+    },
+    {
+        "key": "TITLE_STATS_FROM_OTHER:0",
+        "original": "§YExternal Factors:§!",
+        "translation": "§Y外部因素：§!",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_EXILED:0",
+        "original": "This unit is exiled. It needs to return to our territories.",
+        "translation": "该部队处于流亡状态。它需要回到我们的领土。",
+        "stage": 1
+    },
+    {
+        "key": "FINAL_STAT_AVERAGE:0",
+        "original": "Averaged base: ",
+        "translation": "平均基础值：",
+        "stage": 1
+    },
+    {
+        "key": "FINAL_STAT_TOTAL:0",
+        "original": "Total base: ",
+        "translation": "总计基础值：",
+        "stage": 1
+    },
+    {
+        "key": "FINAL_STAT_MAX:0",
+        "original": "Highest: ",
+        "translation": "最高基础值：",
+        "stage": 1
+    },
+    {
+        "key": "FINAL_STAT_MIN:0",
+        "original": "Lowest base: ",
+        "translation": "最低基础值：",
+        "stage": 1
+    },
+    {
+        "key": "FINAL_STAT_WEIGHTED:0",
+        "original": "Final Weighted Average ($WEIGHT|%0Y$ highest): ",
+        "translation": "最终平均重量 ($WEIGHT|%0Y$ highest)：",
+        "stage": 1
+    },
+    {
+        "key": "STAT_SUBUNIT_COUNT:0",
+        "original": "$VAL$ x ",
+        "translation": "$VAL$ x ",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_STATS_STATS_TAB:0",
+        "original": "Stats",
+        "translation": "统计",
+        "stage": 1
+    },
+    {
+        "key": "UNIT_STATS_TEMPLATE_TAB:0",
+        "original": "Template",
+        "translation": "编制",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNIT_ICON_WINNING:0",
+        "original": "§GWinning Battle ($AMOUNT|H%0$)§!",
+        "translation": "§G正在赢得战斗($AMOUNT|H%0$)§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNIT_ICON_LOSING:0",
+        "original": "§RLosing Battle ($AMOUNT|H%0$)§!",
+        "translation": "§R正在输掉战斗($AMOUNT|H%0$)§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNIT_ICON_UNDECIDED:0",
+        "original": "§TBattle§!",
+        "translation": "§T战斗中§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNIT_ICON_DESC:0",
+        "original": "§T$UNIT|H$ is engaged in a battle in $STATE|H$.§!",
+        "translation": "§T$UNIT|H$正在$STATE|H$战斗。§!",
+        "stage": 1
+    },
+    {
+        "key": "COMBAT_UNIT_ICON_TERRAIN:0",
+        "original": "§TTerrain: $TERRAIN|H$§!",
+        "translation": "§T地形：$TERRAIN|H$§!",
+        "stage": 1
+    },
+    {
+        "key": "category_light_infantry:0",
+        "original": "Leg Infantry",
+        "translation": "徒步步兵",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_WEIGHT_VAL:0",
+        "original": "$VAL$",
+        "translation": "$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_WEIGHT_DESC:0",
+        "original": "Total weight of divisions",
+        "translation": "师的总重量",
+        "stage": 1
+    },
+    {
+        "key": "category_all_infantry:0",
+        "original": "All Infantry & Mot/Mech",
+        "translation": "所有步兵及摩托化/机械化部队",
+        "stage": 1
+    },
+    {
+        "key": "category_front_line:0",
+        "original": "All Frontline Battalions",
+        "translation": "所有前线部队",
+        "stage": 1
+    },
+    {
+        "key": "category_support_battalions:1",
+        "original": "Support Companies",
+        "translation": "支援连",
+        "stage": 1
+    },
+    {
+        "key": "category_all_armor:0",
+        "original": "Tanks & Armor Variants",
+        "translation": "坦克及装甲变种车辆",
+        "stage": 1
+    },
+    {
+        "key": "category_tanks:0",
+        "original": "Tanks",
+        "translation": "坦克",
+        "stage": 1
+    },
+    {
+        "key": "category_army:0",
+        "original": "Army",
+        "translation": "陆军",
+        "stage": 1
+    },
+    {
+        "key": "category_line_artillery:0",
+        "original": "Line Artillery",
+        "translation": "牵引火炮",
+        "stage": 1
+    },
+    {
+        "key": "category_artillery:0",
+        "original": "Artillery Support & Line",
+        "translation": "牵引火炮及轻型火炮",
+        "stage": 1
+    },
+    {
+        "key": "category_fighter:0",
+        "original": "Fighter",
+        "translation": "战斗机",
+        "stage": 1
+    },
+    {
+        "key": "category_heavy_fighter:0",
+        "original": "Heavy Fighter",
+        "translation": "重型战斗机",
+        "stage": 1
+    },
+    {
+        "key": "category_cas:0",
+        "original": "Close Air Support",
+        "translation": "近距支援机",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_ALREADY_ACTIVE:0",
+        "original": "We are already being transported",
+        "translation": "我们已经在海运途中",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_NO_NAVAL_BASE:0",
+        "original": "Cannot transport to a non-naval base location",
+        "translation": "无法海运至没有海军基地的地方",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_NO_FROM_NAVAL_BASE:0",
+        "original": "Cannot transport from a non-naval base location",
+        "translation": "无法从没有海军基地的地方进行海运",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_NOT_ENOUGH:0",
+        "original": "We need $NEED|Y$ convoys but have only $FREE|Y$ to transport this division(s).",
+        "translation": "我们需要$NEED|Y$艘运输船才能海运这支部队，但我们只有$FREE|Y$可用。",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_ACTIVE_CANT_MOVE:0",
+        "original": "Cannot move a unit while it is being transported.",
+        "translation": "无法移动处于海运中的部队。",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_NOT_DURING_COMBAT:0",
+        "original": "Cannot redirect transport while convoy is in combat.",
+        "translation": "当运输船处于战斗中时，无法改变运输方向。",
+        "stage": 1
+    },
+    {
+        "key": "NO_COUNTER_ATTACK_IN_COMBAT:0",
+        "original": "§RCannot counter attack a unit you are already defending against§!",
+        "translation": "§R无法反击你正在防守的单位§!",
+        "stage": 1
+    },
+    {
+        "key": "TRANSPORT_NO_ACCESS:0",
+        "original": "We have no access there.",
+        "translation": "我们无法到达那里。",
+        "stage": 1
+    },
+    {
+        "key": "ATTRITION_NAVAL_TRANSFER:0",
+        "original": "Naval transportation: $ATT|=-1%0$",
+        "translation": "海运：$ATT|=-1%0$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TRANSPORT_INTERCEPT_WARNING:1",
+        "original": "§RWe are currently at war and our transports risk being sunk when moving troops. We can make sure ships on Escort Mission are in the area to help if that happens.§!\\n Transporting on this particular route has a $ATTR|%R0$ chance of being detected and intercepted.",
+        "translation": "§R我们当前处于战争状态，因此我们的运输船在海运部队时会有被击沉的风险。我们可以通过命令舰船在相关海域执行护航任务以避免这种情况的发生。§!\\n 沿着这条路线进行海运有 $ATTR|%R0$ 的机会被发现并遭到拦截。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TRANSPORT_MOVE_DESC:0",
+        "original": "§GRight-click§! on §Ythe naval icon§! to §Ytransport§! the units to this §Ynaval base§!. Transport will require $CONVOYS|Y$ convoys.",
+        "translation": "在§Y海军图标§!上§G右键点击§!将部队§Y海运§!到该§Y海军基地§!。海运需要$CONVOYS|Y$ 艘运输船。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_TRANSPORT_MOVE_DESC_ICON:0",
+        "original": "§GRight-click§! to §Ytransport§! the units to this §Ynaval base§!. Transport will require $CONVOYS|Y$ convoys.",
+        "translation": "§G右键点击§!将部队§Y海运§!至该§Y海军基地§!。海运需要$CONVOYS|Y$艘运输船。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_LACK_TRANSPORT:0",
+        "original": "Reserved Convoys: $VAL|R$/$NEED|Y$.",
+        "translation": "需要运输船：$VAL|R$/$NEED|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_LACK_PREPARATION:1",
+        "original": "Invasion is still preparing $VAL|R0$/$NEED|Y0$ days.",
+        "translation": "登陆作战还需要准备$VAL|R0$/$NEED|Y0$日。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_WE_LACK_PREPARATION:0",
+        "original": "We have prepared for $VAL|Y0$ days out of the $NEED|Y0$ needed.",
+        "translation": "我们已经准备了$VAL|Y0$日，总共需要准备$NEED|Y0$日。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_THEY_LACK_PREPARATION:0",
+        "original": "They have prepared for $VAL|Y0$ days out of the $NEED|Y0$ needed.",
+        "translation": "他们已经准备了$VAL|Y0$日，总共需要准备$NEED|Y0$日。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_PREPERATION_SPEED:0",
+        "original": "Preparation Speed:",
+        "translation": "准备速度：",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_BLOCKED_STRAIT:0",
+        "original": "§RDue to $RULES|H$ being blocked between $FIRST|H$ and $SECOND|H$ our armies cannot invade.§!",
+        "translation": "§R由于$FIRST|H$和$SECOND|H$之间有$RULES|H$阻碍，我们的部队无法进行登陆作战。§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_OVER_CAP:1",
+        "original": "§RNaval Invasion Capacity Exceeded:§!\\nUsed in invasions $USED|Y$\\nTotal limit $MAX|Y$\\nSelected divisions $SELECTION|R$.\\nResearch more £tech_mod Transports Technology to increase your Naval Invasion Capacity.",
+        "translation": "§R超过登陆作战上限：§!\\n登陆作战中已用$USED|Y$\\n总计上限$MAX|Y$\\n选中的师$SELECTION|R$。\\n研究更多£tech_mod 运输船科技以提高登陆作战上限。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_CAPACITY:0",
+        "original": "Naval Invasion Capacity",
+        "translation": "登陆作战上限",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0",
+        "original": "Total number of divisions that can be assigned to a naval invasion order.",
+        "translation": "可以分配给登陆作战的陆军师总数。",
+        "stage": 1
+    },
+    {
+        "key": "motorized_rocket_brigade:0",
+        "original": "Motorized Rocket Artillery",
+        "translation": "自行火箭炮兵",
+        "stage": 1
+    },
+    {
+        "key": "motorized_rocket_brigade_short:0",
+        "original": "Mot. R. Artillery",
+        "translation": "自行火箭炮",
+        "stage": 1
+    },
+    {
+        "key": "motorized_rocket_brigade_desc:0",
+        "original": "Self-propelled rocket artillery allows for larger, multiple rocket launchers which can both move in and out quickly after striking a target area.",
+        "translation": "自行火箭炮兵可以承载更大的，多管连装的火箭发射器，能够快速地进入战场并在打击目标区域后迅速脱离。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_SUPREMACY:0",
+        "original": "§HNaval Supremacy:§! $VALUE|%H$",
+        "translation": "§H制海权：§! $VALUE|%H$",
+        "stage": 1
+    },
+    {
+        "key": "CAN_NOT_PARADROP_BATALION:0",
+        "original": "$AMOUNT|H$ of $BATALION|H$ battalions cannot be parachuted.",
+        "translation": "$AMOUNT|H$个$BATALION|H$营不能够被空投。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_PARADROP_TEMPLATE:0",
+        "original": "Divisions using this template §GCAN§! be parachuted.",
+        "translation": "采用该编制的师§G可以§!被空投。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_NOT_PARADROP_TEMPLATE:0",
+        "original": "Divisions using this template §RCANNOT§! be parachuted.",
+        "translation": "采用该编制的师§R不能§!被空投。",
+        "stage": 1
+    },
+    {
+        "key": "BATALION_CAN_BE_PARCHUTED:0",
+        "original": "This battalion §GCAN§! be parachuted.",
+        "translation": "这个营§G可以§!被空投。",
+        "stage": 1
+    },
+    {
+        "key": "BATALION_CAN_NOT_BE_PARCHUTED:0",
+        "original": "This battalion §RCANNOT§! be parachuted.",
+        "translation": "这个营§R不可以§!被空投。",
+        "stage": 1
+    },
+    {
+        "key": "ESTIMATED_NAVAL_POWER:0",
+        "original": "Friendly ships present: $US|0Y$\\nEnemy ships present: $THEM|Y$",
+        "translation": "当前友军舰船：$US|0Y$\\n当前敌军舰船：$THEM|Y$",
+        "stage": 1
+    },
+    {
+        "key": "NAV_AIR_SUPERIORITY:1",
+        "original": "Our Air Superiority increases our ship amount impact by: $VALUE|%G=$",
+        "translation": "我方制空权提升我方船只数量影响：$VALUE|%G=$",
+        "stage": 1
+    },
+    {
+        "key": "NAV_ENEMY_AIR_SUPERIORITY:1",
+        "original": "Enemy Air Superiority increases their ship amount impact by: $VALUE|%=R$",
+        "translation": "敌方制空权提升敌方船只数量影响：$VALUE|%=R$",
+        "stage": 1
+    },
+    {
+        "key": "NAV_SUPREMACY_INTEL:0",
+        "original": "§RWe know too little about this region!§!($VAL|%+$)",
+        "translation": "§R我们对该地区一无所知!§!($VAL|%+$)",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH:1",
+        "original": " - $NAME|Y$ - We only have $SUP|0%R$ Naval Superiority but require $NEEDED|0%Y$",
+        "translation": "- $NAME|Y$ - 我们只拥有$SUP|0%R$制海权，但我们需要$NEEDED|0%Y$",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE:0",
+        "original": "§RInsufficient Naval Superiority in regions:§!\\n",
+        "translation": "§R区域制海权不足：§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_WE:0",
+        "original": "We",
+        "translation": "我方",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL:2",
+        "original": "\\n§R$WHO$ lack sufficient intel to dare sending an invasion through the regions:§!",
+        "translation": "\\n§R$WHO$缺乏必要的情报，因此无法冒险发动登陆作战：§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT:0",
+        "original": "\\n\\n§RAssign more navies or airwings on missions, or cover the above areas with Radar.§!\\n",
+        "translation": "\\n\\n§R请为该任务分配更多的舰船和飞机，或者让目标地点处于雷达范围内。§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_CANT_TRANSFER:0",
+        "original": "\\nPerforming Naval Invasions requires Naval Supremacy along Areas in its path. This is gained by:\\n - Air Superiority\\n - Ships on Missions",
+        "translation": "\\n发动登陆作战须要在沿途海域确保制海权。制海权可以通过以下方式获得：\\n - 制空权\\n - 执行任务的舰船",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_ASSIGN_COMMANDER:0",
+        "original": "§GClick to assign a commander.§!",
+        "translation": "§G点击分配指挥官。§!",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_INVASION_NOT_REACHED_START:0",
+        "original": "§RSome divisions assigned to this invasion have not reached the start position yet.§!\\n",
+        "translation": "§R分配到该登陆作战的一些部队还没有到达初始位置。§!\\n",
+        "stage": 1
+    },
+    {
+        "key": "PARADROP_INVASION_CAN_NOT_TRANSFER:0",
+        "original": "§RTo perform a Paradrop operation we must have more than $RATIO|0%H$ Air Superiority in next strategic regions: $LIST$§!",
+        "translation": "§R要发动空降作战，我们必须在以下战略区域确保至少 $RATIO|0%H$ 制空权：$LIST$§!",
+        "stage": 1
+    },
+    {
+        "key": "TEMPLATE_DURING_REORGANIZATION:0",
+        "original": "Division is currently switching to a new or upgraded template. During this time they will use stats from the old one until they have enough equipment suitable for the new.\\n",
+        "translation": "师正在转换至新的编制。在此期间他们会沿用旧的编制，直到他们获得足够多的新装备以适应新编制。\\n",
+        "stage": 1
+    },
+    {
+        "key": "SPEED_OUT_OF_SUPPLY:0",
+        "original": "Out of supply: $VALUE|+=%$",
+        "translation": "缺乏补给：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "SPEED_INFRASTRUCTURE_IMPACT:0",
+        "original": "Infrastructure: $VALUE|+=%$",
+        "translation": "基础设施：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "SPEED_STRATEGIC_REDEPLOYMENT_DESC:0",
+        "original": "Strategic redeployment speed $VAUE|H$ km/h",
+        "translation": "战略部署速度$VAUE|H$km/h",
+        "stage": 1
+    },
+    {
+        "key": "SPEED_RETREATING:0",
+        "original": "Retreating: $VALUE|+=%$",
+        "translation": "撤退中：$VALUE|+=%$",
+        "stage": 1
+    },
+    {
+        "key": "GOOD_ARMOR_DEFENSE_DESC:0",
+        "original": "If an Enemy Division attacking us is unable to penetrate we will lose $ORG|%0G$ less organization and take $STR|%0G$ less damage.\\n",
+        "translation": "被无法击穿我们的敌军师攻击时，我们受到的组织度伤害会减少$ORG|%0G$，兵力伤害减少$STR|%0G$。\\n",
+        "stage": 1
+    },
+    {
+        "key": "GOOD_ARMOR_ATTACK_DESC_STR:0",
+        "original": "If attacking an Enemy Division that cannot penetrate our armor we will do $VAL|%0G$ more damage.\\n",
+        "translation": "攻击一个无法击穿我们装甲的敌军师时，我们可以造成$VAL|%0G$的额外伤害。\\n",
+        "stage": 1
+    },
+    {
+        "key": "GOOD_ARMOR_ATTACK_DESC_ORG:0",
+        "original": "If attacking an Enemy Division that cannot penetrate our armor we will reduce their organization by an additional $VAL|%G0$.\\n",
+        "translation": "攻击一个无法击穿我们装甲的敌军师时，我们可以对他们的组织度造成 $VAL|%G0$的额外伤害。\\n",
+        "stage": 1
+    },
+    {
+        "key": "PIERCING_GOOD_DESC:0",
+        "original": "The division will not get extra bonuses from being able to penetrate an Enemy Division, but that division will not receive bonuses due to its armor.",
+        "translation": "这个师并不会因具备击穿对手的能力而获得额外加成，但却能阻止对手凭借装甲获得优势。",
+        "stage": 1
+    },
+    {
+        "key": "DIVISION_SHATTERED:0",
+        "original": "Overrun!",
+        "translation": "被击溃了！",
+        "stage": 1
+    },
+    {
+        "key": "PREPERATION_BASE_DAILY_GAIN:0",
+        "original": "Base daily gain: $VALUE|0%Y$",
+        "translation": "基础每日增加值：$VALUE|0%Y$",
+        "stage": 1
+    },
+    {
+        "key": "PREPERATION_BASE_MAX:0",
+        "original": "Base max: $VALUE|0%Y$",
+        "translation": "基础最大值：$VALUE|0%Y$",
+        "stage": 1
+    },
+    {
+        "key": "PLAN_PREPERATION_BREAKDOWN:0",
+        "original": "$MAX_DESC$\\n$SPEED_DESC$",
+        "translation": "$MAX_DESC$\\n$SPEED_DESC$",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_ASSIGN:0",
+        "original": "Click to assign.",
+        "translation": "点击进行分配。",
+        "stage": 1
+    },
+    {
+        "key": "ADD_ATTACK_SKILL:0",
+        "original": "Add Attack Skill: $NUM|+$",
+        "translation": "增加攻击技能：$NUM|+$",
+        "stage": 1
+    },
+    {
+        "key": "ADD_DEFENSE_SKILL:0",
+        "original": "Add Defense Skill: $NUM|+$",
+        "translation": "增加防御技能：$NUM|+$",
+        "stage": 1
+    },
+    {
+        "key": "ADD_LOGISTICS_SKILL:0",
+        "original": "Add Logistics Skill: $NUM|+$",
+        "translation": "增加后勤技能：$NUM|+$",
+        "stage": 1
+    },
+    {
+        "key": "ADD_PLANNING_SKILL:0",
+        "original": "Add Planning Skill: $NUM|+$",
+        "translation": "增加计划技能：$NUM|+$",
+        "stage": 1
+    },
+    {
+        "key": "ADD_SKILL_LEVEL:0",
+        "original": "Add Skill Level: $NUM|+$",
+        "translation": "增加技能等级：$NUM|+$",
+        "stage": 1
+    },
+    {
+        "key": "CHOOSE_INSIGNIA:0",
+        "original": "Choose Insignia",
+        "translation": "选择徽章",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_ASSIGN_TRAITS:0",
+        "original": "§HClick§! to assign a new §HTrait§! to this §HUnit Leader§!",
+        "translation": "§H单击§!为这个§H指挥官§!分配一个新的§H特质§! ",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_ASSIGN_TRAITS_DETAIL:0",
+        "original": "$LEADER|H$ has $NUM|H$ remaining trait slots to assign.",
+        "translation": "$LEADER|H$拥有$NUM|H$个剩余的待分配特质槽。",
+        "stage": 1
+    },
+    {
+        "key": "category_special_forces:0",
+        "original": "Special Forces",
+        "translation": "特种部队",
+        "stage": 1
+    },
+    {
+        "key": "LEADER_GAIN_TRAIT_LEVEL:0",
+        "original": "Leader can assign a new trait every $NUM|.0H$ levels.\\n",
+        "translation": "指挥官可以每$NUM|.0H$个等级获得一个新特质。\\n",
+        "stage": 1
+    },
+    {
+        "key": "FM_GAIN_TRAIT_LEVEL:0",
+        "original": "Field Marshals can assign a new trait when they are promoted.\\n",
+        "translation": "当被晋升时，元帅可以获得一个新特质。\\n",
+        "stage": 1
+    },
+    {
+        "key": "DELETE_ARMY:0",
+        "original": "§RDelete Army§!",
+        "translation": "§R删除部队§!",
+        "stage": 1
+    },
+    {
+        "key": "UNASSIGN_ARMY:0",
+        "original": "§RUnassign Army§!",
+        "translation": "§R未分配部队§!",
+        "stage": 1
+    },
+    {
+        "key": "DELETE_ARMY_GROUP:0",
+        "original": "§RDelete army group and all assigned armies§!",
+        "translation": "§R删除集团军群和其所辖的所有集团军§!",
+        "stage": 1
+    },
+    {
+        "key": "UNASSIGN_ARMY_GROUP:1",
+        "original": "§GClick§! to §RDisband§! the army group.\\n§GShift + Click§! to §RDisband§! the army group and all of its armies.",
+        "translation": "§G单击§!§R解散§! 此集团军群。\\n§GShift+单击§!§R解散§! 集团军群和其所辖的所有集团军。",
+        "stage": 1
+    },
+    {
+        "key": "FROM_ARMY_GROP_LEADER:0",
+        "original": "Partial bonuses from $NAME|H$\\n",
+        "translation": "来自$NAME|H$的部分增益\\n",
+        "stage": 1
+    },
+    {
+        "key": "FIELD_MARSHAL_BONUS_INFO:0",
+        "original": "Non-§HField Marshal§! bonuses only apply by $RATIO|%.0H$\\n",
+        "translation": "非§H元帅§!增益仅适用$RATIO|%.0H$\\n",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_HIDE_ARMIES:0",
+        "original": "Click to §HHide§! armies belonging to this group.\\n",
+        "translation": "单击§H隐藏§!隶属于此集团军群的集团军。\\n",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_SHOW_ARMIES:0",
+        "original": "Click to §HShow§! armies belonging to this group.\\n",
+        "translation": "单击§H显示§!隶属于此集团军群的集团军。\\n",
+        "stage": 1
+    },
+    {
+        "key": "TOGGLE_ARMY_GROUP_VIEW_ARMIES_DIVISIONS:0",
+        "original": "Switch between viewing the armies or divisions in this army group.",
+        "translation": "在显示这只集团军群的师或集团军之间切换。",
+        "stage": 1
+    },
+    {
+        "key": "DIVISION_VIEW_SELECT_ARMY:0",
+        "original": "Click to select this division's army.",
+        "translation": "点击选择该师所属的集团军。",
+        "stage": 1
+    }
+]

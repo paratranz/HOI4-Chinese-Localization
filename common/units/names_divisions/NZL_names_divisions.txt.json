@@ -1,0 +1,2408 @@
+[
+    {
+        "key": "NZL_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_INF_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|2#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|3#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|6#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|7#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|8#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|9#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|10#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|11#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|12#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|13#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|14#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|15#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|16#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|17#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|18#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|19#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|20#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|21#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|22#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|23#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|24#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|25#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|26#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|27#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|28#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|29#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|30#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|31#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|32#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|33#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|34#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|35#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|36#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|37#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|38#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|39#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|40#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|41#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|42#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|43#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|44#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|45#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|46#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|47#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|48#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|49#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|51#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|52#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_INF_01|ordered|53#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_CAV_01|fallback_name",
+        "original": "%d Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|1#|%dst NZ Cavalry Division",
+        "original": "%dst NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|2#|%dnd NZ Cavalry Division",
+        "original": "%dnd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|3#|%drd NZ Cavalry Division",
+        "original": "%drd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|4#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|5#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|6#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|7#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|8#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|9#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|10#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|11#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|12#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|13#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|14#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|15#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|16#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|17#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|18#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|19#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|20#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|21#|%dst NZ Cavalry Division",
+        "original": "%dst NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|22#|%dnd NZ Cavalry Division",
+        "original": "%dnd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|23#|%drd NZ Cavalry Division",
+        "original": "%drd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|24#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|25#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|26#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|27#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|28#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|29#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|30#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|31#|%dst NZ Cavalry Division",
+        "original": "%dst NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|32#|%dnd NZ Cavalry Division",
+        "original": "%dnd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|33#|%drd NZ Cavalry Division",
+        "original": "%drd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|34#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|35#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|36#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|37#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|38#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|39#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|40#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|41#|%dst NZ Cavalry Division",
+        "original": "%dst NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|42#|%dnd NZ Cavalry Division",
+        "original": "%dnd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|43#|%drd NZ Cavalry Division",
+        "original": "%drd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|44#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|45#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|46#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|47#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|48#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|49#|%dth NZ Cavalry Division",
+        "original": "%dth NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|51#|%dst NZ Cavalry Division",
+        "original": "%dst NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|52#|%dnd NZ Cavalry Division",
+        "original": "%dnd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_CAV_01|ordered|53#|%drd NZ Cavalry Division",
+        "original": "%drd NZ Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MOT_01|fallback_name",
+        "original": "%d Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|1#|%dst NZ Motor Division",
+        "original": "%dst NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|2#|%dnd NZ Motor Division",
+        "original": "%dnd NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|3#|%drd NZ Motor Division",
+        "original": "%drd NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|4#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|5#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|6#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|7#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|8#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|9#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|10#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|11#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|12#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|13#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|14#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|15#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|16#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|17#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|18#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|19#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|20#|%dth NZ Motor Division",
+        "original": "%dth NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|21#|%dst NZ Motor Division",
+        "original": "%dst NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|22#|%dnd NZ Motor Division",
+        "original": "%dnd NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MOT_01|ordered|23#|%drd NZ Motor Division",
+        "original": "%drd NZ Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_ARM_01|fallback_name",
+        "original": "%d Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|1#|%dst NZ Armoured Division",
+        "original": "%dst NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|2#|%dnd NZ Armoured Division",
+        "original": "%dnd NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|3#|%drd NZ Armoured Division",
+        "original": "%drd NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|4#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|5#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|6#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|7#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|8#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|9#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|10#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|11#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|12#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|13#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|14#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|15#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|16#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|17#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|18#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|19#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|20#|%dth NZ Armoured Division",
+        "original": "%dth NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|21#|%dst NZ Armoured Division",
+        "original": "%dst NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|22#|%dnd NZ Armoured Division",
+        "original": "%dnd NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_ARM_01|ordered|23#|%drd NZ Armoured Division",
+        "original": "%drd NZ Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MEC_01|fallback_name",
+        "original": "%d Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|1#|%dst NZ Mechanised Division",
+        "original": "%dst NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|2#|%dnd NZ Mechanised Division",
+        "original": "%dnd NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|3#|%drd NZ Mechanised Division",
+        "original": "%drd NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|4#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|5#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|6#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|7#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|8#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|9#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|10#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|11#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|12#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|13#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|14#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|15#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|16#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|17#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|18#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|19#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|20#|%dth NZ Mechanised Division",
+        "original": "%dth NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|21#|%dst NZ Mechanised Division",
+        "original": "%dst NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|22#|%dnd NZ Mechanised Division",
+        "original": "%dnd NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MEC_01|ordered|23#|%drd NZ Mechanised Division",
+        "original": "%drd NZ Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_GAR_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|1#|%dst 'Northern' Infantry Division",
+        "original": "%dst 'Northern' Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|4#|%dth 'Central' Infantry Division",
+        "original": "%dth 'Central' Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|5#|%dth 'Southern' Infantry Division",
+        "original": "%dth 'Southern' Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_GAR_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MIL_01|name",
+        "original": "Militia Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MIL_01|fallback_name",
+        "original": "%d Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|1#|Northern Military District",
+        "original": "Northern Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|4#|Central Military District",
+        "original": "Central Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|5#|Southern Military District",
+        "original": "Southern Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|6#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|7#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|8#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|9#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|10#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|11#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|12#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|13#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|14#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|15#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|16#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|17#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|18#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|19#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|20#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|21#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|22#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|23#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|24#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|25#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|26#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|27#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|28#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|29#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|30#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|31#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|32#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|33#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|34#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|35#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|36#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|37#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|38#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|39#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|40#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|41#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|42#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|43#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|44#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|45#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|46#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|47#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|48#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|49#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|50#|%dth Military District",
+        "original": "%dth Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|51#|%dst Military District",
+        "original": "%dst Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|52#|%dnd Military District",
+        "original": "%dnd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MIL_01|ordered|53#|%drd Military District",
+        "original": "%drd Military District",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MAR_01|fallback_name",
+        "original": "%d Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|1#|%dst NZ Marine Division",
+        "original": "%dst NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|2#|%dnd NZ Marine Division",
+        "original": "%dnd NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|3#|%drd NZ Marine Division",
+        "original": "%drd NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|4#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|5#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|6#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|7#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|8#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|9#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|10#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|11#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|12#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|13#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|14#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|15#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|16#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|17#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|18#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|19#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|20#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|21#|%dst NZ Marine Division",
+        "original": "%dst NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|22#|%dnd NZ Marine Division",
+        "original": "%dnd NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|23#|%drd NZ Marine Division",
+        "original": "%drd NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|24#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|25#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|26#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|27#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|28#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|29#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MAR_01|ordered|30#|%dth NZ Marine Division",
+        "original": "%dth NZ Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_MTN_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|2#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|3#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|6#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|7#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|8#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|9#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|10#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|11#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|12#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|13#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|14#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|15#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|16#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|17#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|18#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|19#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|20#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|21#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|22#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|23#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|24#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|25#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|26#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|27#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|28#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|29#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|30#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|31#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|32#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|33#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|34#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|35#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|36#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|37#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|38#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|39#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|40#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|41#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|42#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|43#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|44#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|45#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|46#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|47#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|48#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|49#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|50#|%dth NZ Infantry Division",
+        "original": "%dth NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|51#|%dst NZ Infantry Division",
+        "original": "%dst NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|52#|%dnd NZ Infantry Division",
+        "original": "%dnd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_MTN_01|ordered|53#|%drd NZ Infantry Division",
+        "original": "%drd NZ Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_PAR_01|name",
+        "original": "Airborne Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "NZL_PAR_01|fallback_name",
+        "original": "%d Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|1#|%dst NZ Airborne Division",
+        "original": "%dst NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|2#|%dnd NZ Airborne Division",
+        "original": "%dnd NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|3#|%drd NZ Airborne Division",
+        "original": "%drd NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|4#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|5#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|6#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|7#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|8#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|9#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|10#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|11#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|12#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|13#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|14#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|15#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|16#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|17#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|18#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|19#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|20#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|21#|%dst NZ Airborne Division",
+        "original": "%dst NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|22#|%dnd NZ Airborne Division",
+        "original": "%dnd NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|23#|%drd NZ Airborne Division",
+        "original": "%drd NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|24#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|25#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|26#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|27#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|28#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|29#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|NZL_PAR_01|ordered|30#|%dth NZ Airborne Division",
+        "original": "%dth NZ Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

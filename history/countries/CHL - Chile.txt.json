@@ -1,0 +1,44 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Arturo Alessandri",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1#|create_country_leader|name",
+        "original": "Pedro Aguirre Cerda",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Jorge González von Marées",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Carlos Contreras Labarca",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Escudero Oscar Otárola",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Capitán O`Brien Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant#|name",
+        "original": "Serrano Class",
+        "translation": "",
+        "stage": 0
+    }
+]

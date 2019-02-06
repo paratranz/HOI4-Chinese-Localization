@@ -1,0 +1,498 @@
+BRA_INF_01 = {
+  name = "Infantry Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  fallback_name = "%da Divisão de Infanteria"
+  ordered = {
+    1 = {
+      "%da Divisão de Infanteria"
+    }
+    2 = {
+      "%da Divisão de Infanteria"
+    }
+    3 = {
+      "%da Divisão de Infanteria"
+    }
+    4 = {
+      "%da Divisão de Infanteria"
+    }
+    5 = {
+      "%da Divisão de Infanteria"
+    }
+    6 = {
+      "%da Divisão de Infanteria"
+    }
+    7 = {
+      "%da Divisão de Infanteria"
+    }
+    8 = {
+      "%da Divisão de Infanteria"
+    }
+    9 = {
+      "%da Divisão de Infanteria"
+    }
+    10 = {
+      "%da Divisão de Infanteria"
+    }
+    11 = {
+      "%da Divisão de Infanteria"
+    }
+    12 = {
+      "%da Divisão de Infanteria"
+    }
+    13 = {
+      "%da Divisão de Infanteria"
+    }
+    14 = {
+      "%da Divisão de Infanteria"
+    }
+    15 = {
+      "%da Divisão de Infanteria"
+    }
+    16 = {
+      "%da Divisão de Infanteria"
+    }
+    17 = {
+      "%da Divisão de Infanteria"
+    }
+    18 = {
+      "%da Divisão de Infanteria"
+    }
+    19 = {
+      "%da Divisão de Infanteria"
+    }
+    20 = {
+      "%da Divisão de Infanteria"
+    }
+  }
+}
+BRA_CAV_01 = {
+  name = "Cavalry Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "cavalry"
+  }
+  fallback_name = "%da Divisão de Cavalaria"
+  ordered = {
+    1 = {
+      "%da Divisão de Cavalaria"
+    }
+    2 = {
+      "%da Divisão de Cavalaria"
+    }
+    3 = {
+      "%da Divisão de Cavalaria"
+    }
+    4 = {
+      "%da Divisão de Cavalaria"
+    }
+    5 = {
+      "%da Divisão de Cavalaria"
+    }
+    6 = {
+      "%da Divisão de Cavalaria"
+    }
+    7 = {
+      "%da Divisão de Cavalaria"
+    }
+    8 = {
+      "%da Divisão de Cavalaria"
+    }
+    9 = {
+      "%da Divisão de Cavalaria"
+    }
+    10 = {
+      "%da Divisão de Cavalaria"
+    }
+  }
+}
+BRA_MOT_01 = {
+  name = "Motorized Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "motorized"
+  }
+  link_numbering_with = {
+    BRA_INF_01
+  }
+  fallback_name = "%da Div. de Infantaria Motorizada"
+  ordered = {
+    1 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    2 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    3 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    4 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    5 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    6 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    7 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    8 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    9 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+    10 = {
+      "%da Div. de Infantaria Motorizada"
+    }
+  }
+}
+BRA_MEC_01 = {
+  name = "Mechanized Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mechanized"
+  }
+  link_numbering_with = {
+    BRA_INF_01
+  }
+  fallback_name = "%da Div. de Infantaria Mecânizada"
+  ordered = {
+    1 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    2 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    3 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    4 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    5 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    6 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    7 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    8 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    9 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+    10 = {
+      "%da Div. de Infantaria Mecânizada"
+    }
+  }
+}
+BRA_ARM_01 = {
+  name = "Armored Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "light_armor"
+    "medium_armor"
+    "heavy_armor"
+    "modern_armor"
+  }
+  fallback_name = "%da Divisão de Blindada"
+  ordered = {
+    1 = {
+      "%da Divisão de Blindada"
+    }
+    2 = {
+      "%da Divisão de Blindada"
+    }
+    3 = {
+      "%da Divisão de Blindada"
+    }
+    4 = {
+      "%da Divisão de Blindada"
+    }
+    5 = {
+      "%da Divisão de Blindada"
+    }
+    6 = {
+      "%da Divisão de Blindada"
+    }
+    7 = {
+      "%da Divisão de Blindada"
+    }
+    8 = {
+      "%da Divisão de Blindada"
+    }
+    9 = {
+      "%da Divisão de Blindada"
+    }
+    10 = {
+      "%da Divisão de Blindada"
+    }
+  }
+}
+BRA_PAR_01 = {
+  name = "Parachute Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "paratrooper"
+  }
+  fallback_name = "%da Divisão de Pára-Quedistas"
+  ordered = {
+    1 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    2 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    3 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    4 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    5 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    6 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    7 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    8 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    9 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+    10 = {
+      "%da Divisão de Pára-Quedistas"
+    }
+  }
+}
+BRA_MAR_01 = {
+  name = "Marine Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "marine"
+  }
+  fallback_name = "%da Divisão Marinha"
+  ordered = {
+    1 = {
+      "%da Divisão Marinha"
+    }
+    2 = {
+      "%da Divisão Marinha"
+    }
+    3 = {
+      "%da Divisão Marinha"
+    }
+    4 = {
+      "%da Divisão Marinha"
+    }
+    5 = {
+      "%da Divisão Marinha"
+    }
+    6 = {
+      "%da Divisão Marinha"
+    }
+    7 = {
+      "%da Divisão Marinha"
+    }
+    8 = {
+      "%da Divisão Marinha"
+    }
+    9 = {
+      "%da Divisão Marinha"
+    }
+    10 = {
+      "%da Divisão Marinha"
+    }
+  }
+}
+BRA_MNT_01 = {
+  name = "Mountain Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "mountaineers"
+  }
+  link_numbering_with = {
+    BRA_INF_01
+  }
+  fallback_name = "%da Divisão de Inf. de Montanha"
+  ordered = {
+    1 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    2 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    3 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    4 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    5 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    6 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    7 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    8 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    9 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+    10 = {
+      "%da Divisão de Inf. de Montanha"
+    }
+  }
+}
+BRA_GAR_01 = {
+  name = "Garrison Division"
+  for_countries = {
+    BRA
+    ANG
+    MZB
+  }
+  can_use = {
+    always = yes
+  }
+  division_types = {
+    "infantry"
+  }
+  link_numbering_with = {
+    BRA_INF_01
+  }
+  fallback_name = "%da Divisão de Infanteria"
+  ordered = {
+    1 = {
+      "%da Divisão de Infanteria"
+    }
+    2 = {
+      "%da Divisão de Infanteria"
+    }
+    3 = {
+      "%da Divisão de Infanteria"
+    }
+    4 = {
+      "%da Divisão de Infanteria"
+    }
+    5 = {
+      "%da Divisão de Infanteria"
+    }
+    6 = {
+      "%da Divisão de Infanteria"
+    }
+    7 = {
+      "%da Divisão de Infanteria"
+    }
+    8 = {
+      "%da Divisão de Infanteria"
+    }
+    9 = {
+      "%da Divisão de Infanteria"
+    }
+    10 = {
+      "%da Divisão de Infanteria"
+    }
+    11 = {
+      "%da Divisão de Infanteria"
+    }
+    12 = {
+      "%da Divisão de Infanteria"
+    }
+    13 = {
+      "%da Divisão de Infanteria"
+    }
+    14 = {
+      "%da Divisão de Infanteria"
+    }
+    15 = {
+      "%da Divisão de Infanteria"
+    }
+    16 = {
+      "%da Divisão de Infanteria"
+    }
+    17 = {
+      "%da Divisão de Infanteria"
+    }
+    18 = {
+      "%da Divisão de Infanteria"
+    }
+    19 = {
+      "%da Divisão de Infanteria"
+    }
+    20 = {
+      "%da Divisão de Infanteria"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Kurt Schuschnigg",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Karl Renner",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Arthur Seyss-Inquart",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader###|name",
+        "original": "Alfred Klahr",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Karl Eglseer",
+        "translation": "",
+        "stage": 0
+    }
+]

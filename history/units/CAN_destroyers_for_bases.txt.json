@@ -1,0 +1,32 @@
+[
+    {
+        "key": "units|navy|name",
+        "original": "American Destroyer Flotilla 4",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship#|name",
+        "original": "HMCS Niagra",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship##|name",
+        "original": "HMCS Hamilton",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship###|name",
+        "original": "HMCS Annapolis",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "units|navy|ship####|name",
+        "original": "HMCS Columbia",
+        "translation": "",
+        "stage": 0
+    }
+]

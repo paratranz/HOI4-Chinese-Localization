@@ -1,0 +1,2132 @@
+[
+    {
+        "key": "AST_INF_01|name",
+        "original": "Infantry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_INF_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_INF_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_CAV_01|name",
+        "original": "Cavalry Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_CAV_01|fallback_name",
+        "original": "%d Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|1#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|2#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|3#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|4#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|5#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|6#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|7#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|8#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|9#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|10#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|11#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|12#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|13#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|14#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|15#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|16#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|17#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|18#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|19#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|20#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|21#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|22#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|23#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|24#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|25#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|26#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|27#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|28#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|29#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|30#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|31#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|32#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|33#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|34#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|35#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|36#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|37#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|38#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|39#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|40#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|41#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|42#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|43#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|44#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|45#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|46#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|47#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|48#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|49#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|50#|%dth Cavalry Division",
+        "original": "%dth Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|51#|%dst Cavalry Division",
+        "original": "%dst Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|52#|%dnd Cavalry Division",
+        "original": "%dnd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_CAV_01|ordered|53#|%drd Cavalry Division",
+        "original": "%drd Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MOT_01|name",
+        "original": "Motorised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MOT_01|fallback_name",
+        "original": "%d Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|1#|%dst Motor Division",
+        "original": "%dst Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|2#|%dnd Motor Division",
+        "original": "%dnd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|3#|%drd Motor Division",
+        "original": "%drd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|4#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|5#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|6#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|7#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|8#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|9#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|10#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|11#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|12#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|13#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|14#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|15#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|16#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|17#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|18#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|19#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|20#|%dth Motor Division",
+        "original": "%dth Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|21#|%dst Motor Division",
+        "original": "%dst Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|22#|%dnd Motor Division",
+        "original": "%dnd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MOT_01|ordered|23#|%drd Motor Division",
+        "original": "%drd Motor Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_ARM_01|name",
+        "original": "Armoured Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_ARM_01|fallback_name",
+        "original": "%d Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|1#|%dst Armoured Division",
+        "original": "%dst Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|2#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|3#|%drd Armoured Division",
+        "original": "%drd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|4#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|5#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|6#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|7#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|8#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|9#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|10#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|11#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|12#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|13#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|14#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|15#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|16#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|17#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|18#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|19#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|20#|%dth Armoured Division",
+        "original": "%dth Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|21#|%dst Armoured Division",
+        "original": "%dst Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|22#|%dnd Armoured Division",
+        "original": "%dnd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_ARM_01|ordered|23#|%drd Armoured Division",
+        "original": "%drd Armoured Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MEC_01|name",
+        "original": "Mechanised Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MEC_01|fallback_name",
+        "original": "%d Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|1#|%dst Mechanised Division",
+        "original": "%dst Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|2#|%dnd Mechanised Division",
+        "original": "%dnd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|3#|%drd Mechanised Division",
+        "original": "%drd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|4#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|5#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|6#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|7#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|8#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|9#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|10#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|11#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|12#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|13#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|14#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|15#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|16#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|17#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|18#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|19#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|20#|%dth Mechanised Division",
+        "original": "%dth Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|21#|%dst Mechanised Division",
+        "original": "%dst Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|22#|%dnd Mechanised Division",
+        "original": "%dnd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MEC_01|ordered|23#|%drd Mechanised Division",
+        "original": "%drd Mechanised Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_GAR_01|name",
+        "original": "Garrison Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_GAR_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_GAR_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MAR_01|name",
+        "original": "Marine Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MAR_01|fallback_name",
+        "original": "%d Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|1#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|2#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|3#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|4#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|5#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|6#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|7#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|8#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|9#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|10#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|11#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|12#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|13#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|14#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|15#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|16#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|17#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|18#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|19#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|20#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|21#|%dst Marine Division",
+        "original": "%dst Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|22#|%dnd Marine Division",
+        "original": "%dnd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|23#|%drd Marine Division",
+        "original": "%drd Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|24#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|25#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|26#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|27#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|28#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|29#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MAR_01|ordered|30#|%dth Marine Division",
+        "original": "%dth Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MTN_01|name",
+        "original": "Mountain Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_MTN_01|fallback_name",
+        "original": "%d Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|1#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|2#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|3#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|4#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|5#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|6#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|7#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|8#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|9#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|10#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|11#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|12#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|13#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|14#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|15#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|16#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|17#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|18#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|19#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|20#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|21#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|22#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|23#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|24#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|25#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|26#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|27#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|28#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|29#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|30#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|31#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|32#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|33#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|34#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|35#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|36#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|37#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|38#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|39#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|40#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|41#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|42#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|43#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|44#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|45#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|46#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|47#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|48#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|49#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|50#|%dth Infantry Division",
+        "original": "%dth Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|51#|%dst Infantry Division",
+        "original": "%dst Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|52#|%dnd Infantry Division",
+        "original": "%dnd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_MTN_01|ordered|53#|%drd Infantry Division",
+        "original": "%drd Infantry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_PAR_01|name",
+        "original": "Airborne Divisions",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "AST_PAR_01|fallback_name",
+        "original": "%d Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|1#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|2#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|3#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|4#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|5#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|6#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|7#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|8#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|9#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|10#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|11#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|12#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|13#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|14#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|15#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|16#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|17#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|18#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|19#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|20#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|21#|%dst Airborne Division",
+        "original": "%dst Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|22#|%dnd Airborne Division",
+        "original": "%dnd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|23#|%drd Airborne Division",
+        "original": "%drd Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|24#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|25#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|26#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|27#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|28#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|29#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|AST_PAR_01|ordered|30#|%dth Airborne Division",
+        "original": "%dth Airborne Division",
+        "translation": "",
+        "stage": 0
+    }
+]

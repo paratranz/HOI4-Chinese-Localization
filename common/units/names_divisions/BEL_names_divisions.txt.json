@@ -1,0 +1,848 @@
+[
+    {
+        "key": "BEL_INF_01|name",
+        "original": "Infantry Division",
+        "translation": "步兵师",
+        "stage": 1
+    },
+    {
+        "key": "BEL_INF_01|fallback_name",
+        "original": "%dème Division d'Infanterie",
+        "translation": "第%d步兵师",
+        "stage": 1
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|1#|%dère Division d'Infanterie",
+        "original": "%dère Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|2#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|3#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|4#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|5#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|6#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|7#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|8#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|9#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|10#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|11#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|12#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|13#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|14#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|15#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|16#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|17#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|18#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|19#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|20#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|21#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|22#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|23#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|24#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|25#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|26#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|27#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|28#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|29#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|30#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|31#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|32#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|33#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|34#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|35#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|36#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|37#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|38#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|39#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_INF_01|ordered|40#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_CAV_01|name",
+        "original": "Cavalry Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_CAV_01|fallback_name",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|1#|%dère Division de Cavalerie",
+        "original": "%dère Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|2#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|3#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|4#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|5#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|6#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|7#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|8#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|9#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_CAV_01|ordered|10#|%dème Division de Cavalerie",
+        "original": "%dème Division de Cavalerie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_MOT_01|name",
+        "original": "Motorized Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_MEC_01|name",
+        "original": "Mechanized Cavalry",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_ARM_01|name",
+        "original": "Tank Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_ARM_01|fallback_name",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|1#|%dère Division de Chars",
+        "original": "%dère Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|2#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|3#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|4#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|5#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|6#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|7#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|8#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|9#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_ARM_01|ordered|10#|%dème Division de Chars",
+        "original": "%dème Division de Chars",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_PAR_01|name",
+        "original": "Paratrooper Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_PAR_01|fallback_name",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|1#|%dère Division de Paracommando",
+        "original": "%dère Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|2#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|3#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|4#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|5#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|6#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|7#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|8#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|9#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_PAR_01|ordered|10#|%dème Division de Paracommando",
+        "original": "%dème Division de Paracommando",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_MAR_01|name",
+        "original": "Marine Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_MNT_01|name",
+        "original": "Mountain Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_MNT_01|fallback_name",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|1#|%dère Division d'Infanterie",
+        "original": "%dère Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|2#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|3#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|4#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|5#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|6#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|7#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|8#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|9#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|10#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|11#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|12#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|13#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|14#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|15#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|16#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|17#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|18#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|19#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|20#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|21#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|22#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|23#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|24#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|25#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|26#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|27#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|28#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|29#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|30#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|31#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|32#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|33#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|34#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|35#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_MNT_01|ordered|36#|%dème Division d'Infanterie",
+        "original": "%dème Division d'Infanterie",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_GAR_01|name",
+        "original": "Garrison Division",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "BEL_GAR_01|fallback_name",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|1#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|2#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|3#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|4#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|5#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|6#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|7#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|8#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|9#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|10#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|11#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|12#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|13#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|14#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|15#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|16#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|17#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|18#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|19#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "#LIST#|BEL_GAR_01|ordered|20#|%dème Division Statique",
+        "original": "%dème Division Statique",
+        "translation": "",
+        "stage": 0
+    }
+]

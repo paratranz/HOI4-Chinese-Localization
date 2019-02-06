@@ -1,0 +1,62 @@
+[
+    {
+        "key": "create_country_leader|name",
+        "original": "Mackenzie King",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader#|name",
+        "original": "Adrien Arcand",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_country_leader##|name",
+        "original": "Tim Buck",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander|name",
+        "original": "Thomas Victor Anderson",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_field_marshal|name",
+        "original": "Charles Foulkes",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander#|name",
+        "original": "John Montague",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_corps_commander##|name",
+        "original": "Bert Hoffmeister",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_navy_leader###|name",
+        "original": "Harry DeWolf",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "create_equipment_variant|name",
+        "original": "Sanguenay Class",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "1939.1.1##|create_equipment_variant|name",
+        "original": "Athabaskan Class",
+        "translation": "",
+        "stage": 0
+    }
+]
